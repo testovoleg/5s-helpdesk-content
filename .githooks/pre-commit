@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# Regenerates index.json when materials under tips/ or knowledges/ change.
+set -euo pipefail
+
+ROOT="$(git rev-parse --show-toplevel)"
+cd "$ROOT"
+
+changed="$(git diff --cached --name-only --diff-filter=ACMRD)"
+if ! grep -Eq '^(tips|knowledges)/|^\.scripts/generate-index\.py$' <<<"$changed"; then
+  exit 0
+fi
+
+if ! command -v python3 >/dev/null 2>&1; then
+  echo "pre-commit: python3 not found; skip index.json update" >&2
+  exit 0
+fi
+
+python3 .scripts/generate-index.py
+git add index.json
