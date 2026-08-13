@@ -31,3 +31,5 @@
 
 - Статья [Настройка скидок](https://www.5systems.ru/help/nastroyka-skidok)
 - Урок [Как создать скидку на строку](https://www.5systems.ru/help/kak-sozdat-skidku-na-stroku)
+
+**Теги:** скидки, скидка на строку, тип номенклатуры, установка скидок, заказ-наряд, подразделение

@@ -22,3 +22,5 @@
 Полное название службы на скриншоте:
 
 ![Название службы Dual Connector Service](attachments/image-2.png)
+
+**Теги:** эквайринг, терминал, ошибка 9, COM-порт, Dual Connector Service, VSPE, службы Windows, RS232
