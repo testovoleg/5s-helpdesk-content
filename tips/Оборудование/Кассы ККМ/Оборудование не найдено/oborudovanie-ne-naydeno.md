@@ -24,4 +24,6 @@
 
 Более подробное описание доступно по ссылке: https://rarus.ru/press/publications/20190730-metodika-raboty-KKT-v-alfa-avto-avtosalon-avtoservis-avtozapchasti-prof-393386/
 
+---
+
 **Теги:** касса, ККМ, оборудование не найдено, рабочее место пользователя, компонента оборудования, локальный каталог, настройка ККТ
