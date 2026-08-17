@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # Ошибки включения кассы
 
 **Источник:** https://www.5systems.ru/help/deystviya-v-sluchae-esli-kassa-ne-rabotaet
@@ -142,3 +144,5 @@
 ---
 
 **Теги:** касса, ККМ, нет связи, фискальный регистратор, оборудование не найдено, VSPE, VPN, сетевая касса, включение кассы
+
+<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>
