@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # Как обратиться в техническую поддержку
 
 **Источник:** https://www.5systems.ru/help (раздел «Вопрос-ответ»)
@@ -78,3 +80,5 @@
 ---
 
 **Теги:** техподдержка, обращение, портал, e-mail, Telegram, Max, заявка, рекомендации по запросу
+
+<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

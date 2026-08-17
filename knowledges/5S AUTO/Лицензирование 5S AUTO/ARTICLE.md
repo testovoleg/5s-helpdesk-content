@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # Лицензирование 5S AUTO
 
 **Источник:** https://www.5systems.ru/help/sistema-licenzirovaniya-5s-auto
@@ -155,3 +157,5 @@
 ---
 
 **Теги:** лицензирование, лицензии, СЛК, 1С-Рарус, платформа 1С:Предприятие, ключ защиты, количество лицензий
+
+<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>
