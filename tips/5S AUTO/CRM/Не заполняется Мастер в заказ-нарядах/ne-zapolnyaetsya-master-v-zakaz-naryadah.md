@@ -30,7 +30,7 @@
 
 - «[Пользователи](https://www.5systems.ru/help/polzovateli#svedadr)» — карточка пользователя и вкладка «Сведения адресации».
 - «[Адресация задач в CRM по исполнителям](https://www.5systems.ru/help/adresaciya-zadach-v-crm-po-ispolnitelyam)» — роли в регистре, за какие задачи они отвечают, и видеоинструкция.
-- «[Заказ-наряды](https://www.5systems.ru/help/zakaz-naryady#dannye_o_rem)» — данные о ремонте в документе, в том числе реквизит «Мастер».
+- «[Заказ-наряды](https://www.5systems.ru/help/zakaz-naryady#dannye_o_rem)» — описание реквизита «Мастер» в Заказ-наряде.
 
 ---
 
