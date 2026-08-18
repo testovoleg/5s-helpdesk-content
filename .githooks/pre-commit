@@ -5,6 +5,15 @@ set -euo pipefail
 ROOT="$(git rev-parse --show-toplevel)"
 cd "$ROOT"
 
+# Во время слияния index.json не перегенерируем. Материалы правятся в рабочей
+# ветке, оттуда же приходит и готовый index.json — а повторная генерация в
+# коммите слияния переписывала бы generated_at на новое время. Тогда при
+# следующем слиянии обе стороны оказываются изменёнными относительно базы,
+# и git выдаёт конфликт по этой строке на каждом merge.
+if [ -e "$(git rev-parse --git-dir)/MERGE_HEAD" ]; then
+  exit 0
+fi
+
 # core.quotepath=false: иначе git экранирует кириллицу в путях и берёт их в
 # кавычки, из-за чего привязанный к началу строки шаблон ниже не совпадает
 changed="$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMRD)"
