@@ -2,8 +2,11 @@
 
 # Установка Единого Сервисного Модуля (ЕСМ)
 
-**Актуально начиная с релиза 2.8.3.58**  
-**Источник:** https://www.5systems.ru/help/podklyuchenie-ts-piot
+<table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 17.08.2026</td></tr></table>
+
+<sub>Источник: https://www.5systems.ru/help/podklyuchenie-ts-piot</sub>
+
+**Актуально начиная с релиза 2.8.3.58**
 
 ## Содержание
 

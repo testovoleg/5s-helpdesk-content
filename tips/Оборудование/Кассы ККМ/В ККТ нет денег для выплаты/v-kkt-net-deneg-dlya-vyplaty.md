@@ -1,6 +1,8 @@
 # В ККТ нет денег для выплаты
 
-**Источник:** https://www.5systems.ru/help/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy
+**Обновлено:** 24.08.2026
+
+<sub>Источник: https://www.5systems.ru/help/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy</sub>
 
 ## Проблема
 

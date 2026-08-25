@@ -1,6 +1,8 @@
 # Работа с оборудованием запрещена
 
-**Источник:** https://www.5systems.ru/help/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy
+**Обновлено:** 24.08.2026
+
+<sub>Источник: https://www.5systems.ru/help/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy</sub>
 
 ## Проблема
 
