@@ -180,6 +180,13 @@ RE_UPDATED = re.compile(r"(?m)^\*\*Обновлено:\*\*\s*(\d{2})\.(\d{2})\.(
 RE_ONELINE = re.compile(
     r"(?m)^\*(?:(\d+) мин\. · )?Обновлено (\d{2})\.(\d{2})\.(\d{4})\*"
 )
+# ...и он же таблицей: время чтения и дата в двух колонках
+RE_TABLE = re.compile(
+    r"(?m)^<table><tr>"
+    r"(?:<td><b>Время чтения:</b> (\d+) мин\.</td>)?"
+    r"<td><b>Обновлено:</b> (\d{2})\.(\d{2})\.(\d{4})</td>"
+    r"</tr></table>"
+)
 
 
 def extract_meta(md_path: Path) -> dict:
@@ -192,7 +199,7 @@ def extract_meta(md_path: Path) -> dict:
 
     meta: dict = {}
 
-    one = RE_ONELINE.search(text)
+    one = RE_ONELINE.search(text) or RE_TABLE.search(text)
     if one:
         mins, d, mo, y = one.groups()
         meta["updated_at"] = f"{y}-{mo}-{d}"

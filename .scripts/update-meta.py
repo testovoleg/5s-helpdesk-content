@@ -33,6 +33,13 @@ RE_UPDATED = re.compile(r"(?m)^\*\*Обновлено:\*\* .*(?:\r?\n)?")
 RE_ONELINE = re.compile(
     r"(?m)^\*(?:(\d+) мин\. · )?Обновлено (\d{2}\.\d{2}\.\d{4})\*.*(?:\r?\n)?"
 )
+# ...и он же таблицей в одну строку, время чтения и дата — в двух колонках
+RE_TABLE = re.compile(
+    r"(?m)^<table><tr>"
+    r"(?:<td><b>Время чтения:</b> (\d+) мин\.</td>)?"
+    r"<td><b>Обновлено:</b> (\d{2}\.\d{2}\.\d{4})</td>"
+    r"</tr></table>[ \t]*(?:\r?\n)?"
+)
 # Строку источника забираем вместе с хвостовыми пробелами предыдущей строки:
 # иначе там остается висячий перенос там, где ее приклеили к абзацу
 RE_SOURCE = re.compile(r"(?m)[ \t]*\r?\n?^<sub>Источник: .*?</sub>[ \t]*")
@@ -57,7 +64,7 @@ def body(text: str) -> str:
     Переводы строк приводим к одному виду: в рабочей копии они CRLF, а git
     отдает LF, и без этого любой файл выглядел бы измененным."""
     text = text.replace("\r\n", "\n").replace("\r", "\n")
-    for rx in (RE_ONELINE, RE_UPDATED, RE_READING, RE_SOURCE):
+    for rx in (RE_TABLE, RE_ONELINE, RE_UPDATED, RE_READING, RE_SOURCE):
         text = rx.sub("", text)
     return text.strip()
 
@@ -90,23 +97,27 @@ def estimate_minutes(text: str) -> int:
 
 
 def current_updated(text: str) -> str | None:
-    m = RE_ONELINE.search(text)
-    if m:
-        return m.group(2)
+    for rx in (RE_ONELINE, RE_TABLE):
+        m = rx.search(text)
+        if m:
+            return m.group(2)
     m = RE_UPDATED.search(text)
     return m.group(0).strip().split("**Обновлено:**")[-1].strip() if m else None
 
 
 def current_reading(text: str) -> str | None:
-    m = RE_ONELINE.search(text)
-    if m and m.group(1):
-        return f"{m.group(1)} мин."
+    for rx in (RE_ONELINE, RE_TABLE):
+        m = rx.search(text)
+        if m and m.group(1):
+            return f"{m.group(1)} мин."
     m = RE_READING.search(text)
     return m.group(0).strip().split("**Время чтения:**")[-1].strip() if m else None
 
 
 def layout_of(text: str) -> str:
     """Какое оформление у статьи сейчас — его и сохраняем."""
+    if RE_TABLE.search(text):
+        return "table"
     return "one" if RE_ONELINE.search(text) else "two"
 
 
@@ -114,6 +125,12 @@ def build_block(reading: str | None, updated: str, layout: str) -> str:
     if layout == "one":
         head = f"{reading} · " if reading else ""
         return f"*{head}Обновлено {updated}*"
+    if layout == "table":
+        cells = ""
+        if reading:
+            cells += f"<td><b>Время чтения:</b> {reading}</td>"
+        cells += f"<td><b>Обновлено:</b> {updated}</td>"
+        return f"<table><tr>{cells}</tr></table>"
     lines = []
     if reading:
         # два пробела на конце — иначе markdown склеит строки в одну
@@ -153,7 +170,7 @@ def apply(
 
     # Вырезаем старые строки и вставляем блок сразу после заголовка
     stripped = text
-    for rx in (RE_SOURCE, RE_ONELINE, RE_UPDATED, RE_READING):
+    for rx in (RE_SOURCE, RE_TABLE, RE_ONELINE, RE_UPDATED, RE_READING):
         stripped = rx.sub("", stripped)
     # После вырезания строк остаются лишние пустые строки — схлопываем,
     # иначе абзацы разъезжаются при каждом прогоне
