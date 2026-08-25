@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T15:15:02+03:00",
-  "count": 62,
+  "generated_at": "2026-08-25T15:38:32+03:00",
+  "count": 63,
   "sections": {
     "tips": [
       {
@@ -226,22 +226,10 @@
   },
   "materials": [
     {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Лицензирование 5S AUTO",
-      "title": "Лицензирование 5S AUTO",
+      "path": "articles/5S AUTO/CRM/Канбан сделок",
+      "title": "Канбан сделок",
       "type": "articles",
-      "updated_at": "2026-08-25T15:14:56+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
-      "title": "Удаление старых данных программы",
-      "type": "articles",
-      "updated_at": "2026-08-25T15:14:56+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
-      "title": "Интеграция с Audatex (AudaPad Web)",
-      "type": "articles",
-      "updated_at": "2026-08-25T15:14:56+03:00"
+      "updated_at": "2026-08-25T15:38:21+03:00"
     },
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
@@ -566,6 +554,24 @@
       "title": "Расхождение сумм",
       "type": "tips",
       "updated_at": "2026-08-24T11:35:37+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
+      "title": "Интеграция с Audatex (AudaPad Web)",
+      "type": "articles",
+      "updated_at": "2026-08-21T10:57:43+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Лицензирование 5S AUTO",
+      "title": "Лицензирование 5S AUTO",
+      "type": "articles",
+      "updated_at": "2026-08-17T12:46:49+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
+      "title": "Удаление старых данных программы",
+      "type": "articles",
+      "updated_at": "2026-08-17T12:46:49+03:00"
     },
     {
       "path": "articles/5S AUTO/Маркировка/Вывод кодов маркировки из оборота",
