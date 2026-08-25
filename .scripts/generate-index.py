@@ -174,18 +174,21 @@ def collect_sections(dir_path: Path) -> list[dict]:
     return sections
 
 
+# "Создано" — материал с момента создания не правили, "Обновлено" — правили
+LABELS = "(?:Создано|Обновлено)"
+
 RE_READING = re.compile(r"(?m)^\*\*Время чтения:\*\*\s*(\d+)")
-RE_UPDATED = re.compile(r"(?m)^\*\*Обновлено:\*\*\s*(\d{2})\.(\d{2})\.(\d{4})")
+RE_UPDATED = re.compile(rf"(?m)^\*\*({LABELS}):\*\*\s*(\d{{2}})\.(\d{{2}})\.(\d{{4}})")
 # Тот же блок в одну строку: *11 мин. · Обновлено 25.08.2026*
 RE_ONELINE = re.compile(
-    r"(?m)^\*(?:(\d+) мин\. · )?Обновлено (\d{2})\.(\d{2})\.(\d{4})\*"
+    rf"(?m)^\*(?:(\d+) мин\. · )?({LABELS}) (\d{{2}})\.(\d{{2}})\.(\d{{4}})\*"
 )
 # ...и он же таблицей: время чтения и дата в двух колонках
 RE_TABLE = re.compile(
-    r"(?m)^<table><tr>"
-    r"(?:<td><b>Время чтения:</b> (\d+) мин\.</td>)?"
-    r"<td><b>Обновлено:</b> (\d{2})\.(\d{2})\.(\d{4})</td>"
-    r"</tr></table>"
+    rf"(?m)^<table><tr>"
+    rf"(?:<td><b>Время чтения:</b> (\d+) мин\.</td>)?"
+    rf"<td><b>({LABELS}):</b> (\d{{2}})\.(\d{{2}})\.(\d{{4}})</td>"
+    rf"</tr></table>"
 )
 
 
@@ -201,16 +204,18 @@ def extract_meta(md_path: Path) -> dict:
 
     one = RE_ONELINE.search(text) or RE_TABLE.search(text)
     if one:
-        mins, d, mo, y = one.groups()
+        mins, label, d, mo, y = one.groups()
         meta["updated_at"] = f"{y}-{mo}-{d}"
+        meta["date_kind"] = "created" if label == "Создано" else "updated"
         if mins:
             meta["reading_time"] = int(mins)
         return meta
 
     m = RE_UPDATED.search(text)
     if m:
-        d, mo, y = m.groups()
+        label, d, mo, y = m.groups()
         meta["updated_at"] = f"{y}-{mo}-{d}"
+        meta["date_kind"] = "created" if label == "Создано" else "updated"
     m = RE_READING.search(text)
     if m:
         meta["reading_time"] = int(m.group(1))
@@ -258,6 +263,8 @@ def collect_materials() -> list[dict]:
                 "title": title,
                 "type": root,
                 "updated_at": updated_at,
+                # created — материал с момента создания не правили
+                "date_kind": meta.get("date_kind", "updated"),
             }
             if meta.get("reading_time"):
                 material["reading_time"] = meta["reading_time"]

@@ -27,23 +27,31 @@ ROOT = Path(__file__).resolve().parents[1]
 READING_TIME_ROOTS = ("articles",)
 CONTENT_ROOTS = ("tips", "articles", "lessons")
 
+# Подпись у даты: "Создано", если материал с тех пор не правили, иначе
+# "Обновлено". Читателю важно понимать, на какое число статья актуальна
+LABEL_NEW = "Создано"
+LABEL_OLD = "Обновлено"
+LABELS = f"(?:{LABEL_NEW}|{LABEL_OLD})"
+
 RE_READING = re.compile(r"(?m)^\*\*Время чтения:\*\* .*(?:\r?\n)?")
-RE_UPDATED = re.compile(r"(?m)^\*\*Обновлено:\*\* .*(?:\r?\n)?")
+RE_UPDATED = re.compile(rf"(?m)^\*\*{LABELS}:\*\* .*(?:\r?\n)?")
 # Тот же блок, свернутый в одну строку: *11 мин. · Обновлено 25.08.2026*
 RE_ONELINE = re.compile(
-    r"(?m)^\*(?:(\d+) мин\. · )?Обновлено (\d{2}\.\d{2}\.\d{4})\*.*(?:\r?\n)?"
+    rf"(?m)^\*(?:(\d+) мин\. · )?({LABELS}) (\d{{2}}\.\d{{2}}\.\d{{4}})\*.*(?:\r?\n)?"
 )
 # ...и он же таблицей в одну строку, время чтения и дата — в двух колонках
 RE_TABLE = re.compile(
-    r"(?m)^<table><tr>"
-    r"(?:<td><b>Время чтения:</b> (\d+) мин\.</td>)?"
-    r"<td><b>Обновлено:</b> (\d{2}\.\d{2}\.\d{4})</td>"
-    r"</tr></table>[ \t]*(?:\r?\n)?"
+    rf"(?m)^<table><tr>"
+    rf"(?:<td><b>Время чтения:</b> (\d+) мин\.</td>)?"
+    rf"<td><b>({LABELS}):</b> (\d{{2}}\.\d{{2}}\.\d{{4}})</td>"
+    rf"</tr></table>[ \t]*(?:\r?\n)?"
 )
 # Строку источника забираем вместе с хвостовыми пробелами предыдущей строки:
 # иначе там остается висячий перенос там, где ее приклеили к абзацу
 RE_SOURCE = re.compile(r"(?m)[ \t]*\r?\n?^<sub>Источник: .*?</sub>[ \t]*")
 RE_SOURCE_FIND = re.compile(r"(?m)^<sub>Источник: .*?</sub>")
+# Как строка источника выглядела раньше — нужна только при сравнении версий
+RE_SOURCE_OLD = re.compile(r"(?m)^\*\*Источник:\*\* .*(?:\r?\n)?")
 RE_H1 = re.compile(r"(?m)^# .+$")
 
 
@@ -64,9 +72,19 @@ def body(text: str) -> str:
     Переводы строк приводим к одному виду: в рабочей копии они CRLF, а git
     отдает LF, и без этого любой файл выглядел бы измененным."""
     text = text.replace("\r\n", "\n").replace("\r", "\n")
-    for rx in (RE_TABLE, RE_ONELINE, RE_UPDATED, RE_READING, RE_SOURCE):
+    for rx in (
+        RE_TABLE,
+        RE_ONELINE,
+        RE_UPDATED,
+        RE_READING,
+        RE_SOURCE,
+        RE_SOURCE_OLD,
+    ):
         text = rx.sub("", text)
-    return text.strip()
+    # Пустые строки и хвостовые пробелы к общему виду: их двигало
+    # переоформление шапки, а текст статьи при этом не менялся
+    text = "\n".join(ln.rstrip() for ln in text.split("\n"))
+    return re.sub(r"\n{3,}", "\n\n", text).strip()
 
 
 def head_version(rel: str) -> str | None:
@@ -74,15 +92,42 @@ def head_version(rel: str) -> str | None:
     return out or None
 
 
+def content_history(rel: str) -> list[date]:
+    """Даты коммитов, в которых реально менялся текст материала.
+
+    Служебные строки и строку источника не считаем: их правили разом во всех
+    статьях, и без такой фильтрации любой материал выглядел бы обновленным.
+    Путь берем на момент каждого коммита — до переименования он был другим."""
+    out = run_git(
+        "log", "--follow", "--diff-filter=AM", "--format=%x00%H %cI", "--name-only",
+        "--", rel,
+    )
+    commits: list[tuple[str, str, str]] = []
+    for chunk in out.split("\x00"):
+        lines = [ln for ln in chunk.splitlines() if ln.strip()]
+        if len(lines) < 2:
+            continue
+        sha, iso = lines[0].split(" ", 1)
+        commits.append((sha, iso, lines[1]))
+
+    dates: list[date] = []
+    prev: str | None = None
+    for sha, iso, path in reversed(commits):  # от старых к новым
+        blob = run_git("show", f"{sha}:{path}")
+        current = body(blob)
+        if current != prev:
+            try:
+                dates.append(datetime.fromisoformat(iso).date())
+            except ValueError:
+                pass
+            prev = current
+    return dates
+
+
 def git_content_date(rel: str) -> date | None:
-    """Дата последней правки содержимого — без коммитов переименования."""
-    out = run_git("log", "--follow", "--diff-filter=AM", "-1", "--format=%cI", "--", rel)
-    if not out:
-        return None
-    try:
-        return datetime.fromisoformat(out).date()
-    except ValueError:
-        return None
+    """Дата последней правки содержимого."""
+    dates = content_history(rel)
+    return dates[-1] if dates else None
 
 
 def estimate_minutes(text: str) -> int:
@@ -96,13 +141,16 @@ def estimate_minutes(text: str) -> int:
     return max(1, math.ceil(words / 150 + images * 10 / 60))
 
 
-def current_updated(text: str) -> str | None:
+RE_TWOLINE = re.compile(rf"(?m)^\*\*({LABELS}):\*\* (\d{{2}}\.\d{{2}}\.\d{{4}})")
+
+
+def current_date_and_label(text: str) -> tuple[str | None, str | None]:
     for rx in (RE_ONELINE, RE_TABLE):
         m = rx.search(text)
         if m:
-            return m.group(2)
-    m = RE_UPDATED.search(text)
-    return m.group(0).strip().split("**Обновлено:**")[-1].strip() if m else None
+            return m.group(3), m.group(2)
+    m = RE_TWOLINE.search(text)
+    return (m.group(2), m.group(1)) if m else (None, None)
 
 
 def current_reading(text: str) -> str | None:
@@ -128,21 +176,21 @@ def layout_of(text: str, rel: str) -> str:
     return "table"
 
 
-def build_block(reading: str | None, updated: str, layout: str) -> str:
+def build_block(reading: str | None, updated: str, label: str, layout: str) -> str:
     if layout == "one":
         head = f"{reading} · " if reading else ""
-        return f"*{head}Обновлено {updated}*"
+        return f"*{head}{label} {updated}*"
     if layout == "table":
         cells = ""
         if reading:
             cells += f"<td><b>Время чтения:</b> {reading}</td>"
-        cells += f"<td><b>Обновлено:</b> {updated}</td>"
+        cells += f"<td><b>{label}:</b> {updated}</td>"
         return f"<table><tr>{cells}</tr></table>"
     lines = []
     if reading:
         # два пробела на конце — иначе markdown склеит строки в одну
         lines.append(f"**Время чтения:** {reading}  ")
-    lines.append(f"**Обновлено:** {updated}")
+    lines.append(f"**{label}:** {updated}")
     return "\n".join(lines)
 
 
@@ -155,14 +203,20 @@ def apply(
     old = head_version(rel)
     changed = old is None or body(old) != body(text)
 
-    updated = current_updated(text)
+    updated, label = current_date_and_label(text)
     if from_git:
-        updated = (git_content_date(rel) or today).strftime("%d.%m.%Y")
+        history = content_history(rel)
+        updated = (history[-1] if history else today).strftime("%d.%m.%Y")
+        label = LABEL_OLD if len(history) > 1 else LABEL_NEW
     elif changed and not (keep_dates and updated):
         updated = today.strftime("%d.%m.%Y")
+        # текст поправили — значит материал уже не просто создан
+        label = LABEL_OLD if old is not None else LABEL_NEW
     elif not updated:
-        d = git_content_date(rel) or today
-        updated = d.strftime("%d.%m.%Y")
+        history = content_history(rel)
+        updated = (history[-1] if history else today).strftime("%d.%m.%Y")
+        label = LABEL_OLD if len(history) > 1 else LABEL_NEW
+    label = label or LABEL_NEW
 
     reading = None
     if rel.startswith(READING_TIME_ROOTS):
@@ -187,7 +241,7 @@ def apply(
     if not h1:
         return None
 
-    block = build_block(reading, updated, layout)
+    block = build_block(reading, updated, label, layout)
     if source:
         block = f"{block}\n\n{source}"
     head = stripped[: h1.end()].rstrip()
@@ -196,7 +250,7 @@ def apply(
 
     if new != text:
         path.write_text(new, encoding="utf-8", newline="")
-        return f"{updated}  {rel}"
+        return f"{label} {updated}  {rel}"
     return None
 
 
