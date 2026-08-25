@@ -47,6 +47,22 @@ def is_dirty(path: str) -> bool:
         return False
 
 
+def git_added_date(rel_file: str) -> str | None:
+    """Когда материал появился в репозитории.
+
+    Берем самый первый коммит, где файл был добавлен; --follow не дает дате
+    сброситься при переименовании папки. По ней сортируем индекс: дата в самой
+    статье может быть сайтовой и уводить свежий перенос в конец списка."""
+    try:
+        out = run_git(
+            "log", "--follow", "--diff-filter=A", "--format=%cI", "--", rel_file
+        )
+    except subprocess.CalledProcessError:
+        return None
+    lines = [ln for ln in out.splitlines() if ln.strip()]
+    return lines[-1] if lines else None
+
+
 def git_last_commit_date(path: str) -> str | None:
     """Дата последней правки содержимого материала.
 
@@ -262,19 +278,24 @@ def collect_materials() -> list[dict]:
                 "path": rel,
                 "title": title,
                 "type": root,
+                # Дата из самой статьи — ее и показываем. У перенесенных
+                # со старой базы она сайтовая, пока мы текст не правили
                 "updated_at": updated_at,
                 # created — материал с момента создания не правили
                 "date_kind": meta.get("date_kind", "updated"),
+                # Когда материал появился у нас — по ней порядок в индексе
+                "added_at": git_added_date(md_path.relative_to(ROOT).as_posix())
+                or updated_at,
             }
             if meta.get("reading_time"):
                 material["reading_time"] = meta["reading_time"]
             materials.append(material)
 
-    # Сначала по пути, затем — устойчивой сортировкой — по дате изменения
-    # (свежие вверху). Материалы с одинаковой датой остаются упорядоченными
-    # по пути, поэтому порядок не «прыгает» между генерациями.
+    # Сначала по пути, затем — устойчивой сортировкой — по дате появления
+    # в репозитории (свежие вверху). Материалы с одинаковой датой остаются
+    # упорядоченными по пути, поэтому порядок не «прыгает» между генерациями.
     materials.sort(key=lambda m: m["path"])
-    materials.sort(key=lambda m: sort_ts(m["updated_at"]), reverse=True)
+    materials.sort(key=lambda m: sort_ts(m["added_at"]), reverse=True)
     return materials
 
 
