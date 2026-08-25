@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-25T14:46:10+03:00",
+  "generated_at": "2026-08-25T14:53:05+03:00",
   "count": 62,
+  "sections": {
+    "tips": [
+      "5S AUTO",
+      "Оборудование",
+      "Техподдержка"
+    ],
+    "articles": [
+      "5S AUTO",
+      "5S LINK",
+      "5S Chat",
+      "5S Cloud",
+      "5S TSD",
+      "5S Pay",
+      "5S Remzona",
+      "5S AI Agent"
+    ],
+    "lessons": []
+  },
   "materials": [
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
