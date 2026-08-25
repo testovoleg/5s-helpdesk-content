@@ -2,7 +2,10 @@
 
 # Лицензирование 5S AUTO
 
-**Источник:** https://www.5systems.ru/help/sistema-licenzirovaniya-5s-auto
+**Время чтения:** 9 мин.  
+**Обновлено:** 17.08.2026
+
+<sub>Источник: https://www.5systems.ru/help/sistema-licenzirovaniya-5s-auto</sub>
 
 ## Оглавление
 

@@ -2,7 +2,9 @@
 
 # Ошибки включения кассы
 
-**Источник:** https://www.5systems.ru/help/deystviya-v-sluchae-esli-kassa-ne-rabotaet
+**Обновлено:** 24.08.2026
+
+<sub>Источник: https://www.5systems.ru/help/deystviya-v-sluchae-esli-kassa-ne-rabotaet</sub>
 
 ## Содержание
 

@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Regenerates index.json when materials under tips/, articles/ or lessons/ change.
+# Обновляет строки "Обновлено" в статьях и пересобирает index.json,
+# когда меняются материалы в tips/, articles/ или lessons/.
 set -euo pipefail
 
 ROOT="$(git rev-parse --show-toplevel)"
@@ -25,6 +26,12 @@ if ! command -v python3 >/dev/null 2>&1; then
   echo "pre-commit: python3 not found; skip index.json update" >&2
   exit 0
 fi
+
+# Сначала строки "Обновлено" в статьях, потом индекс: он читает дату оттуда
+python3 .scripts/update-meta.py >/dev/null
+git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMR \
+  | grep -E '^(tips|articles|lessons)/.*\.md$' \
+  | tr '\n' '\0' | xargs -0 -r git add --
 
 python3 .scripts/generate-index.py
 git add index.json

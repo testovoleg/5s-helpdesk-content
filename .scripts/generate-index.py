@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import subprocess
 import sys
 from datetime import datetime, timezone
@@ -170,6 +171,29 @@ def collect_sections(dir_path: Path) -> list[dict]:
     return sections
 
 
+RE_READING = re.compile(r"(?m)^\*\*Время чтения:\*\*\s*(\d+)")
+RE_UPDATED = re.compile(r"(?m)^\*\*Обновлено:\*\*\s*(\d{2})\.(\d{2})\.(\d{4})")
+
+
+def extract_meta(md_path: Path) -> dict:
+    """Служебные строки под заголовком: время чтения и дата обновления.
+    Их ведет .scripts/update-meta.py."""
+    try:
+        text = md_path.read_text(encoding="utf-8")
+    except OSError:
+        return {}
+
+    meta: dict = {}
+    m = RE_UPDATED.search(text)
+    if m:
+        d, mo, y = m.groups()
+        meta["updated_at"] = f"{y}-{mo}-{d}"
+    m = RE_READING.search(text)
+    if m:
+        meta["reading_time"] = int(m.group(1))
+    return meta
+
+
 def collect_materials() -> list[dict]:
     materials: list[dict] = []
 
@@ -192,21 +216,29 @@ def collect_materials() -> list[dict]:
                 continue
 
             main_file = pick_main_file(article_mds)
-            title = extract_title(p / main_file, p.name)
+            md_path = p / main_file
+            title = extract_title(md_path, p.name)
+            meta = extract_meta(md_path)
 
-            if is_dirty(rel):
-                updated_at = now_iso()
-            else:
-                updated_at = git_last_commit_date(rel) or fs_mtime_iso(p)
+            # Дату берем из строки "**Обновлено:**" в самой статье: ее ведет
+            # .scripts/update-meta.py и не поднимает на служебных правках,
+            # тогда как git любую правку файла считает изменением
+            updated_at = meta.get("updated_at")
+            if not updated_at:
+                if is_dirty(rel):
+                    updated_at = now_iso()
+                else:
+                    updated_at = git_last_commit_date(rel) or fs_mtime_iso(p)
 
-            materials.append(
-                {
-                    "path": rel,
-                    "title": title,
-                    "type": root,
-                    "updated_at": updated_at,
-                }
-            )
+            material = {
+                "path": rel,
+                "title": title,
+                "type": root,
+                "updated_at": updated_at,
+            }
+            if meta.get("reading_time"):
+                material["reading_time"] = meta["reading_time"]
+            materials.append(material)
 
     # Сначала по пути, затем — устойчивой сортировкой — по дате изменения
     # (свежие вверху). Материалы с одинаковой датой остаются упорядоченными

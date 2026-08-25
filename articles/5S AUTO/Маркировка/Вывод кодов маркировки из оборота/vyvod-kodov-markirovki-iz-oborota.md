@@ -2,8 +2,11 @@
 
 # Вывод кодов маркировки из оборота
 
+**Время чтения:** 20 мин.  
+**Обновлено:** 17.08.2026
+
 **Актуально начиная с релиза 2.8.3.42**  
-**Источник:** https://www.5systems.ru/help/vyvod-kodov-markirovki-iz-oborota
+<sub>Источник: https://www.5systems.ru/help/vyvod-kodov-markirovki-iz-oborota</sub>
 
 ## Содержание
 

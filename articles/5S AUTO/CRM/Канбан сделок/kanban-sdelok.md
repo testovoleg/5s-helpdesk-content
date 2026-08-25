@@ -2,7 +2,10 @@
 
 # Канбан сделок
 
-**Источник:** https://www.5systems.ru/help/kanban-sdelok
+**Время чтения:** 11 мин.  
+**Обновлено:** 25.08.2026
+
+<sub>Источник: https://www.5systems.ru/help/kanban-sdelok</sub>
 
 **Актуально для релиза 5S AUTO 2.6.1.1**
 

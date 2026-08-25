@@ -2,7 +2,10 @@
 
 # Отчет “Обращения клиентов в автосервис”
 
-**Источник:** https://www.5systems.ru/help/otchet-obrascheniya-klientov-v-avtoservis
+**Время чтения:** 9 мин.  
+**Обновлено:** 17.08.2026
+
+<sub>Источник: https://www.5systems.ru/help/otchet-obrascheniya-klientov-v-avtoservis</sub>
 
 ## Содержание
 
