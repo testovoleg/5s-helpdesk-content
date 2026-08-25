@@ -116,6 +116,32 @@ def extract_title(md_path: Path, fallback: str) -> str:
     return fallback
 
 
+def collect_sections(root: str) -> list[str]:
+    """Разделы верхнего уровня в порядке из файла .order.
+
+    Порядок задается вручную, потому что он смысловой (сначала основной
+    продукт, дальше остальные), а не алфавитный. Разделы, которых нет
+    в .order, дописываются в конец по алфавиту — чтобы новая папка
+    попала в индекс, даже если про список забыли."""
+    root_path = ROOT / root
+    if not root_path.exists():
+        return []
+
+    present = sorted(d.name for d in root_path.iterdir() if d.is_dir())
+
+    wanted: list[str] = []
+    order_file = root_path / ".order"
+    if order_file.exists():
+        for line in order_file.read_text(encoding="utf-8").splitlines():
+            name = line.strip()
+            if name and not name.startswith("#"):
+                wanted.append(name)
+
+    ordered = [name for name in wanted if name in present]
+    ordered += [name for name in present if name not in wanted]
+    return ordered
+
+
 def collect_materials() -> list[dict]:
     materials: list[dict] = []
 
@@ -167,6 +193,7 @@ def main() -> int:
     index = {
         "generated_at": now_iso(),
         "count": len(materials),
+        "sections": {root: collect_sections(root) for root in CONTENT_ROOTS},
         "materials": materials,
     }
     INDEX_PATH.write_text(

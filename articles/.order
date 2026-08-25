@@ -1,0 +1,12 @@
+# Порядок разделов в articles/. По одному названию в строке.
+# Отсюда его берет .scripts/generate-index.py и пишет в index.json ("sections").
+# Разделы, которых нет в списке, попадают в конец по алфавиту.
+
+5S AUTO
+5S LINK
+5S Chat
+5S Cloud
+5S TSD
+5S Pay
+5S Remzona
+5S AI Agent
