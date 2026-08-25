@@ -57,6 +57,17 @@ def now_iso() -> str:
     return datetime.now().astimezone().isoformat(timespec="seconds")
 
 
+def sort_ts(value: str | None) -> datetime:
+    """Дата для сортировки. Разбираем строку, а не сравниваем её посимвольно:
+    иначе даты с разными часовыми поясами встанут не в том порядке."""
+    if not value:
+        return datetime.min.replace(tzinfo=timezone.utc)
+    try:
+        return datetime.fromisoformat(value)
+    except ValueError:
+        return datetime.min.replace(tzinfo=timezone.utc)
+
+
 def pick_main_file(article_mds: list[str]) -> str:
     if "ARTICLE.md" in article_mds:
         return "ARTICLE.md"
@@ -112,7 +123,11 @@ def collect_materials() -> list[dict]:
                 }
             )
 
+    # Сначала по пути, затем — устойчивой сортировкой — по дате изменения
+    # (свежие вверху). Материалы с одинаковой датой остаются упорядоченными
+    # по пути, поэтому порядок не «прыгает» между генерациями.
     materials.sort(key=lambda m: m["path"])
+    materials.sort(key=lambda m: sort_ts(m["updated_at"]), reverse=True)
     return materials
 
 
