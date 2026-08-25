@@ -52,6 +52,8 @@ RE_SOURCE = re.compile(r"(?m)[ \t]*\r?\n?^<sub>Источник: .*?</sub>[ \t]*
 RE_SOURCE_FIND = re.compile(r"(?m)^<sub>Источник: .*?</sub>")
 # Как строка источника выглядела раньше — нужна только при сравнении версий
 RE_SOURCE_OLD = re.compile(r"(?m)^\*\*Источник:\*\* .*(?:\r?\n)?")
+# Признак переноса со старой базы знаний
+RE_SOURCE_SITE = re.compile(r"(?m)^<sub>Источник: https?://(?:www\.)?5systems\.ru/help/")
 RE_H1 = re.compile(r"(?m)^# .+$")
 
 
@@ -203,6 +205,11 @@ def apply(
     old = head_version(rel)
     changed = old is None or body(old) != body(text)
 
+    # У статьи, перенесенной со старой базы знаний, своя история: там ее уже
+    # правили. Поэтому подпись всегда "Обновлено", а дата — сайтовая, пока мы
+    # текст не тронули
+    transferred = bool(RE_SOURCE_SITE.search(text))
+
     updated, label = current_date_and_label(text)
     if from_git:
         history = content_history(rel)
@@ -216,7 +223,8 @@ def apply(
         history = content_history(rel)
         updated = (history[-1] if history else today).strftime("%d.%m.%Y")
         label = LABEL_OLD if len(history) > 1 else LABEL_NEW
-    label = label or LABEL_NEW
+
+    label = LABEL_OLD if transferred else (label or LABEL_NEW)
 
     reading = None
     if rel.startswith(READING_TIME_ROOTS):
