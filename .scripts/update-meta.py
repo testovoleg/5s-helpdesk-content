@@ -29,6 +29,14 @@ CONTENT_ROOTS = ("tips", "articles", "lessons")
 
 RE_READING = re.compile(r"(?m)^\*\*Время чтения:\*\* .*(?:\r?\n)?")
 RE_UPDATED = re.compile(r"(?m)^\*\*Обновлено:\*\* .*(?:\r?\n)?")
+# Тот же блок, свернутый в одну строку: *11 мин. · Обновлено 25.08.2026*
+RE_ONELINE = re.compile(
+    r"(?m)^\*(?:(\d+) мин\. · )?Обновлено (\d{2}\.\d{2}\.\d{4})\*.*(?:\r?\n)?"
+)
+# Строку источника забираем вместе с хвостовыми пробелами предыдущей строки:
+# иначе там остается висячий перенос там, где ее приклеили к абзацу
+RE_SOURCE = re.compile(r"(?m)[ \t]*\r?\n?^<sub>Источник: .*?</sub>[ \t]*")
+RE_SOURCE_FIND = re.compile(r"(?m)^<sub>Источник: .*?</sub>")
 RE_H1 = re.compile(r"(?m)^# .+$")
 
 
@@ -49,7 +57,9 @@ def body(text: str) -> str:
     Переводы строк приводим к одному виду: в рабочей копии они CRLF, а git
     отдает LF, и без этого любой файл выглядел бы измененным."""
     text = text.replace("\r\n", "\n").replace("\r", "\n")
-    return RE_UPDATED.sub("", RE_READING.sub("", text)).strip()
+    for rx in (RE_ONELINE, RE_UPDATED, RE_READING, RE_SOURCE):
+        text = rx.sub("", text)
+    return text.strip()
 
 
 def head_version(rel: str) -> str | None:
@@ -80,11 +90,30 @@ def estimate_minutes(text: str) -> int:
 
 
 def current_updated(text: str) -> str | None:
+    m = RE_ONELINE.search(text)
+    if m:
+        return m.group(2)
     m = RE_UPDATED.search(text)
     return m.group(0).strip().split("**Обновлено:**")[-1].strip() if m else None
 
 
-def build_block(reading: str | None, updated: str) -> str:
+def current_reading(text: str) -> str | None:
+    m = RE_ONELINE.search(text)
+    if m and m.group(1):
+        return f"{m.group(1)} мин."
+    m = RE_READING.search(text)
+    return m.group(0).strip().split("**Время чтения:**")[-1].strip() if m else None
+
+
+def layout_of(text: str) -> str:
+    """Какое оформление у статьи сейчас — его и сохраняем."""
+    return "one" if RE_ONELINE.search(text) else "two"
+
+
+def build_block(reading: str | None, updated: str, layout: str) -> str:
+    if layout == "one":
+        head = f"{reading} · " if reading else ""
+        return f"*{head}Обновлено {updated}*"
     lines = []
     if reading:
         # два пробела на конце — иначе markdown склеит строки в одну
@@ -113,19 +142,30 @@ def apply(
 
     reading = None
     if rel.startswith(READING_TIME_ROOTS):
-        m = RE_READING.search(text)
-        if m:
-            reading = m.group(0).strip().split("**Время чтения:**")[-1].strip()
-        else:
-            reading = f"{estimate_minutes(text)} мин."
+        reading = current_reading(text) or f"{estimate_minutes(text)} мин."
+
+    layout = layout_of(text)
+
+    # Строку источника всегда держим на одном месте — сразу под блоком,
+    # где бы она ни лежала до этого
+    src = RE_SOURCE_FIND.search(text)
+    source = src.group(0) if src else None
 
     # Вырезаем старые строки и вставляем блок сразу после заголовка
-    stripped = RE_UPDATED.sub("", RE_READING.sub("", text))
+    stripped = text
+    for rx in (RE_SOURCE, RE_ONELINE, RE_UPDATED, RE_READING):
+        stripped = rx.sub("", stripped)
+    # После вырезания строк остаются лишние пустые строки — схлопываем,
+    # иначе абзацы разъезжаются при каждом прогоне
+    stripped = re.sub(r"\n{3,}", "\n\n", stripped)
+
     h1 = RE_H1.search(stripped)
     if not h1:
         return None
 
-    block = build_block(reading, updated)
+    block = build_block(reading, updated, layout)
+    if source:
+        block = f"{block}\n\n{source}"
     head = stripped[: h1.end()].rstrip()
     tail = stripped[h1.end() :].lstrip("\r\n")
     new = f"{head}\n\n{block}\n\n{tail}"

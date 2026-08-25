@@ -95,9 +95,12 @@ def sort_ts(value: str | None) -> datetime:
     if not value:
         return datetime.min.replace(tzinfo=timezone.utc)
     try:
-        return datetime.fromisoformat(value)
+        dt = datetime.fromisoformat(value)
     except ValueError:
         return datetime.min.replace(tzinfo=timezone.utc)
+    # Даты из статей идут без времени и часового пояса, из git — с ними:
+    # без общего знаменателя сравнение падает
+    return dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
 
 
 def pick_main_file(article_mds: list[str]) -> str:
@@ -173,6 +176,10 @@ def collect_sections(dir_path: Path) -> list[dict]:
 
 RE_READING = re.compile(r"(?m)^\*\*Время чтения:\*\*\s*(\d+)")
 RE_UPDATED = re.compile(r"(?m)^\*\*Обновлено:\*\*\s*(\d{2})\.(\d{2})\.(\d{4})")
+# Тот же блок в одну строку: *11 мин. · Обновлено 25.08.2026*
+RE_ONELINE = re.compile(
+    r"(?m)^\*(?:(\d+) мин\. · )?Обновлено (\d{2})\.(\d{2})\.(\d{4})\*"
+)
 
 
 def extract_meta(md_path: Path) -> dict:
@@ -184,6 +191,15 @@ def extract_meta(md_path: Path) -> dict:
         return {}
 
     meta: dict = {}
+
+    one = RE_ONELINE.search(text)
+    if one:
+        mins, d, mo, y = one.groups()
+        meta["updated_at"] = f"{y}-{mo}-{d}"
+        if mins:
+            meta["reading_time"] = int(mins)
+        return meta
+
     m = RE_UPDATED.search(text)
     if m:
         d, mo, y = m.groups()
