@@ -117,16 +117,15 @@ def current_reading(text: str) -> str | None:
 def layout_of(text: str, rel: str) -> str:
     """Оформление блока: какое стоит в файле, такое и сохраняем.
 
-    Для новых статей берем вид по умолчанию: в articles/ это таблица из двух
-    колонок (время чтения и дата рядом), в советах — обычная строка, там одна
-    только дата и рамка вокруг нее выглядела бы странно."""
+    Для новых материалов — вид по умолчанию: таблица. В статьях в ней две
+    колонки (время чтения и дата), в советах одна — только дата."""
     if RE_TABLE.search(text):
         return "table"
     if RE_ONELINE.search(text):
         return "one"
     if RE_UPDATED.search(text) or RE_READING.search(text):
         return "two"
-    return "table" if rel.startswith(READING_TIME_ROOTS) else "two"
+    return "table"
 
 
 def build_block(reading: str | None, updated: str, layout: str) -> str:
