@@ -114,11 +114,19 @@ def current_reading(text: str) -> str | None:
     return m.group(0).strip().split("**Время чтения:**")[-1].strip() if m else None
 
 
-def layout_of(text: str) -> str:
-    """Какое оформление у статьи сейчас — его и сохраняем."""
+def layout_of(text: str, rel: str) -> str:
+    """Оформление блока: какое стоит в файле, такое и сохраняем.
+
+    Для новых статей берем вид по умолчанию: в articles/ это таблица из двух
+    колонок (время чтения и дата рядом), в советах — обычная строка, там одна
+    только дата и рамка вокруг нее выглядела бы странно."""
     if RE_TABLE.search(text):
         return "table"
-    return "one" if RE_ONELINE.search(text) else "two"
+    if RE_ONELINE.search(text):
+        return "one"
+    if RE_UPDATED.search(text) or RE_READING.search(text):
+        return "two"
+    return "table" if rel.startswith(READING_TIME_ROOTS) else "two"
 
 
 def build_block(reading: str | None, updated: str, layout: str) -> str:
@@ -161,7 +169,7 @@ def apply(
     if rel.startswith(READING_TIME_ROOTS):
         reading = current_reading(text) or f"{estimate_minutes(text)} мин."
 
-    layout = layout_of(text)
+    layout = layout_of(text, rel)
 
     # Строку источника всегда держим на одном месте — сразу под блоком,
     # где бы она ни лежала до этого
