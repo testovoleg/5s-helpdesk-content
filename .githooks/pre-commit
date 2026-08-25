@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Regenerates index.json when materials under tips/ or knowledges/ change.
+# Regenerates index.json when materials under tips/, articles/ or lessons/ change.
 set -euo pipefail
 
 ROOT="$(git rev-parse --show-toplevel)"
@@ -17,7 +17,7 @@ fi
 # core.quotepath=false: иначе git экранирует кириллицу в путях и берёт их в
 # кавычки, из-за чего привязанный к началу строки шаблон ниже не совпадает
 changed="$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMRD)"
-if ! grep -Eq '^(tips|knowledges)/|^\.scripts/generate-index\.py$' <<<"$changed"; then
+if ! grep -Eq '^(tips|articles|lessons)/|^\.scripts/generate-index\.py$' <<<"$changed"; then
   exit 0
 fi
 

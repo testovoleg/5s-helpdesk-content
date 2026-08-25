@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T13:55:00+03:00",
+  "generated_at": "2026-08-25T14:46:10+03:00",
   "count": 62,
   "materials": [
     {
-      "path": "knowledges/5S AUTO/Торговое оборудование/Справочник Оборудование",
+      "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "title": "Справочник «Оборудование»",
-      "type": "knowledges",
+      "type": "articles",
       "updated_at": "2026-08-25T11:58:29+03:00"
     },
     {
@@ -327,51 +327,51 @@
       "updated_at": "2026-08-24T11:35:37+03:00"
     },
     {
-      "path": "knowledges/5S AUTO/Интеграции/Интеграция с Audatex (AudaPad Web)",
+      "path": "articles/5S AUTO/Интеграции/Интеграция с Audatex (AudaPad Web)",
       "title": "Интеграция с Audatex (AudaPad Web)",
-      "type": "knowledges",
+      "type": "articles",
       "updated_at": "2026-08-21T10:57:43+03:00"
     },
     {
-      "path": "knowledges/5S AUTO/Администрирование/Удаление старых данных",
-      "title": "Удаление старых данных программы",
-      "type": "knowledges",
-      "updated_at": "2026-08-17T12:46:49+03:00"
-    },
-    {
-      "path": "knowledges/5S AUTO/Лицензирование 5S AUTO",
+      "path": "articles/5S AUTO/Администрирование/Лицензирование 5S AUTO",
       "title": "Лицензирование 5S AUTO",
-      "type": "knowledges",
+      "type": "articles",
       "updated_at": "2026-08-17T12:46:49+03:00"
     },
     {
-      "path": "knowledges/5S AUTO/Маркировка/Вывод кодов маркировки из оборота",
+      "path": "articles/5S AUTO/Администрирование/Удаление старых данных",
+      "title": "Удаление старых данных программы",
+      "type": "articles",
+      "updated_at": "2026-08-17T12:46:49+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Вывод кодов маркировки из оборота",
       "title": "Вывод кодов маркировки из оборота",
-      "type": "knowledges",
+      "type": "articles",
       "updated_at": "2026-08-17T12:46:49+03:00"
     },
     {
-      "path": "knowledges/5S AUTO/Маркировка/Настройка интеграции с ТС ПИоТ",
+      "path": "articles/5S AUTO/Маркировка/Настройка интеграции с ТС ПИоТ",
       "title": "Настройка интеграции с ТС ПИоТ",
-      "type": "knowledges",
+      "type": "articles",
       "updated_at": "2026-08-17T12:46:49+03:00"
     },
     {
-      "path": "knowledges/5S AUTO/Маркировка/Установка Единого Сервисного Модуля (ЕСМ)",
+      "path": "articles/5S AUTO/Маркировка/Установка Единого Сервисного Модуля (ЕСМ)",
       "title": "Установка Единого Сервисного Модуля (ЕСМ)",
-      "type": "knowledges",
+      "type": "articles",
       "updated_at": "2026-08-17T12:46:49+03:00"
     },
     {
-      "path": "knowledges/5S AUTO/Маркировка/Установка Локального модуля Честного знака",
+      "path": "articles/5S AUTO/Маркировка/Установка Локального модуля Честного знака",
       "title": "Установка Локального модуля Честного знака",
-      "type": "knowledges",
+      "type": "articles",
       "updated_at": "2026-08-17T12:46:49+03:00"
     },
     {
-      "path": "knowledges/5S AUTO/Отчеты/Отчет Обращение клиентов в автосервис",
+      "path": "articles/5S AUTO/Отчеты/Отчет Обращение клиентов в автосервис",
       "title": "Отчет “Обращения клиентов в автосервис”",
-      "type": "knowledges",
+      "type": "articles",
       "updated_at": "2026-08-17T12:46:49+03:00"
     }
   ]

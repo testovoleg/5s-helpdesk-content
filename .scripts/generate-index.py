@@ -11,32 +11,63 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CONTENT_ROOTS = ("tips", "knowledges")
+CONTENT_ROOTS = ("tips", "articles", "lessons")
 INDEX_PATH = ROOT / "index.json"
 
 
 def run_git(*args: str) -> str:
+    # core.quotepath=false: иначе git отдаёт кириллические пути экранированными
+    # и в кавычках, и подставить их обратно в git log уже нельзя
     return subprocess.check_output(
-        ["git", *args],
+        ["git", "-c", "core.quotepath=false", *args],
         cwd=ROOT,
         stderr=subprocess.DEVNULL,
         text=True,
+        # git отдаёт пути в UTF-8; на Windows без этого Python декодирует их
+        # системной кодировкой (cp1251) и падает на кириллице
+        encoding="utf-8",
     ).strip()
 
 
 def is_dirty(path: str) -> bool:
+    """Есть ли незакоммиченные правки содержимого. Переименования и удаления
+    не в счёт: при переезде раздела содержимое статьи не меняется, а дата
+    обновления не должна прыгать на сегодня."""
     try:
-        return bool(run_git("status", "--porcelain", "--", path))
+        for args in (
+            ("diff", "--cached", "--diff-filter=AM", "--name-only"),
+            ("diff", "--diff-filter=AM", "--name-only"),
+            ("ls-files", "--others", "--exclude-standard"),
+        ):
+            if run_git(*args, "--", path):
+                return True
+        return False
     except subprocess.CalledProcessError:
         return False
 
 
 def git_last_commit_date(path: str) -> str | None:
+    """Дата последней правки содержимого материала.
+
+    Считаем по каждому файлу отдельно с --follow, чтобы история не обрывалась
+    на переименовании, и с --diff-filter=AM, чтобы сам коммит переименования
+    не выдавался за обновление статьи."""
     try:
-        out = run_git("log", "-1", "--format=%cI", "--", path)
-        return out or None
+        files = run_git("ls-files", "--", path).splitlines()
     except subprocess.CalledProcessError:
         return None
+
+    newest: str | None = None
+    for rel in files:
+        try:
+            out = run_git(
+                "log", "--follow", "--diff-filter=AM", "-1", "--format=%cI", "--", rel
+            )
+        except subprocess.CalledProcessError:
+            continue
+        if out and (newest is None or sort_ts(out) > sort_ts(newest)):
+            newest = out
+    return newest
 
 
 def fs_mtime_iso(path: Path) -> str | None:
