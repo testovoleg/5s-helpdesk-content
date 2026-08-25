@@ -1,25 +1,248 @@
 {
-  "generated_at": "2026-08-25T14:53:05+03:00",
+  "generated_at": "2026-08-25T15:15:02+03:00",
   "count": 62,
   "sections": {
     "tips": [
-      "5S AUTO",
-      "Оборудование",
-      "Техподдержка"
+      {
+        "name": "5S AUTO",
+        "path": "tips/5S AUTO",
+        "sections": [
+          {
+            "name": "CRM",
+            "path": "tips/5S AUTO/CRM"
+          },
+          {
+            "name": "Касса",
+            "path": "tips/5S AUTO/Касса"
+          },
+          {
+            "name": "Маркировка",
+            "path": "tips/5S AUTO/Маркировка"
+          },
+          {
+            "name": "Персонал",
+            "path": "tips/5S AUTO/Персонал"
+          },
+          {
+            "name": "Склад и запчасти",
+            "path": "tips/5S AUTO/Склад и запчасти"
+          }
+        ]
+      },
+      {
+        "name": "Оборудование",
+        "path": "tips/Оборудование",
+        "sections": [
+          {
+            "name": "Банковские терминалы",
+            "path": "tips/Оборудование/Банковские терминалы"
+          },
+          {
+            "name": "Кассы ККМ",
+            "path": "tips/Оборудование/Кассы ККМ"
+          },
+          {
+            "name": "Сканеры штрихкодов",
+            "path": "tips/Оборудование/Сканеры штрихкодов"
+          },
+          {
+            "name": "ТС ПИоТ",
+            "path": "tips/Оборудование/ТС ПИоТ"
+          }
+        ]
+      },
+      {
+        "name": "Техподдержка",
+        "path": "tips/Техподдержка"
+      }
     ],
     "articles": [
-      "5S AUTO",
-      "5S LINK",
-      "5S Chat",
-      "5S Cloud",
-      "5S TSD",
-      "5S Pay",
-      "5S Remzona",
-      "5S AI Agent"
+      {
+        "name": "5S AUTO",
+        "path": "articles/5S AUTO",
+        "sections": [
+          {
+            "name": "Полезное",
+            "path": "articles/5S AUTO/Полезное"
+          },
+          {
+            "name": "CRM",
+            "path": "articles/5S AUTO/CRM"
+          },
+          {
+            "name": "Работа с клиентами",
+            "path": "articles/5S AUTO/Работа с клиентами"
+          },
+          {
+            "name": "Проценка запчастей и работ",
+            "path": "articles/5S AUTO/Проценка запчастей и работ"
+          },
+          {
+            "name": "Запись на ремонт",
+            "path": "articles/5S AUTO/Запись на ремонт"
+          },
+          {
+            "name": "Автосервис",
+            "path": "articles/5S AUTO/Автосервис"
+          },
+          {
+            "name": "Склад и запчасти",
+            "path": "articles/5S AUTO/Склад и запчасти"
+          },
+          {
+            "name": "Работа с заказами",
+            "path": "articles/5S AUTO/Работа с заказами"
+          },
+          {
+            "name": "Ценообразование",
+            "path": "articles/5S AUTO/Ценообразование"
+          },
+          {
+            "name": "Перечень доступных Веб-сервисов поставщиков",
+            "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков"
+          },
+          {
+            "name": "Сообщения",
+            "path": "articles/5S AUTO/Сообщения"
+          },
+          {
+            "name": "Бонусная система",
+            "path": "articles/5S AUTO/Бонусная система"
+          },
+          {
+            "name": "Задачи",
+            "path": "articles/5S AUTO/Задачи"
+          },
+          {
+            "name": "Интеграция с внешними сервисами",
+            "path": "articles/5S AUTO/Интеграция с внешними сервисами"
+          },
+          {
+            "name": "Учет взаиморасчетов",
+            "path": "articles/5S AUTO/Учет взаиморасчетов"
+          },
+          {
+            "name": "Касса",
+            "path": "articles/5S AUTO/Касса"
+          },
+          {
+            "name": "Банки и платежные системы",
+            "path": "articles/5S AUTO/Банки и платежные системы"
+          },
+          {
+            "name": "Персонал и мотивация",
+            "path": "articles/5S AUTO/Персонал и мотивация"
+          },
+          {
+            "name": "Управление качеством обслуживания",
+            "path": "articles/5S AUTO/Управление качеством обслуживания"
+          },
+          {
+            "name": "Структура компании",
+            "path": "articles/5S AUTO/Структура компании"
+          },
+          {
+            "name": "Администрирование и настройка системы",
+            "path": "articles/5S AUTO/Администрирование и настройка системы",
+            "sections": [
+              {
+                "name": "Исправление ошибок версий",
+                "path": "articles/5S AUTO/Администрирование и настройка системы/Исправление ошибок версий"
+              }
+            ]
+          },
+          {
+            "name": "Пользователи и права",
+            "path": "articles/5S AUTO/Пользователи и права"
+          },
+          {
+            "name": "Отчеты",
+            "path": "articles/5S AUTO/Отчеты"
+          },
+          {
+            "name": "Маркировка",
+            "path": "articles/5S AUTO/Маркировка"
+          },
+          {
+            "name": "Торговое оборудование",
+            "path": "articles/5S AUTO/Торговое оборудование"
+          },
+          {
+            "name": "Телефония",
+            "path": "articles/5S AUTO/Телефония"
+          },
+          {
+            "name": "Практики",
+            "path": "articles/5S AUTO/Практики"
+          },
+          {
+            "name": "Аналитика",
+            "path": "articles/5S AUTO/Аналитика"
+          },
+          {
+            "name": "Контроль неликвидов",
+            "path": "articles/5S AUTO/Контроль неликвидов"
+          },
+          {
+            "name": "Прочее",
+            "path": "articles/5S AUTO/Прочее"
+          },
+          {
+            "name": "Внешние обработки",
+            "path": "articles/5S AUTO/Внешние обработки"
+          }
+        ]
+      },
+      {
+        "name": "5S LINK",
+        "path": "articles/5S LINK"
+      },
+      {
+        "name": "5S Chat",
+        "path": "articles/5S Chat"
+      },
+      {
+        "name": "5S Cloud",
+        "path": "articles/5S Cloud"
+      },
+      {
+        "name": "5S TSD",
+        "path": "articles/5S TSD"
+      },
+      {
+        "name": "5S Pay",
+        "path": "articles/5S Pay"
+      },
+      {
+        "name": "5S Remzona",
+        "path": "articles/5S Remzona"
+      },
+      {
+        "name": "5S AI Agent",
+        "path": "articles/5S AI Agent"
+      }
     ],
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Лицензирование 5S AUTO",
+      "title": "Лицензирование 5S AUTO",
+      "type": "articles",
+      "updated_at": "2026-08-25T15:14:56+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
+      "title": "Удаление старых данных программы",
+      "type": "articles",
+      "updated_at": "2026-08-25T15:14:56+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
+      "title": "Интеграция с Audatex (AudaPad Web)",
+      "type": "articles",
+      "updated_at": "2026-08-25T15:14:56+03:00"
+    },
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "title": "Справочник «Оборудование»",
@@ -343,24 +566,6 @@
       "title": "Расхождение сумм",
       "type": "tips",
       "updated_at": "2026-08-24T11:35:37+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Интеграции/Интеграция с Audatex (AudaPad Web)",
-      "title": "Интеграция с Audatex (AudaPad Web)",
-      "type": "articles",
-      "updated_at": "2026-08-21T10:57:43+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование/Лицензирование 5S AUTO",
-      "title": "Лицензирование 5S AUTO",
-      "type": "articles",
-      "updated_at": "2026-08-17T12:46:49+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование/Удаление старых данных",
-      "title": "Удаление старых данных программы",
-      "type": "articles",
-      "updated_at": "2026-08-17T12:46:49+03:00"
     },
     {
       "path": "articles/5S AUTO/Маркировка/Вывод кодов маркировки из оборота",

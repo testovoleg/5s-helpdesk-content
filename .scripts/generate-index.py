@@ -116,30 +116,58 @@ def extract_title(md_path: Path, fallback: str) -> str:
     return fallback
 
 
-def collect_sections(root: str) -> list[str]:
-    """Разделы верхнего уровня в порядке из файла .order.
+def read_order(dir_path: Path) -> list[str]:
+    order_file = dir_path / ".order"
+    if not order_file.exists():
+        return []
+    names = []
+    for line in order_file.read_text(encoding="utf-8").splitlines():
+        name = line.strip()
+        if name and not name.startswith("#"):
+            names.append(name)
+    return names
 
-    Порядок задается вручную, потому что он смысловой (сначала основной
-    продукт, дальше остальные), а не алфавитный. Разделы, которых нет
-    в .order, дописываются в конец по алфавиту — чтобы новая папка
-    попала в индекс, даже если про список забыли."""
-    root_path = ROOT / root
-    if not root_path.exists():
+
+def is_material(dir_path: Path) -> bool:
+    """Папка статьи, а не раздела: в ней лежат .md, кроме README."""
+    return any(
+        f.suffix == ".md" and f.name != "README.md"
+        for f in dir_path.iterdir()
+        if f.is_file()
+    )
+
+
+def collect_sections(dir_path: Path) -> list[dict]:
+    """Дерево разделов в порядке из файлов .order.
+
+    Порядок задается вручную, потому что он смысловой, а не алфавитный:
+    он повторяет порядок разделов на сайте. Разделы, которых нет в .order,
+    дописываются в конец по алфавиту — чтобы новая папка попала в индекс,
+    даже если про список забыли."""
+    if not dir_path.exists():
         return []
 
-    present = sorted(d.name for d in root_path.iterdir() if d.is_dir())
+    present = {
+        d.name: d
+        for d in sorted(dir_path.iterdir(), key=lambda d: d.name)
+        if d.is_dir() and d.name not in ("attachments", ".git") and not is_material(d)
+    }
 
-    wanted: list[str] = []
-    order_file = root_path / ".order"
-    if order_file.exists():
-        for line in order_file.read_text(encoding="utf-8").splitlines():
-            name = line.strip()
-            if name and not name.startswith("#"):
-                wanted.append(name)
+    wanted = read_order(dir_path)
+    names = [n for n in wanted if n in present]
+    names += [n for n in present if n not in wanted]
 
-    ordered = [name for name in wanted if name in present]
-    ordered += [name for name in present if name not in wanted]
-    return ordered
+    sections = []
+    for name in names:
+        node: dict = {
+            "name": name,
+            "path": present[name].relative_to(ROOT).as_posix(),
+        }
+        children = collect_sections(present[name])
+        if children:
+            node["sections"] = children
+        sections.append(node)
+    return sections
 
 
 def collect_materials() -> list[dict]:
@@ -193,7 +221,7 @@ def main() -> int:
     index = {
         "generated_at": now_iso(),
         "count": len(materials),
-        "sections": {root: collect_sections(root) for root in CONTENT_ROOTS},
+        "sections": {root: collect_sections(ROOT / root) for root in CONTENT_ROOTS},
         "materials": materials,
     }
     INDEX_PATH.write_text(
