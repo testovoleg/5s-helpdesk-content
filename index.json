@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T10:50:32+03:00",
-  "count": 76,
+  "generated_at": "2026-08-26T10:58:13+03:00",
+  "count": 77,
   "sections": {
     "tips": [
       {
@@ -226,6 +226,16 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/CRM/Настройки воронки продаж",
+      "title": "Настройки воронки продаж",
+      "type": "articles",
+      "order": 11,
+      "updated_at": "2024-11-14",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T10:50:23+03:00",
+      "reading_time": 10
+    },
+    {
       "path": "articles/5S AUTO/CRM/Режимы работы CRM",
       "title": "Режимы работы CRM",
       "type": "articles",
@@ -267,7 +277,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 13
+          "order": 14
         }
       ]
     },
@@ -283,7 +293,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 12
+          "order": 13
         }
       ]
     },
@@ -935,14 +945,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/CRM/Настройки воронки продаж",
-      "title": "Настройки воронки продаж",
+      "path": "articles/5S AUTO/CRM/Редактирование и удаление сделок",
+      "title": "Редактирование и удаление сделок",
       "type": "articles",
-      "order": 11,
-      "updated_at": "2024-11-14",
+      "order": 12,
+      "updated_at": "2025-12-05",
       "date_kind": "updated",
-      "added_at": "2024-11-14",
-      "reading_time": 10
+      "added_at": "2025-12-05",
+      "reading_time": 6
     }
   ]
 }
