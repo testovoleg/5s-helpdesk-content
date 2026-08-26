@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T10:34:35+03:00",
-  "count": 75,
+  "generated_at": "2026-08-26T10:50:32+03:00",
+  "count": 76,
   "sections": {
     "tips": [
       {
@@ -226,6 +226,16 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/CRM/Режимы работы CRM",
+      "title": "Режимы работы CRM",
+      "type": "articles",
+      "order": 10,
+      "updated_at": "2025-12-05",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T10:34:27+03:00",
+      "reading_time": 5
+    },
+    {
       "path": "articles/5S AUTO/CRM/Сохранение настроек просмотра сделок",
       "title": "Сохранение настроек просмотра сделок",
       "type": "articles",
@@ -257,7 +267,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 12
+          "order": 13
         }
       ]
     },
@@ -273,7 +283,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 11
+          "order": 12
         }
       ]
     },
@@ -925,14 +935,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/CRM/Режимы работы CRM",
-      "title": "Режимы работы CRM",
+      "path": "articles/5S AUTO/CRM/Настройки воронки продаж",
+      "title": "Настройки воронки продаж",
       "type": "articles",
-      "order": 10,
-      "updated_at": "2025-12-05",
+      "order": 11,
+      "updated_at": "2024-11-14",
       "date_kind": "updated",
-      "added_at": "2025-12-05",
-      "reading_time": 5
+      "added_at": "2024-11-14",
+      "reading_time": 10
     }
   ]
 }
