@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:14:25+03:00",
+  "generated_at": "2026-08-26T11:21:30+03:00",
   "count": 79,
   "sections": {
     "tips": [
@@ -225,6 +225,22 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Сообщения/Настройка шаблонов WhatsApp Business API",
+      "title": "Настройка шаблонов WhatsApp Business API",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2025-09-19",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T11:14:15+03:00",
+      "reading_time": 29,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/CRM",
+          "order": 16
+        }
+      ]
+    },
     {
       "path": "articles/5S AUTO/CRM/Настройка параметров уведомлений",
       "title": "Настройка параметров уведомлений",
@@ -963,16 +979,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/Настройка шаблонов WhatsApp Business API",
-      "title": "Настройка шаблонов WhatsApp Business API",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2025-09-19",
-      "date_kind": "updated",
-      "added_at": "2025-09-19",
-      "reading_time": 29
     }
   ]
 }

@@ -29,8 +29,11 @@ fi
 
 # Сначала строки "Обновлено" в статьях, потом индекс: он читает дату оттуда
 python3 .scripts/update-meta.py >/dev/null
+# "|| true" обязателен: без совпадений grep возвращает 1, и при set -o pipefail
+# это обрывало коммит, в котором не менялось ни одной статьи (например, правка
+# одного лишь .order)
 git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMR \
-  | grep -E '^(tips|articles|lessons)/.*\.md$' \
+  | { grep -E '^(tips|articles|lessons)/.*\.md$' || true; } \
   | tr '\n' '\0' | xargs -0 -r git add --
 
 python3 .scripts/generate-index.py
