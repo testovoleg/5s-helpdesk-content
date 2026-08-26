@@ -274,10 +274,16 @@ def collect_materials() -> list[dict]:
                 else:
                     updated_at = git_last_commit_date(rel) or fs_mtime_iso(p)
 
+            # Порядок статей внутри раздела задается тем же .order, что и
+            # порядок самих разделов. Неперечисленные идут после
+            siblings = read_order(p.parent)
+            order = siblings.index(p.name) if p.name in siblings else len(siblings)
+
             material = {
                 "path": rel,
                 "title": title,
                 "type": root,
+                "order": order,
                 # Дата из самой статьи — ее и показываем. У перенесенных
                 # со старой базы она сайтовая, пока мы текст не правили
                 "updated_at": updated_at,
