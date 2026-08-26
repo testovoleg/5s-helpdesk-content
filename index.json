@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:39:25+03:00",
+  "generated_at": "2026-08-26T12:44:57+03:00",
   "count": 82,
   "sections": {
     "tips": [
@@ -225,6 +225,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/CRM/Структура интерфейса 5S AUTO",
+      "title": "Структура интерфейса 5S AUTO",
+      "type": "articles",
+      "order": 14,
+      "updated_at": "2024-03-28",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T12:39:15+03:00",
+      "reading_time": 13
+    },
     {
       "path": "articles/5S AUTO/Задачи/Типы задач",
       "title": "Типы задач",
@@ -1011,16 +1021,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/CRM/Структура интерфейса 5S AUTO",
-      "title": "Структура интерфейса 5S AUTO",
-      "type": "articles",
-      "order": 14,
-      "updated_at": "2024-03-28",
-      "date_kind": "updated",
-      "added_at": "2024-03-28",
-      "reading_time": 13
     }
   ]
 }
