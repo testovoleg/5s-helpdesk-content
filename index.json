@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T09:29:13+03:00",
-  "count": 67,
+  "generated_at": "2026-08-26T09:34:13+03:00",
+  "count": 68,
   "sections": {
     "tips": [
       {
@@ -225,6 +225,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/CRM/Заголовок сделки",
+      "title": "Заголовок сделки",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2024-10-16",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T09:29:04+03:00",
+      "reading_time": 7
+    },
     {
       "path": "articles/5S AUTO/CRM/События сделки",
       "title": "События сделки",
@@ -833,14 +843,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/CRM/Заголовок сделки",
-      "title": "Заголовок сделки",
+      "path": "articles/5S AUTO/CRM/Отложенные сделки",
+      "title": "Отложенные сделки",
       "type": "articles",
-      "order": 4,
-      "updated_at": "2024-10-16",
+      "order": 5,
+      "updated_at": "2024-10-29",
       "date_kind": "updated",
-      "added_at": "2024-10-16",
-      "reading_time": 7
+      "added_at": "2024-10-29",
+      "reading_time": 12
     }
   ]
 }
