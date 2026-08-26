@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T12:44:57+03:00",
-  "count": 82,
+  "generated_at": "2026-08-26T12:51:31+03:00",
+  "count": 83,
   "sections": {
     "tips": [
       {
@@ -247,7 +247,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 19
+          "order": 20
         }
       ]
     },
@@ -263,7 +263,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 18
+          "order": 19
         }
       ]
     },
@@ -279,7 +279,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 17
+          "order": 18
         }
       ]
     },
@@ -355,7 +355,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 16
+          "order": 17
         }
       ]
     },
@@ -371,7 +371,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 15
+          "order": 16
         }
       ]
     },
@@ -1021,6 +1021,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/CRM/Работа с полнотекстовым поиском",
+      "title": "Работа с полнотекстовым поиском",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2025-12-26",
+      "date_kind": "updated",
+      "added_at": "2025-12-26",
+      "reading_time": 5
     }
   ]
 }
