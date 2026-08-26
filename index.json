@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:47:23+03:00",
+  "generated_at": "2026-08-26T09:51:19+03:00",
   "count": 70,
   "sections": {
     "tips": [
@@ -225,6 +225,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/CRM/Работа с уведомлениями",
+      "title": "Работа с уведомлениями",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2024-10-18",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T09:47:16+03:00",
+      "reading_time": 21
+    },
     {
       "path": "articles/5S AUTO/CRM/Объединение сделок",
       "title": "Объединение сделок",
@@ -861,16 +871,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/CRM/Работа с уведомлениями",
-      "title": "Работа с уведомлениями",
-      "type": "articles",
-      "order": 7,
-      "updated_at": "2024-10-18",
-      "date_kind": "updated",
-      "added_at": "2024-10-18",
-      "reading_time": 21
     }
   ]
 }
