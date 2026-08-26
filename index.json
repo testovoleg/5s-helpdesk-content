@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T10:29:19+03:00",
-  "count": 74,
+  "generated_at": "2026-08-26T10:34:35+03:00",
+  "count": 75,
   "sections": {
     "tips": [
       {
@@ -226,6 +226,16 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/CRM/Сохранение настроек просмотра сделок",
+      "title": "Сохранение настроек просмотра сделок",
+      "type": "articles",
+      "order": 9,
+      "updated_at": "2024-03-25",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T10:29:09+03:00",
+      "reading_time": 10
+    },
+    {
       "path": "articles/5S AUTO/CRM/Групповые действия со сделками",
       "title": "Групповые действия со сделками",
       "type": "articles",
@@ -247,7 +257,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 11
+          "order": 12
         }
       ]
     },
@@ -263,7 +273,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 10
+          "order": 11
         }
       ]
     },
@@ -915,14 +925,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/CRM/Сохранение настроек просмотра сделок",
-      "title": "Сохранение настроек просмотра сделок",
+      "path": "articles/5S AUTO/CRM/Режимы работы CRM",
+      "title": "Режимы работы CRM",
       "type": "articles",
-      "order": 9,
-      "updated_at": "2024-03-25",
+      "order": 10,
+      "updated_at": "2025-12-05",
       "date_kind": "updated",
-      "added_at": "2024-03-25",
-      "reading_time": 10
+      "added_at": "2025-12-05",
+      "reading_time": 5
     }
   ]
 }
