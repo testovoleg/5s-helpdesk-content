@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T11:29:34+03:00",
-  "count": 79,
+  "generated_at": "2026-08-26T11:36:55+03:00",
+  "count": 80,
   "sections": {
     "tips": [
       {
@@ -979,6 +979,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/Приглашение в Telegram",
+      "title": "Приглашение в Telegram",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2025-12-26",
+      "date_kind": "updated",
+      "added_at": "2025-12-26",
+      "reading_time": 4
     }
   ]
 }
