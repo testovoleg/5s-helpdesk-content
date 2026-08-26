@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T15:48:42+03:00",
+  "generated_at": "2026-08-26T15:50:14+03:00",
   "count": 86,
   "sections": {
     "tips": [
@@ -225,6 +225,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Работа с клиентами/Контрагенты и контакты",
+      "title": "Контрагенты и контакты",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2024-12-19",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T15:48:32+03:00",
+      "reading_time": 29
+    },
     {
       "path": "articles/5S AUTO/CRM/Работа в АРМ Коммуникатор",
       "title": "Работа в АРМ Коммуникатор",
@@ -474,16 +484,6 @@
       "date_kind": "updated",
       "added_at": "2026-08-26T08:54:29+03:00",
       "reading_time": 20
-    },
-    {
-      "path": "articles/5S AUTO/Работа с клиентами/Контрагенты и контакты",
-      "title": "Контрагенты и контакты",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2026-08-26",
-      "date_kind": "updated",
-      "added_at": "2026-08-26",
-      "reading_time": 29
     },
     {
       "path": "articles/5S AUTO/CRM/Канбан сделок",

@@ -211,11 +211,16 @@ def apply(
     transferred = bool(RE_SOURCE_SITE.search(text))
 
     updated, label = current_date_and_label(text)
+
+    # первый коммит перенесенной статьи — не наша правка, а перенос:
+    # дату оставляем сайтовую, ее проставили руками при переносе
+    first_transfer = transferred and old is None and bool(updated)
+
     if from_git:
         history = content_history(rel)
         updated = (history[-1] if history else today).strftime("%d.%m.%Y")
         label = LABEL_OLD if len(history) > 1 else LABEL_NEW
-    elif changed and not (keep_dates and updated):
+    elif changed and not (keep_dates and updated) and not first_transfer:
         updated = today.strftime("%d.%m.%Y")
         # текст поправили — значит материал уже не просто создан
         label = LABEL_OLD if old is not None else LABEL_NEW
