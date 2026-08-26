@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:10:55+03:00",
+  "generated_at": "2026-08-26T10:11:04+03:00",
   "count": 71,
   "sections": {
     "tips": [
@@ -225,6 +225,22 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Сообщения/Чаты клиента",
+      "title": "Чаты клиента",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2024-11-01",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T10:10:48+03:00",
+      "reading_time": 7,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/CRM",
+          "order": 8
+        }
+      ]
+    },
     {
       "path": "articles/5S AUTO/CRM/Работа с уведомлениями",
       "title": "Работа с уведомлениями",
@@ -871,22 +887,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/Чаты клиента",
-      "title": "Чаты клиента",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2024-11-01",
-      "date_kind": "updated",
-      "added_at": "2024-11-01",
-      "reading_time": 7,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/CRM",
-          "order": 8
-        }
-      ]
     }
   ]
 }
