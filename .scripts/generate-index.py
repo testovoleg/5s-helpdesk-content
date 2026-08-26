@@ -238,7 +238,34 @@ def extract_meta(md_path: Path) -> dict:
     return meta
 
 
+def collect_borrowed() -> dict[str, list[dict]]:
+    """Статьи, показываемые не только в своем разделе.
+
+    В .order раздела можно указать путь к статье из другого раздела —
+    строкой со слэшем, например "../Сообщения/Чаты клиента". Файл при этом
+    остается один: копия неизбежно разошлась бы с оригиналом при первой
+    же правке."""
+    borrowed: dict[str, list[dict]] = {}
+    for root in CONTENT_ROOTS:
+        for order_file in (ROOT / root).rglob(".order"):
+            section = order_file.parent
+            names = read_order(section)
+            for pos, name in enumerate(names):
+                if "/" not in name:
+                    continue
+                target = (section / name).resolve()
+                if not target.is_dir():
+                    print(f"  .order: не найден материал {name} ({section})")
+                    continue
+                key = target.relative_to(ROOT).as_posix()
+                borrowed.setdefault(key, []).append(
+                    {"path": section.relative_to(ROOT).as_posix(), "order": pos}
+                )
+    return borrowed
+
+
 def collect_materials() -> list[dict]:
+    borrowed = collect_borrowed()
     materials: list[dict] = []
 
     for root in CONTENT_ROOTS:
@@ -295,6 +322,8 @@ def collect_materials() -> list[dict]:
             }
             if meta.get("reading_time"):
                 material["reading_time"] = meta["reading_time"]
+            if rel in borrowed:
+                material["also_in"] = borrowed[rel]
             materials.append(material)
 
     # Сначала по пути, затем — устойчивой сортировкой — по дате появления
