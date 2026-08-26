@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T11:55:25+03:00",
-  "count": 81,
+  "generated_at": "2026-08-26T12:39:25+03:00",
+  "count": 82,
   "sections": {
     "tips": [
       {
@@ -226,6 +226,22 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Задачи/Типы задач",
+      "title": "Типы задач",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2023-06-26",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T11:55:15+03:00",
+      "reading_time": 14,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/CRM",
+          "order": 19
+        }
+      ]
+    },
+    {
       "path": "articles/5S AUTO/Сообщения/Приглашение в Telegram",
       "title": "Приглашение в Telegram",
       "type": "articles",
@@ -237,7 +253,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 17
+          "order": 18
         }
       ]
     },
@@ -253,7 +269,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 16
+          "order": 17
         }
       ]
     },
@@ -329,7 +345,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 15
+          "order": 16
         }
       ]
     },
@@ -345,7 +361,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 14
+          "order": 15
         }
       ]
     },
@@ -997,20 +1013,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Задачи/Типы задач",
-      "title": "Типы задач",
+      "path": "articles/5S AUTO/CRM/Структура интерфейса 5S AUTO",
+      "title": "Структура интерфейса 5S AUTO",
       "type": "articles",
-      "order": 0,
-      "updated_at": "2023-06-26",
+      "order": 14,
+      "updated_at": "2024-03-28",
       "date_kind": "updated",
-      "added_at": "2023-06-26",
-      "reading_time": 14,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/CRM",
-          "order": 18
-        }
-      ]
+      "added_at": "2024-03-28",
+      "reading_time": 13
     }
   ]
 }
