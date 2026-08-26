@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:04:18+03:00",
+  "generated_at": "2026-08-26T09:12:08+03:00",
   "count": 65,
   "sections": {
     "tips": [
@@ -226,11 +226,21 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/CRM/Работа со сделкой",
+      "title": "Работа со сделкой",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-10-16",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T09:04:10+03:00",
+      "reading_time": 15
+    },
+    {
       "path": "articles/5S AUTO/CRM/Список сделок",
       "title": "Список сделок",
       "type": "articles",
       "order": 1,
-      "updated_at": "2024-10-16",
+      "updated_at": "2026-08-26",
       "date_kind": "updated",
       "added_at": "2026-08-26T08:54:29+03:00",
       "reading_time": 20
@@ -811,16 +821,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/CRM/Работа со сделкой",
-      "title": "Работа со сделкой",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2024-10-16",
-      "date_kind": "updated",
-      "added_at": "2024-10-16",
-      "reading_time": 15
     }
   ]
 }
