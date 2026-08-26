@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:04:18+03:00",
+  "generated_at": "2026-08-26T09:20:22+03:00",
   "count": 65,
   "sections": {
     "tips": [
@@ -225,6 +225,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/CRM/Работа со сделкой",
+      "title": "Работа со сделкой",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-10-16",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T09:04:10+03:00",
+      "reading_time": 15
+    },
     {
       "path": "articles/5S AUTO/CRM/Список сделок",
       "title": "Список сделок",
@@ -811,16 +821,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/CRM/Работа со сделкой",
-      "title": "Работа со сделкой",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2024-10-16",
-      "date_kind": "updated",
-      "added_at": "2024-10-16",
-      "reading_time": 15
     }
   ]
 }
