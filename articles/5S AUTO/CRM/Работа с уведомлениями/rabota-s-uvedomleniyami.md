@@ -41,6 +41,8 @@
 
 ## Настройка уведомлений
 
+[![Видео: настройка уведомлений для пользователя](attachments/13-video-nastroyka-uvedomleniy.png)](https://edu.5systems.ru/video/Polzovateli/Nastroyka_uvedomlenij_dlya_polzovatelya.mp4)
+
 Каждый пользователь может настроить уведомления для себя. Перейти к настройкам уведомлений можно, нажав на аватар на верхней панели интерфейса и выбрав в выпадающем меню пункт **«Настройка уведомлений»**:
 
 ![Переход к настройке уведомлений](attachments/04-perehod-k-nastroykam.png)
