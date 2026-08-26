@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T11:40:26+03:00",
-  "count": 80,
+  "generated_at": "2026-08-26T11:55:25+03:00",
+  "count": 81,
   "sections": {
     "tips": [
       {
@@ -995,6 +995,22 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Задачи/Типы задач",
+      "title": "Типы задач",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2023-06-26",
+      "date_kind": "updated",
+      "added_at": "2023-06-26",
+      "reading_time": 14,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/CRM",
+          "order": 18
+        }
+      ]
     }
   ]
 }
