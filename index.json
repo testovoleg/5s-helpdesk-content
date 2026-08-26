@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:36:55+03:00",
+  "generated_at": "2026-08-26T11:40:26+03:00",
   "count": 80,
   "sections": {
     "tips": [
@@ -225,6 +225,22 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Сообщения/Приглашение в Telegram",
+      "title": "Приглашение в Telegram",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2025-12-26",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T11:36:47+03:00",
+      "reading_time": 4,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/CRM",
+          "order": 17
+        }
+      ]
+    },
     {
       "path": "articles/5S AUTO/Сообщения/Настройка шаблонов WhatsApp Business API",
       "title": "Настройка шаблонов WhatsApp Business API",
@@ -979,16 +995,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/Приглашение в Telegram",
-      "title": "Приглашение в Telegram",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2025-12-26",
-      "date_kind": "updated",
-      "added_at": "2025-12-26",
-      "reading_time": 4
     }
   ]
 }
