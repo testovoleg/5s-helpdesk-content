@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:51:31+03:00",
+  "generated_at": "2026-08-26T12:54:30+03:00",
   "count": 83,
   "sections": {
     "tips": [
@@ -225,6 +225,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/CRM/Работа с полнотекстовым поиском",
+      "title": "Работа с полнотекстовым поиском",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2025-12-26",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T12:51:19+03:00",
+      "reading_time": 5
+    },
     {
       "path": "articles/5S AUTO/CRM/Структура интерфейса 5S AUTO",
       "title": "Структура интерфейса 5S AUTO",
@@ -1021,16 +1031,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/CRM/Работа с полнотекстовым поиском",
-      "title": "Работа с полнотекстовым поиском",
-      "type": "articles",
-      "order": 15,
-      "updated_at": "2025-12-26",
-      "date_kind": "updated",
-      "added_at": "2025-12-26",
-      "reading_time": 5
     }
   ]
 }
