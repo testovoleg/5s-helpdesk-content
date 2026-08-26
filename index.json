@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T15:26:16+03:00",
-  "count": 85,
+  "generated_at": "2026-08-26T15:48:42+03:00",
+  "count": 86,
   "sections": {
     "tips": [
       {
@@ -229,7 +229,7 @@
       "path": "articles/5S AUTO/CRM/Работа в АРМ Коммуникатор",
       "title": "Работа в АРМ Коммуникатор",
       "type": "articles",
-      "order": 17,
+      "order": 22,
       "updated_at": "2022-06-23",
       "date_kind": "updated",
       "added_at": "2026-08-26T13:45:08+03:00",
@@ -239,7 +239,7 @@
       "path": "articles/5S AUTO/CRM/Приглашения на ТО",
       "title": "Приглашения на ТО",
       "type": "articles",
-      "order": 16,
+      "order": 21,
       "updated_at": "2024-07-29",
       "date_kind": "updated",
       "added_at": "2026-08-26T13:23:47+03:00",
@@ -249,7 +249,7 @@
       "path": "articles/5S AUTO/CRM/Работа с полнотекстовым поиском",
       "title": "Работа с полнотекстовым поиском",
       "type": "articles",
-      "order": 15,
+      "order": 20,
       "updated_at": "2025-12-26",
       "date_kind": "updated",
       "added_at": "2026-08-26T12:51:19+03:00",
@@ -259,7 +259,7 @@
       "path": "articles/5S AUTO/CRM/Структура интерфейса 5S AUTO",
       "title": "Структура интерфейса 5S AUTO",
       "type": "articles",
-      "order": 14,
+      "order": 19,
       "updated_at": "2024-03-28",
       "date_kind": "updated",
       "added_at": "2026-08-26T12:39:15+03:00",
@@ -277,7 +277,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 22
+          "order": 18
         }
       ]
     },
@@ -293,7 +293,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 21
+          "order": 17
         }
       ]
     },
@@ -309,7 +309,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 20
+          "order": 16
         }
       ]
     },
@@ -317,7 +317,7 @@
       "path": "articles/5S AUTO/CRM/Настройка параметров уведомлений",
       "title": "Настройка параметров уведомлений",
       "type": "articles",
-      "order": 13,
+      "order": 15,
       "updated_at": "2025-09-12",
       "date_kind": "updated",
       "added_at": "2026-08-26T11:04:43+03:00",
@@ -327,7 +327,7 @@
       "path": "articles/5S AUTO/CRM/Редактирование и удаление сделок",
       "title": "Редактирование и удаление сделок",
       "type": "articles",
-      "order": 12,
+      "order": 14,
       "updated_at": "2025-12-05",
       "date_kind": "updated",
       "added_at": "2026-08-26T10:58:07+03:00",
@@ -337,7 +337,7 @@
       "path": "articles/5S AUTO/CRM/Настройки воронки продаж",
       "title": "Настройки воронки продаж",
       "type": "articles",
-      "order": 11,
+      "order": 13,
       "updated_at": "2024-11-14",
       "date_kind": "updated",
       "added_at": "2026-08-26T10:50:23+03:00",
@@ -347,7 +347,7 @@
       "path": "articles/5S AUTO/CRM/Режимы работы CRM",
       "title": "Режимы работы CRM",
       "type": "articles",
-      "order": 10,
+      "order": 12,
       "updated_at": "2025-12-05",
       "date_kind": "updated",
       "added_at": "2026-08-26T10:34:27+03:00",
@@ -357,7 +357,7 @@
       "path": "articles/5S AUTO/CRM/Сохранение настроек просмотра сделок",
       "title": "Сохранение настроек просмотра сделок",
       "type": "articles",
-      "order": 9,
+      "order": 11,
       "updated_at": "2024-03-25",
       "date_kind": "updated",
       "added_at": "2026-08-26T10:29:09+03:00",
@@ -367,7 +367,7 @@
       "path": "articles/5S AUTO/CRM/Групповые действия со сделками",
       "title": "Групповые действия со сделками",
       "type": "articles",
-      "order": 8,
+      "order": 10,
       "updated_at": "2024-11-14",
       "date_kind": "updated",
       "added_at": "2026-08-26T10:23:21+03:00",
@@ -385,7 +385,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 19
+          "order": 9
         }
       ]
     },
@@ -401,7 +401,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 18
+          "order": 8
         }
       ]
     },
@@ -474,6 +474,16 @@
       "date_kind": "updated",
       "added_at": "2026-08-26T08:54:29+03:00",
       "reading_time": 20
+    },
+    {
+      "path": "articles/5S AUTO/Работа с клиентами/Контрагенты и контакты",
+      "title": "Контрагенты и контакты",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2026-08-26",
+      "date_kind": "updated",
+      "added_at": "2026-08-26",
+      "reading_time": 29
     },
     {
       "path": "articles/5S AUTO/CRM/Канбан сделок",
