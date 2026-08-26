@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T12:54:30+03:00",
-  "count": 83,
+  "generated_at": "2026-08-26T13:23:57+03:00",
+  "count": 84,
   "sections": {
     "tips": [
       {
@@ -257,7 +257,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 20
+          "order": 21
         }
       ]
     },
@@ -273,7 +273,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 19
+          "order": 20
         }
       ]
     },
@@ -289,7 +289,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 18
+          "order": 19
         }
       ]
     },
@@ -365,7 +365,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 17
+          "order": 18
         }
       ]
     },
@@ -381,7 +381,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
-          "order": 16
+          "order": 17
         }
       ]
     },
@@ -1031,6 +1031,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/CRM/Приглашения на ТО",
+      "title": "Приглашения на ТО",
+      "type": "articles",
+      "order": 16,
+      "updated_at": "2024-07-29",
+      "date_kind": "updated",
+      "added_at": "2024-07-29",
+      "reading_time": 8
     }
   ]
 }
