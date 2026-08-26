@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:45:18+03:00",
+  "generated_at": "2026-08-26T14:19:11+03:00",
   "count": 85,
   "sections": {
     "tips": [
@@ -225,6 +225,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/CRM/Работа в АРМ Коммуникатор",
+      "title": "Работа в АРМ Коммуникатор",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2022-06-23",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T13:45:08+03:00",
+      "reading_time": 20
+    },
     {
       "path": "articles/5S AUTO/CRM/Приглашения на ТО",
       "title": "Приглашения на ТО",
@@ -1041,16 +1051,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/CRM/Работа в АРМ Коммуникатор",
-      "title": "Работа в АРМ Коммуникатор",
-      "type": "articles",
-      "order": 17,
-      "updated_at": "2022-06-23",
-      "date_kind": "updated",
-      "added_at": "2022-06-23",
-      "reading_time": 20
     }
   ]
 }
