@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T09:47:05+03:00",
+  "generated_at": "2026-08-27T10:38:59+03:00",
   "count": 90,
   "sections": {
     "tips": [
@@ -225,6 +225,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Работа с клиентами/Работа в АРМ Клиенты и автомобили",
+      "title": "Работа в АРМ Клиенты и автомобили",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-08-27T09:46:54+03:00",
+      "reading_time": 20
+    },
     {
       "path": "articles/5S AUTO/Работа с клиентами/Идентификация клиента на форме Сделки",
       "title": "Идентификация клиента на форме Сделки",
@@ -1091,16 +1101,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Работа с клиентами/Работа в АРМ Клиенты и автомобили",
-      "title": "Работа в АРМ Клиенты и автомобили",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2022-06-17",
-      "date_kind": "updated",
-      "added_at": "2022-06-17",
-      "reading_time": 20
     }
   ]
 }
