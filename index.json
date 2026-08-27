@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T16:01:05+03:00",
-  "count": 86,
+  "generated_at": "2026-08-27T08:33:59+03:00",
+  "count": 87,
   "sections": {
     "tips": [
       {
@@ -1061,6 +1061,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Работа с клиентами/Контактные лица",
+      "title": "Контактные лица",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2025-07-14",
+      "date_kind": "updated",
+      "added_at": "2025-07-14",
+      "reading_time": 4
     }
   ]
 }
