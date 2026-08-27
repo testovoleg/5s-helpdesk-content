@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T11:41:23+03:00",
-  "count": 90,
+  "generated_at": "2026-08-27T13:41:07+03:00",
+  "count": 91,
   "sections": {
     "tips": [
       {
@@ -1101,6 +1101,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Работа с клиентами/Напоминания по задачам",
+      "title": "Напоминания по задачам",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2022-06-27",
+      "date_kind": "updated",
+      "added_at": "2022-06-27",
+      "reading_time": 15
     }
   ]
 }
