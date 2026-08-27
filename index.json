@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T14:19:19+03:00",
+  "generated_at": "2026-08-27T14:21:24+03:00",
   "count": 93,
   "sections": {
     "tips": [
@@ -225,6 +225,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Работа с клиентами/Лента событий",
+      "title": "Лента событий",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2022-06-27",
+      "date_kind": "updated",
+      "added_at": "2026-08-27T14:19:11+03:00",
+      "reading_time": 8
+    },
     {
       "path": "articles/5S AUTO/Работа с клиентами/Умная маршрутизация входящего звонка",
       "title": "Умная маршрутизация входящего звонка",
@@ -1121,16 +1131,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Работа с клиентами/Лента событий",
-      "title": "Лента событий",
-      "type": "articles",
-      "order": 7,
-      "updated_at": "2022-06-27",
-      "date_kind": "updated",
-      "added_at": "2022-06-27",
-      "reading_time": 15
     }
   ]
 }

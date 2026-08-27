@@ -2,7 +2,7 @@
 
 # Лента событий
 
-<table><tr><td><b>Время чтения:</b> 15 мин.</td><td><b>Обновлено:</b> 27.06.2022</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 27.06.2022</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/lenta-sobytiy</sub>
 
