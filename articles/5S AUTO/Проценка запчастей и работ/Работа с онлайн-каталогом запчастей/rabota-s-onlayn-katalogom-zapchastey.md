@@ -6,7 +6,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-onlayn-katalogom-zapchastey</sub>
 
-**1. [Обзор интерфейса онлайн-каталога](https://www.5systems.ru/help/obzor-interfeysa-onlayn-kataloga):**
+**1. [Обзор интерфейса онлайн-каталога](../Обзор%20интерфейса%20Онлайн-каталога/obzor-interfeysa-onlayn-kataloga.md):**
 
 [![Обзор интерфейса онлайн-каталога](attachments/video-1-obzor-interfeysa.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-1_Obzor_interfeysa.mp4)
 

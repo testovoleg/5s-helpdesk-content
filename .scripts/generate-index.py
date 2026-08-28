@@ -143,9 +143,26 @@ def read_order(dir_path: Path) -> list[str]:
     names = []
     for line in order_file.read_text(encoding="utf-8").splitlines():
         name = line.strip()
-        if name and not name.startswith("#"):
+        if name and not name.startswith("#") and not name.startswith("-"):
             names.append(name)
     return names
+
+
+def read_hidden(dir_path: Path) -> set[str]:
+    """Материалы раздела, которых не должно быть в навигации.
+
+    Строка в .order с дефисом в начале: "-Обзор интерфейса Онлайн-каталога".
+    Такая статья лежит в разделе как обычно и открывается по ссылке из другого
+    материала, но в списке раздела не показывается."""
+    order_file = dir_path / ".order"
+    if not order_file.exists():
+        return set()
+    hidden = set()
+    for line in order_file.read_text(encoding="utf-8").splitlines():
+        name = line.strip()
+        if name.startswith("-") and not name.startswith("- "):
+            hidden.add(name[1:].strip())
+    return hidden
 
 
 def is_material(dir_path: Path) -> bool:
@@ -322,6 +339,8 @@ def collect_materials() -> list[dict]:
             }
             if meta.get("reading_time"):
                 material["reading_time"] = meta["reading_time"]
+            if p.name in read_hidden(p.parent):
+                material["hidden"] = True
             if rel in borrowed:
                 material["also_in"] = borrowed[rel]
             materials.append(material)
