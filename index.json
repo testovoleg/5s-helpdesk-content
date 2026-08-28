@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T13:49:14+03:00",
-  "count": 95,
+  "generated_at": "2026-08-28T14:10:32+03:00",
+  "count": 96,
   "sections": {
     "tips": [
       {
@@ -75,13 +75,7 @@
           },
           {
             "name": "Проценка запчастей и работ",
-            "path": "articles/5S AUTO/Проценка запчастей и работ",
-            "sections": [
-              {
-                "name": "Поиск цен",
-                "path": "articles/5S AUTO/Проценка запчастей и работ/Поиск цен"
-              }
-            ]
+            "path": "articles/5S AUTO/Проценка запчастей и работ"
           },
           {
             "name": "Запись на ремонт",
@@ -1157,6 +1151,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Поиск цен",
+      "title": "Поиск цен",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2022-06-17",
+      "reading_time": 20
     }
   ]
 }
