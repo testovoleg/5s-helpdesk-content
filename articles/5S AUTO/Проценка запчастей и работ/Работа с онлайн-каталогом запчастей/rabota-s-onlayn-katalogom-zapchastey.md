@@ -14,7 +14,7 @@
 
 [![Переход в онлайн-каталог](attachments/video-2-perehod-v-katalog.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-2_Varianty_perehoda.mp4)
 
-**3. [Идентификация автомобиля в онлайн-каталоге](https://www.5systems.ru/help/kak-identificirovat-avtomobil-v-onlayn-kataloge):**
+**3. [Идентификация автомобиля в онлайн-каталоге](../Идентификация%20автомобиля%20в%20Онлайн-каталоге/kak-identificirovat-avtomobil-v-onlayn-kataloge.md):**
 
 [![Идентификация автомобиля в онлайн-каталоге](attachments/video-3-identifikaciya-avtomobilya.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-3_Identifikaciya_avtomobilya.mp4)
 
