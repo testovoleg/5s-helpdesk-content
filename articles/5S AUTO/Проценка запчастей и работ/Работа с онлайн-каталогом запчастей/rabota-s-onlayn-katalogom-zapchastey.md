@@ -18,7 +18,7 @@
 
 [![Идентификация автомобиля в онлайн-каталоге](attachments/video-3-identifikaciya-avtomobilya.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-3_Identifikaciya_avtomobilya.mp4)
 
-**4. [Как найти деталь в онлайн-каталоге](https://www.5systems.ru/help/kak-nayti-detal-v-onlayn-kataloge):**
+**4. [Как найти деталь в онлайн-каталоге](../Как%20найти%20деталь%20в%20Онлайн-каталоге/kak-nayti-detal-v-onlayn-kataloge.md):**
 
 [![Как найти деталь в онлайн-каталоге](attachments/video-4-poisk-detali.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-4_Poisk_zapchastey.mp4)
 
