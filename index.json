@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T14:10:32+03:00",
+  "generated_at": "2026-08-28T14:18:35+03:00",
   "count": 96,
   "sections": {
     "tips": [
@@ -225,6 +225,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Поиск цен",
+      "title": "Поиск цен",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-08-28T14:10:19+03:00",
+      "reading_time": 20
+    },
     {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Работа в АРМ Корзина",
       "title": "Работа в АРМ Корзина",
@@ -1151,16 +1161,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Поиск цен",
-      "title": "Поиск цен",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2022-06-17",
-      "date_kind": "updated",
-      "added_at": "2022-06-17",
-      "reading_time": 20
     }
   ]
 }
