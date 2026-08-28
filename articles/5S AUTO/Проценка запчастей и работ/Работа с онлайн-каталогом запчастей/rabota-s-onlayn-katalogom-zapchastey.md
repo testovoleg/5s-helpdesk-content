@@ -10,7 +10,7 @@
 
 [![Обзор интерфейса онлайн-каталога](attachments/video-1-obzor-interfeysa.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-1_Obzor_interfeysa.mp4)
 
-**2. [Переход в онлайн-каталог](https://www.5systems.ru/help/kak-pereyti-v-onlayn-katalog):**
+**2. [Переход в онлайн-каталог](../Как%20перейти%20в%20Онлайн-каталог/kak-pereyti-v-onlayn-katalog.md):**
 
 [![Переход в онлайн-каталог](attachments/video-2-perehod-v-katalog.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-2_Varianty_perehoda.mp4)
 
