@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T14:23:18+03:00",
-  "count": 96,
+  "generated_at": "2026-08-28T14:30:09+03:00",
+  "count": 97,
   "sections": {
     "tips": [
       {
@@ -1161,6 +1161,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Работа с онлайн-каталогом запчастей",
+      "title": "Работа с онлайн-каталогом запчастей",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2022-09-07",
+      "date_kind": "updated",
+      "added_at": "2022-09-07",
+      "reading_time": 10
     }
   ]
 }
