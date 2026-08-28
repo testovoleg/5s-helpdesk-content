@@ -22,7 +22,7 @@
 
 [![Как найти деталь в онлайн-каталоге](attachments/video-4-poisk-detali.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-4_Poisk_zapchastey.mp4)
 
-**5. [Действия с подобранными деталями в онлайн-каталоге](https://www.5systems.ru/help/deystviya-s-podobrannymi-detalyami-v-onlayn-kataloge):**
+**5. [Действия с подобранными деталями в онлайн-каталоге](../Действия%20с%20подобранными%20деталями%20в%20Онлайн-каталоге/deystviya-s-podobrannymi-detalyami-v-onlayn-kataloge.md):**
 
 [![Действия с подобранными деталями в онлайн-каталоге](attachments/video-5-deystviya-s-detalyami.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-5_Obrabotka_rezultatov_poiska.mp4)
 
