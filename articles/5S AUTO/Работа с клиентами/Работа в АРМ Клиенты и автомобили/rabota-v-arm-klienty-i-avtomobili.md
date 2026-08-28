@@ -194,27 +194,27 @@
 
 **1. [Интерфейс АРМ Клиенты и автомобили](https://www.5systems.ru/help/interfeys-arm-klienty-i-avtomobili):**
 
-[![Видео: интерфейс АРМ Клиенты и автомобили](attachments/video-1-interfeys.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_1-Naznachenie_i_interfeys.mp4)
+[![Видео: интерфейс АРМ Клиенты и автомобили](attachments/video-1.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_1-Naznachenie_i_interfeys.mp4)
 
 **2. [Как найти клиента в АРМ Клиенты и автомобили](https://www.5systems.ru/help/kak-nayti-klienta-v-arm-klienty-i-avtomobili):**
 
-[![Видео: как найти клиента](attachments/video-2-poisk-klienta.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_2-Stroki_poiska.mp4)
+[![Видео: как найти клиента](attachments/video-2.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_2-Stroki_poiska.mp4)
 
 **3. [Дополнительные критерии поиска в АРМ Клиенты и автомобили](https://www.5systems.ru/help/dopolnitelnye-kriterii-poiska-v-arm-klienty-i-avtomobili):**
 
-[![Видео: дополнительные критерии поиска](attachments/video-3-kriterii-poiska.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_3-Filtry.mp4)
+[![Видео: дополнительные критерии поиска](attachments/video-3.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_3-Filtry.mp4)
 
 **4. [Вкладки АРМ Клиенты и автомобили](https://www.5systems.ru/help/vkladki-arm-klienty-i-avtomobili):**
 
-[![Видео: вкладки АРМ](attachments/video-4-vkladki.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_4-Informacionnye_zakladki.mp4)
+[![Видео: вкладки АРМ](attachments/video-4.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_4-Informacionnye_zakladki.mp4)
 
 **5. [Как создать обращение в АРМ Клиенты и автомобили](https://www.5systems.ru/help/kak-sozdat-obraschenie-v-arm-klienty-i-avtomobili):**
 
-[![Видео: как создать обращение](attachments/video-5-obrashchenie.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_5-Sozdanie_obrashcheniya_vruchnuyu.mp4)
+[![Видео: как создать обращение](attachments/video-5.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_5-Sozdanie_obrashcheniya_vruchnuyu.mp4)
 
 **6. [Как перейти в другие АРМ из Клиенты и автомобили](https://www.5systems.ru/help/kak-pereyti-v-drugie-arm-iz-klienty-i-avtomobili):**
 
-[![Видео: переход в другие АРМ](attachments/video-6-perehod-v-arm.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_6-Perehod_v_drugie_ARM.mp4)
+[![Видео: переход в другие АРМ](attachments/video-6.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_6-Perehod_v_drugie_ARM.mp4)
 
 ---
 
