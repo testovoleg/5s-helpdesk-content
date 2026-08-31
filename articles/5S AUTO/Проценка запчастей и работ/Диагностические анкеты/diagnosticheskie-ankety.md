@@ -189,7 +189,9 @@
 
 ## Видео по теме
 
-**[Курс «Диагностические анкеты» — вебинар 5SYSTEMS 09.12.2020](https://www.youtube.com/watch?v=zdsD17fXSy0)** ([запись на edu.5systems.ru](https://edu.5systems.ru/video/archive/Kurs_Diagnosticheskie_ankety-Vebinar_5SYSTEMS_09.12.2020.mp4)).
+**[Курс «Диагностические анкеты» — вебинар 5SYSTEMS 09.12.2020](https://www.youtube.com/watch?v=zdsD17fXSy0):**
+
+[![Курс «Диагностические анкеты» — вебинар 5SYSTEMS 09.12.2020](attachments/video.png)](https://edu.5systems.ru/video/archive/Kurs_Diagnosticheskie_ankety-Vebinar_5SYSTEMS_09.12.2020.mp4)
 
 ---
 
