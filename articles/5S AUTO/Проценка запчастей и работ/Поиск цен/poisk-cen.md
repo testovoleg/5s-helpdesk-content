@@ -228,7 +228,7 @@
 
 [![Что отображается в предложениях поставщиков](attachments/video-2-spisok_predlozhenij.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-2_Spisok_predlozheniy.mp4)
 
-**3. [Как перейти в Поиск цен](https://www.5systems.ru/help/kak-pereyti-v-poisk-cen):**
+**3. [Как перейти в Поиск цен](../Как%20перейти%20в%20Поиск%20цен/kak-pereyti-v-poisk-cen.md):**
 
 [![Как перейти в Поиск цен](attachments/video-3-varianty_perehoda.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-3_Varianty_perehoda.mp4)
 
