@@ -355,7 +355,7 @@
 
 [![Как добавить варианты поставки в Корзину](attachments/video-3-varianty_postavki.png)](https://edu.5systems.ru/video/Korzina/Korzina-3_Varianty_postavki.mp4)
 
-**4. [Информационные вкладки Корзины](https://www.5systems.ru/help/informacionnye-vkladki-korziny):**
+**4. [Информационные вкладки Корзины](../Информационные%20вкладки%20Корзины/informacionnye-vkladki-korziny.md):**
 
 [![Информационные вкладки Корзины](attachments/video-4-vkladki.png)](https://edu.5systems.ru/video/Korzina/Korzina-4_Vkladki.mp4)
 
