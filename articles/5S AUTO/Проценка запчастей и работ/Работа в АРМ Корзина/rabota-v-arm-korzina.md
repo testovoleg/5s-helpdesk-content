@@ -385,23 +385,23 @@
 
 ### 2. Видеоинструкции по теме «Работа с онлайн-каталогом»
 
-**1. [Обзор интерфейса Онлайн-каталога](https://www.5systems.ru/help/obzor-interfeysa-onlayn-kataloga):**
+**1. [Обзор интерфейса Онлайн-каталога](../Обзор%20интерфейса%20Онлайн-каталога/obzor-interfeysa-onlayn-kataloga.md):**
 
 [![Обзор интерфейса Онлайн-каталога](attachments/video-11-obzor_interfeisa_online_kataloga.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-1_Obzor_interfeysa.mp4)
 
-**2. [Как перейти в Онлайн-каталог](https://www.5systems.ru/help/kak-pereyti-v-onlayn-katalog):**
+**2. [Как перейти в Онлайн-каталог](../Как%20перейти%20в%20Онлайн-каталог/kak-pereyti-v-onlayn-katalog.md):**
 
 [![Как перейти в Онлайн-каталог](attachments/video-12-varianty_perehoda_v_online_katalog.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-2_Varianty_perehoda.mp4)
 
-**3. [Как идентифицировать автомобиль в Онлайн-каталоге](https://www.5systems.ru/help/kak-identificirovat-avtomobil-v-onlayn-kataloge):**
+**3. [Как идентифицировать автомобиль в Онлайн-каталоге](../Идентификация%20автомобиля%20в%20Онлайн-каталоге/kak-identificirovat-avtomobil-v-onlayn-kataloge.md):**
 
 [![Как идентифицировать автомобиль в Онлайн-каталоге](attachments/video-13-identifikaciya_avtomobilya_v_online_kataloge.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-3_Identifikaciya_avtomobilya.mp4)
 
-**4. [Как найти деталь в Онлайн-каталоге](https://www.5systems.ru/help/kak-nayti-detal-v-onlayn-kataloge):**
+**4. [Как найти деталь в Онлайн-каталоге](../Как%20найти%20деталь%20в%20Онлайн-каталоге/kak-nayti-detal-v-onlayn-kataloge.md):**
 
 [![Как найти деталь в Онлайн-каталоге](attachments/video-14-poisk_zapchastey_v_online_kataloge.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-4_Poisk_zapchastey.mp4)
 
-**5. [Действия с подобранными деталями в Онлайн-каталоге](https://www.5systems.ru/help/deystviya-s-podobrannymi-detalyami-v-onlayn-kataloge):**
+**5. [Действия с подобранными деталями в Онлайн-каталоге](../Действия%20с%20подобранными%20деталями%20в%20Онлайн-каталоге/deystviya-s-podobrannymi-detalyami-v-onlayn-kataloge.md):**
 
 [![Действия с подобранными деталями в Онлайн-каталоге](attachments/video-15-obrabotka_rezultata_poiska.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-5_Obrabotka_rezultatov_poiska.mp4)
 
