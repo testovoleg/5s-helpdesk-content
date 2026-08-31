@@ -224,7 +224,7 @@
 
 [![Назначение и интерфейс Поиска цен](attachments/video-1-naznachenie_i_interfeys.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-1_Naznachenie_i_interfeys.mp4)
 
-**2. [Что отображается в предложениях поставщиков](https://www.5systems.ru/help/chto-otobrazhaetsya-v-predlozheniyakh-postavschikov):**
+**2. [Что отображается в предложениях поставщиков](../Что%20отображается%20в%20предложениях%20поставщиков/chto-otobrazhaetsya-v-predlozheniyakh-postavschikov.md):**
 
 [![Что отображается в предложениях поставщиков](attachments/video-2-spisok_predlozhenij.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-2_Spisok_predlozheniy.mp4)
 

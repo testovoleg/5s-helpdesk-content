@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T14:48:50+03:00",
-  "count": 114,
+  "generated_at": "2026-08-31T14:51:42+03:00",
+  "count": 115,
   "sections": {
     "tips": [
       {
@@ -1357,6 +1357,17 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Что отображается в предложениях поставщиков",
+      "title": "Что отображается в предложениях поставщиков",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2022-06-17",
+      "reading_time": 2,
+      "hidden": true
     }
   ]
 }
