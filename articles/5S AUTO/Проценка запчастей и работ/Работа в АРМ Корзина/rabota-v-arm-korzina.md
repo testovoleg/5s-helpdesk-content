@@ -363,7 +363,7 @@
 
 [![Как подбирать автоработы в АРМ Корзина](attachments/video-5-podbor_avtorabot.png)](https://edu.5systems.ru/video/Korzina/Korzina-5_Podbor_avtorabot.mp4)
 
-**6. [Как создать автомобиль в Корзине](https://www.5systems.ru/help/kak-sozdat-avtomobil-v-korzine):**
+**6. [Как создать автомобиль в Корзине](../Как%20создать%20автомобиль%20в%20Корзине/kak-sozdat-avtomobil-v-korzine.md):**
 
 [![Как создать автомобиль в Корзине](attachments/video-6-sozdanie_avtomobilya.png)](https://edu.5systems.ru/video/Korzina/Korzina-6_Sozdanie_avtomobilya.mp4)
 
