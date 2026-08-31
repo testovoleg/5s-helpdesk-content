@@ -343,7 +343,7 @@
 
 ### 1. Видеоинструкции по теме «АРМ Корзина»
 
-**1. [Назначение и интерфейс АРМ «Корзина»](https://www.5systems.ru/help/naznachenie-i-interfeys-arm-korzina):**
+**1. [Назначение и интерфейс АРМ «Корзина»](../Назначение%20и%20интерфейс%20АРМ%20Корзина/naznachenie-i-interfeys-arm-korzina.md):**
 
 [![Назначение и интерфейс АРМ «Корзина»](attachments/video-1-naznachenie_i_interfeys.png)](https://edu.5systems.ru/video/Korzina/Korzina-1_Naznachenie_i_interfeys.mp4)
 
