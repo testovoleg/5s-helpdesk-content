@@ -371,7 +371,7 @@
 
 [![Как распечатать Корзину или отправить в мессенджер](attachments/video-7-pechat_i_otpravka_v_messendjer.png)](https://edu.5systems.ru/video/Korzina/Korzina-7_Pechat_ili_otpravka_v_messendjer.mp4)
 
-**8. [Как выгрузить Корзину в другие АРМ](https://www.5systems.ru/help/kak-vygruzit-korzinu-v-drugie-arm):**
+**8. [Как выгрузить Корзину в другие АРМ](../Как%20выгрузить%20Корзину%20в%20другие%20АРМ/kak-vygruzit-korzinu-v-drugie-arm.md):**
 
 [![Как выгрузить Корзину в другие АРМ](attachments/video-8-vygruzka_v_drugie_arm.png)](https://edu.5systems.ru/video/Korzina/Korzina-8_Vygruzka_v_drugie_ARM.mp4)
 
