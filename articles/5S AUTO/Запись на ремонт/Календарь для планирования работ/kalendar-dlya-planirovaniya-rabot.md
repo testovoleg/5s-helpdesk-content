@@ -95,7 +95,7 @@
 
 ## Видеоинструкции по работе с АРМ «Запись на ремонт»
 
-**1. [Назначение и интерфейс АРМ Запись на ремонт](https://www.5systems.ru/help/obzor-interfeysa-arm-zapis-na-remont):**
+**1. [Назначение и интерфейс АРМ Запись на ремонт](../Назначение%20и%20интерфейс%20АРМ%20Запись%20на%20ремонт/naznachenie-i-interfeys-arm-zapis-na-remont.md):**
 
 **2. [Как записать клиента из Корзины](https://www.5systems.ru/help/kak-zapisat-klienta-iz-korziny):**
 
