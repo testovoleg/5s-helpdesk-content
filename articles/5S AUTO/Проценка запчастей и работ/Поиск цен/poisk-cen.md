@@ -244,7 +244,7 @@
 
 [![Как работать с аналогами в Поиске цен](attachments/video-6-rabota_s_analogami.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-6_Rabota_s_analogami.mp4)
 
-**7. [Как изменить параметры Поиска цен](https://www.5systems.ru/help/kak-izmenit-parametry-poiska-cen):**
+**7. [Как изменить параметры Поиска цен](../Как%20изменить%20параметры%20Поиска%20цен/kak-izmenit-parametry-poiska-cen.md):**
 
 [![Как изменить параметры Поиска цен](attachments/video-7-izmenenie_parametrov.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-7_Izmenenie_parametrov.mp4)
 
