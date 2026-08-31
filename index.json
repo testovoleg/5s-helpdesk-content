@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T15:21:04+03:00",
-  "count": 120,
+  "generated_at": "2026-08-31T15:36:01+03:00",
+  "count": 121,
   "sections": {
     "tips": [
       {
@@ -226,6 +226,17 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Как изменить параметры Поиска цен",
+      "title": "Как изменить параметры Поиска цен",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T15:20:47+03:00",
+      "reading_time": 2,
+      "hidden": true
+    },
+    {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Как работать с аналогами в Поиске цен",
       "title": "Как работать с аналогами в Поиске цен",
       "type": "articles",
@@ -410,6 +421,16 @@
       "date_kind": "updated",
       "added_at": "2026-08-31T08:23:48+03:00",
       "reading_time": 15
+    },
+    {
+      "path": "articles/5S AUTO/Запись на ремонт/Начальные настройки для работы в АРМ Запись на ремонт",
+      "title": "Начальные настройки для работы в АРМ «Запись на ремонт»",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2026-08-31",
+      "date_kind": "updated",
+      "added_at": "2026-08-31",
+      "reading_time": 7
     },
     {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Действия с подобранными деталями в Онлайн-каталоге",
@@ -1412,17 +1433,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Как изменить параметры Поиска цен",
-      "title": "Как изменить параметры Поиска цен",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2022-06-17",
-      "date_kind": "updated",
-      "added_at": "2022-06-17",
-      "reading_time": 2,
-      "hidden": true
     }
   ]
 }
