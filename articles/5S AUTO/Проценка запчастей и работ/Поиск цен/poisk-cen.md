@@ -240,7 +240,7 @@
 
 [![Как работает фильтрация и сортировка в Поиске цен](attachments/video-5-filtraciya_i_sortirovka.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-5_Filtraciya_i_sortirovka.mp4)
 
-**6. [Как работать с аналогами в Поиске цен](https://www.5systems.ru/help/kak-rabotat-s-analogami-v-poiske-cen):**
+**6. [Как работать с аналогами в Поиске цен](../Как%20работать%20с%20аналогами%20в%20Поиске%20цен/kak-rabotat-s-analogami-v-poiske-cen.md):**
 
 [![Как работать с аналогами в Поиске цен](attachments/video-6-rabota_s_analogami.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-6_Rabota_s_analogami.mp4)
 
