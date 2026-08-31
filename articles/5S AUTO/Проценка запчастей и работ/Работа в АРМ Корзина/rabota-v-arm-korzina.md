@@ -367,7 +367,7 @@
 
 [![Как создать автомобиль в Корзине](attachments/video-6-sozdanie_avtomobilya.png)](https://edu.5systems.ru/video/Korzina/Korzina-6_Sozdanie_avtomobilya.mp4)
 
-**7. [Как распечатать Корзину или отправить в мессенджер](https://www.5systems.ru/help/kak-raspechatat-korzinu-ili-otpravit-v-messendzher):**
+**7. [Как распечатать Корзину или отправить в мессенджер](../Как%20распечатать%20Корзину%20или%20отправить%20в%20мессенджер/kak-raspechatat-korzinu-ili-otpravit-v-messendzher.md):**
 
 [![Как распечатать Корзину или отправить в мессенджер](attachments/video-7-pechat_i_otpravka_v_messendjer.png)](https://edu.5systems.ru/video/Korzina/Korzina-7_Pechat_ili_otpravka_v_messendjer.mp4)
 
