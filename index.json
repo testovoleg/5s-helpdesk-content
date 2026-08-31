@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T14:40:00+03:00",
-  "count": 113,
+  "generated_at": "2026-08-31T14:47:15+03:00",
+  "count": 114,
   "sections": {
     "tips": [
       {
@@ -1346,6 +1346,17 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Назначение и интерфейс Поиска цен",
+      "title": "Назначение и интерфейс Поиска цен",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2022-06-17",
+      "reading_time": 4,
+      "hidden": true
     }
   ]
 }

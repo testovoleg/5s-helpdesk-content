@@ -220,7 +220,7 @@
 
 ## Видеоинструкции по работе с Поиском цен
 
-**1. [Назначение и интерфейс Поиска цен](https://www.5systems.ru/help/naznachenie-i-interfeys-poiska-cen):**
+**1. [Назначение и интерфейс Поиска цен](../Назначение%20и%20интерфейс%20Поиска%20цен/naznachenie-i-interfeys-poiska-cen.md):**
 
 [![Назначение и интерфейс Поиска цен](attachments/video-1-naznachenie_i_interfeys.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-1_Naznachenie_i_interfeys.mp4)
 
