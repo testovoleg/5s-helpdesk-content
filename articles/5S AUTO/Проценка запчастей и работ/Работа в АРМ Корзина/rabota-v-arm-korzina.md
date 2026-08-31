@@ -347,7 +347,7 @@
 
 [![Назначение и интерфейс АРМ «Корзина»](attachments/video-1-naznachenie_i_interfeys.png)](https://edu.5systems.ru/video/Korzina/Korzina-1_Naznachenie_i_interfeys.mp4)
 
-**2. [Как подбирать запасные части в АРМ Корзина](https://www.5systems.ru/help/kak-podbirat-zapasnye-chasti-v-arm-korzina):**
+**2. [Как подбирать запасные части в АРМ Корзина](../Как%20подбирать%20запасные%20части%20в%20АРМ%20Корзина/kak-podbirat-zapasnye-chasti-v-arm-korzina.md):**
 
 [![Как подбирать запасные части в АРМ Корзина](attachments/video-2-podbor_zapchastey.png)](https://edu.5systems.ru/video/Korzina/Korzina-2_Podbor_zapchastey.mp4)
 
