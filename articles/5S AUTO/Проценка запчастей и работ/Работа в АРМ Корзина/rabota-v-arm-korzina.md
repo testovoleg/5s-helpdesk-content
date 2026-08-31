@@ -375,7 +375,7 @@
 
 [![Как выгрузить Корзину в другие АРМ](attachments/video-8-vygruzka_v_drugie_arm.png)](https://edu.5systems.ru/video/Korzina/Korzina-8_Vygruzka_v_drugie_ARM.mp4)
 
-**9. [Как создать документы на основании Корзины](https://www.5systems.ru/help/kak-sozdat-dokumenty-na-osnovanii-korziny):**
+**9. [Как создать документы на основании Корзины](../Как%20создать%20документы%20на%20основании%20Корзины/kak-sozdat-dokumenty-na-osnovanii-korziny.md):**
 
 [![Как создать документы на основании Корзины](attachments/video-9-sozdanie_dokumentov.png)](https://edu.5systems.ru/video/Korzina/Korzina-9_Sozdanie_dokumentov_iz_Korziny.mp4)
 
