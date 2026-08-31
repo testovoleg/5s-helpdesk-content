@@ -379,7 +379,7 @@
 
 [![Как создать документы на основании Корзины](attachments/video-9-sozdanie_dokumentov.png)](https://edu.5systems.ru/video/Korzina/Korzina-9_Sozdanie_dokumentov_iz_Korziny.mp4)
 
-**10. [Помощник оформления заказа покупателя в АРМ Корзина](https://www.5systems.ru/help/pomoschnik-oformleniya-zakaza-pokupatelya-v-arm-korzina):**
+**10. [Помощник оформления заказа покупателя в АРМ Корзина](../Помощник%20оформления%20Заказа%20покупателя%20в%20АРМ%20Корзина/pomoschnik-oformleniya-zakaza-pokupatelya-v-arm-korzina.md):**
 
 [![Помощник оформления заказа покупателя в АРМ Корзина](attachments/video-10-pomoshchnik_oformleniya_zakaza_pokupatelya.png)](https://edu.5systems.ru/video/Korzina/Korzina-10_Pomoshchnik_oformleniya_Zakaza_pokupatelya.mp4)
 
