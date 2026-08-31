@@ -359,7 +359,7 @@
 
 [![Информационные вкладки Корзины](attachments/video-4-vkladki.png)](https://edu.5systems.ru/video/Korzina/Korzina-4_Vkladki.mp4)
 
-**5. [Как подбирать автоработы в АРМ Корзина](https://www.5systems.ru/help/kak-podbirat-avtoraboty-v-arm-korzina):**
+**5. [Как подбирать автоработы в АРМ Корзина](../Как%20подбирать%20автоработы%20в%20АРМ%20Корзина/kak-podbirat-avtoraboty-v-arm-korzina.md):**
 
 [![Как подбирать автоработы в АРМ Корзина](attachments/video-5-podbor_avtorabot.png)](https://edu.5systems.ru/video/Korzina/Korzina-5_Podbor_avtorabot.mp4)
 
