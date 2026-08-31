@@ -236,7 +236,7 @@
 
 [![Как проценить деталь по артикулу](attachments/video-4-primer_procenki_po_artikulu.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-4_Procenka_po_artikulu.mp4)
 
-**5. [Как работает фильтрация и сортировка в Поиске цен](https://www.5systems.ru/help/kak-rabotaet-filtraciya-i-sortirovka-v-poiske-cen):**
+**5. [Как работает фильтрация и сортировка в Поиске цен](../Как%20работает%20фильтрация%20и%20сортировка%20в%20Поиске%20цен/kak-rabotaet-filtraciya-i-sortirovka-v-poiske-cen.md):**
 
 [![Как работает фильтрация и сортировка в Поиске цен](attachments/video-5-filtraciya_i_sortirovka.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-5_Filtraciya_i_sortirovka.mp4)
 
