@@ -351,7 +351,7 @@
 
 [![Как подбирать запасные части в АРМ Корзина](attachments/video-2-podbor_zapchastey.png)](https://edu.5systems.ru/video/Korzina/Korzina-2_Podbor_zapchastey.mp4)
 
-**3. [Как добавить варианты поставки в Корзину](https://www.5systems.ru/help/kak-dobavit-varianty-postavki-v-korzinu):**
+**3. [Как добавить варианты поставки в Корзину](../Как%20добавить%20варианты%20поставки%20в%20Корзину/kak-dobavit-varianty-postavki-v-korzinu.md):**
 
 [![Как добавить варианты поставки в Корзину](attachments/video-3-varianty_postavki.png)](https://edu.5systems.ru/video/Korzina/Korzina-3_Varianty_postavki.mp4)
 
