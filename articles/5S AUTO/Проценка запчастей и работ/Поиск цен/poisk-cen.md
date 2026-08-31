@@ -232,7 +232,7 @@
 
 [![Как перейти в Поиск цен](attachments/video-3-varianty_perehoda.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-3_Varianty_perehoda.mp4)
 
-**4. [Как проценить деталь по артикулу](https://www.5systems.ru/help/kak-procenit-detal-po-artikulu):**
+**4. [Как проценить деталь по артикулу](../Как%20проценить%20деталь%20по%20артикулу/kak-procenit-detal-po-artikulu.md):**
 
 [![Как проценить деталь по артикулу](attachments/video-4-primer_procenki_po_artikulu.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-4_Procenka_po_artikulu.mp4)
 
