@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:45:59+03:00",
+  "generated_at": "2026-09-01T12:54:10+03:00",
   "count": 139,
   "sections": {
     "tips": [
@@ -609,6 +609,22 @@
       "hidden": true
     },
     {
+      "path": "articles/5S AUTO/Автосервис/Диагностические анкеты",
+      "title": "Диагностические анкеты",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2022-06-16",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T08:23:48+03:00",
+      "reading_time": 15,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Проценка запчастей и работ",
+          "order": 3
+        }
+      ]
+    },
+    {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Действия с подобранными деталями в Онлайн-каталоге",
       "title": "Действия с подобранными деталями в Онлайн-каталоге",
       "type": "articles",
@@ -824,38 +840,6 @@
       "reading_time": 13
     },
     {
-      "path": "articles/5S AUTO/Задачи/Типы задач",
-      "title": "Типы задач",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2023-06-26",
-      "date_kind": "updated",
-      "added_at": "2026-08-26T11:55:15+03:00",
-      "reading_time": 14,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/CRM",
-          "order": 18
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/Приглашение в Telegram",
-      "title": "Приглашение в Telegram",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2025-12-26",
-      "date_kind": "updated",
-      "added_at": "2026-08-26T11:36:47+03:00",
-      "reading_time": 4,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/CRM",
-          "order": 17
-        }
-      ]
-    },
-    {
       "path": "articles/5S AUTO/Сообщения/Настройка шаблонов WhatsApp Business API",
       "title": "Настройка шаблонов WhatsApp Business API",
       "type": "articles",
@@ -944,22 +928,6 @@
         {
           "path": "articles/5S AUTO/CRM",
           "order": 9
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/Чаты клиента",
-      "title": "Чаты клиента",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2024-11-01",
-      "date_kind": "updated",
-      "added_at": "2026-08-26T10:10:48+03:00",
-      "reading_time": 7,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/CRM",
-          "order": 8
         }
       ]
     },
@@ -1611,18 +1579,50 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Автосервис/Диагностические анкеты",
-      "title": "Диагностические анкеты",
+      "path": "articles/5S AUTO/CRM/Приглашение в Telegram",
+      "title": "Приглашение в Telegram",
       "type": "articles",
-      "order": 7,
-      "updated_at": "2022-06-16",
+      "order": 17,
+      "updated_at": "2025-12-26",
       "date_kind": "updated",
-      "added_at": "2022-06-16",
-      "reading_time": 15,
+      "added_at": "2025-12-26",
+      "reading_time": 4,
       "also_in": [
         {
-          "path": "articles/5S AUTO/Проценка запчастей и работ",
-          "order": 3
+          "path": "articles/5S AUTO/Сообщения",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "path": "articles/5S AUTO/CRM/Чаты клиента",
+      "title": "Чаты клиента",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2024-11-01",
+      "date_kind": "updated",
+      "added_at": "2024-11-01",
+      "reading_time": 7,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Сообщения",
+          "order": 0
+        }
+      ]
+    },
+    {
+      "path": "articles/5S AUTO/CRM/Типы задач",
+      "title": "Типы задач",
+      "type": "articles",
+      "order": 18,
+      "updated_at": "2023-06-26",
+      "date_kind": "updated",
+      "added_at": "2023-06-26",
+      "reading_time": 14,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Задачи",
+          "order": 0
         }
       ]
     }
