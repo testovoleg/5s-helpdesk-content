@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T15:55:01+03:00",
-  "count": 123,
+  "generated_at": "2026-09-01T08:56:19+03:00",
+  "count": 124,
   "sections": {
     "tips": [
       {
@@ -226,6 +226,28 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Запись на ремонт/Как записать клиента из Корзины",
+      "title": "Как записать клиента из Корзины",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 2,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Запись на ремонт/Назначение и интерфейс АРМ Запись на ремонт",
+      "title": "Назначение и интерфейс АРМ Запись на ремонт",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2026-08-31",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T15:54:44+03:00",
+      "reading_time": 4,
+      "hidden": true
+    },
+    {
       "path": "articles/5S AUTO/Запись на ремонт/Календарь для планирования работ",
       "title": "Календарь для планирования работ",
       "type": "articles",
@@ -441,17 +463,6 @@
       "date_kind": "updated",
       "added_at": "2026-08-31T08:23:48+03:00",
       "reading_time": 15
-    },
-    {
-      "path": "articles/5S AUTO/Запись на ремонт/Назначение и интерфейс АРМ Запись на ремонт",
-      "title": "Назначение и интерфейс АРМ Запись на ремонт",
-      "type": "articles",
-      "order": 5,
-      "updated_at": "2026-08-31",
-      "date_kind": "updated",
-      "added_at": "2026-08-31",
-      "reading_time": 4,
-      "hidden": true
     },
     {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Действия с подобранными деталями в Онлайн-каталоге",

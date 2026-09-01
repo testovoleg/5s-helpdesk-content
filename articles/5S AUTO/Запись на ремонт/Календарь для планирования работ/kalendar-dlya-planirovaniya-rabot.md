@@ -97,7 +97,7 @@
 
 **1. [Назначение и интерфейс АРМ Запись на ремонт](../Назначение%20и%20интерфейс%20АРМ%20Запись%20на%20ремонт/naznachenie-i-interfeys-arm-zapis-na-remont.md):**
 
-**2. [Как записать клиента из Корзины](https://www.5systems.ru/help/kak-zapisat-klienta-iz-korziny):**
+**2. [Как записать клиента из Корзины](../Как%20записать%20клиента%20из%20Корзины/kak-zapisat-klienta-iz-korziny.md):**
 
 **3. [Как записать клиента из Заказ наряда](https://www.5systems.ru/help/kak-zapisat-klienta-iz-zakaz-naryada):**
 
