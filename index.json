@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T08:56:19+03:00",
+  "generated_at": "2026-09-01T09:17:38+03:00",
   "count": 124,
   "sections": {
     "tips": [
@@ -232,7 +232,7 @@
       "order": 5,
       "updated_at": "2026-09-01",
       "date_kind": "updated",
-      "added_at": "2026-09-01",
+      "added_at": "2026-09-01T08:55:44+03:00",
       "reading_time": 2,
       "hidden": true
     },
@@ -252,7 +252,7 @@
       "title": "Календарь для планирования работ",
       "type": "articles",
       "order": 1,
-      "updated_at": "2026-08-31",
+      "updated_at": "2026-09-01",
       "date_kind": "updated",
       "added_at": "2026-08-31T15:50:40+03:00",
       "reading_time": 9
