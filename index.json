@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:54:10+03:00",
+  "generated_at": "2026-09-01T13:13:21+03:00",
   "count": 139,
   "sections": {
     "tips": [
@@ -240,7 +240,7 @@
       "title": "Подключение внешней печатной формы «Печать рекомендаций»",
       "type": "articles",
       "order": 6,
-      "updated_at": "2024-04-26",
+      "updated_at": "2026-09-01",
       "date_kind": "updated",
       "added_at": "2026-09-01T11:35:39+03:00",
       "reading_time": 6
@@ -840,6 +840,38 @@
       "reading_time": 13
     },
     {
+      "path": "articles/5S AUTO/CRM/Типы задач",
+      "title": "Типы задач",
+      "type": "articles",
+      "order": 18,
+      "updated_at": "2023-06-26",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T11:55:15+03:00",
+      "reading_time": 14,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Задачи",
+          "order": 0
+        }
+      ]
+    },
+    {
+      "path": "articles/5S AUTO/CRM/Приглашение в Telegram",
+      "title": "Приглашение в Telegram",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2025-12-26",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T11:36:47+03:00",
+      "reading_time": 4,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Сообщения",
+          "order": 2
+        }
+      ]
+    },
+    {
       "path": "articles/5S AUTO/Сообщения/Настройка шаблонов WhatsApp Business API",
       "title": "Настройка шаблонов WhatsApp Business API",
       "type": "articles",
@@ -928,6 +960,22 @@
         {
           "path": "articles/5S AUTO/CRM",
           "order": 9
+        }
+      ]
+    },
+    {
+      "path": "articles/5S AUTO/CRM/Чаты клиента",
+      "title": "Чаты клиента",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2024-11-01",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T10:10:48+03:00",
+      "reading_time": 7,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Сообщения",
+          "order": 0
         }
       ]
     },
@@ -1577,54 +1625,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/CRM/Приглашение в Telegram",
-      "title": "Приглашение в Telegram",
-      "type": "articles",
-      "order": 17,
-      "updated_at": "2025-12-26",
-      "date_kind": "updated",
-      "added_at": "2025-12-26",
-      "reading_time": 4,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Сообщения",
-          "order": 2
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/CRM/Чаты клиента",
-      "title": "Чаты клиента",
-      "type": "articles",
-      "order": 8,
-      "updated_at": "2024-11-01",
-      "date_kind": "updated",
-      "added_at": "2024-11-01",
-      "reading_time": 7,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Сообщения",
-          "order": 0
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/CRM/Типы задач",
-      "title": "Типы задач",
-      "type": "articles",
-      "order": 18,
-      "updated_at": "2023-06-26",
-      "date_kind": "updated",
-      "added_at": "2023-06-26",
-      "reading_time": 14,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Задачи",
-          "order": 0
-        }
-      ]
     }
   ]
 }
