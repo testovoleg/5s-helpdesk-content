@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T17:14:08+03:00",
+  "generated_at": "2026-09-01T17:16:09+03:00",
   "count": 162,
   "sections": {
     "tips": [
@@ -232,11 +232,21 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Автосервис/Корректировка пробега автомобиля",
+      "title": "Корректировка пробега автомобиля",
+      "type": "articles",
+      "order": 20,
+      "updated_at": "2024-08-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T17:13:55+03:00",
+      "reading_time": 5
+    },
+    {
       "path": "articles/5S AUTO/Автосервис/Установка норм времени по моделям двигателей и КПП",
       "title": "Установка норм времени по моделям двигателей и КПП",
       "type": "articles",
       "order": 19,
-      "updated_at": "2022-12-01",
+      "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-01T17:06:58+03:00",
       "reading_time": 8
@@ -1859,16 +1869,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Корректировка пробега автомобиля",
-      "title": "Корректировка пробега автомобиля",
-      "type": "articles",
-      "order": 20,
-      "updated_at": "2024-08-20",
-      "date_kind": "updated",
-      "added_at": "2024-08-20",
-      "reading_time": 5
     }
   ]
 }
