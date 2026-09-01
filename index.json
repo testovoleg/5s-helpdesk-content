@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:40:40+03:00",
+  "generated_at": "2026-09-01T11:45:59+03:00",
   "count": 139,
   "sections": {
     "tips": [
@@ -225,6 +225,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с расходными материалами",
+      "title": "Работа с расходными материалами",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2025-01-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T11:40:26+03:00",
+      "reading_time": 9
+    },
     {
       "path": "articles/5S AUTO/Автосервис/Подключение внешней печатной формы Печать рекомендаций",
       "title": "Подключение внешней печатной формы «Печать рекомендаций»",
@@ -597,22 +607,6 @@
       "added_at": "2026-08-31T08:44:29+03:00",
       "reading_time": 5,
       "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Диагностические анкеты",
-      "title": "Диагностические анкеты",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2022-06-16",
-      "date_kind": "updated",
-      "added_at": "2026-08-31T08:23:48+03:00",
-      "reading_time": 15,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Автосервис",
-          "order": 7
-        }
-      ]
     },
     {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Действия с подобранными деталями в Онлайн-каталоге",
@@ -1617,14 +1611,20 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Автосервис/Работа с расходными материалами",
-      "title": "Работа с расходными материалами",
+      "path": "articles/5S AUTO/Автосервис/Диагностические анкеты",
+      "title": "Диагностические анкеты",
       "type": "articles",
-      "order": 8,
-      "updated_at": "2025-01-31",
+      "order": 7,
+      "updated_at": "2022-06-16",
       "date_kind": "updated",
-      "added_at": "2025-01-31",
-      "reading_time": 9
+      "added_at": "2022-06-16",
+      "reading_time": 15,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Проценка запчастей и работ",
+          "order": 3
+        }
+      ]
     }
   ]
 }
