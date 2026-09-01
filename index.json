@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T16:11:18+03:00",
+  "generated_at": "2026-09-01T16:15:01+03:00",
   "count": 158,
   "sections": {
     "tips": [
@@ -231,6 +231,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Автосервис/Передача смен",
+      "title": "Передача смен",
+      "type": "articles",
+      "order": 16,
+      "updated_at": "2024-01-22",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T16:11:01+03:00",
+      "reading_time": 10
+    },
     {
       "path": "articles/5S AUTO/Автосервис/Пакетная печать",
       "title": "Пакетная печать",
@@ -1819,16 +1829,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Передача смен",
-      "title": "Передача смен",
-      "type": "articles",
-      "order": 16,
-      "updated_at": "2024-01-22",
-      "date_kind": "updated",
-      "added_at": "2024-01-22",
-      "reading_time": 10
     }
   ]
 }
