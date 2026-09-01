@@ -107,7 +107,7 @@
 
 [![Как записать клиента из Заказ наряда](attachments/video-3-zapis_iz_zakaz_naryada.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-3_Zapis_iz_Zakaz-naryada.mp4)
 
-**4. [Как подобрать автоработы из АРМ Запись на ремонт](https://www.5systems.ru/help/kak-podobrat-avtoraboty-iz-arm-zapis-na-remont):**
+**4. [Как подобрать автоработы из АРМ Запись на ремонт](../Как%20подобрать%20автоработы%20из%20АРМ%20Запись%20на%20ремонт/kak-podobrat-avtoraboty-iz-arm-zapis-na-remont.md):**
 
 [![Как подобрать автоработы из АРМ Запись на ремонт](attachments/video-4-podbor_avtorabot.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-4_Podbor_rabot_iz_Zapisi_na_remont.mp4)
 

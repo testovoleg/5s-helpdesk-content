@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T09:26:21+03:00",
-  "count": 125,
+  "generated_at": "2026-09-01T09:30:26+03:00",
+  "count": 126,
   "sections": {
     "tips": [
       {
@@ -244,6 +244,17 @@
       "updated_at": "2026-09-01",
       "date_kind": "updated",
       "added_at": "2026-09-01T08:55:44+03:00",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Запись на ремонт/Как подобрать автоработы из АРМ Запись на ремонт",
+      "title": "Как подобрать автоработы из АРМ Запись на ремонт",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
       "reading_time": 3,
       "hidden": true
     },
