@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T09:56:40+03:00",
-  "count": 130,
+  "generated_at": "2026-09-01T10:01:07+03:00",
+  "count": 131,
   "sections": {
     "tips": [
       {
@@ -299,6 +299,16 @@
       "added_at": "2026-09-01T08:55:44+03:00",
       "reading_time": 3,
       "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Запись на ремонт/Сохранение настроек АРМ Запись на ремонт",
+      "title": "Сохранение настроек АРМ «Запись на ремонт»",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 5
     },
     {
       "path": "articles/5S AUTO/Запись на ремонт/Назначение и интерфейс АРМ Запись на ремонт",
