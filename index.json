@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T09:43:47+03:00",
-  "count": 128,
+  "generated_at": "2026-09-01T09:49:38+03:00",
+  "count": 129,
   "sections": {
     "tips": [
       {
@@ -226,6 +226,17 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Запись на ремонт/Настройки АРМ Запись на ремонт",
+      "title": "Настройки АРМ Запись на ремонт",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T09:43:35+03:00",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
       "path": "articles/5S AUTO/Запись на ремонт/Как редактировать запись на ремонт",
       "title": "Как редактировать запись на ремонт",
       "type": "articles",
@@ -270,15 +281,14 @@
       "hidden": true
     },
     {
-      "path": "articles/5S AUTO/Запись на ремонт/Настройки АРМ Запись на ремонт",
-      "title": "Настройки АРМ Запись на ремонт",
+      "path": "articles/5S AUTO/Запись на ремонт/Планирование работ и подготовка к заезду",
+      "title": "Планирование работ и подготовка к заезду",
       "type": "articles",
-      "order": 5,
+      "order": 2,
       "updated_at": "2026-09-01",
       "date_kind": "updated",
       "added_at": "2026-09-01",
-      "reading_time": 3,
-      "hidden": true
+      "reading_time": 7
     },
     {
       "path": "articles/5S AUTO/Запись на ремонт/Назначение и интерфейс АРМ Запись на ремонт",
