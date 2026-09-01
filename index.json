@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T10:24:26+03:00",
+  "generated_at": "2026-09-01T10:31:21+03:00",
   "count": 132,
   "sections": {
     "tips": [
@@ -226,11 +226,21 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Автосервис/Автомобили",
+      "title": "Автомобили",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-01-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T10:24:12+03:00",
+      "reading_time": 15
+    },
+    {
       "path": "articles/5S AUTO/Запись на ремонт/Сохранение настроек АРМ Запись на ремонт",
       "title": "Сохранение настроек АРМ «Запись на ремонт»",
       "type": "articles",
       "order": 4,
-      "updated_at": "2026-09-01",
+      "updated_at": "2023-08-07",
       "date_kind": "updated",
       "added_at": "2026-09-01T10:00:56+03:00",
       "reading_time": 5
@@ -240,7 +250,7 @@
       "title": "Цветовое оформление планировщика",
       "type": "articles",
       "order": 3,
-      "updated_at": "2026-09-01",
+      "updated_at": "2025-06-17",
       "date_kind": "updated",
       "added_at": "2026-09-01T09:55:05+03:00",
       "reading_time": 6
@@ -250,7 +260,7 @@
       "title": "Планирование работ и подготовка к заезду",
       "type": "articles",
       "order": 2,
-      "updated_at": "2026-09-01",
+      "updated_at": "2022-06-21",
       "date_kind": "updated",
       "added_at": "2026-09-01T09:49:27+03:00",
       "reading_time": 5
@@ -311,16 +321,6 @@
       "hidden": true
     },
     {
-      "path": "articles/5S AUTO/Автосервис/Автомобили",
-      "title": "Автомобили",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2026-09-01",
-      "date_kind": "updated",
-      "added_at": "2026-09-01",
-      "reading_time": 15
-    },
-    {
       "path": "articles/5S AUTO/Запись на ремонт/Назначение и интерфейс АРМ Запись на ремонт",
       "title": "Назначение и интерфейс АРМ Запись на ремонт",
       "type": "articles",
@@ -336,7 +336,7 @@
       "title": "Календарь для планирования работ",
       "type": "articles",
       "order": 1,
-      "updated_at": "2026-09-01",
+      "updated_at": "2025-06-18",
       "date_kind": "updated",
       "added_at": "2026-08-31T15:50:40+03:00",
       "reading_time": 9
@@ -346,7 +346,7 @@
       "title": "Начальные настройки для работы в АРМ «Запись на ремонт»",
       "type": "articles",
       "order": 0,
-      "updated_at": "2026-08-31",
+      "updated_at": "2022-06-17",
       "date_kind": "updated",
       "added_at": "2026-08-31T15:35:48+03:00",
       "reading_time": 7

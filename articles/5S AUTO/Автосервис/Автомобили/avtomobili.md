@@ -2,7 +2,7 @@
 
 # Автомобили
 
-<table><tr><td><b>Время чтения:</b> 15 мин.</td><td><b>Обновлено:</b> 01.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 15 мин.</td><td><b>Обновлено:</b> 29.01.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/avtomobili-0</sub>
 

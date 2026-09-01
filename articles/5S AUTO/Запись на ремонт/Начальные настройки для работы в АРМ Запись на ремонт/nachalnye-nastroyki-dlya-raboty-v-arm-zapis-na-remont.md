@@ -2,7 +2,7 @@
 
 # Начальные настройки для работы в АРМ «Запись на ремонт»
 
-<table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 31.08.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 17.06.2022</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nachalnye-nastroyki-dlya-raboty-v-arm-zapis-na-remont</sub>
 

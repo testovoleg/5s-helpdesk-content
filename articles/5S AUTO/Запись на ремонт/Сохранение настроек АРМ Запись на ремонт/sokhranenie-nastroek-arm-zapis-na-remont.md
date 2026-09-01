@@ -2,7 +2,7 @@
 
 # Сохранение настроек АРМ «Запись на ремонт»
 
-<table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 01.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 07.08.2023</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/sokhranenie-nastroek-arm-zapis-na-remont</sub>
 
