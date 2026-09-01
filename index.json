@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T10:31:21+03:00",
-  "count": 132,
+  "generated_at": "2026-09-01T10:42:17+03:00",
+  "count": 133,
   "sections": {
     "tips": [
       {
@@ -1555,6 +1555,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Модели автомобилей и другие справочники",
+      "title": "Модели автомобилей и другие справочники",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-01-15",
+      "date_kind": "updated",
+      "added_at": "2026-01-15",
+      "reading_time": 8
     }
   ]
 }
