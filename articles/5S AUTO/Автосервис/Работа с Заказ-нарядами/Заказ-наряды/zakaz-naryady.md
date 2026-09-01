@@ -302,35 +302,35 @@
 
 ## Видеоинструкции по работе с Заказ-нарядами
 
-**1. [Обзор интерфейса Заказ-наряда](https://www.5systems.ru/help/obzor-interfeysa-zakaz-naryada):**
+**1. [Обзор интерфейса Заказ-наряда](../Обзор%20интерфейса%20Заказ-наряда/obzor-interfeysa-zakaz-naryada.md):**
 
 [![Обзор интерфейса Заказ-наряда](attachments/video-1-obzor_interfejsa.png)](https://edu.5systems.ru/video/Zakaz-naryad/Zakaz-naryad_1-Obzor_interfeysa.mp4)
 
-**2. [Как создать Заказ-наряд](https://www.5systems.ru/help/kak-sozdat-zakaz-naryad):**
+**2. [Как создать Заказ-наряд](../Как%20создать%20Заказ-наряд/kak-sozdat-zakaz-naryad.md):**
 
 [![Как создать Заказ-наряд](attachments/video-2-sposoby_sozdaniya.png)](https://edu.5systems.ru/video/Zakaz-naryad/Zakaz-naryad_2-Sozdanie_Zakaz-naryada.mp4)
 
-**3. [Как добавить работы в Заказ-наряд](https://www.5systems.ru/help/kak-dobavit-raboty-v-zakaz-naryad):**
+**3. [Как добавить работы в Заказ-наряд](../Как%20добавить%20работы%20в%20Заказ-наряд/kak-dobavit-raboty-v-zakaz-naryad.md):**
 
 [![Как добавить работы в Заказ-наряд](attachments/video-3-spisok_rabot.png)](https://edu.5systems.ru/video/Zakaz-naryad/Zakaz-naryad_3-Spisok_rabot_Zakaz-naryada.mp4)
 
-**4. [Как добавить детали в Заказ-наряд](https://www.5systems.ru/help/kak-dobavit-detali-v-zakaz-naryad):**
+**4. [Как добавить детали в Заказ-наряд](../Как%20добавить%20детали%20в%20Заказ-наряд/kak-dobavit-detali-v-zakaz-naryad.md):**
 
 [![Как добавить детали в Заказ-наряд](attachments/video-4-spisok_detalej.png)](https://edu.5systems.ru/video/Zakaz-naryad/Zakaz-naryad_4-Spisok_detaley_Zakaz-naryada.mp4)
 
-**5. [Как принять оплату по Заказ-наряду](https://www.5systems.ru/help/kak-prinyat-oplatu-po-zakaz-naryadu):**
+**5. [Как принять оплату по Заказ-наряду](../Как%20принять%20оплату%20по%20Заказ-наряду/kak-prinyat-oplatu-po-zakaz-naryadu.md):**
 
 [![Как принять оплату по Заказ-наряду](attachments/video-5-priem_oplaty.png)](https://edu.5systems.ru/video/Zakaz-naryad/Zakaz-naryad_5-Oplata_Zakaz-naryada.mp4)
 
-**6. [Как закрыть Заказ-наряд](https://www.5systems.ru/help/kak-zakryt-zakaz-naryad):**
+**6. [Как закрыть Заказ-наряд](../Как%20закрыть%20Заказ-наряд/kak-zakryt-zakaz-naryad.md):**
 
 [![Как закрыть Заказ-наряд](attachments/video-6-zakrytie_zakaz_naryada.png)](https://edu.5systems.ru/video/Zakaz-naryad/Zakaz-naryad_6-Zakrytie_Zakaz-naryada.mp4)
 
-**7. [Как распечатать Заказ-наряд](https://www.5systems.ru/help/kak-raspechatat-zakaz-naryad):**
+**7. [Как распечатать Заказ-наряд](../Как%20распечатать%20Заказ-наряд/kak-raspechatat-zakaz-naryad.md):**
 
 [![Как распечатать Заказ-наряд](attachments/video-7-pechatnye_formy.png)](https://edu.5systems.ru/video/Zakaz-naryad/Zakaz-naryad_7-Pechat_Zakaz-naryada.mp4)
 
-**8. [Как работать с реестром Заказ-нарядов](https://www.5systems.ru/help/kak-rabotat-s-reestrom-zakaz-naryadov):**
+**8. [Как работать с реестром Заказ-нарядов](../Как%20работать%20с%20реестром%20Заказ-нарядов/kak-rabotat-s-reestrom-zakaz-naryadov.md):**
 
 [![Как работать с реестром Заказ-нарядов](attachments/video-8-rabota_s_reestrom.png)](https://edu.5systems.ru/video/Zakaz-naryad/Zakaz-naryad_8-Reestr.mp4)
 

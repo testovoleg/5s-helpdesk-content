@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T15:01:17+03:00",
-  "count": 142,
+  "generated_at": "2026-09-01T15:13:59+03:00",
+  "count": 150,
   "sections": {
     "tips": [
       {
@@ -232,6 +232,16 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Заказ-наряды",
+      "title": "Заказ-наряды",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-02-06",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:01:04+03:00",
+      "reading_time": 25
+    },
+    {
       "path": "articles/5S AUTO/Автосервис/Гарантийная политика",
       "title": "Гарантийная политика",
       "type": "articles",
@@ -414,6 +424,94 @@
       "date_kind": "updated",
       "added_at": "2026-09-01T08:55:44+03:00",
       "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как добавить детали в Заказ-наряд",
+      "title": "Как добавить детали в Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 1,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как добавить работы в Заказ-наряд",
+      "title": "Как добавить работы в Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 1,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как закрыть Заказ-наряд",
+      "title": "Как закрыть Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 1,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как принять оплату по Заказ-наряду",
+      "title": "Как принять оплату по Заказ-наряду",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 1,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как работать с реестром Заказ-нарядов",
+      "title": "Как работать с реестром Заказ-нарядов",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 1,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как распечатать Заказ-наряд",
+      "title": "Как распечатать Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 1,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как создать Заказ-наряд",
+      "title": "Как создать Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 1,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Обзор интерфейса Заказ-наряда",
+      "title": "Обзор интерфейса Заказ-наряда",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 1,
       "hidden": true
     },
     {
@@ -1651,16 +1749,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Заказ-наряды",
-      "title": "Заказ-наряды",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2025-02-06",
-      "date_kind": "updated",
-      "added_at": "2025-02-06",
-      "reading_time": 25
     }
   ]
 }
