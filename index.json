@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T17:01:39+03:00",
-  "count": 160,
+  "generated_at": "2026-09-01T17:07:12+03:00",
+  "count": 161,
   "sections": {
     "tips": [
       {
@@ -231,6 +231,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Автосервис/Модели двигателей и КПП",
+      "title": "Модели двигателей и КПП",
+      "type": "articles",
+      "order": 18,
+      "updated_at": "2022-11-30",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T17:01:23+03:00",
+      "reading_time": 8
+    },
     {
       "path": "articles/5S AUTO/Автосервис/Сводный акт",
       "title": "Сводный акт",
@@ -1841,13 +1851,13 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Автосервис/Модели двигателей и КПП",
-      "title": "Модели двигателей и КПП",
+      "path": "articles/5S AUTO/Автосервис/Установка норм времени по моделям двигателей и КПП",
+      "title": "Установка норм времени по моделям двигателей и КПП",
       "type": "articles",
-      "order": 18,
-      "updated_at": "2022-11-30",
+      "order": 19,
+      "updated_at": "2022-12-01",
       "date_kind": "updated",
-      "added_at": "2022-11-30",
+      "added_at": "2022-12-01",
       "reading_time": 8
     }
   ]
