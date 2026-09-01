@@ -220,31 +220,31 @@
 
 ## Видеоинструкции по работе с Поиском цен
 
-**1. [Назначение и интерфейс Поиска цен](https://www.5systems.ru/help/naznachenie-i-interfeys-poiska-cen):**
+**1. [Назначение и интерфейс Поиска цен](../Назначение%20и%20интерфейс%20Поиска%20цен/naznachenie-i-interfeys-poiska-cen.md):**
 
 [![Назначение и интерфейс Поиска цен](attachments/video-1-naznachenie_i_interfeys.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-1_Naznachenie_i_interfeys.mp4)
 
-**2. [Что отображается в предложениях поставщиков](https://www.5systems.ru/help/chto-otobrazhaetsya-v-predlozheniyakh-postavschikov):**
+**2. [Что отображается в предложениях поставщиков](../Что%20отображается%20в%20предложениях%20поставщиков/chto-otobrazhaetsya-v-predlozheniyakh-postavschikov.md):**
 
 [![Что отображается в предложениях поставщиков](attachments/video-2-spisok_predlozhenij.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-2_Spisok_predlozheniy.mp4)
 
-**3. [Как перейти в Поиск цен](https://www.5systems.ru/help/kak-pereyti-v-poisk-cen):**
+**3. [Как перейти в Поиск цен](../Как%20перейти%20в%20Поиск%20цен/kak-pereyti-v-poisk-cen.md):**
 
 [![Как перейти в Поиск цен](attachments/video-3-varianty_perehoda.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-3_Varianty_perehoda.mp4)
 
-**4. [Как проценить деталь по артикулу](https://www.5systems.ru/help/kak-procenit-detal-po-artikulu):**
+**4. [Как проценить деталь по артикулу](../Как%20проценить%20деталь%20по%20артикулу/kak-procenit-detal-po-artikulu.md):**
 
 [![Как проценить деталь по артикулу](attachments/video-4-primer_procenki_po_artikulu.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-4_Procenka_po_artikulu.mp4)
 
-**5. [Как работает фильтрация и сортировка в Поиске цен](https://www.5systems.ru/help/kak-rabotaet-filtraciya-i-sortirovka-v-poiske-cen):**
+**5. [Как работает фильтрация и сортировка в Поиске цен](../Как%20работает%20фильтрация%20и%20сортировка%20в%20Поиске%20цен/kak-rabotaet-filtraciya-i-sortirovka-v-poiske-cen.md):**
 
 [![Как работает фильтрация и сортировка в Поиске цен](attachments/video-5-filtraciya_i_sortirovka.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-5_Filtraciya_i_sortirovka.mp4)
 
-**6. [Как работать с аналогами в Поиске цен](https://www.5systems.ru/help/kak-rabotat-s-analogami-v-poiske-cen):**
+**6. [Как работать с аналогами в Поиске цен](../Как%20работать%20с%20аналогами%20в%20Поиске%20цен/kak-rabotat-s-analogami-v-poiske-cen.md):**
 
 [![Как работать с аналогами в Поиске цен](attachments/video-6-rabota_s_analogami.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-6_Rabota_s_analogami.mp4)
 
-**7. [Как изменить параметры Поиска цен](https://www.5systems.ru/help/kak-izmenit-parametry-poiska-cen):**
+**7. [Как изменить параметры Поиска цен](../Как%20изменить%20параметры%20Поиска%20цен/kak-izmenit-parametry-poiska-cen.md):**
 
 [![Как изменить параметры Поиска цен](attachments/video-7-izmenenie_parametrov.png)](https://edu.5systems.ru/video/Poisk_cen/Poisk_cen-7_Izmenenie_parametrov.mp4)
 

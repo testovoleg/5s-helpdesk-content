@@ -343,65 +343,65 @@
 
 ### 1. Видеоинструкции по теме «АРМ Корзина»
 
-**1. [Назначение и интерфейс АРМ «Корзина»](https://www.5systems.ru/help/naznachenie-i-interfeys-arm-korzina):**
+**1. [Назначение и интерфейс АРМ «Корзина»](../Назначение%20и%20интерфейс%20АРМ%20Корзина/naznachenie-i-interfeys-arm-korzina.md):**
 
 [![Назначение и интерфейс АРМ «Корзина»](attachments/video-1-naznachenie_i_interfeys.png)](https://edu.5systems.ru/video/Korzina/Korzina-1_Naznachenie_i_interfeys.mp4)
 
-**2. [Как подбирать запасные части в АРМ Корзина](https://www.5systems.ru/help/kak-podbirat-zapasnye-chasti-v-arm-korzina):**
+**2. [Как подбирать запасные части в АРМ Корзина](../Как%20подбирать%20запасные%20части%20в%20АРМ%20Корзина/kak-podbirat-zapasnye-chasti-v-arm-korzina.md):**
 
 [![Как подбирать запасные части в АРМ Корзина](attachments/video-2-podbor_zapchastey.png)](https://edu.5systems.ru/video/Korzina/Korzina-2_Podbor_zapchastey.mp4)
 
-**3. [Как добавить варианты поставки в Корзину](https://www.5systems.ru/help/kak-dobavit-varianty-postavki-v-korzinu):**
+**3. [Как добавить варианты поставки в Корзину](../Как%20добавить%20варианты%20поставки%20в%20Корзину/kak-dobavit-varianty-postavki-v-korzinu.md):**
 
 [![Как добавить варианты поставки в Корзину](attachments/video-3-varianty_postavki.png)](https://edu.5systems.ru/video/Korzina/Korzina-3_Varianty_postavki.mp4)
 
-**4. [Информационные вкладки Корзины](https://www.5systems.ru/help/informacionnye-vkladki-korziny):**
+**4. [Информационные вкладки Корзины](../Информационные%20вкладки%20Корзины/informacionnye-vkladki-korziny.md):**
 
 [![Информационные вкладки Корзины](attachments/video-4-vkladki.png)](https://edu.5systems.ru/video/Korzina/Korzina-4_Vkladki.mp4)
 
-**5. [Как подбирать автоработы в АРМ Корзина](https://www.5systems.ru/help/kak-podbirat-avtoraboty-v-arm-korzina):**
+**5. [Как подбирать автоработы в АРМ Корзина](../Как%20подбирать%20автоработы%20в%20АРМ%20Корзина/kak-podbirat-avtoraboty-v-arm-korzina.md):**
 
 [![Как подбирать автоработы в АРМ Корзина](attachments/video-5-podbor_avtorabot.png)](https://edu.5systems.ru/video/Korzina/Korzina-5_Podbor_avtorabot.mp4)
 
-**6. [Как создать автомобиль в Корзине](https://www.5systems.ru/help/kak-sozdat-avtomobil-v-korzine):**
+**6. [Как создать автомобиль в Корзине](../Как%20создать%20автомобиль%20в%20Корзине/kak-sozdat-avtomobil-v-korzine.md):**
 
 [![Как создать автомобиль в Корзине](attachments/video-6-sozdanie_avtomobilya.png)](https://edu.5systems.ru/video/Korzina/Korzina-6_Sozdanie_avtomobilya.mp4)
 
-**7. [Как распечатать Корзину или отправить в мессенджер](https://www.5systems.ru/help/kak-raspechatat-korzinu-ili-otpravit-v-messendzher):**
+**7. [Как распечатать Корзину или отправить в мессенджер](../Как%20распечатать%20Корзину%20или%20отправить%20в%20мессенджер/kak-raspechatat-korzinu-ili-otpravit-v-messendzher.md):**
 
 [![Как распечатать Корзину или отправить в мессенджер](attachments/video-7-pechat_i_otpravka_v_messendjer.png)](https://edu.5systems.ru/video/Korzina/Korzina-7_Pechat_ili_otpravka_v_messendjer.mp4)
 
-**8. [Как выгрузить Корзину в другие АРМ](https://www.5systems.ru/help/kak-vygruzit-korzinu-v-drugie-arm):**
+**8. [Как выгрузить Корзину в другие АРМ](../Как%20выгрузить%20Корзину%20в%20другие%20АРМ/kak-vygruzit-korzinu-v-drugie-arm.md):**
 
 [![Как выгрузить Корзину в другие АРМ](attachments/video-8-vygruzka_v_drugie_arm.png)](https://edu.5systems.ru/video/Korzina/Korzina-8_Vygruzka_v_drugie_ARM.mp4)
 
-**9. [Как создать документы на основании Корзины](https://www.5systems.ru/help/kak-sozdat-dokumenty-na-osnovanii-korziny):**
+**9. [Как создать документы на основании Корзины](../Как%20создать%20документы%20на%20основании%20Корзины/kak-sozdat-dokumenty-na-osnovanii-korziny.md):**
 
 [![Как создать документы на основании Корзины](attachments/video-9-sozdanie_dokumentov.png)](https://edu.5systems.ru/video/Korzina/Korzina-9_Sozdanie_dokumentov_iz_Korziny.mp4)
 
-**10. [Помощник оформления заказа покупателя в АРМ Корзина](https://www.5systems.ru/help/pomoschnik-oformleniya-zakaza-pokupatelya-v-arm-korzina):**
+**10. [Помощник оформления заказа покупателя в АРМ Корзина](../Помощник%20оформления%20Заказа%20покупателя%20в%20АРМ%20Корзина/pomoschnik-oformleniya-zakaza-pokupatelya-v-arm-korzina.md):**
 
 [![Помощник оформления заказа покупателя в АРМ Корзина](attachments/video-10-pomoshchnik_oformleniya_zakaza_pokupatelya.png)](https://edu.5systems.ru/video/Korzina/Korzina-10_Pomoshchnik_oformleniya_Zakaza_pokupatelya.mp4)
 
 ### 2. Видеоинструкции по теме «Работа с онлайн-каталогом»
 
-**1. [Обзор интерфейса Онлайн-каталога](https://www.5systems.ru/help/obzor-interfeysa-onlayn-kataloga):**
+**1. [Обзор интерфейса Онлайн-каталога](../Обзор%20интерфейса%20Онлайн-каталога/obzor-interfeysa-onlayn-kataloga.md):**
 
 [![Обзор интерфейса Онлайн-каталога](attachments/video-11-obzor_interfeisa_online_kataloga.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-1_Obzor_interfeysa.mp4)
 
-**2. [Как перейти в Онлайн-каталог](https://www.5systems.ru/help/kak-pereyti-v-onlayn-katalog):**
+**2. [Как перейти в Онлайн-каталог](../Как%20перейти%20в%20Онлайн-каталог/kak-pereyti-v-onlayn-katalog.md):**
 
 [![Как перейти в Онлайн-каталог](attachments/video-12-varianty_perehoda_v_online_katalog.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-2_Varianty_perehoda.mp4)
 
-**3. [Как идентифицировать автомобиль в Онлайн-каталоге](https://www.5systems.ru/help/kak-identificirovat-avtomobil-v-onlayn-kataloge):**
+**3. [Как идентифицировать автомобиль в Онлайн-каталоге](../Идентификация%20автомобиля%20в%20Онлайн-каталоге/kak-identificirovat-avtomobil-v-onlayn-kataloge.md):**
 
 [![Как идентифицировать автомобиль в Онлайн-каталоге](attachments/video-13-identifikaciya_avtomobilya_v_online_kataloge.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-3_Identifikaciya_avtomobilya.mp4)
 
-**4. [Как найти деталь в Онлайн-каталоге](https://www.5systems.ru/help/kak-nayti-detal-v-onlayn-kataloge):**
+**4. [Как найти деталь в Онлайн-каталоге](../Как%20найти%20деталь%20в%20Онлайн-каталоге/kak-nayti-detal-v-onlayn-kataloge.md):**
 
 [![Как найти деталь в Онлайн-каталоге](attachments/video-14-poisk_zapchastey_v_online_kataloge.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-4_Poisk_zapchastey.mp4)
 
-**5. [Действия с подобранными деталями в Онлайн-каталоге](https://www.5systems.ru/help/deystviya-s-podobrannymi-detalyami-v-onlayn-kataloge):**
+**5. [Действия с подобранными деталями в Онлайн-каталоге](../Действия%20с%20подобранными%20деталями%20в%20Онлайн-каталоге/deystviya-s-podobrannymi-detalyami-v-onlayn-kataloge.md):**
 
 [![Действия с подобранными деталями в Онлайн-каталоге](attachments/video-15-obrabotka_rezultata_poiska.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-5_Obrabotka_rezultatov_poiska.mp4)
 
