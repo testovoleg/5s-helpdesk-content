@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T16:53:52+03:00",
-  "count": 159,
+  "generated_at": "2026-09-01T17:01:39+03:00",
+  "count": 160,
   "sections": {
     "tips": [
       {
@@ -231,6 +231,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Автосервис/Сводный акт",
+      "title": "Сводный акт",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2025-12-12",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T16:53:39+03:00",
+      "reading_time": 10
+    },
     {
       "path": "articles/5S AUTO/Автосервис/Передача смен",
       "title": "Передача смен",
@@ -1831,14 +1841,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Автосервис/Сводный акт",
-      "title": "Сводный акт",
+      "path": "articles/5S AUTO/Автосервис/Модели двигателей и КПП",
+      "title": "Модели двигателей и КПП",
       "type": "articles",
-      "order": 17,
-      "updated_at": "2025-12-12",
+      "order": 18,
+      "updated_at": "2022-11-30",
       "date_kind": "updated",
-      "added_at": "2025-12-12",
-      "reading_time": 10
+      "added_at": "2022-11-30",
+      "reading_time": 8
     }
   ]
 }
