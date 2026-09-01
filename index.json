@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T16:01:51+03:00",
-  "count": 156,
+  "generated_at": "2026-09-01T16:05:18+03:00",
+  "count": 157,
   "sections": {
     "tips": [
       {
@@ -231,6 +231,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с заметками",
+      "title": "Работа с заметками",
+      "type": "articles",
+      "order": 14,
+      "updated_at": "2024-12-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T16:01:36+03:00",
+      "reading_time": 5
+    },
     {
       "path": "articles/5S AUTO/Автосервис/Печать документов с факсимиле и логотипом организации",
       "title": "Печать документов с факсимиле и логотипом организации",
@@ -1801,14 +1811,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Автосервис/Работа с заметками",
-      "title": "Работа с заметками",
+      "path": "articles/5S AUTO/Автосервис/Пакетная печать",
+      "title": "Пакетная печать",
       "type": "articles",
-      "order": 14,
-      "updated_at": "2024-12-20",
+      "order": 15,
+      "updated_at": "2024-12-23",
       "date_kind": "updated",
-      "added_at": "2024-12-20",
-      "reading_time": 5
+      "added_at": "2024-12-23",
+      "reading_time": 4
     }
   ]
 }
