@@ -61,7 +61,7 @@
 
 ## Видео по теме
 
-**[Вебинар по теме «Журнал передачи смен» от 06.11.2020 — начиная c 14:32](https://youtu.be/9MIk6y-bgmc):**
+**[Вебинар](https://youtu.be/9MIk6y-bgmc) по теме «Журнал передачи смен» от 06.11.2020 — начиная c 14:32:**
 
 [![Вебинар по теме «Журнал передачи смен» от 06.11.2020](attachments/video.png)](https://edu.5systems.ru/video/archive/Rasshirennaya_garantiynaya_politika;_Jurnal_peredachi_smen–Vebinar_5_SYSTEMS_06.11.2020.mp4)
 
