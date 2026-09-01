@@ -111,7 +111,7 @@
 
 [![Как подобрать автоработы из АРМ Запись на ремонт](attachments/video-4-podbor_avtorabot.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-4_Podbor_rabot_iz_Zapisi_na_remont.mp4)
 
-**5. [Как редактировать запись на ремонт](https://www.5systems.ru/help/kak-redaktirovat-zapis-na-remont):**
+**5. [Как редактировать запись на ремонт](../Как%20редактировать%20запись%20на%20ремонт/kak-redaktirovat-zapis-na-remont.md):**
 
 [![Как редактировать запись на ремонт](attachments/video-5-redaktirovanie_zapisi.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-5_Redaktirovanie_zapisi.mp4)
 
