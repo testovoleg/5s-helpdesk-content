@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T15:23:05+03:00",
-  "count": 150,
+  "generated_at": "2026-09-01T15:29:30+03:00",
+  "count": 151,
   "sections": {
     "tips": [
       {
@@ -1749,6 +1749,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Состояния Заказ-наряда",
+      "title": "Состояния Заказ-наряда",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2024-11-01",
+      "date_kind": "updated",
+      "added_at": "2024-11-01",
+      "reading_time": 7
     }
   ]
 }
