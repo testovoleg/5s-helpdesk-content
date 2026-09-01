@@ -103,7 +103,7 @@
 
 [![Как записать клиента из Корзины](attachments/video-2-zapis_iz_korziny.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-2_Zapis_iz_Korziny.mp4)
 
-**3. [Как записать клиента из Заказ наряда](https://www.5systems.ru/help/kak-zapisat-klienta-iz-zakaz-naryada):**
+**3. [Как записать клиента из Заказ наряда](../Как%20записать%20клиента%20из%20Заказ%20наряда/kak-zapisat-klienta-iz-zakaz-naryada.md):**
 
 [![Как записать клиента из Заказ наряда](attachments/video-3-zapis_iz_zakaz_naryada.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-3_Zapis_iz_Zakaz-naryada.mp4)
 

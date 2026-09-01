@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T09:17:38+03:00",
-  "count": 124,
+  "generated_at": "2026-09-01T09:23:25+03:00",
+  "count": 125,
   "sections": {
     "tips": [
       {
@@ -233,6 +233,17 @@
       "updated_at": "2026-09-01",
       "date_kind": "updated",
       "added_at": "2026-09-01T08:55:44+03:00",
+      "reading_time": 2,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Запись на ремонт/Как записать клиента из Заказ наряда",
+      "title": "Как записать клиента из Заказ-наряда",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
       "reading_time": 2,
       "hidden": true
     },
