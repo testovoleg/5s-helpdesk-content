@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T13:42:44+03:00",
-  "count": 140,
+  "generated_at": "2026-09-01T13:58:48+03:00",
+  "count": 141,
   "sections": {
     "tips": [
       {
@@ -225,6 +225,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с субподрядами",
+      "title": "Работа с субподрядами",
+      "type": "articles",
+      "order": 9,
+      "updated_at": "2025-04-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T13:42:08+03:00",
+      "reading_time": 11
+    },
     {
       "path": "articles/5S AUTO/Автосервис/Работа с расходными материалами",
       "title": "Работа с расходными материалами",
@@ -1627,14 +1637,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Автосервис/Работа с субподрядами",
-      "title": "Работа с субподрядами",
+      "path": "articles/5S AUTO/Автосервис/Гарантийная политика",
+      "title": "Гарантийная политика",
       "type": "articles",
-      "order": 9,
-      "updated_at": "2025-04-28",
+      "order": 10,
+      "updated_at": "2022-06-14",
       "date_kind": "updated",
-      "added_at": "2025-04-28",
-      "reading_time": 11
+      "added_at": "2022-06-14",
+      "reading_time": 16
     }
   ]
 }
