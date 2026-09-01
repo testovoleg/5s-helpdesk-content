@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T13:19:51+03:00",
-  "count": 139,
+  "generated_at": "2026-09-01T13:42:44+03:00",
+  "count": 140,
   "sections": {
     "tips": [
       {
@@ -1625,6 +1625,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с субподрядами",
+      "title": "Работа с субподрядами",
+      "type": "articles",
+      "order": 9,
+      "updated_at": "2025-04-28",
+      "date_kind": "updated",
+      "added_at": "2025-04-28",
+      "reading_time": 11
     }
   ]
 }
