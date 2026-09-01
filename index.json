@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T16:26:56+03:00",
-  "count": 158,
+  "generated_at": "2026-09-01T16:53:52+03:00",
+  "count": 159,
   "sections": {
     "tips": [
       {
@@ -1829,6 +1829,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Сводный акт",
+      "title": "Сводный акт",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2025-12-12",
+      "date_kind": "updated",
+      "added_at": "2025-12-12",
+      "reading_time": 10
     }
   ]
 }
