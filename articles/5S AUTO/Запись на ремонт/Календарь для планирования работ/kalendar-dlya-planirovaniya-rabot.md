@@ -115,7 +115,7 @@
 
 [![Как редактировать запись на ремонт](attachments/video-5-redaktirovanie_zapisi.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-5_Redaktirovanie_zapisi.mp4)
 
-**6. [Настройки АРМ Запись на ремонт](https://www.5systems.ru/help/nastroyki-arm-zapis-na-remont):**
+**6. [Настройки АРМ Запись на ремонт](../Настройки%20АРМ%20Запись%20на%20ремонт/nastroyki-arm-zapis-na-remont.md):**
 
 [![Настройки АРМ Запись на ремонт](attachments/video-6-nastrojki.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-6_Nastroyki.mp4)
 
