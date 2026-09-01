@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T10:01:07+03:00",
-  "count": 131,
+  "generated_at": "2026-09-01T10:24:26+03:00",
+  "count": 132,
   "sections": {
     "tips": [
       {
@@ -226,6 +226,16 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Запись на ремонт/Сохранение настроек АРМ Запись на ремонт",
+      "title": "Сохранение настроек АРМ «Запись на ремонт»",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T10:00:56+03:00",
+      "reading_time": 5
+    },
+    {
       "path": "articles/5S AUTO/Запись на ремонт/Цветовое оформление планировщика",
       "title": "Цветовое оформление планировщика",
       "type": "articles",
@@ -301,14 +311,14 @@
       "hidden": true
     },
     {
-      "path": "articles/5S AUTO/Запись на ремонт/Сохранение настроек АРМ Запись на ремонт",
-      "title": "Сохранение настроек АРМ «Запись на ремонт»",
+      "path": "articles/5S AUTO/Автосервис/Автомобили",
+      "title": "Автомобили",
       "type": "articles",
-      "order": 4,
+      "order": 0,
       "updated_at": "2026-09-01",
       "date_kind": "updated",
       "added_at": "2026-09-01",
-      "reading_time": 5
+      "reading_time": 15
     },
     {
       "path": "articles/5S AUTO/Запись на ремонт/Назначение и интерфейс АРМ Запись на ремонт",
@@ -536,7 +546,13 @@
       "updated_at": "2022-06-16",
       "date_kind": "updated",
       "added_at": "2026-08-31T08:23:48+03:00",
-      "reading_time": 15
+      "reading_time": 15,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Автосервис",
+          "order": 7
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Действия с подобранными деталями в Онлайн-каталоге",
