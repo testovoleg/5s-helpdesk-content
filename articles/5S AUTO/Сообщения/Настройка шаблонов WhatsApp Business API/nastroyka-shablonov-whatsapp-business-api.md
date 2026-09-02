@@ -321,6 +321,6 @@
 
 ---
 
-**Теги:** WhatsApp, WABA, WhatsApp Business API, чаты, шаблоны сообщений, диалоговая система, категории шаблонов, модерация шаблонов, значимые события, тарификация, 360dialog
+**Теги:** WhatsApp, Чаты, WABA, WhatsApp Business API, шаблоны сообщений, диалоговая система, категории шаблонов, модерация шаблонов, значимые события, тарификация, 360dialog
 
 <a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>
