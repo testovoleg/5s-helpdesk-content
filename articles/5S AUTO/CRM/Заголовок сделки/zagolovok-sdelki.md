@@ -46,7 +46,7 @@
 
 ![Отбор сделок по заголовку](attachments/05-otbor-po-zagolovku.png)
 
-а также находить сделки по заголовку через [полнотекстовый поиск](https://www.5systems.ru/help/rabota-s-polnotekstovym-poiskom) на верхней панели:
+а также находить сделки по заголовку через [полнотекстовый поиск](../Работа%20с%20полнотекстовым%20поиском/rabota-s-polnotekstovym-poiskom.md) на верхней панели:
 
 ![Полнотекстовый поиск по заголовку сделки](attachments/06-polnotekstovyy-poisk.png)
 

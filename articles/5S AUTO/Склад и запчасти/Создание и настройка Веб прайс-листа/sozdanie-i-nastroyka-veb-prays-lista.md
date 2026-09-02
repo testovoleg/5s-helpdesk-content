@@ -67,7 +67,7 @@
 
 ## Перечень доступных Веб-сервисов поставщиков
 
-См. по *[ссылке](https://5systems.ru/help/dostupnye-veb-servisy-postavschikov)*.
+См. по *[ссылке](../Доступные%20Веб-сервисы%20поставщиков/dostupnye-veb-servisy-postavschikov.md)*.
 
 ---
 

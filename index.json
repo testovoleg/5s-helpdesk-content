@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T10:52:11+03:00",
-  "count": 172,
+  "generated_at": "2026-09-02T16:42:22+03:00",
+  "count": 187,
   "sections": {
     "tips": [
       {
@@ -97,7 +97,17 @@
           },
           {
             "name": "Склад и запчасти",
-            "path": "articles/5S AUTO/Склад и запчасти"
+            "path": "articles/5S AUTO/Склад и запчасти",
+            "sections": [
+              {
+                "name": "Применяемость запчастей",
+                "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей"
+              },
+              {
+                "name": "Штрихкодирование номенклатуры",
+                "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры"
+              }
+            ]
           },
           {
             "name": "Работа с заказами",
@@ -235,6 +245,320 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Доступные Веб-сервисы поставщиков",
+      "title": "Доступные Веб-сервисы поставщиков",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2026-06-23",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T10:48:27+03:00",
+      "reading_time": 3
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка Веб прайс-листа",
+      "title": "Создание и настройка Веб прайс-листа",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T10:36:53+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка прайс-листа контрагента",
+      "title": "Создание и настройка прайс-листа контрагента",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2022-06-22",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T10:32:07+03:00",
+      "reading_time": 18
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Номенклатура",
+      "title": "Номенклатура",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2026-05-21",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T09:45:59+03:00",
+      "reading_time": 20
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Ремонт собственных агрегатов",
+      "title": "Ремонт собственных агрегатов",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-08-03",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T09:20:41+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Диагностические анкеты для агрегатов",
+      "title": "Диагностические анкеты для агрегатов",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2022-08-03",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T09:14:56+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Учет серийных номеров агрегатов",
+      "title": "Учет серийных номеров агрегатов",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2022-08-03",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T09:09:45+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Применяемость для агрегатов",
+      "title": "Применяемость для агрегатов",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-07-13",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T09:03:23+03:00",
+      "reading_time": 13,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей",
+          "order": 3
+        }
+      ]
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Учет агрегатного ремонта",
+      "title": "Учет агрегатного ремонта",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-06-21",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T08:56:07+03:00",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Корректировка пробега автомобиля",
+      "title": "Корректировка пробега автомобиля",
+      "type": "articles",
+      "order": 20,
+      "updated_at": "2024-08-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T17:13:55+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Установка норм времени по моделям двигателей и КПП",
+      "title": "Установка норм времени по моделям двигателей и КПП",
+      "type": "articles",
+      "order": 19,
+      "updated_at": "2025-12-12",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T17:06:58+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Модели двигателей и КПП",
+      "title": "Модели двигателей и КПП",
+      "type": "articles",
+      "order": 18,
+      "updated_at": "2022-11-30",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T17:01:23+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Сводный акт",
+      "title": "Сводный акт",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2025-12-12",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T16:53:39+03:00",
+      "reading_time": 10
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Передача смен",
+      "title": "Передача смен",
+      "type": "articles",
+      "order": 16,
+      "updated_at": "2024-01-22",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T16:11:01+03:00",
+      "reading_time": 10
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Пакетная печать",
+      "title": "Пакетная печать",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2024-12-23",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T16:05:03+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с заметками",
+      "title": "Работа с заметками",
+      "type": "articles",
+      "order": 14,
+      "updated_at": "2024-12-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T16:01:36+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Печать документов с факсимиле и логотипом организации",
+      "title": "Печать документов с факсимиле и логотипом организации",
+      "type": "articles",
+      "order": 13,
+      "updated_at": "2025-04-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:56:50+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Интеграция с базой ГИБДД",
+      "title": "Интеграция с базой ГИБДД",
+      "type": "articles",
+      "order": 12,
+      "updated_at": "2026-07-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:46:48+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Прикрепление файлов к заказ-наряду",
+      "title": "Прикрепление файлов к заказ-наряду",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2022-06-21",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:36:34+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Состояние Отказ Заказ-наряда",
+      "title": "Состояние «Отказ» Заказ-наряда",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-12-23",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:33:19+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Состояния Заказ-наряда",
+      "title": "Состояния Заказ-наряда",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2024-11-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:29:16+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как добавить детали в Заказ-наряд",
+      "title": "Как добавить детали в Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:13:42+03:00",
+      "reading_time": 4,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как добавить работы в Заказ-наряд",
+      "title": "Как добавить работы в Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:13:42+03:00",
+      "reading_time": 4,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как закрыть Заказ-наряд",
+      "title": "Как закрыть Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:13:42+03:00",
+      "reading_time": 2,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как принять оплату по Заказ-наряду",
+      "title": "Как принять оплату по Заказ-наряду",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:13:42+03:00",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как работать с реестром Заказ-нарядов",
+      "title": "Как работать с реестром Заказ-нарядов",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:13:42+03:00",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как распечатать Заказ-наряд",
+      "title": "Как распечатать Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:13:42+03:00",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как создать Заказ-наряд",
+      "title": "Как создать Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:13:42+03:00",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Обзор интерфейса Заказ-наряда",
+      "title": "Обзор интерфейса Заказ-наряда",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:13:42+03:00",
+      "reading_time": 5,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Заказ-наряды",
+      "title": "Заказ-наряды",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-02-06",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T15:01:04+03:00",
+      "reading_time": 25
+    },
     {
       "path": "articles/5S AUTO/Автосервис/Гарантийная политика",
       "title": "Гарантийная политика",
@@ -418,94 +742,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-01T08:55:44+03:00",
       "reading_time": 3,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как добавить детали в Заказ-наряд",
-      "title": "Как добавить детали в Заказ-наряд",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2026-09-01",
-      "date_kind": "updated",
-      "added_at": "2026-09-01",
-      "reading_time": 4,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как добавить работы в Заказ-наряд",
-      "title": "Как добавить работы в Заказ-наряд",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2026-09-01",
-      "date_kind": "updated",
-      "added_at": "2026-09-01",
-      "reading_time": 4,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как закрыть Заказ-наряд",
-      "title": "Как закрыть Заказ-наряд",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2026-09-01",
-      "date_kind": "updated",
-      "added_at": "2026-09-01",
-      "reading_time": 2,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как принять оплату по Заказ-наряду",
-      "title": "Как принять оплату по Заказ-наряду",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2026-09-01",
-      "date_kind": "updated",
-      "added_at": "2026-09-01",
-      "reading_time": 3,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как работать с реестром Заказ-нарядов",
-      "title": "Как работать с реестром Заказ-нарядов",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2026-09-01",
-      "date_kind": "updated",
-      "added_at": "2026-09-01",
-      "reading_time": 3,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как распечатать Заказ-наряд",
-      "title": "Как распечатать Заказ-наряд",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2026-09-01",
-      "date_kind": "updated",
-      "added_at": "2026-09-01",
-      "reading_time": 3,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как создать Заказ-наряд",
-      "title": "Как создать Заказ-наряд",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2026-09-01",
-      "date_kind": "updated",
-      "added_at": "2026-09-01",
-      "reading_time": 3,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Обзор интерфейса Заказ-наряда",
-      "title": "Обзор интерфейса Заказ-наряда",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2026-09-01",
-      "date_kind": "updated",
-      "added_at": "2026-09-01",
-      "reading_time": 5,
       "hidden": true
     },
     {
@@ -1751,230 +1987,160 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Автосервис/Интеграция с базой ГИБДД",
-      "title": "Интеграция с базой ГИБДД",
-      "type": "articles",
-      "order": 12,
-      "updated_at": "2026-07-29",
-      "date_kind": "updated",
-      "added_at": "2026-07-29",
-      "reading_time": 7
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Доступные Веб-сервисы поставщиков",
-      "title": "Доступные Веб-сервисы поставщиков",
-      "type": "articles",
-      "order": 5,
-      "updated_at": "2026-06-23",
-      "date_kind": "updated",
-      "added_at": "2026-06-23",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Номенклатура",
-      "title": "Номенклатура",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2026-05-21",
-      "date_kind": "updated",
-      "added_at": "2026-05-21",
-      "reading_time": 20
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Сводный акт",
-      "title": "Сводный акт",
-      "type": "articles",
-      "order": 17,
-      "updated_at": "2025-12-12",
-      "date_kind": "updated",
-      "added_at": "2025-12-12",
-      "reading_time": 10
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Установка норм времени по моделям двигателей и КПП",
-      "title": "Установка норм времени по моделям двигателей и КПП",
-      "type": "articles",
-      "order": 19,
-      "updated_at": "2025-12-12",
-      "date_kind": "updated",
-      "added_at": "2025-12-12",
-      "reading_time": 8
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Печать документов с факсимиле и логотипом организации",
-      "title": "Печать документов с факсимиле и логотипом организации",
-      "type": "articles",
-      "order": 13,
-      "updated_at": "2025-04-11",
-      "date_kind": "updated",
-      "added_at": "2025-04-11",
-      "reading_time": 7
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Заказ-наряды",
-      "title": "Заказ-наряды",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2025-02-06",
-      "date_kind": "updated",
-      "added_at": "2025-02-06",
-      "reading_time": 25
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Пакетная печать",
-      "title": "Пакетная печать",
-      "type": "articles",
-      "order": 15,
-      "updated_at": "2024-12-23",
-      "date_kind": "updated",
-      "added_at": "2024-12-23",
-      "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Состояние Отказ Заказ-наряда",
-      "title": "Состояние «Отказ» Заказ-наряда",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2024-12-23",
-      "date_kind": "updated",
-      "added_at": "2024-12-23",
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с заметками",
-      "title": "Работа с заметками",
-      "type": "articles",
-      "order": 14,
-      "updated_at": "2024-12-20",
-      "date_kind": "updated",
-      "added_at": "2024-12-20",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Состояния Заказ-наряда",
-      "title": "Состояния Заказ-наряда",
+      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Подключение сканера штрихкодов",
+      "title": "Подключение сканера штрихкодов",
       "type": "articles",
       "order": 1,
-      "updated_at": "2024-11-01",
+      "updated_at": "2026-02-05",
       "date_kind": "updated",
-      "added_at": "2024-11-01",
-      "reading_time": 7
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Корректировка пробега автомобиля",
-      "title": "Корректировка пробега автомобиля",
-      "type": "articles",
-      "order": 20,
-      "updated_at": "2024-08-20",
-      "date_kind": "updated",
-      "added_at": "2024-08-20",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Передача смен",
-      "title": "Передача смен",
-      "type": "articles",
-      "order": 16,
-      "updated_at": "2024-01-22",
-      "date_kind": "updated",
-      "added_at": "2024-01-22",
-      "reading_time": 10
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Модели двигателей и КПП",
-      "title": "Модели двигателей и КПП",
-      "type": "articles",
-      "order": 18,
-      "updated_at": "2022-11-30",
-      "date_kind": "updated",
-      "added_at": "2022-11-30",
+      "added_at": "2026-02-05",
       "reading_time": 8
     },
     {
-      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Диагностические анкеты для агрегатов",
-      "title": "Диагностические анкеты для агрегатов",
+      "path": "articles/5S AUTO/Склад и запчасти/Задача на подбор запчастей",
+      "title": "Задача на подбор запчастей",
       "type": "articles",
-      "order": 3,
-      "updated_at": "2022-08-03",
+      "order": 12,
+      "updated_at": "2025-12-26",
       "date_kind": "updated",
-      "added_at": "2022-08-03",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Ремонт собственных агрегатов",
-      "title": "Ремонт собственных агрегатов",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2022-08-03",
-      "date_kind": "updated",
-      "added_at": "2022-08-03",
-      "reading_time": 6
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Учет серийных номеров агрегатов",
-      "title": "Учет серийных номеров агрегатов",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2022-08-03",
-      "date_kind": "updated",
-      "added_at": "2022-08-03",
+      "added_at": "2025-12-26",
       "reading_time": 9
     },
     {
-      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Применяемость для агрегатов",
-      "title": "Применяемость для агрегатов",
+      "path": "articles/5S AUTO/Склад и запчасти/Автоматическая публикация объявлений на Авито",
+      "title": "Автоматическая публикация объявлений на Авито",
       "type": "articles",
-      "order": 1,
-      "updated_at": "2022-07-13",
+      "order": 16,
+      "updated_at": "2025-09-18",
       "date_kind": "updated",
-      "added_at": "2022-07-13",
-      "reading_time": 13
+      "added_at": "2025-09-18",
+      "reading_time": 23
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка прайс-листа контрагента",
-      "title": "Создание и настройка прайс-листа контрагента",
+      "path": "articles/5S AUTO/Склад и запчасти/Выгрузка прайс-листов",
+      "title": "Выгрузка прайс-листов",
       "type": "articles",
-      "order": 3,
-      "updated_at": "2022-06-22",
+      "order": 6,
+      "updated_at": "2025-08-20",
       "date_kind": "updated",
-      "added_at": "2022-06-22",
-      "reading_time": 18
+      "added_at": "2025-08-20",
+      "reading_time": 17
     },
     {
-      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Прикрепление файлов к заказ-наряду",
-      "title": "Прикрепление файлов к заказ-наряду",
+      "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Автозаполнение применяемости из заказ-наряда",
+      "title": "Автозаполнение применяемости из заказ-наряда",
       "type": "articles",
-      "order": 3,
-      "updated_at": "2022-06-21",
+      "order": 2,
+      "updated_at": "2025-01-13",
       "date_kind": "updated",
-      "added_at": "2022-06-21",
+      "added_at": "2025-01-13",
+      "reading_time": 20
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Назначение штрихкодов товарам",
+      "title": "Назначение штрихкодов товарам",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-10-30",
+      "date_kind": "updated",
+      "added_at": "2024-10-30",
       "reading_time": 4
     },
     {
-      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Учет агрегатного ремонта",
-      "title": "Учет агрегатного ремонта",
+      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Сканирование штрихкодов",
+      "title": "Сканирование штрихкодов товаров",
       "type": "articles",
       "order": 0,
-      "updated_at": "2022-06-21",
+      "updated_at": "2024-10-29",
       "date_kind": "updated",
-      "added_at": "2022-06-21",
+      "added_at": "2024-10-29",
+      "reading_time": 16
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Пополнение складских запасов",
+      "title": "Пополнение складских запасов",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2024-10-08",
+      "date_kind": "updated",
+      "added_at": "2024-10-08",
+      "reading_time": 20
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Применяемость по типу двигателя и типу КПП",
+      "title": "Применяемость по типу двигателя и типу КПП",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-11-30",
+      "date_kind": "updated",
+      "added_at": "2022-11-30",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Приобретение товаров (в пути)",
+      "title": "Приобретение товаров (в пути)",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2022-09-21",
+      "date_kind": "updated",
+      "added_at": "2022-09-21",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Перемещение товаров между филиалами",
+      "title": "Перемещение товаров между филиалами",
+      "type": "articles",
+      "order": 14,
+      "updated_at": "2022-09-14",
+      "date_kind": "updated",
+      "added_at": "2022-09-14",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Виды склада",
+      "title": "Виды склада",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2022-06-22",
+      "date_kind": "updated",
+      "added_at": "2022-06-22",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Инвентаризация",
+      "title": "Инвентаризация",
+      "type": "articles",
+      "order": 9,
+      "updated_at": "2022-06-22",
+      "date_kind": "updated",
+      "added_at": "2022-06-22",
+      "reading_time": 16
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Межфирменные продажи",
+      "title": "Межфирменные продажи",
+      "type": "articles",
+      "order": 13,
+      "updated_at": "2022-06-22",
+      "date_kind": "updated",
+      "added_at": "2022-06-22",
       "reading_time": 12
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка Веб прайс-листа",
-      "title": "Создание и настройка Веб прайс-листа",
+      "path": "articles/5S AUTO/Склад и запчасти/Печать этикеток",
+      "title": "Печать этикеток",
       "type": "articles",
-      "order": 4,
-      "updated_at": "2022-06-20",
+      "order": 11,
+      "updated_at": "2022-06-22",
       "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 5
+      "added_at": "2022-06-22",
+      "reading_time": 8
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Работа с применяемостью",
+      "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Работа с применяемостью",
       "title": "Работа с применяемостью",
       "type": "articles",
-      "order": 2,
+      "order": 0,
       "updated_at": "2022-06-17",
       "date_kind": "updated",
       "added_at": "2022-06-17",
