@@ -34,7 +34,7 @@
 
 Данная логика обеспечивает максимально корректное определение данных номенклатуры.
 
-Для работы с функционалом предварительно должен быть [подключен сканер ш/к](https://www.5systems.ru/help/podklyuchenie-skanera-shtrikhkodov) либо [ТСД](https://www.5systems.ru/help/interfeys-dlya-tsd#nastrpodkloborud), настроена интеграция с [API 5S AUTO](https://www.5systems.ru/help/api-5s-auto), включено право *"Автоматическое создание номенклатуры при сканировании штрихкодов"* – см. *[ниже](#1-автоматическое-создание-номенклатуры-при-сканировании-штрихкодов),* а также настроено уведомление – см. *[ниже](#2-уведомление).*
+Для работы с функционалом предварительно должен быть [подключен сканер ш/к](../Подключение%20сканера%20штрихкодов/podklyuchenie-skanera-shtrikhkodov.md) либо [ТСД](https://www.5systems.ru/help/interfeys-dlya-tsd#nastrpodkloborud), настроена интеграция с [API 5S AUTO](https://www.5systems.ru/help/api-5s-auto), включено право *"Автоматическое создание номенклатуры при сканировании штрихкодов"* – см. *[ниже](#1-автоматическое-создание-номенклатуры-при-сканировании-штрихкодов),* а также настроено уведомление – см. *[ниже](#2-уведомление).*
 
 ## Сканирование в документе
 
@@ -176,7 +176,7 @@
 
 ## Настройки
 
-Для работы с функционалом предварительно должен быть *[подключен сканер ш/к](https://www.5systems.ru/help/podklyuchenie-skanera-shtrikhkodov)* либо *[ТСД](https://www.5systems.ru/help/interfeys-dlya-tsd#nastrpodkloborud),* а также настроена *интеграция с [API 5S AUTO](https://www.5systems.ru/help/api-5s-auto).*
+Для работы с функционалом предварительно должен быть *[подключен сканер ш/к](../Подключение%20сканера%20штрихкодов/podklyuchenie-skanera-shtrikhkodov.md)* либо *[ТСД](https://www.5systems.ru/help/interfeys-dlya-tsd#nastrpodkloborud),* а также настроена *интеграция с [API 5S AUTO](https://www.5systems.ru/help/api-5s-auto).*
 
 #### 1. Настройки прав
 
