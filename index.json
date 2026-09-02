@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T11:21:02+03:00",
-  "count": 173,
+  "generated_at": "2026-09-02T11:36:40+03:00",
+  "count": 174,
   "sections": {
     "tips": [
       {
@@ -1989,6 +1989,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Пополнение складских запасов",
+      "title": "Пополнение складских запасов",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2024-10-08",
+      "date_kind": "updated",
+      "added_at": "2024-10-08",
+      "reading_time": 20
     }
   ]
 }
