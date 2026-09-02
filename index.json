@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T14:43:13+03:00",
+  "generated_at": "2026-09-02T14:45:57+03:00",
   "count": 182,
   "sections": {
     "tips": [
@@ -241,6 +241,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Межфирменные продажи",
+      "title": "Межфирменные продажи",
+      "type": "articles",
+      "order": 13,
+      "updated_at": "2022-06-22",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T14:42:50+03:00",
+      "reading_time": 12
+    },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Задача на подбор запчастей",
       "title": "Задача на подбор запчастей",
@@ -2075,16 +2085,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Межфирменные продажи",
-      "title": "Межфирменные продажи",
-      "type": "articles",
-      "order": 13,
-      "updated_at": "2022-06-22",
-      "date_kind": "updated",
-      "added_at": "2022-06-22",
-      "reading_time": 12
     }
   ]
 }
