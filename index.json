@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T14:14:38+03:00",
-  "count": 181,
+  "generated_at": "2026-09-02T14:43:13+03:00",
+  "count": 182,
   "sections": {
     "tips": [
       {
@@ -241,6 +241,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Задача на подбор запчастей",
+      "title": "Задача на подбор запчастей",
+      "type": "articles",
+      "order": 12,
+      "updated_at": "2025-12-26",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T14:14:24+03:00",
+      "reading_time": 9
+    },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Печать этикеток",
       "title": "Печать этикеток",
@@ -2067,14 +2077,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Задача на подбор запчастей",
-      "title": "Задача на подбор запчастей",
+      "path": "articles/5S AUTO/Склад и запчасти/Межфирменные продажи",
+      "title": "Межфирменные продажи",
       "type": "articles",
-      "order": 12,
-      "updated_at": "2025-12-26",
+      "order": 13,
+      "updated_at": "2022-06-22",
       "date_kind": "updated",
-      "added_at": "2025-12-26",
-      "reading_time": 9
+      "added_at": "2022-06-22",
+      "reading_time": 12
     }
   ]
 }
