@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T09:46:14+03:00",
+  "generated_at": "2026-09-02T09:50:41+03:00",
   "count": 168,
   "sections": {
     "tips": [
@@ -235,6 +235,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Номенклатура",
+      "title": "Номенклатура",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2026-05-21",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T09:45:59+03:00",
+      "reading_time": 20
+    },
     {
       "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Ремонт собственных агрегатов",
       "title": "Ремонт собственных агрегатов",
@@ -1929,16 +1939,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Номенклатура",
-      "title": "Номенклатура",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2026-05-21",
-      "date_kind": "updated",
-      "added_at": "2026-05-21",
-      "reading_time": 20
     }
   ]
 }
