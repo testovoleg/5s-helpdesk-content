@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T14:45:57+03:00",
-  "count": 182,
+  "generated_at": "2026-09-02T14:55:36+03:00",
+  "count": 183,
   "sections": {
     "tips": [
       {
@@ -2085,6 +2085,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Перемещение товаров между филиалами",
+      "title": "Перемещение товаров между филиалами",
+      "type": "articles",
+      "order": 14,
+      "updated_at": "2022-09-14",
+      "date_kind": "updated",
+      "added_at": "2022-09-14",
+      "reading_time": 9
     }
   ]
 }
