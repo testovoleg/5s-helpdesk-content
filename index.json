@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T15:14:19+03:00",
-  "count": 183,
+  "generated_at": "2026-09-02T15:18:59+03:00",
+  "count": 184,
   "sections": {
     "tips": [
       {
@@ -2095,6 +2095,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Приобретение товаров (в пути)",
+      "title": "Приобретение товаров (в пути)",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2022-09-21",
+      "date_kind": "updated",
+      "added_at": "2022-09-21",
+      "reading_time": 8
     }
   ]
 }
