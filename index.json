@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T15:43:57+03:00",
-  "count": 185,
+  "generated_at": "2026-09-02T15:56:26+03:00",
+  "count": 186,
   "sections": {
     "tips": [
       {
@@ -2115,6 +2115,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Автоматическая публикация объявлений на Авито",
+      "title": "Автоматическая публикация объявлений на Авито",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2025-09-18",
+      "date_kind": "updated",
+      "added_at": "2025-09-18",
+      "reading_time": 23
     }
   ]
 }
