@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T10:23:17+03:00",
-  "count": 169,
+  "generated_at": "2026-09-02T10:32:24+03:00",
+  "count": 170,
   "sections": {
     "tips": [
       {
@@ -1949,6 +1949,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка прайс-листа контрагента",
+      "title": "Создание и настройка прайс-листа контрагента",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2022-06-22",
+      "date_kind": "updated",
+      "added_at": "2022-06-22",
+      "reading_time": 18
     }
   ]
 }
