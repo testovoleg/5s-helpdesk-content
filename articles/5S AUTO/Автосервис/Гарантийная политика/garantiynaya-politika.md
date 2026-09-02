@@ -128,7 +128,7 @@
 
 ## Видео по теме
 
-**[Вебинар «Расширенная гарантийная политика» от 06.11.2020 (до 14:30)](https://edu.5systems.ru/video/archive/Rasshirennaya_garantiynaya_politika;_Jurnal_peredachi_smen–Vebinar_5_SYSTEMS_06.11.2020.mp4):**
+**Вебинар по теме «Расширенная гарантийная политика» от 06.11.2020 (до 14:30):**
 
 [![Вебинар «Расширенная гарантийная политика» от 06.11.2020](attachments/video.png)](https://edu.5systems.ru/video/archive/Rasshirennaya_garantiynaya_politika;_Jurnal_peredachi_smen–Vebinar_5_SYSTEMS_06.11.2020.mp4)
 

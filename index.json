@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T14:35:15+03:00",
-  "count": 141,
+  "generated_at": "2026-09-02T10:52:11+03:00",
+  "count": 172,
   "sections": {
     "tips": [
       {
@@ -83,7 +83,17 @@
           },
           {
             "name": "Автосервис",
-            "path": "articles/5S AUTO/Автосервис"
+            "path": "articles/5S AUTO/Автосервис",
+            "sections": [
+              {
+                "name": "Работа с Заказ-нарядами",
+                "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами"
+              },
+              {
+                "name": "Ремонт агрегатов",
+                "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов"
+              }
+            ]
           },
           {
             "name": "Склад и запчасти",
@@ -226,45 +236,143 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Автосервис/Гарантийная политика",
+      "title": "Гарантийная политика",
+      "type": "articles",
+      "order": 10,
+      "updated_at": "2022-06-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T13:58:33+03:00",
+      "reading_time": 16
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с субподрядами",
+      "title": "Работа с субподрядами",
+      "type": "articles",
+      "order": 9,
+      "updated_at": "2025-04-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T13:42:08+03:00",
+      "reading_time": 11
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с расходными материалами",
+      "title": "Работа с расходными материалами",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2025-01-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T11:40:26+03:00",
+      "reading_time": 9
+    },
+    {
       "path": "articles/5S AUTO/Автосервис/Подключение внешней печатной формы Печать рекомендаций",
       "title": "Подключение внешней печатной формы «Печать рекомендаций»",
       "type": "articles",
       "order": 6,
       "updated_at": "2026-09-01",
       "date_kind": "updated",
-      "added_at": "2026-09-01",
+      "added_at": "2026-09-01T11:35:39+03:00",
       "reading_time": 6
     },
     {
-      "path": "articles/5S AUTO/Запись на ремонт/Как записать клиента из Заказ наряда",
-      "title": "Как записать клиента из Заказ-наряда",
+      "path": "articles/5S AUTO/Автосервис/Работа с рекомендациями",
+      "title": "Работа с рекомендациями",
       "type": "articles",
       "order": 5,
-      "updated_at": "2026-09-01",
+      "updated_at": "2024-05-15",
       "date_kind": "updated",
-      "added_at": "2026-09-01",
-      "reading_time": 3,
-      "hidden": true
+      "added_at": "2026-09-01T11:28:13+03:00",
+      "reading_time": 15
     },
     {
-      "path": "articles/5S AUTO/Запись на ремонт/Как записать клиента из Корзины",
-      "title": "Как записать клиента из Корзины",
+      "path": "articles/5S AUTO/Автосервис/Виды ремонта",
+      "title": "Виды ремонта",
       "type": "articles",
-      "order": 5,
-      "updated_at": "2026-09-01",
+      "order": 4,
+      "updated_at": "2026-06-15",
       "date_kind": "updated",
-      "added_at": "2026-09-01",
-      "reading_time": 3,
-      "hidden": true
+      "added_at": "2026-09-01T11:19:38+03:00",
+      "reading_time": 10
     },
     {
-      "path": "articles/5S AUTO/Запись на ремонт/Как подобрать автоработы из АРМ Запись на ремонт",
-      "title": "Как подобрать автоработы из АРМ Запись на ремонт",
+      "path": "articles/5S AUTO/Автосервис/Автоработы",
+      "title": "Автоработы",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2025-07-17",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T11:10:56+03:00",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Расшифровка автомобиля по VIN",
+      "title": "Расшифровка автомобиля по VIN",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2025-10-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T11:00:07+03:00",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Модели автомобилей и другие справочники",
+      "title": "Модели автомобилей и другие справочники",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-01-15",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T10:42:04+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Автомобили",
+      "title": "Автомобили",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-01-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T10:24:12+03:00",
+      "reading_time": 15
+    },
+    {
+      "path": "articles/5S AUTO/Запись на ремонт/Сохранение настроек АРМ Запись на ремонт",
+      "title": "Сохранение настроек АРМ «Запись на ремонт»",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2023-08-07",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T10:00:56+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Запись на ремонт/Цветовое оформление планировщика",
+      "title": "Цветовое оформление планировщика",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2025-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T09:55:05+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Запись на ремонт/Планирование работ и подготовка к заезду",
+      "title": "Планирование работ и подготовка к заезду",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2022-06-21",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T09:49:27+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Запись на ремонт/Настройки АРМ Запись на ремонт",
+      "title": "Настройки АРМ Запись на ремонт",
       "type": "articles",
       "order": 5,
       "updated_at": "2026-09-01",
       "date_kind": "updated",
-      "added_at": "2026-09-01",
+      "added_at": "2026-09-01T09:43:35+03:00",
       "reading_time": 3,
       "hidden": true
     },
@@ -275,19 +383,129 @@
       "order": 5,
       "updated_at": "2026-09-01",
       "date_kind": "updated",
+      "added_at": "2026-09-01T09:38:34+03:00",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Запись на ремонт/Как подобрать автоработы из АРМ Запись на ремонт",
+      "title": "Как подобрать автоработы из АРМ Запись на ремонт",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T09:30:15+03:00",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Запись на ремонт/Как записать клиента из Заказ наряда",
+      "title": "Как записать клиента из Заказ-наряда",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T09:23:16+03:00",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Запись на ремонт/Как записать клиента из Корзины",
+      "title": "Как записать клиента из Корзины",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T08:55:44+03:00",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как добавить детали в Заказ-наряд",
+      "title": "Как добавить детали в Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 4,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как добавить работы в Заказ-наряд",
+      "title": "Как добавить работы в Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 4,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как закрыть Заказ-наряд",
+      "title": "Как закрыть Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 2,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как принять оплату по Заказ-наряду",
+      "title": "Как принять оплату по Заказ-наряду",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
       "added_at": "2026-09-01",
       "reading_time": 3,
       "hidden": true
     },
     {
-      "path": "articles/5S AUTO/Запись на ремонт/Настройки АРМ Запись на ремонт",
-      "title": "Настройки АРМ Запись на ремонт",
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как работать с реестром Заказ-нарядов",
+      "title": "Как работать с реестром Заказ-нарядов",
       "type": "articles",
-      "order": 5,
+      "order": 4,
       "updated_at": "2026-09-01",
       "date_kind": "updated",
       "added_at": "2026-09-01",
       "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как распечатать Заказ-наряд",
+      "title": "Как распечатать Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Как создать Заказ-наряд",
+      "title": "Как создать Заказ-наряд",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Обзор интерфейса Заказ-наряда",
+      "title": "Обзор интерфейса Заказ-наряда",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 5,
       "hidden": true
     },
     {
@@ -297,9 +515,232 @@
       "order": 5,
       "updated_at": "2026-08-31",
       "date_kind": "updated",
-      "added_at": "2026-08-31",
+      "added_at": "2026-08-31T15:54:44+03:00",
       "reading_time": 4,
       "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Запись на ремонт/Календарь для планирования работ",
+      "title": "Календарь для планирования работ",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2025-06-18",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T15:50:40+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Запись на ремонт/Начальные настройки для работы в АРМ Запись на ремонт",
+      "title": "Начальные настройки для работы в АРМ «Запись на ремонт»",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T15:35:48+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Как изменить параметры Поиска цен",
+      "title": "Как изменить параметры Поиска цен",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T15:20:47+03:00",
+      "reading_time": 2,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Как работать с аналогами в Поиске цен",
+      "title": "Как работать с аналогами в Поиске цен",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T15:11:02+03:00",
+      "reading_time": 2,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Как работает фильтрация и сортировка в Поиске цен",
+      "title": "Как работает фильтрация и сортировка в Поиске цен",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T15:01:52+03:00",
+      "reading_time": 2,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Как проценить деталь по артикулу",
+      "title": "Как проценить деталь по артикулу",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T14:57:51+03:00",
+      "reading_time": 2,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Как перейти в Поиск цен",
+      "title": "Как перейти в Поиск цен",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T14:54:27+03:00",
+      "reading_time": 2,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Что отображается в предложениях поставщиков",
+      "title": "Что отображается в предложениях поставщиков",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T14:51:29+03:00",
+      "reading_time": 2,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Назначение и интерфейс Поиска цен",
+      "title": "Назначение и интерфейс Поиска цен",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T14:47:01+03:00",
+      "reading_time": 2,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Помощник оформления Заказа покупателя в АРМ Корзина",
+      "title": "Помощник оформления Заказа покупателя в АРМ Корзина",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2024-02-02",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T14:30:23+03:00",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Как создать документы на основании Корзины",
+      "title": "Как создать документы на основании Корзины",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2024-02-02",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T14:22:16+03:00",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Как выгрузить Корзину в другие АРМ",
+      "title": "Как выгрузить Корзину в другие АРМ",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2024-02-02",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T14:11:49+03:00",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Как распечатать Корзину или отправить в мессенджер",
+      "title": "Как распечатать Корзину или отправить в мессенджер",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2024-02-02",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T13:59:07+03:00",
+      "reading_time": 3,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Как создать автомобиль в Корзине",
+      "title": "Как создать автомобиль в Корзине",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2024-02-02",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T13:16:43+03:00",
+      "reading_time": 4,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Как подбирать автоработы в АРМ Корзина",
+      "title": "Как подбирать автоработы в АРМ Корзина",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2024-02-02",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T09:10:36+03:00",
+      "reading_time": 4,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Информационные вкладки Корзины",
+      "title": "Информационные вкладки Корзины",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2024-02-02",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T09:06:49+03:00",
+      "reading_time": 4,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Как добавить варианты поставки в Корзину",
+      "title": "Как добавить варианты поставки в Корзину",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2024-02-02",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T08:53:53+03:00",
+      "reading_time": 4,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Как подбирать запасные части в АРМ Корзина",
+      "title": "Как подбирать запасные части в АРМ Корзина",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2024-02-02",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T08:49:25+03:00",
+      "reading_time": 6,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Проценка запчастей и работ/Назначение и интерфейс АРМ Корзина",
+      "title": "Назначение и интерфейс АРМ Корзина",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2024-02-02",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T08:44:29+03:00",
+      "reading_time": 5,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Диагностические анкеты",
+      "title": "Диагностические анкеты",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2022-06-16",
+      "date_kind": "updated",
+      "added_at": "2026-08-31T08:23:48+03:00",
+      "reading_time": 15,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Проценка запчастей и работ",
+          "order": 3
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Действия с подобранными деталями в Онлайн-каталоге",
@@ -374,7 +815,13 @@
       "updated_at": "2022-06-17",
       "date_kind": "updated",
       "added_at": "2026-08-28T14:10:19+03:00",
-      "reading_time": 20
+      "reading_time": 20,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Склад и запчасти",
+          "order": 1
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Работа в АРМ Корзина",
@@ -517,6 +964,38 @@
       "reading_time": 13
     },
     {
+      "path": "articles/5S AUTO/CRM/Типы задач",
+      "title": "Типы задач",
+      "type": "articles",
+      "order": 18,
+      "updated_at": "2023-06-26",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T11:55:15+03:00",
+      "reading_time": 14,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Задачи",
+          "order": 0
+        }
+      ]
+    },
+    {
+      "path": "articles/5S AUTO/CRM/Приглашение в Telegram",
+      "title": "Приглашение в Telegram",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2025-12-26",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T11:36:47+03:00",
+      "reading_time": 4,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Сообщения",
+          "order": 2
+        }
+      ]
+    },
+    {
       "path": "articles/5S AUTO/Сообщения/Настройка шаблонов WhatsApp Business API",
       "title": "Настройка шаблонов WhatsApp Business API",
       "type": "articles",
@@ -605,6 +1084,22 @@
         {
           "path": "articles/5S AUTO/CRM",
           "order": 9
+        }
+      ]
+    },
+    {
+      "path": "articles/5S AUTO/CRM/Чаты клиента",
+      "title": "Чаты клиента",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2024-11-01",
+      "date_kind": "updated",
+      "added_at": "2026-08-26T10:10:48+03:00",
+      "reading_time": 7,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Сообщения",
+          "order": 0
         }
       ]
     },
@@ -1256,395 +1751,234 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Автосервис/Виды ремонта",
-      "title": "Виды ремонта",
+      "path": "articles/5S AUTO/Автосервис/Интеграция с базой ГИБДД",
+      "title": "Интеграция с базой ГИБДД",
       "type": "articles",
-      "order": 4,
-      "updated_at": "2026-06-15",
+      "order": 12,
+      "updated_at": "2026-07-29",
       "date_kind": "updated",
-      "added_at": "2026-06-15",
-      "reading_time": 10
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Модели автомобилей и другие справочники",
-      "title": "Модели автомобилей и другие справочники",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2026-01-15",
-      "date_kind": "updated",
-      "added_at": "2026-01-15",
-      "reading_time": 8
-    },
-    {
-      "path": "articles/5S AUTO/CRM/Приглашение в Telegram",
-      "title": "Приглашение в Telegram",
-      "type": "articles",
-      "order": 17,
-      "updated_at": "2025-12-26",
-      "date_kind": "updated",
-      "added_at": "2025-12-26",
-      "reading_time": 4,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Сообщения",
-          "order": 2
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Расшифровка автомобиля по VIN",
-      "title": "Расшифровка автомобиля по VIN",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2025-10-31",
-      "date_kind": "updated",
-      "added_at": "2025-10-31",
-      "reading_time": 12
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Автоработы",
-      "title": "Автоработы",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2025-07-17",
-      "date_kind": "updated",
-      "added_at": "2025-07-17",
-      "reading_time": 12
-    },
-    {
-      "path": "articles/5S AUTO/Запись на ремонт/Календарь для планирования работ",
-      "title": "Календарь для планирования работ",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2025-06-18",
-      "date_kind": "updated",
-      "added_at": "2025-06-18",
-      "reading_time": 9
-    },
-    {
-      "path": "articles/5S AUTO/Запись на ремонт/Цветовое оформление планировщика",
-      "title": "Цветовое оформление планировщика",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2025-06-17",
-      "date_kind": "updated",
-      "added_at": "2025-06-17",
-      "reading_time": 6
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с субподрядами",
-      "title": "Работа с субподрядами",
-      "type": "articles",
-      "order": 9,
-      "updated_at": "2025-04-28",
-      "date_kind": "updated",
-      "added_at": "2025-04-28",
-      "reading_time": 11
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с расходными материалами",
-      "title": "Работа с расходными материалами",
-      "type": "articles",
-      "order": 8,
-      "updated_at": "2025-01-31",
-      "date_kind": "updated",
-      "added_at": "2025-01-31",
-      "reading_time": 9
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Автомобили",
-      "title": "Автомобили",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2025-01-29",
-      "date_kind": "updated",
-      "added_at": "2025-01-29",
-      "reading_time": 15
-    },
-    {
-      "path": "articles/5S AUTO/CRM/Чаты клиента",
-      "title": "Чаты клиента",
-      "type": "articles",
-      "order": 8,
-      "updated_at": "2024-11-01",
-      "date_kind": "updated",
-      "added_at": "2024-11-01",
-      "reading_time": 7,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Сообщения",
-          "order": 0
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с рекомендациями",
-      "title": "Работа с рекомендациями",
-      "type": "articles",
-      "order": 5,
-      "updated_at": "2024-05-15",
-      "date_kind": "updated",
-      "added_at": "2024-05-15",
-      "reading_time": 15
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Информационные вкладки Корзины",
-      "title": "Информационные вкладки Корзины",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2024-02-02",
-      "date_kind": "updated",
-      "added_at": "2024-02-02",
-      "reading_time": 4,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Как выгрузить Корзину в другие АРМ",
-      "title": "Как выгрузить Корзину в другие АРМ",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2024-02-02",
-      "date_kind": "updated",
-      "added_at": "2024-02-02",
-      "reading_time": 3,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Как добавить варианты поставки в Корзину",
-      "title": "Как добавить варианты поставки в Корзину",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2024-02-02",
-      "date_kind": "updated",
-      "added_at": "2024-02-02",
-      "reading_time": 4,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Как подбирать автоработы в АРМ Корзина",
-      "title": "Как подбирать автоработы в АРМ Корзина",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2024-02-02",
-      "date_kind": "updated",
-      "added_at": "2024-02-02",
-      "reading_time": 4,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Как подбирать запасные части в АРМ Корзина",
-      "title": "Как подбирать запасные части в АРМ Корзина",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2024-02-02",
-      "date_kind": "updated",
-      "added_at": "2024-02-02",
-      "reading_time": 6,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Как распечатать Корзину или отправить в мессенджер",
-      "title": "Как распечатать Корзину или отправить в мессенджер",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2024-02-02",
-      "date_kind": "updated",
-      "added_at": "2024-02-02",
-      "reading_time": 3,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Как создать автомобиль в Корзине",
-      "title": "Как создать автомобиль в Корзине",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2024-02-02",
-      "date_kind": "updated",
-      "added_at": "2024-02-02",
-      "reading_time": 4,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Как создать документы на основании Корзины",
-      "title": "Как создать документы на основании Корзины",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2024-02-02",
-      "date_kind": "updated",
-      "added_at": "2024-02-02",
-      "reading_time": 3,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Назначение и интерфейс АРМ Корзина",
-      "title": "Назначение и интерфейс АРМ Корзина",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2024-02-02",
-      "date_kind": "updated",
-      "added_at": "2024-02-02",
-      "reading_time": 5,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Помощник оформления Заказа покупателя в АРМ Корзина",
-      "title": "Помощник оформления Заказа покупателя в АРМ Корзина",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2024-02-02",
-      "date_kind": "updated",
-      "added_at": "2024-02-02",
-      "reading_time": 3,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Запись на ремонт/Сохранение настроек АРМ Запись на ремонт",
-      "title": "Сохранение настроек АРМ «Запись на ремонт»",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2023-08-07",
-      "date_kind": "updated",
-      "added_at": "2023-08-07",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/CRM/Типы задач",
-      "title": "Типы задач",
-      "type": "articles",
-      "order": 18,
-      "updated_at": "2023-06-26",
-      "date_kind": "updated",
-      "added_at": "2023-06-26",
-      "reading_time": 14,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Задачи",
-          "order": 0
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Запись на ремонт/Планирование работ и подготовка к заезду",
-      "title": "Планирование работ и подготовка к заезду",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2022-06-21",
-      "date_kind": "updated",
-      "added_at": "2022-06-21",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Запись на ремонт/Начальные настройки для работы в АРМ Запись на ремонт",
-      "title": "Начальные настройки для работы в АРМ «Запись на ремонт»",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2022-06-17",
-      "date_kind": "updated",
-      "added_at": "2022-06-17",
+      "added_at": "2026-07-29",
       "reading_time": 7
     },
     {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Как изменить параметры Поиска цен",
-      "title": "Как изменить параметры Поиска цен",
+      "path": "articles/5S AUTO/Склад и запчасти/Доступные Веб-сервисы поставщиков",
+      "title": "Доступные Веб-сервисы поставщиков",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2026-06-23",
+      "date_kind": "updated",
+      "added_at": "2026-06-23",
+      "reading_time": 3
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Номенклатура",
+      "title": "Номенклатура",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2026-05-21",
+      "date_kind": "updated",
+      "added_at": "2026-05-21",
+      "reading_time": 20
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Сводный акт",
+      "title": "Сводный акт",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2025-12-12",
+      "date_kind": "updated",
+      "added_at": "2025-12-12",
+      "reading_time": 10
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Установка норм времени по моделям двигателей и КПП",
+      "title": "Установка норм времени по моделям двигателей и КПП",
+      "type": "articles",
+      "order": 19,
+      "updated_at": "2025-12-12",
+      "date_kind": "updated",
+      "added_at": "2025-12-12",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Печать документов с факсимиле и логотипом организации",
+      "title": "Печать документов с факсимиле и логотипом организации",
+      "type": "articles",
+      "order": 13,
+      "updated_at": "2025-04-11",
+      "date_kind": "updated",
+      "added_at": "2025-04-11",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Заказ-наряды",
+      "title": "Заказ-наряды",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-02-06",
+      "date_kind": "updated",
+      "added_at": "2025-02-06",
+      "reading_time": 25
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Пакетная печать",
+      "title": "Пакетная печать",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2024-12-23",
+      "date_kind": "updated",
+      "added_at": "2024-12-23",
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Состояние Отказ Заказ-наряда",
+      "title": "Состояние «Отказ» Заказ-наряда",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-12-23",
+      "date_kind": "updated",
+      "added_at": "2024-12-23",
+      "reading_time": 2
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с заметками",
+      "title": "Работа с заметками",
+      "type": "articles",
+      "order": 14,
+      "updated_at": "2024-12-20",
+      "date_kind": "updated",
+      "added_at": "2024-12-20",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Состояния Заказ-наряда",
+      "title": "Состояния Заказ-наряда",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2024-11-01",
+      "date_kind": "updated",
+      "added_at": "2024-11-01",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Корректировка пробега автомобиля",
+      "title": "Корректировка пробега автомобиля",
+      "type": "articles",
+      "order": 20,
+      "updated_at": "2024-08-20",
+      "date_kind": "updated",
+      "added_at": "2024-08-20",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Передача смен",
+      "title": "Передача смен",
+      "type": "articles",
+      "order": 16,
+      "updated_at": "2024-01-22",
+      "date_kind": "updated",
+      "added_at": "2024-01-22",
+      "reading_time": 10
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Модели двигателей и КПП",
+      "title": "Модели двигателей и КПП",
+      "type": "articles",
+      "order": 18,
+      "updated_at": "2022-11-30",
+      "date_kind": "updated",
+      "added_at": "2022-11-30",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Диагностические анкеты для агрегатов",
+      "title": "Диагностические анкеты для агрегатов",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2022-08-03",
+      "date_kind": "updated",
+      "added_at": "2022-08-03",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Ремонт собственных агрегатов",
+      "title": "Ремонт собственных агрегатов",
       "type": "articles",
       "order": 4,
+      "updated_at": "2022-08-03",
+      "date_kind": "updated",
+      "added_at": "2022-08-03",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Учет серийных номеров агрегатов",
+      "title": "Учет серийных номеров агрегатов",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2022-08-03",
+      "date_kind": "updated",
+      "added_at": "2022-08-03",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Применяемость для агрегатов",
+      "title": "Применяемость для агрегатов",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-07-13",
+      "date_kind": "updated",
+      "added_at": "2022-07-13",
+      "reading_time": 13
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка прайс-листа контрагента",
+      "title": "Создание и настройка прайс-листа контрагента",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2022-06-22",
+      "date_kind": "updated",
+      "added_at": "2022-06-22",
+      "reading_time": 18
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Прикрепление файлов к заказ-наряду",
+      "title": "Прикрепление файлов к заказ-наряду",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2022-06-21",
+      "date_kind": "updated",
+      "added_at": "2022-06-21",
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Учет агрегатного ремонта",
+      "title": "Учет агрегатного ремонта",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-06-21",
+      "date_kind": "updated",
+      "added_at": "2022-06-21",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка Веб прайс-листа",
+      "title": "Создание и настройка Веб прайс-листа",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2022-06-20",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Работа с применяемостью",
+      "title": "Работа с применяемостью",
+      "type": "articles",
+      "order": 2,
       "updated_at": "2022-06-17",
       "date_kind": "updated",
       "added_at": "2022-06-17",
-      "reading_time": 2,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Как перейти в Поиск цен",
-      "title": "Как перейти в Поиск цен",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2022-06-17",
-      "date_kind": "updated",
-      "added_at": "2022-06-17",
-      "reading_time": 2,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Как проценить деталь по артикулу",
-      "title": "Как проценить деталь по артикулу",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2022-06-17",
-      "date_kind": "updated",
-      "added_at": "2022-06-17",
-      "reading_time": 2,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Как работает фильтрация и сортировка в Поиске цен",
-      "title": "Как работает фильтрация и сортировка в Поиске цен",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2022-06-17",
-      "date_kind": "updated",
-      "added_at": "2022-06-17",
-      "reading_time": 2,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Как работать с аналогами в Поиске цен",
-      "title": "Как работать с аналогами в Поиске цен",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2022-06-17",
-      "date_kind": "updated",
-      "added_at": "2022-06-17",
-      "reading_time": 2,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Назначение и интерфейс Поиска цен",
-      "title": "Назначение и интерфейс Поиска цен",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2022-06-17",
-      "date_kind": "updated",
-      "added_at": "2022-06-17",
-      "reading_time": 2,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Проценка запчастей и работ/Что отображается в предложениях поставщиков",
-      "title": "Что отображается в предложениях поставщиков",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2022-06-17",
-      "date_kind": "updated",
-      "added_at": "2022-06-17",
-      "reading_time": 2,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Диагностические анкеты",
-      "title": "Диагностические анкеты",
-      "type": "articles",
-      "order": 7,
-      "updated_at": "2022-06-16",
-      "date_kind": "updated",
-      "added_at": "2022-06-16",
-      "reading_time": 15,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Проценка запчастей и работ",
-          "order": 3
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Гарантийная политика",
-      "title": "Гарантийная политика",
-      "type": "articles",
-      "order": 10,
-      "updated_at": "2022-06-14",
-      "date_kind": "updated",
-      "added_at": "2022-06-14",
-      "reading_time": 16
+      "reading_time": 20
     }
   ]
 }
