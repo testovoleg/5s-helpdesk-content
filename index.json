@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T11:50:00+03:00",
-  "count": 175,
+  "generated_at": "2026-09-02T11:59:00+03:00",
+  "count": 176,
   "sections": {
     "tips": [
       {
@@ -235,6 +235,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Виды склада",
+      "title": "Виды склада",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2022-06-22",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T11:49:43+03:00",
+      "reading_time": 8
+    },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Пополнение складских запасов",
       "title": "Пополнение складских запасов",
@@ -2001,14 +2011,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Виды склада",
-      "title": "Виды склада",
+      "path": "articles/5S AUTO/Склад и запчасти/Инвентаризация",
+      "title": "Инвентаризация",
       "type": "articles",
-      "order": 8,
+      "order": 9,
       "updated_at": "2022-06-22",
       "date_kind": "updated",
       "added_at": "2022-06-22",
-      "reading_time": 8
+      "reading_time": 16
     }
   ]
 }
