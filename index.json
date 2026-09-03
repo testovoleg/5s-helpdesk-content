@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T08:57:33+03:00",
+  "generated_at": "2026-09-03T08:58:53+03:00",
   "count": 188,
   "sections": {
     "tips": [
@@ -245,6 +245,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Интерфейс для ТСД",
+      "title": "Интерфейс для ТСД",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2023-03-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T08:57:05+03:00",
+      "reading_time": 25
+    },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Автозаполнение применяемости из заказ-наряда",
       "title": "Автозаполнение применяемости из заказ-наряда",
@@ -2145,16 +2155,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Интерфейс для ТСД",
-      "title": "Интерфейс для ТСД",
-      "type": "articles",
-      "order": 17,
-      "updated_at": "2023-03-14",
-      "date_kind": "updated",
-      "added_at": "2023-03-14",
-      "reading_time": 25
     }
   ]
 }
