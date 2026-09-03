@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T16:42:22+03:00",
-  "count": 187,
+  "generated_at": "2026-09-03T10:41:56+03:00",
+  "count": 193,
   "sections": {
     "tips": [
       {
@@ -246,6 +246,156 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Автозаполнение применяемости из заказ-наряда",
+      "title": "Автозаполнение применяемости из заказ-наряда",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2025-01-13",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T16:10:36+03:00",
+      "reading_time": 20
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Автоматическая публикация объявлений на Авито",
+      "title": "Автоматическая публикация объявлений на Авито",
+      "type": "articles",
+      "order": 16,
+      "updated_at": "2025-09-18",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T15:56:03+03:00",
+      "reading_time": 23
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Применяемость по типу двигателя и типу КПП",
+      "title": "Применяемость по типу двигателя и типу КПП",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-11-30",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T15:23:17+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Приобретение товаров (в пути)",
+      "title": "Приобретение товаров (в пути)",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2022-09-21",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T15:18:42+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Перемещение товаров между филиалами",
+      "title": "Перемещение товаров между филиалами",
+      "type": "articles",
+      "order": 14,
+      "updated_at": "2022-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T14:55:20+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Межфирменные продажи",
+      "title": "Межфирменные продажи",
+      "type": "articles",
+      "order": 13,
+      "updated_at": "2022-06-22",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T14:42:50+03:00",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Задача на подбор запчастей",
+      "title": "Задача на подбор запчастей",
+      "type": "articles",
+      "order": 12,
+      "updated_at": "2025-12-26",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T14:14:24+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Печать этикеток",
+      "title": "Печать этикеток",
+      "type": "articles",
+      "order": 11,
+      "updated_at": "2022-06-22",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T14:08:52+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Назначение штрихкодов товарам",
+      "title": "Назначение штрихкодов товарам",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-10-30",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T13:59:06+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Подключение сканера штрихкодов",
+      "title": "Подключение сканера штрихкодов",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-02-05",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T13:43:09+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Сканирование штрихкодов",
+      "title": "Сканирование штрихкодов товаров",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2024-10-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T13:23:53+03:00",
+      "reading_time": 16
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Инвентаризация",
+      "title": "Инвентаризация",
+      "type": "articles",
+      "order": 9,
+      "updated_at": "2022-06-22",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T11:58:37+03:00",
+      "reading_time": 16
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Виды склада",
+      "title": "Виды склада",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2022-06-22",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T11:49:43+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Пополнение складских запасов",
+      "title": "Пополнение складских запасов",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2024-10-08",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T11:36:22+03:00",
+      "reading_time": 20
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Выгрузка прайс-листов",
+      "title": "Выгрузка прайс-листов",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2025-08-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T11:19:13+03:00",
+      "reading_time": 17
+    },
+    {
       "path": "articles/5S AUTO/Склад и запчасти/Доступные Веб-сервисы поставщиков",
       "title": "Доступные Веб-сервисы поставщиков",
       "type": "articles",
@@ -274,6 +424,16 @@
       "date_kind": "updated",
       "added_at": "2026-09-02T10:32:07+03:00",
       "reading_time": 18
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Работа с применяемостью",
+      "title": "Работа с применяемостью",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T10:21:25+03:00",
+      "reading_time": 20
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Номенклатура",
@@ -1987,164 +2147,64 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Подключение сканера штрихкодов",
-      "title": "Подключение сканера штрихкодов",
+      "path": "articles/5S AUTO/Склад и запчасти/Работа с приложением 5S TSD",
+      "title": "Работа с приложением 5S TSD",
       "type": "articles",
-      "order": 1,
-      "updated_at": "2026-02-05",
+      "order": 18,
+      "updated_at": "2026-02-18",
       "date_kind": "updated",
-      "added_at": "2026-02-05",
-      "reading_time": 8
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Задача на подбор запчастей",
-      "title": "Задача на подбор запчастей",
-      "type": "articles",
-      "order": 12,
-      "updated_at": "2025-12-26",
-      "date_kind": "updated",
-      "added_at": "2025-12-26",
-      "reading_time": 9
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Автоматическая публикация объявлений на Авито",
-      "title": "Автоматическая публикация объявлений на Авито",
-      "type": "articles",
-      "order": 16,
-      "updated_at": "2025-09-18",
-      "date_kind": "updated",
-      "added_at": "2025-09-18",
-      "reading_time": 23
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Выгрузка прайс-листов",
-      "title": "Выгрузка прайс-листов",
-      "type": "articles",
-      "order": 6,
-      "updated_at": "2025-08-20",
-      "date_kind": "updated",
-      "added_at": "2025-08-20",
-      "reading_time": 17
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Автозаполнение применяемости из заказ-наряда",
-      "title": "Автозаполнение применяемости из заказ-наряда",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2025-01-13",
-      "date_kind": "updated",
-      "added_at": "2025-01-13",
+      "added_at": "2026-02-18",
       "reading_time": 20
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Назначение штрихкодов товарам",
-      "title": "Назначение штрихкодов товарам",
+      "path": "articles/5S AUTO/Склад и запчасти/Шинный отель",
+      "title": "Шинный отель",
       "type": "articles",
-      "order": 2,
-      "updated_at": "2024-10-30",
+      "order": 22,
+      "updated_at": "2025-01-09",
       "date_kind": "updated",
-      "added_at": "2024-10-30",
-      "reading_time": 4
+      "added_at": "2025-01-09",
+      "reading_time": 13
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Сканирование штрихкодов",
-      "title": "Сканирование штрихкодов товаров",
+      "path": "articles/5S AUTO/Склад и запчасти/Признаки номенклатуры",
+      "title": "Признаки номенклатуры",
       "type": "articles",
-      "order": 0,
-      "updated_at": "2024-10-29",
+      "order": 20,
+      "updated_at": "2024-06-19",
       "date_kind": "updated",
-      "added_at": "2024-10-29",
-      "reading_time": 16
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Пополнение складских запасов",
-      "title": "Пополнение складских запасов",
-      "type": "articles",
-      "order": 7,
-      "updated_at": "2024-10-08",
-      "date_kind": "updated",
-      "added_at": "2024-10-08",
+      "added_at": "2024-06-19",
       "reading_time": 20
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Применяемость по типу двигателя и типу КПП",
-      "title": "Применяемость по типу двигателя и типу КПП",
+      "path": "articles/5S AUTO/Склад и запчасти/Загрузка накладных поставщиков",
+      "title": "Загрузка накладных поставщиков",
       "type": "articles",
-      "order": 1,
-      "updated_at": "2022-11-30",
+      "order": 21,
+      "updated_at": "2024-02-29",
       "date_kind": "updated",
-      "added_at": "2022-11-30",
+      "added_at": "2024-02-29",
+      "reading_time": 22
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Автоматическое снятие резервов",
+      "title": "Автоматическое снятие резервов",
+      "type": "articles",
+      "order": 19,
+      "updated_at": "2023-06-08",
+      "date_kind": "updated",
+      "added_at": "2023-06-08",
       "reading_time": 7
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Приобретение товаров (в пути)",
-      "title": "Приобретение товаров (в пути)",
+      "path": "articles/5S AUTO/Склад и запчасти/Интерфейс для ТСД",
+      "title": "Интерфейс для ТСД",
       "type": "articles",
-      "order": 15,
-      "updated_at": "2022-09-21",
+      "order": 17,
+      "updated_at": "2023-03-14",
       "date_kind": "updated",
-      "added_at": "2022-09-21",
-      "reading_time": 8
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Перемещение товаров между филиалами",
-      "title": "Перемещение товаров между филиалами",
-      "type": "articles",
-      "order": 14,
-      "updated_at": "2022-09-14",
-      "date_kind": "updated",
-      "added_at": "2022-09-14",
-      "reading_time": 9
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Виды склада",
-      "title": "Виды склада",
-      "type": "articles",
-      "order": 8,
-      "updated_at": "2022-06-22",
-      "date_kind": "updated",
-      "added_at": "2022-06-22",
-      "reading_time": 8
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Инвентаризация",
-      "title": "Инвентаризация",
-      "type": "articles",
-      "order": 9,
-      "updated_at": "2022-06-22",
-      "date_kind": "updated",
-      "added_at": "2022-06-22",
-      "reading_time": 16
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Межфирменные продажи",
-      "title": "Межфирменные продажи",
-      "type": "articles",
-      "order": 13,
-      "updated_at": "2022-06-22",
-      "date_kind": "updated",
-      "added_at": "2022-06-22",
-      "reading_time": 12
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Печать этикеток",
-      "title": "Печать этикеток",
-      "type": "articles",
-      "order": 11,
-      "updated_at": "2022-06-22",
-      "date_kind": "updated",
-      "added_at": "2022-06-22",
-      "reading_time": 8
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Работа с применяемостью",
-      "title": "Работа с применяемостью",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2022-06-17",
-      "date_kind": "updated",
-      "added_at": "2022-06-17",
-      "reading_time": 20
+      "added_at": "2023-03-14",
+      "reading_time": 25
     }
   ]
 }
