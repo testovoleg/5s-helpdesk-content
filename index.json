@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T14:28:03+03:00",
+  "generated_at": "2026-09-03T14:29:19+03:00",
   "count": 200,
   "sections": {
     "tips": [
@@ -245,6 +245,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Ценообразование/Настройка скидок",
+      "title": "Настройка скидок",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2025-05-16",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:27:38+03:00",
+      "reading_time": 15
+    },
     {
       "path": "articles/5S AUTO/Ценообразование/Настройка ценообразования для работ",
       "title": "Настройка ценообразования для работ",
@@ -2289,16 +2299,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Ценообразование/Настройка скидок",
-      "title": "Настройка скидок",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2025-05-16",
-      "date_kind": "updated",
-      "added_at": "2025-05-16",
-      "reading_time": 11
     }
   ]
 }
