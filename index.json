@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T10:21:27+03:00",
-  "count": 192,
+  "generated_at": "2026-09-03T10:39:49+03:00",
+  "count": 193,
   "sections": {
     "tips": [
       {
@@ -245,6 +245,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Загрузка накладных поставщиков",
+      "title": "Загрузка накладных поставщиков",
+      "type": "articles",
+      "order": 21,
+      "updated_at": "2024-02-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T10:20:57+03:00",
+      "reading_time": 22
+    },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Признаки номенклатуры",
       "title": "Признаки номенклатуры",
@@ -2187,14 +2197,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Загрузка накладных поставщиков",
-      "title": "Загрузка накладных поставщиков",
+      "path": "articles/5S AUTO/Склад и запчасти/Шинный отель",
+      "title": "Шинный отель",
       "type": "articles",
-      "order": 21,
-      "updated_at": "2024-02-29",
+      "order": 22,
+      "updated_at": "2025-01-09",
       "date_kind": "updated",
-      "added_at": "2024-02-29",
-      "reading_time": 22
+      "added_at": "2025-01-09",
+      "reading_time": 13
     }
   ]
 }
