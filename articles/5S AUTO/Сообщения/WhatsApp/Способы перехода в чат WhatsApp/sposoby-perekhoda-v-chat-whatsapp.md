@@ -45,7 +45,7 @@
 
 ### 2. Ссылка на сообщение для WhatsApp Business API
 
-Короткая ссылка на сообщение используется *только для WABA. *
+Короткая ссылка на сообщение используется *только для WABA.*
 
 Пример короткой ссылки: *[https://wa.me/message/WCIZKJXTXARQA1](https://wa.me/message/WCIZKJXTXARQA1)*
 

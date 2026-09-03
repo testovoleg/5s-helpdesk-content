@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T15:51:50+03:00",
-  "count": 278,
+  "generated_at": "2026-09-03T16:05:52+03:00",
+  "count": 281,
   "sections": {
     "tips": [
       {
@@ -379,7 +379,7 @@
       "updated_at": "2026-07-03",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 12
+      "reading_time": 11
     },
     {
       "path": "articles/5S AUTO/Сообщения/Интеграция с сообществом ВКонтакте (VK)",
@@ -3089,6 +3089,36 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Бонусная система/Настройка бонусной системы",
+      "title": "Настройка бонусной системы",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-06-17",
+      "reading_time": 19
+    },
+    {
+      "path": "articles/5S AUTO/Бонусная система/Работа с бонусами клиентов",
+      "title": "Работа с бонусами клиентов",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-06-06",
+      "date_kind": "updated",
+      "added_at": "2025-06-06",
+      "reading_time": 17
+    },
+    {
+      "path": "articles/5S AUTO/Бонусная система/Подтверждение списания бонусов",
+      "title": "Подтверждение списания бонусов",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2024-12-17",
+      "date_kind": "updated",
+      "added_at": "2024-12-17",
+      "reading_time": 5
     }
   ]
 }
