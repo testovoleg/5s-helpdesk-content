@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T08:58:53+03:00",
-  "count": 188,
+  "generated_at": "2026-09-03T09:40:29+03:00",
+  "count": 189,
   "sections": {
     "tips": [
       {
@@ -2155,6 +2155,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Работа с приложением 5S TSD",
+      "title": "Работа с приложением 5S TSD",
+      "type": "articles",
+      "order": 18,
+      "updated_at": "2026-02-18",
+      "date_kind": "updated",
+      "added_at": "2026-02-18",
+      "reading_time": 20
     }
   ]
 }
