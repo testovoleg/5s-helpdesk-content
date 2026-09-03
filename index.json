@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:05:52+03:00",
+  "generated_at": "2026-09-03T16:17:12+03:00",
   "count": 281,
   "sections": {
     "tips": [
@@ -251,6 +251,36 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Бонусная система/Настройка бонусной системы",
+      "title": "Настройка бонусной системы",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T16:05:24+03:00",
+      "reading_time": 19
+    },
+    {
+      "path": "articles/5S AUTO/Бонусная система/Подтверждение списания бонусов",
+      "title": "Подтверждение списания бонусов",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2024-12-17",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T16:05:24+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Бонусная система/Работа с бонусами клиентов",
+      "title": "Работа с бонусами клиентов",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-06-06",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T16:05:24+03:00",
+      "reading_time": 17
+    },
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Возможности бота WhatsApp Business API",
       "title": "Возможности бота WhatsApp Business API",
@@ -3089,36 +3119,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Бонусная система/Настройка бонусной системы",
-      "title": "Настройка бонусной системы",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2026-06-17",
-      "date_kind": "updated",
-      "added_at": "2026-06-17",
-      "reading_time": 19
-    },
-    {
-      "path": "articles/5S AUTO/Бонусная система/Работа с бонусами клиентов",
-      "title": "Работа с бонусами клиентов",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2025-06-06",
-      "date_kind": "updated",
-      "added_at": "2025-06-06",
-      "reading_time": 17
-    },
-    {
-      "path": "articles/5S AUTO/Бонусная система/Подтверждение списания бонусов",
-      "title": "Подтверждение списания бонусов",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2024-12-17",
-      "date_kind": "updated",
-      "added_at": "2024-12-17",
-      "reading_time": 5
     }
   ]
 }
