@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T12:15:00+03:00",
-  "count": 198,
+  "generated_at": "2026-09-03T13:20:02+03:00",
+  "count": 199,
   "sections": {
     "tips": [
       {
@@ -2279,6 +2279,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Ценообразование/Настройка ценообразования для работ",
+      "title": "Настройка ценообразования для работ",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-06-21",
+      "date_kind": "updated",
+      "added_at": "2022-06-21",
+      "reading_time": 4
     }
   ]
 }
