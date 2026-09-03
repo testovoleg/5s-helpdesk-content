@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:36:19+03:00",
+  "generated_at": "2026-09-03T11:46:59+03:00",
   "count": 197,
   "sections": {
     "tips": [
@@ -246,6 +246,16 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Работа с заказами/Распределение поступлений по заказам",
+      "title": "Распределение поступлений по заказам",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2023-04-03",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T11:35:45+03:00",
+      "reading_time": 20
+    },
+    {
       "path": "articles/5S AUTO/Работа с заказами/Работа с заказами поставщикам",
       "title": "Работа с заказами поставщикам",
       "type": "articles",
@@ -304,22 +314,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-03T10:04:11+03:00",
       "reading_time": 20
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Автоматическое снятие резервов",
-      "title": "Автоматическое снятие резервов",
-      "type": "articles",
-      "order": 19,
-      "updated_at": "2023-06-08",
-      "date_kind": "updated",
-      "added_at": "2026-09-03T09:50:36+03:00",
-      "reading_time": 7,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Работа с заказами",
-          "order": 7
-        }
-      ]
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Работа с приложением 5S TSD",
@@ -2261,14 +2255,20 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Работа с заказами/Распределение поступлений по заказам",
-      "title": "Распределение поступлений по заказам",
+      "path": "articles/5S AUTO/Работа с заказами/Автоматическое снятие резервов",
+      "title": "Автоматическое снятие резервов",
       "type": "articles",
-      "order": 3,
-      "updated_at": "2023-04-03",
+      "order": 7,
+      "updated_at": "2023-06-08",
       "date_kind": "updated",
-      "added_at": "2023-04-03",
-      "reading_time": 20
+      "added_at": "2023-06-08",
+      "reading_time": 7,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Склад и запчасти",
+          "order": 19
+        }
+      ]
     }
   ]
 }
