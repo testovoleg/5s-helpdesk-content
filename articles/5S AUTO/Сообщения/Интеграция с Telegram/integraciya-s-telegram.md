@@ -69,9 +69,7 @@
 
 Кроме того, QR-код можно сгенерировать прямо в Telegram и вывести его на экран смартфона либо отправить другому пользователю:
 
-![Telegram - QR-код в Tg](attachments/02-telegram-qr-kod-v-tg.png)
-
-![Telegram - QR-код в телефоне](attachments/03-telegram-qr-kod-v-telefone.png)
+![Telegram - QR-код в Tg](attachments/02-telegram-qr-kod-v-tg.png) ![Telegram - QR-код в телефоне](attachments/03-telegram-qr-kod-v-telefone.png)
 
 Клиент при помощи камеры своего мобильного телефона сканирует QR-код и переходит по найденной ссылке в бот.
 
@@ -120,13 +118,7 @@
 - вести переписку с сервисом в чате;
 - просматривать и редактировать информацию в своем профиле, выбирать светлую или темную тему.
 
-![Telegram - Информация об АМ](attachments/09-telegram-informaciya-ob-am.png)
-
-![Telegram - Предварительная Запись](attachments/10-telegram-predvaritelnaya-zapis.png)
-
-![Telegram - Запись на ремонт](attachments/11-telegram-zapis-na-remont.png)
-
-![Telegram - Бонусы](attachments/12-telegram-bonusy.png)
+![Telegram - Информация об АМ](attachments/09-telegram-informaciya-ob-am.png) ![Telegram - Предварительная Запись](attachments/10-telegram-predvaritelnaya-zapis.png) ![Telegram - Запись на ремонт](attachments/11-telegram-zapis-na-remont.png) ![Telegram - Бонусы](attachments/12-telegram-bonusy.png)
 
 #### 2) Переписка с клиентами
 
@@ -150,11 +142,7 @@
 
 ![Telegram - Бот BotFather](attachments/14-telegram-bot-botfather.png)
 
-У официального бота Telegram стоит подтверждающий знак возле имени в виде специальной галочки
-
-![Telegram - Галочка](attachments/15-telegram-galochka.png)
-
-.
+У официального бота Telegram стоит подтверждающий знак возле имени в виде специальной галочки  ![Telegram - Галочка](attachments/15-telegram-galochka.png).
 
 **Шаг 3.** Нажмите кнопку “ЗАПУСТИТЬ” или введите в диалоге команду */start.*
 

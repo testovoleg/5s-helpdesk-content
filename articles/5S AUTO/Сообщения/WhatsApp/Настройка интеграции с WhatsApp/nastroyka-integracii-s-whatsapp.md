@@ -93,9 +93,7 @@
 
 Далее необходимо на своем устройстве открыть приложение WhatsApp, нажать на 3 точки в верхнем правом углу, в открывшемся меню перейти в раздел “Связанные устройства” и нажать кнопку “Связывание устройства”:
 
-![WhatsApp - Связывание устройств - По QR-коду - Переход](attachments/09-whatsapp-svyazyvanie-ustroystv-po-qr-kodu-perehod.png)
-
-![WhatsApp - Связывание устройств - По QR-коду - Связывание](attachments/10-whatsapp-svyazyvanie-ustroystv-po-qr-kodu-svyazyvanie.png)
+![WhatsApp - Связывание устройств - По QR-коду - Переход](attachments/09-whatsapp-svyazyvanie-ustroystv-po-qr-kodu-perehod.png) ![WhatsApp - Связывание устройств - По QR-коду - Связывание](attachments/10-whatsapp-svyazyvanie-ustroystv-po-qr-kodu-svyazyvanie.png)
 
 Далее следует подключиться к Wi-Fi либо подтвердить использование мобильного интернета:
 
