@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T09:50:59+03:00",
-  "count": 190,
+  "generated_at": "2026-09-03T10:04:34+03:00",
+  "count": 191,
   "sections": {
     "tips": [
       {
@@ -245,6 +245,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Автоматическое снятие резервов",
+      "title": "Автоматическое снятие резервов",
+      "type": "articles",
+      "order": 19,
+      "updated_at": "2023-06-08",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T09:50:36+03:00",
+      "reading_time": 7
+    },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Работа с приложением 5S TSD",
       "title": "Работа с приложением 5S TSD",
@@ -2167,14 +2177,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Автоматическое снятие резервов",
-      "title": "Автоматическое снятие резервов",
+      "path": "articles/5S AUTO/Склад и запчасти/Признаки номенклатуры",
+      "title": "Признаки номенклатуры",
       "type": "articles",
-      "order": 19,
-      "updated_at": "2023-06-08",
+      "order": 20,
+      "updated_at": "2024-06-19",
       "date_kind": "updated",
-      "added_at": "2023-06-08",
-      "reading_time": 7
+      "added_at": "2024-06-19",
+      "reading_time": 20
     }
   ]
 }
