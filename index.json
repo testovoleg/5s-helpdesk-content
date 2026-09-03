@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T14:53:59+03:00",
+  "generated_at": "2026-09-03T14:55:54+03:00",
   "count": 257,
   "sections": {
     "tips": [
@@ -245,6 +245,576 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/77Volvo",
+      "title": "Настройка Веб-сервиса 77Volvo",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/ADEO.PRO",
+      "title": "Настройка Веб-сервиса ADEO.PRO",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/AbsAuto (Абс-Авто)",
+      "title": "Настройка Веб-сервиса AbsAuto (Абс-Авто)",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Allautoparts (Автостелс)",
+      "title": "Настройка Веб-сервиса Allautoparts (Автостелс)",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Armtek (Армтек)",
+      "title": "Настройка Веб-сервиса Armtek (Армтек)",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Auto-help (Авто-Хэлп)",
+      "title": "Настройка Веб-сервиса Auto-help (Авто-Хэлп)",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2025-03-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Auto-sputnik (Автоспутник)",
+      "title": "Настройка Веб-сервиса Auto-sputnik (Автоспутник)",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Auto1.by (АвтоСпейс)",
+      "title": "Настройка Веб-сервиса Auto1.by (АвтоСпейс)",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autobiz (Автобиз)",
+      "title": "Настройка Веб-сервиса Autobiz (Автобиз)",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autoeuro (Авто-Евро)",
+      "title": "Настройка Веб-сервиса Autoeuro (Авто-Евро)",
+      "type": "articles",
+      "order": 9,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autoeuro v1.0 (Авто-Евро)",
+      "title": "Настройка Веб-сервиса Autoeuro v1.0 (Авто-Евро)",
+      "type": "articles",
+      "order": 10,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autoeuro v2.0 (Авто-Евро)",
+      "title": "Настройка Веб-сервиса Autoeuro v2.0 (Авто-Евро)",
+      "type": "articles",
+      "order": 11,
+      "updated_at": "2026-04-03",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autokontinent (Автоконтинент)",
+      "title": "Настройка Веб-сервиса Autokontinent (Автоконтинент)",
+      "type": "articles",
+      "order": 12,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autonomia (Автономия PRO)",
+      "title": "Настройка Веб-сервиса Autonomia (Автономия PRO)",
+      "type": "articles",
+      "order": 13,
+      "updated_at": "2025-03-17",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autopiter (Автопитер)",
+      "title": "Настройка Веб-сервиса Autopiter (Автопитер)",
+      "type": "articles",
+      "order": 14,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autotrade (Автотрейд)",
+      "title": "Настройка Веб-сервиса Autotrade (Автотрейд)",
+      "type": "articles",
+      "order": 16,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autotrade (Автотрейд) v.2",
+      "title": "Настройка Веб-сервиса Autotrade (Автотрейд) v.2",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2026-04-13",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/AvtoTO (АвтоТО)",
+      "title": "Настройка Веб-сервиса AvtoTO",
+      "type": "articles",
+      "order": 20,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Avtogut (АвтоGüT)",
+      "title": "Настройка Веб-сервиса Avtogut (АвтоGüT)",
+      "type": "articles",
+      "order": 18,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 3
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Avtogut 2 (АвтоGüT 2)",
+      "title": "Настройка Веб-сервиса Avtogut 2 (АвтоGüT 2)",
+      "type": "articles",
+      "order": 19,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Berg (Берг)",
+      "title": "Настройка Веб-сервиса Berg (Берг)",
+      "type": "articles",
+      "order": 21,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 10
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Emex (Эмекс)",
+      "title": "Настройка Веб-сервиса Emex (Эмекс)",
+      "type": "articles",
+      "order": 22,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Emex Wdc (MegaPart)",
+      "title": "Настройка Веб-сервиса Emex Wdc (MegaPart)",
+      "type": "articles",
+      "order": 23,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Favorit (Фаворит)",
+      "title": "Настройка Веб-сервиса Favorit (Фаворит)",
+      "type": "articles",
+      "order": 24,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Forum-auto (Форум-Авто)",
+      "title": "Настройка Веб-сервиса Forum-auto (Форум-Авто)",
+      "type": "articles",
+      "order": 25,
+      "updated_at": "2026-08-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Ixora (Иксора)",
+      "title": "Настройка Веб-сервиса Ixora (Иксора)",
+      "type": "articles",
+      "order": 26,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MParts (М Партс)",
+      "title": "Настройка Веб-сервиса MParts (М Партс)",
+      "type": "articles",
+      "order": 30,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MParts (МПартс) v.2",
+      "title": "Настройка Веб-сервиса MParts (МПартс) v.2",
+      "type": "articles",
+      "order": 31,
+      "updated_at": "2026-04-03",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MSMAuto (МСМ ГРУПП)",
+      "title": "Настройка Веб-сервиса MSMAuto (МСМ ГРУПП)",
+      "type": "articles",
+      "order": 32,
+      "updated_at": "2026-06-23",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MX group",
+      "title": "Настройка Веб-сервиса MX group",
+      "type": "articles",
+      "order": 33,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Major-auto (Мажор-Авто)",
+      "title": "Настройка Веб-сервиса Major-auto (Мажор-Авто)",
+      "type": "articles",
+      "order": 27,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Mikado (Микадо)",
+      "title": "Настройка Веб-сервиса Mikado (Микадо)",
+      "type": "articles",
+      "order": 28,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Moskvorechie (Москворечье)",
+      "title": "Настройка Веб-сервиса Moskvorechie (Москворечье)",
+      "type": "articles",
+      "order": 29,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Next-Auto.pro",
+      "title": "Настройка Веб-сервиса Next-Auto.pro",
+      "type": "articles",
+      "order": 34,
+      "updated_at": "2025-03-17",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Omega (Омега)",
+      "title": "Настройка Веб-сервиса Omega (Омега)",
+      "type": "articles",
+      "order": 35,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/PartKom (ПартКом)",
+      "title": "Настройка Веб-сервиса PartKom (ПартКом)",
+      "type": "articles",
+      "order": 36,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/PartKom (ПартКом) v.2",
+      "title": "Настройка Веб-сервиса PartKom (ПартКом) v.2",
+      "type": "articles",
+      "order": 37,
+      "updated_at": "2026-04-13",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Phaeton.kz (Фаэтон КЗ)",
+      "title": "Настройка Веб-сервиса Phaeton.kz (Фаэтон КЗ)",
+      "type": "articles",
+      "order": 38,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Planeta Avto (Планета Авто)",
+      "title": "Настройка Веб-сервиса Planetavto (Планета Авто)",
+      "type": "articles",
+      "order": 39,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Plofit Liga (Профит Лига)",
+      "title": "Настройка Веб-сервиса Profit Liga (Профит Лига)",
+      "type": "articles",
+      "order": 40,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/RmsAuto",
+      "title": "Настройка Веб-сервиса RmsAuto",
+      "type": "articles",
+      "order": 41,
+      "updated_at": "2025-03-17",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Rolf (РОЛЬФ)",
+      "title": "Настройка Веб-сервиса Rolf (РОЛЬФ)",
+      "type": "articles",
+      "order": 42,
+      "updated_at": "2026-03-26",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Rossko (Росско)",
+      "title": "Настройка Веб-сервиса Rossko (Росско) v.2.1",
+      "type": "articles",
+      "order": 43,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Rossko (Росско) v.2",
+      "title": "Настройка Веб-сервиса Rossko (Росско) v.2",
+      "type": "articles",
+      "order": 44,
+      "updated_at": "2026-04-03",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Sate-m (Шате-М)",
+      "title": "Настройка Веб-сервиса Sate-m (Шате-М)",
+      "type": "articles",
+      "order": 45,
+      "updated_at": "2025-07-23",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/TISS (ТИСС)",
+      "title": "Настройка Веб-сервиса TISS (ТИСС)",
+      "type": "articles",
+      "order": 46,
+      "updated_at": "2026-03-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Tmparts (ТИСС)",
+      "title": "Настройка Веб-сервиса Tmparts (ТИСС)",
+      "type": "articles",
+      "order": 47,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Tradesoft",
+      "title": "Настройка Веб-сервиса Tradesoft",
+      "type": "articles",
+      "order": 48,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Tradesoft (ТрэйдСофт) v.2",
+      "title": "Настройка Веб-сервиса Tradesoft (ТрэйдСофт) v.2",
+      "type": "articles",
+      "order": 49,
+      "updated_at": "2026-06-22",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Trinity-parts",
+      "title": "Настройка Веб-сервиса Trinity-parts",
+      "type": "articles",
+      "order": 50,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Uniqom (Юником)",
+      "title": "Настройка Веб-сервиса Uniqom (Юником)",
+      "type": "articles",
+      "order": 51,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Vetro",
+      "title": "Настройка Веб-сервиса Vetro",
+      "type": "articles",
+      "order": 52,
+      "updated_at": "2025-03-17",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/ZZAP (Зетзап) v.2",
+      "title": "Настройка Веб-сервиса ZZAP (Зетзап) v.2",
+      "type": "articles",
+      "order": 54,
+      "updated_at": "2026-04-13",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Zzap",
+      "title": "Настройка Веб-сервиса Zzap",
+      "type": "articles",
+      "order": 53,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/abcp",
+      "title": "Настройка Веб-сервиса abcp",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Автосоюз",
+      "title": "Настройка Веб-сервиса Автосоюз",
+      "type": "articles",
+      "order": 55,
+      "updated_at": "2022-06-21",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Восход-Авто",
+      "title": "Настройка Веб-сервиса Восход-Авто",
+      "type": "articles",
+      "order": 56,
+      "updated_at": "2023-04-03",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T14:53:31+03:00",
+      "reading_time": 5
+    },
     {
       "path": "articles/5S AUTO/Ценообразование/Настройка скидок",
       "title": "Настройка скидок",
@@ -1368,16 +1938,6 @@
       ]
     },
     {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Forum-auto (Форум-Авто)",
-      "title": "Настройка Веб-сервиса Forum-auto (Форум-Авто)",
-      "type": "articles",
-      "order": 25,
-      "updated_at": "2026-08-28",
-      "date_kind": "updated",
-      "added_at": "2026-08-28",
-      "reading_time": 3
-    },
-    {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Работа в АРМ Корзина",
       "title": "Работа в АРМ Корзина",
       "type": "articles",
@@ -2309,566 +2869,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MSMAuto (МСМ ГРУПП)",
-      "title": "Настройка Веб-сервиса MSMAuto (МСМ ГРУПП)",
-      "type": "articles",
-      "order": 32,
-      "updated_at": "2026-06-23",
-      "date_kind": "updated",
-      "added_at": "2026-06-23",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Tradesoft (ТрэйдСофт) v.2",
-      "title": "Настройка Веб-сервиса Tradesoft (ТрэйдСофт) v.2",
-      "type": "articles",
-      "order": 49,
-      "updated_at": "2026-06-22",
-      "date_kind": "updated",
-      "added_at": "2026-06-22",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autotrade (Автотрейд) v.2",
-      "title": "Настройка Веб-сервиса Autotrade (Автотрейд) v.2",
-      "type": "articles",
-      "order": 17,
-      "updated_at": "2026-04-13",
-      "date_kind": "updated",
-      "added_at": "2026-04-13",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/PartKom (ПартКом) v.2",
-      "title": "Настройка Веб-сервиса PartKom (ПартКом) v.2",
-      "type": "articles",
-      "order": 37,
-      "updated_at": "2026-04-13",
-      "date_kind": "updated",
-      "added_at": "2026-04-13",
-      "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/ZZAP (Зетзап) v.2",
-      "title": "Настройка Веб-сервиса ZZAP (Зетзап) v.2",
-      "type": "articles",
-      "order": 54,
-      "updated_at": "2026-04-13",
-      "date_kind": "updated",
-      "added_at": "2026-04-13",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autoeuro v2.0 (Авто-Евро)",
-      "title": "Настройка Веб-сервиса Autoeuro v2.0 (Авто-Евро)",
-      "type": "articles",
-      "order": 11,
-      "updated_at": "2026-04-03",
-      "date_kind": "updated",
-      "added_at": "2026-04-03",
-      "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MParts (МПартс) v.2",
-      "title": "Настройка Веб-сервиса MParts (МПартс) v.2",
-      "type": "articles",
-      "order": 31,
-      "updated_at": "2026-04-03",
-      "date_kind": "updated",
-      "added_at": "2026-04-03",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Rossko (Росско) v.2",
-      "title": "Настройка Веб-сервиса Rossko (Росско) v.2",
-      "type": "articles",
-      "order": 44,
-      "updated_at": "2026-04-03",
-      "date_kind": "updated",
-      "added_at": "2026-04-03",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Rolf (РОЛЬФ)",
-      "title": "Настройка Веб-сервиса Rolf (РОЛЬФ)",
-      "type": "articles",
-      "order": 42,
-      "updated_at": "2026-03-26",
-      "date_kind": "updated",
-      "added_at": "2026-03-26",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/TISS (ТИСС)",
-      "title": "Настройка Веб-сервиса TISS (ТИСС)",
-      "type": "articles",
-      "order": 46,
-      "updated_at": "2026-03-11",
-      "date_kind": "updated",
-      "added_at": "2026-03-11",
-      "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Sate-m (Шате-М)",
-      "title": "Настройка Веб-сервиса Sate-m (Шате-М)",
-      "type": "articles",
-      "order": 45,
-      "updated_at": "2025-07-23",
-      "date_kind": "updated",
-      "added_at": "2025-07-23",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autonomia (Автономия PRO)",
-      "title": "Настройка Веб-сервиса Autonomia (Автономия PRO)",
-      "type": "articles",
-      "order": 13,
-      "updated_at": "2025-03-17",
-      "date_kind": "updated",
-      "added_at": "2025-03-17",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Next-Auto.pro",
-      "title": "Настройка Веб-сервиса Next-Auto.pro",
-      "type": "articles",
-      "order": 34,
-      "updated_at": "2025-03-17",
-      "date_kind": "updated",
-      "added_at": "2025-03-17",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/RmsAuto",
-      "title": "Настройка Веб-сервиса RmsAuto",
-      "type": "articles",
-      "order": 41,
-      "updated_at": "2025-03-17",
-      "date_kind": "updated",
-      "added_at": "2025-03-17",
-      "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Vetro",
-      "title": "Настройка Веб-сервиса Vetro",
-      "type": "articles",
-      "order": 52,
-      "updated_at": "2025-03-17",
-      "date_kind": "updated",
-      "added_at": "2025-03-17",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Auto-help (Авто-Хэлп)",
-      "title": "Настройка Веб-сервиса Auto-help (Авто-Хэлп)",
-      "type": "articles",
-      "order": 6,
-      "updated_at": "2025-03-14",
-      "date_kind": "updated",
-      "added_at": "2025-03-14",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Восход-Авто",
-      "title": "Настройка Веб-сервиса Восход-Авто",
-      "type": "articles",
-      "order": 56,
-      "updated_at": "2023-04-03",
-      "date_kind": "updated",
-      "added_at": "2023-04-03",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Автосоюз",
-      "title": "Настройка Веб-сервиса Автосоюз",
-      "type": "articles",
-      "order": 55,
-      "updated_at": "2022-06-21",
-      "date_kind": "updated",
-      "added_at": "2022-06-21",
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/77Volvo",
-      "title": "Настройка Веб-сервиса 77Volvo",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/ADEO.PRO",
-      "title": "Настройка Веб-сервиса ADEO.PRO",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/AbsAuto (Абс-Авто)",
-      "title": "Настройка Веб-сервиса AbsAuto (Абс-Авто)",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Allautoparts (Автостелс)",
-      "title": "Настройка Веб-сервиса Allautoparts (Автостелс)",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Armtek (Армтек)",
-      "title": "Настройка Веб-сервиса Armtek (Армтек)",
-      "type": "articles",
-      "order": 5,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Auto-sputnik (Автоспутник)",
-      "title": "Настройка Веб-сервиса Auto-sputnik (Автоспутник)",
-      "type": "articles",
-      "order": 15,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Auto1.by (АвтоСпейс)",
-      "title": "Настройка Веб-сервиса Auto1.by (АвтоСпейс)",
-      "type": "articles",
-      "order": 7,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autobiz (Автобиз)",
-      "title": "Настройка Веб-сервиса Autobiz (Автобиз)",
-      "type": "articles",
-      "order": 8,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autoeuro (Авто-Евро)",
-      "title": "Настройка Веб-сервиса Autoeuro (Авто-Евро)",
-      "type": "articles",
-      "order": 9,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autoeuro v1.0 (Авто-Евро)",
-      "title": "Настройка Веб-сервиса Autoeuro v1.0 (Авто-Евро)",
-      "type": "articles",
-      "order": 10,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autokontinent (Автоконтинент)",
-      "title": "Настройка Веб-сервиса Autokontinent (Автоконтинент)",
-      "type": "articles",
-      "order": 12,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autopiter (Автопитер)",
-      "title": "Настройка Веб-сервиса Autopiter (Автопитер)",
-      "type": "articles",
-      "order": 14,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autotrade (Автотрейд)",
-      "title": "Настройка Веб-сервиса Autotrade (Автотрейд)",
-      "type": "articles",
-      "order": 16,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/AvtoTO (АвтоТО)",
-      "title": "Настройка Веб-сервиса AvtoTO",
-      "type": "articles",
-      "order": 20,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Avtogut (АвтоGüT)",
-      "title": "Настройка Веб-сервиса Avtogut (АвтоGüT)",
-      "type": "articles",
-      "order": 18,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 1
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Avtogut 2 (АвтоGüT 2)",
-      "title": "Настройка Веб-сервиса Avtogut 2 (АвтоGüT 2)",
-      "type": "articles",
-      "order": 19,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Berg (Берг)",
-      "title": "Настройка Веб-сервиса Berg (Берг)",
-      "type": "articles",
-      "order": 21,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Emex (Эмекс)",
-      "title": "Настройка Веб-сервиса Emex (Эмекс)",
-      "type": "articles",
-      "order": 22,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Emex Wdc (MegaPart)",
-      "title": "Настройка Веб-сервиса Emex Wdc (MegaPart)",
-      "type": "articles",
-      "order": 23,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Favorit (Фаворит)",
-      "title": "Настройка Веб-сервиса Favorit (Фаворит)",
-      "type": "articles",
-      "order": 24,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Ixora (Иксора)",
-      "title": "Настройка Веб-сервиса Ixora (Иксора)",
-      "type": "articles",
-      "order": 26,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MParts (М Партс)",
-      "title": "Настройка Веб-сервиса MParts (М Партс)",
-      "type": "articles",
-      "order": 30,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MX group",
-      "title": "Настройка Веб-сервиса MX group",
-      "type": "articles",
-      "order": 33,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Major-auto (Мажор-Авто)",
-      "title": "Настройка Веб-сервиса Major-auto (Мажор-Авто)",
-      "type": "articles",
-      "order": 27,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Mikado (Микадо)",
-      "title": "Настройка Веб-сервиса Mikado (Микадо)",
-      "type": "articles",
-      "order": 28,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Moskvorechie (Москворечье)",
-      "title": "Настройка Веб-сервиса Moskvorechie (Москворечье)",
-      "type": "articles",
-      "order": 29,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Omega (Омега)",
-      "title": "Настройка Веб-сервиса Omega (Омега)",
-      "type": "articles",
-      "order": 35,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/PartKom (ПартКом)",
-      "title": "Настройка Веб-сервиса PartKom (ПартКом)",
-      "type": "articles",
-      "order": 36,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Phaeton.kz (Фаэтон КЗ)",
-      "title": "Настройка Веб-сервиса Phaeton.kz (Фаэтон КЗ)",
-      "type": "articles",
-      "order": 38,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Planeta Avto (Планета Авто)",
-      "title": "Настройка Веб-сервиса Planetavto (Планета Авто)",
-      "type": "articles",
-      "order": 39,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Plofit Liga (Профит Лига)",
-      "title": "Настройка Веб-сервиса Profit Liga (Профит Лига)",
-      "type": "articles",
-      "order": 40,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Rossko (Росско)",
-      "title": "Настройка Веб-сервиса Rossko (Росско) v.2.1",
-      "type": "articles",
-      "order": 43,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Tmparts (ТИСС)",
-      "title": "Настройка Веб-сервиса Tmparts (ТИСС)",
-      "type": "articles",
-      "order": 47,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Tradesoft",
-      "title": "Настройка Веб-сервиса Tradesoft",
-      "type": "articles",
-      "order": 48,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Trinity-parts",
-      "title": "Настройка Веб-сервиса Trinity-parts",
-      "type": "articles",
-      "order": 50,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Uniqom (Юником)",
-      "title": "Настройка Веб-сервиса Uniqom (Юником)",
-      "type": "articles",
-      "order": 51,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Zzap",
-      "title": "Настройка Веб-сервиса Zzap",
-      "type": "articles",
-      "order": 53,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/abcp",
-      "title": "Настройка Веб-сервиса abcp",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 3
     }
   ]
 }

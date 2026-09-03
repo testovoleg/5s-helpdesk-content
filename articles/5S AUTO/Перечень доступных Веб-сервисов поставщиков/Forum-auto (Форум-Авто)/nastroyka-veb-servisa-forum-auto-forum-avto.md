@@ -2,7 +2,7 @@
 
 # Настройка Веб-сервиса Forum-auto (Форум-Авто)
 
-<table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 28.08.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 6 мин.</td><td><b>Обновлено:</b> 28.08.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-veb-servisa-forum-auto-forum-avto</sub>
 
