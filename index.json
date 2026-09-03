@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T11:23:00+03:00",
-  "count": 196,
+  "generated_at": "2026-09-03T11:36:19+03:00",
+  "count": 197,
   "sections": {
     "tips": [
       {
@@ -249,7 +249,7 @@
       "path": "articles/5S AUTO/Работа с заказами/Работа с заказами поставщикам",
       "title": "Работа с заказами поставщикам",
       "type": "articles",
-      "order": 0,
+      "order": 2,
       "updated_at": "2025-05-19",
       "date_kind": "updated",
       "added_at": "2026-09-03T11:21:31+03:00",
@@ -259,7 +259,7 @@
       "path": "articles/5S AUTO/Работа с заказами/Помощник оформления заказа покупателя",
       "title": "Помощник оформления заказа покупателя",
       "type": "articles",
-      "order": 0,
+      "order": 1,
       "updated_at": "2025-05-06",
       "date_kind": "updated",
       "added_at": "2026-09-03T11:04:53+03:00",
@@ -313,7 +313,13 @@
       "updated_at": "2023-06-08",
       "date_kind": "updated",
       "added_at": "2026-09-03T09:50:36+03:00",
-      "reading_time": 7
+      "reading_time": 7,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Работа с заказами",
+          "order": 7
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Работа с приложением 5S TSD",
@@ -373,7 +379,13 @@
       "updated_at": "2022-09-21",
       "date_kind": "updated",
       "added_at": "2026-09-02T15:18:42+03:00",
-      "reading_time": 8
+      "reading_time": 8,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Работа с заказами",
+          "order": 6
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Перемещение товаров между филиалами",
@@ -383,7 +395,13 @@
       "updated_at": "2022-09-14",
       "date_kind": "updated",
       "added_at": "2026-09-02T14:55:20+03:00",
-      "reading_time": 9
+      "reading_time": 9,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Работа с заказами",
+          "order": 5
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Межфирменные продажи",
@@ -1327,7 +1345,13 @@
       "updated_at": "2022-06-28",
       "date_kind": "updated",
       "added_at": "2026-08-27T14:30:22+03:00",
-      "reading_time": 7
+      "reading_time": 7,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Работа с заказами",
+          "order": 4
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Работа с клиентами/Лента событий",
@@ -2235,6 +2259,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Работа с заказами/Распределение поступлений по заказам",
+      "title": "Распределение поступлений по заказам",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2023-04-03",
+      "date_kind": "updated",
+      "added_at": "2023-04-03",
+      "reading_time": 20
     }
   ]
 }
