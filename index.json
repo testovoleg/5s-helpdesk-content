@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T10:04:34+03:00",
-  "count": 191,
+  "generated_at": "2026-09-03T10:21:27+03:00",
+  "count": 192,
   "sections": {
     "tips": [
       {
@@ -245,6 +245,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Признаки номенклатуры",
+      "title": "Признаки номенклатуры",
+      "type": "articles",
+      "order": 20,
+      "updated_at": "2024-06-19",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T10:04:11+03:00",
+      "reading_time": 20
+    },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Автоматическое снятие резервов",
       "title": "Автоматическое снятие резервов",
@@ -2177,14 +2187,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Признаки номенклатуры",
-      "title": "Признаки номенклатуры",
+      "path": "articles/5S AUTO/Склад и запчасти/Загрузка накладных поставщиков",
+      "title": "Загрузка накладных поставщиков",
       "type": "articles",
-      "order": 20,
-      "updated_at": "2024-06-19",
+      "order": 21,
+      "updated_at": "2024-02-29",
       "date_kind": "updated",
-      "added_at": "2024-06-19",
-      "reading_time": 20
+      "added_at": "2024-02-29",
+      "reading_time": 22
     }
   ]
 }
