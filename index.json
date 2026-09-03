@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T14:55:54+03:00",
-  "count": 257,
+  "generated_at": "2026-09-03T15:39:53+03:00",
+  "count": 278,
   "sections": {
     "tips": [
       {
@@ -123,7 +123,13 @@
           },
           {
             "name": "Сообщения",
-            "path": "articles/5S AUTO/Сообщения"
+            "path": "articles/5S AUTO/Сообщения",
+            "sections": [
+              {
+                "name": "WhatsApp",
+                "path": "articles/5S AUTO/Сообщения/WhatsApp"
+              }
+            ]
           },
           {
             "name": "Бонусная система",
@@ -2111,7 +2117,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Сообщения",
-          "order": 2
+          "order": 9
         }
       ]
     },
@@ -2119,7 +2125,7 @@
       "path": "articles/5S AUTO/Сообщения/Настройка шаблонов WhatsApp Business API",
       "title": "Настройка шаблонов WhatsApp Business API",
       "type": "articles",
-      "order": 1,
+      "order": 7,
       "updated_at": "2025-09-19",
       "date_kind": "updated",
       "added_at": "2026-08-26T11:14:15+03:00",
@@ -2128,6 +2134,10 @@
         {
           "path": "articles/5S AUTO/CRM",
           "order": 16
+        },
+        {
+          "path": "articles/5S AUTO/Сообщения/WhatsApp",
+          "order": 4
         }
       ]
     },
@@ -2219,7 +2229,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Сообщения",
-          "order": 0
+          "order": 3
         }
       ]
     },
@@ -2869,6 +2879,216 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/Интеграция с пользовательским MAX",
+      "title": "Интеграция с пользовательским MAX",
+      "type": "articles",
+      "order": 13,
+      "updated_at": "2026-07-03",
+      "date_kind": "updated",
+      "added_at": "2026-07-03",
+      "reading_time": 11
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/Интеграция с мессенджером MAX",
+      "title": "Интеграция с мессенджером MAX",
+      "type": "articles",
+      "order": 12,
+      "updated_at": "2026-03-06",
+      "date_kind": "updated",
+      "added_at": "2026-03-06",
+      "reading_time": 23
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/Контакт-центр 5S Chat",
+      "title": "Контакт-центр 5S Chat",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2026-02-09",
+      "date_kind": "updated",
+      "added_at": "2026-02-09",
+      "reading_time": 14
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/Интеграция с сообществом ВКонтакте (VK)",
+      "title": "Интеграция с сообществом ВКонтакте (VK)",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2025-12-05",
+      "date_kind": "updated",
+      "added_at": "2025-12-05",
+      "reading_time": 23
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/Создание приложения компании в VK",
+      "title": "Создание приложения компании в VK",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2025-08-08",
+      "date_kind": "updated",
+      "added_at": "2025-08-08",
+      "reading_time": 14
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/Интеграция с мессенджером Авито",
+      "title": "Интеграция с мессенджером Авито",
+      "type": "articles",
+      "order": 14,
+      "updated_at": "2025-06-26",
+      "date_kind": "updated",
+      "added_at": "2025-06-26",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/WhatsApp/Сравнение возможностей WABA и пользовательского WhatsApp",
+      "title": "Сравнение возможностей WABA и пользовательского WhatsApp",
+      "type": "articles",
+      "order": 9,
+      "updated_at": "2025-05-21",
+      "date_kind": "updated",
+      "added_at": "2025-05-21",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка интеграции с WhatsApp",
+      "title": "Настройка интеграции с WhatsApp",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2025-05-20",
+      "date_kind": "updated",
+      "added_at": "2025-05-20",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка интеграции с WhatsApp Business API (WABA)",
+      "title": "Настройки интеграции с WhatsApp Business API",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2025-05-14",
+      "date_kind": "updated",
+      "added_at": "2025-05-14",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/WhatsApp/Оформление аккаунта WhatsApp Business API",
+      "title": "Оформление аккаунта WhatsApp Business API",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2025-05-14",
+      "date_kind": "updated",
+      "added_at": "2025-05-14",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/WhatsApp/Способы перехода в чат WhatsApp",
+      "title": "Способы перехода в чат WhatsApp",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2025-05-14",
+      "date_kind": "updated",
+      "added_at": "2025-05-14",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/WhatsApp/Возможности бота WhatsApp Business API",
+      "title": "Возможности бота WhatsApp Business API",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-05-13",
+      "date_kind": "updated",
+      "added_at": "2025-05-13",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/Интеграция с Telegram",
+      "title": "Интеграция с Telegram",
+      "type": "articles",
+      "order": 10,
+      "updated_at": "2024-09-03",
+      "date_kind": "updated",
+      "added_at": "2024-09-03",
+      "reading_time": 25
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/Преднастроенные значимые события",
+      "title": "Преднастроенные значимые события",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2024-04-19",
+      "date_kind": "updated",
+      "added_at": "2024-04-19",
+      "reading_time": 13
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/WhatsApp/Возможные проблемы с WABA и их устранение",
+      "title": "Возможные проблемы с WABA и их устранение",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2024-04-08",
+      "date_kind": "updated",
+      "added_at": "2024-04-08",
+      "reading_time": 19
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/Шаблоны сообщений",
+      "title": "Шаблоны сообщений",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2024-01-18",
+      "date_kind": "updated",
+      "added_at": "2024-01-18",
+      "reading_time": 16
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/Настройка автоматической отправки сообщений через мессенджеры",
+      "title": "Настройка автоматической отправки сообщений через мессенджеры",
+      "type": "articles",
+      "order": 11,
+      "updated_at": "2024-01-12",
+      "date_kind": "updated",
+      "added_at": "2024-01-12",
+      "reading_time": 13
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/Массовая рассылка сообщений по выборке клиентов",
+      "title": "Массовая рассылка сообщений по выборке клиентов",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-01-09",
+      "date_kind": "updated",
+      "added_at": "2024-01-09",
+      "reading_time": 13
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/WhatsApp/Пример индивидуальной настройки WABA",
+      "title": "Пример индивидуальной настройки WABA",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2023-07-06",
+      "date_kind": "updated",
+      "added_at": "2023-07-06",
+      "reading_time": 24
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/WhatsApp/Регистрация компании в Facebook и 360dialog",
+      "title": "Регистрация компании в Facebook и 360dialog",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2023-01-25",
+      "date_kind": "updated",
+      "added_at": "2023-01-25",
+      "reading_time": 28
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/Рассылка отчетов через мессенджеры",
+      "title": "Рассылка отчетов через мессенджеры",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-06-23",
+      "date_kind": "updated",
+      "added_at": "2022-06-23",
+      "reading_time": 12
     }
   ]
 }
