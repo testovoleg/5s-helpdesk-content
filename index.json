@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T10:57:18+03:00",
-  "count": 194,
+  "generated_at": "2026-09-03T11:05:16+03:00",
+  "count": 195,
   "sections": {
     "tips": [
       {
@@ -245,6 +245,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Работа с заказами/Работа с заказами покупателя",
+      "title": "Работа с заказами покупателя",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-05-06",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T10:56:48+03:00",
+      "reading_time": 14
+    },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Шинный отель",
       "title": "Шинный отель",
@@ -2207,14 +2217,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Работа с заказами/Работа с заказами покупателя",
-      "title": "Работа с заказами покупателя",
+      "path": "articles/5S AUTO/Работа с заказами/Помощник оформления заказа покупателя",
+      "title": "Помощник оформления заказа покупателя",
       "type": "articles",
       "order": 0,
       "updated_at": "2025-05-06",
       "date_kind": "updated",
       "added_at": "2025-05-06",
-      "reading_time": 14
+      "reading_time": 5
     }
   ]
 }
