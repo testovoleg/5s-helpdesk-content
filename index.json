@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T11:46:59+03:00",
-  "count": 197,
+  "generated_at": "2026-09-03T12:07:15+03:00",
+  "count": 198,
   "sections": {
     "tips": [
       {
@@ -314,6 +314,22 @@
       "date_kind": "updated",
       "added_at": "2026-09-03T10:04:11+03:00",
       "reading_time": 20
+    },
+    {
+      "path": "articles/5S AUTO/Работа с заказами/Автоматическое снятие резервов",
+      "title": "Автоматическое снятие резервов",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2023-06-08",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T09:50:36+03:00",
+      "reading_time": 7,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Склад и запчасти",
+          "order": 19
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Работа с приложением 5S TSD",
@@ -2255,20 +2271,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Работа с заказами/Автоматическое снятие резервов",
-      "title": "Автоматическое снятие резервов",
+      "path": "articles/5S AUTO/Ценообразование/Настройка ценообразования для товаров",
+      "title": "Настройка ценообразования для товаров",
       "type": "articles",
-      "order": 7,
-      "updated_at": "2023-06-08",
+      "order": 0,
+      "updated_at": "2026-05-13",
       "date_kind": "updated",
-      "added_at": "2023-06-08",
-      "reading_time": 7,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Склад и запчасти",
-          "order": 19
-        }
-      ]
+      "added_at": "2026-05-13",
+      "reading_time": 21
     }
   ]
 }
