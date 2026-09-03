@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T10:39:49+03:00",
-  "count": 193,
+  "generated_at": "2026-09-03T10:57:18+03:00",
+  "count": 194,
   "sections": {
     "tips": [
       {
@@ -245,6 +245,16 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Шинный отель",
+      "title": "Шинный отель",
+      "type": "articles",
+      "order": 22,
+      "updated_at": "2025-01-09",
+      "date_kind": "updated",
+      "added_at": "2026-09-03T10:39:23+03:00",
+      "reading_time": 13
+    },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Загрузка накладных поставщиков",
       "title": "Загрузка накладных поставщиков",
@@ -2197,14 +2207,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Шинный отель",
-      "title": "Шинный отель",
+      "path": "articles/5S AUTO/Работа с заказами/Работа с заказами покупателя",
+      "title": "Работа с заказами покупателя",
       "type": "articles",
-      "order": 22,
-      "updated_at": "2025-01-09",
+      "order": 0,
+      "updated_at": "2025-05-06",
       "date_kind": "updated",
-      "added_at": "2025-01-09",
-      "reading_time": 13
+      "added_at": "2025-05-06",
+      "reading_time": 14
     }
   ]
 }
