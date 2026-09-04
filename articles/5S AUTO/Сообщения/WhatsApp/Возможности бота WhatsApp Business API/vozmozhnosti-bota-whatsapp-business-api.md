@@ -26,9 +26,7 @@
 
 - [Настройки интеграции с WhatsApp Business API](../Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md);
 - [Оформление аккаунта WhatsApp Business API](../Оформление%20аккаунта%20WhatsApp%20Business%20API/oformlenie-akkaunta-whatsapp-business-api.md);
-- [Способы перехода в WhatsApp-бот](../Способы%20перехода%20в%20чат%20WhatsApp/sposoby-perekhoda-v-chat-whatsapp.md)
-
-и другие статьи в разделе “[WhatsApp](https://www.5systems.ru/help/whatsapp)”.
+- [Способы перехода в WhatsApp-бот](../Способы%20перехода%20в%20чат%20WhatsApp/sposoby-perekhoda-v-chat-whatsapp.md) и другие статьи в разделе “[WhatsApp](https://www.5systems.ru/help/whatsapp)”.
 
 Для работы с ботом WhatsApp Business API предварительно у клиентов должно быть установлено приложение WhatsApp.
 

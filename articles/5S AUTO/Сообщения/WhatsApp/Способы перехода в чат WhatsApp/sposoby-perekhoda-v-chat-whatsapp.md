@@ -25,9 +25,7 @@
 - [Возможности бота WhatsApp Business API](../Возможности%20бота%20WhatsApp%20Business%20API/vozmozhnosti-bota-whatsapp-business-api.md);
 - [Настройки интеграции с WhatsApp Business API](../Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md);
 - [Оформление аккаунта WhatsApp Business API](../Оформление%20аккаунта%20WhatsApp%20Business%20API/oformlenie-akkaunta-whatsapp-business-api.md);
-- [Настройка интеграции с WhatsApp](../Настройка%20интеграции%20с%20WhatsApp/nastroyka-integracii-s-whatsapp.md)
-
-и другие статьи в разделе “[WhatsApp](https://www.5systems.ru/help/whatsapp)”.
+- [Настройка интеграции с WhatsApp](../Настройка%20интеграции%20с%20WhatsApp/nastroyka-integracii-s-whatsapp.md) и другие статьи в разделе “[WhatsApp](https://www.5systems.ru/help/whatsapp)”.
 
 Для работы с чатом WhatsApp и WABA предварительно у клиентов должно быть установлено приложение WhatsApp.
 
