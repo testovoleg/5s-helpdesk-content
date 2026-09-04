@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T11:29:18+03:00",
+  "generated_at": "2026-09-04T11:33:32+03:00",
   "count": 281,
   "sections": {
     "tips": [
@@ -2366,9 +2366,10 @@
       "title": "Настройка шаблонов WhatsApp Business API",
       "type": "articles",
       "order": 7,
-      "updated_at": "2026-09-04T11:29:16+03:00",
+      "updated_at": "2025-09-19",
       "date_kind": "updated",
       "added_at": "2026-08-26T11:14:15+03:00",
+      "reading_time": 29,
       "also_in": [
         {
           "path": "articles/5S AUTO/CRM",
