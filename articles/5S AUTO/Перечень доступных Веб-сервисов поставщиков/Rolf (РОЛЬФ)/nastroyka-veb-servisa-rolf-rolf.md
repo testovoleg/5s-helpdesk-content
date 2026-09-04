@@ -43,7 +43,7 @@
 
 - *ключ доступа –* API-ключ доступа покупателя, полученный у менеджера "РОЛЬФ":
 
-![Веб-сервис Rolf - Параметры сервиса](attachments/02-veb-servis-rolf-parametry-servisa.png)
+  ![Веб-сервис Rolf - Параметры сервиса](attachments/02-veb-servis-rolf-parametry-servisa.png)
 
 ## Опции методов
 
