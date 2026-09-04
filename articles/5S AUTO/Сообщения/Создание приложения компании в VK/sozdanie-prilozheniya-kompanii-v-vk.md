@@ -109,7 +109,7 @@
 - <a id="opisanie"></a> *Скриншоты* – изображения, которые отображаются во всплывающей карточке мини-приложения, на экране “О приложении” в каталоге мини-приложений и на экране “О приложении” в каталоге плагинов для сообществ:<br><br>
   ![Брендовое приложение VK - Описание приложения](attachments/12-brendovoe-prilozhenie-vk-opisanie-prilozheniya.png)
 
-  Требования к размерам и форматам изображений указаны в каждом разделе настройки. Подробное описание см. на сайте сервиса:
+Требования к размерам и форматам изображений указаны в каждом разделе настройки. Подробное описание см. на сайте сервиса:
 
 - [https://dev.vk.com/ru/mini-apps/settings/general/design#Изображения](https://dev.vk.com/ru/mini-apps/settings/general/design#%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F);
 - [https://dev.vk.com/ru/mini-apps/settings/design-examples#Карточка%20мини-приложения](https://dev.vk.com/ru/mini-apps/settings/design-examples#%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%BC%D0%B8%D0%BD%D0%B8-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F).
@@ -208,19 +208,19 @@
 
 1. Иконка на странице загрузки:
 
-![Брендовое приложение VK - Иконка на странице загрузки](attachments/25-brendovoe-prilozhenie-vk-ikonka-na-stranice-zagruzki.png)
+   ![Брендовое приложение VK - Иконка на странице загрузки](attachments/25-brendovoe-prilozhenie-vk-ikonka-na-stranice-zagruzki.png)
 
-<a id="inf"></a>
+   <a id="inf"></a>
 
 2. Информация о приложении:
 
-![Брендовое приложение VK - Информация о приложении](attachments/26-brendovoe-prilozhenie-vk-informaciya-o-prilozhenii.png)
+   ![Брендовое приложение VK - Информация о приложении](attachments/26-brendovoe-prilozhenie-vk-informaciya-o-prilozhenii.png)
 
-<a id="razrab"></a>
+   <a id="razrab"></a>
 
 3. Информация о разработчике приложения:
 
-![Брендовое приложение VK - Разработчик](attachments/27-brendovoe-prilozhenie-vk-razrabotchik.png)
+   ![Брендовое приложение VK - Разработчик](attachments/27-brendovoe-prilozhenie-vk-razrabotchik.png)
 
 ---
 
