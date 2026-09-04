@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:46:33+03:00",
+  "generated_at": "2026-09-04T13:53:29+03:00",
   "count": 283,
   "sections": {
     "tips": [
@@ -252,6 +252,26 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Задачи/Адресация задач в CRM по исполнителям",
+      "title": "Адресация задач в CRM по исполнителям",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-04T13:45:58+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Задачи/Тонкая настройка адресации задач в CRM",
+      "title": "Тонкая настройка адресации задач в CRM",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-06-15",
+      "date_kind": "updated",
+      "added_at": "2026-09-04T13:45:58+03:00",
+      "reading_time": 7
+    },
+    {
       "path": "articles/5S AUTO/Бонусная система/Настройка бонусной системы",
       "title": "Настройка бонусной системы",
       "type": "articles",
@@ -266,7 +286,7 @@
       "title": "Подтверждение списания бонусов",
       "type": "articles",
       "order": 1,
-      "updated_at": "2024-12-17",
+      "updated_at": "2026-09-04",
       "date_kind": "updated",
       "added_at": "2026-09-03T16:05:24+03:00",
       "reading_time": 5
@@ -276,10 +296,10 @@
       "title": "Работа с бонусами клиентов",
       "type": "articles",
       "order": 0,
-      "updated_at": "2025-06-06",
+      "updated_at": "2026-09-04",
       "date_kind": "updated",
       "added_at": "2026-09-03T16:05:24+03:00",
-      "reading_time": 17
+      "reading_time": 8
     },
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Возможности бота WhatsApp Business API",
@@ -3119,26 +3139,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Задачи/Адресация задач в CRM по исполнителям",
-      "title": "Адресация задач в CRM по исполнителям",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2022-06-24",
-      "reading_time": 9
-    },
-    {
-      "path": "articles/5S AUTO/Задачи/Тонкая настройка адресации задач в CRM",
-      "title": "Тонкая настройка адресации задач в CRM",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2022-06-15",
-      "date_kind": "updated",
-      "added_at": "2022-06-15",
-      "reading_time": 7
     }
   ]
 }
