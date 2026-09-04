@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T14:58:35+03:00",
-  "count": 297,
+  "generated_at": "2026-09-04T15:10:55+03:00",
+  "count": 298,
   "sections": {
     "tips": [
       {
@@ -420,6 +420,16 @@
       "date_kind": "updated",
       "added_at": "2026-09-04T13:45:58+03:00",
       "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/Интеграция с ABCP",
+      "title": "Интеграция с ABCP",
+      "type": "articles",
+      "order": 16,
+      "updated_at": "2026-09-04",
+      "date_kind": "updated",
+      "added_at": "2026-09-04",
+      "reading_time": 19
     },
     {
       "path": "articles/5S AUTO/Бонусная система/Настройка бонусной системы",
