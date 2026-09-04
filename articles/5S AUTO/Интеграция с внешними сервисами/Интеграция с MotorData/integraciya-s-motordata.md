@@ -223,19 +223,7 @@
 
 В столбце “Норма времени” отображается *индикатор* соответствия ее текущего значения в Корзине значению в каталоге MotorData:
 
-![MotorData - Норма времени соответствует](attachments/24-motordata-norma-vremeni-sootvetstvuet.png) – текущее значение нормы времени точно совпадает со значением в каталоге.
-
-![MotorData - Норма времени почти соответствует](attachments/25-motordata-norma-vremeni-pochti-sootvetstvuet.png)– значение нормы времени отличается от значения в каталоге менее, чем на 10% (в обе стороны).
-
-![MotorData - Норма времени выше](attachments/26-motordata-norma-vremeni-vyshe.png) – текущее значение нормы времени превышает значение в каталоге.
-
-![MotorData - Норма времени ниже](attachments/27-motordata-norma-vremeni-nizhe.png) – текущее значение нормы времени ниже значения в каталоге.
-
-![MotorData - Норма времени соответствует одному из вариантов](attachments/28-motordata-norma-vremeni-sootvetstvuet-odnomu-iz-variantov.png) – есть несколько вариантов операций данной автоработы, и текущее значение нормы времени совпадает с одной из них.
-
-![MotorData - Норма времени почти соответствует одному из вариантов](attachments/29-motordata-norma-vremeni-pochti-sootvetstvuet-odnomu-iz-variantov.png) – есть несколько вариантов операций данной автоработы, и текущее значение нормы времени отличается от одной из них менее, чем на 10%.
-
-![MotorData - Норма времени не соответствует ни одному варианту](attachments/30-motordata-norma-vremeni-ne-sootvetstvuet-ni-odnomu-variantu.png)– есть несколько вариантов операций данной автоработы, но текущее значение нормы времени не соответствует ни одному из них.
+![MotorData - Норма времени соответствует](attachments/24-motordata-norma-vremeni-sootvetstvuet.png) – текущее значение нормы времени точно совпадает со значением в каталоге.<br>![MotorData - Норма времени почти соответствует](attachments/25-motordata-norma-vremeni-pochti-sootvetstvuet.png)– значение нормы времени отличается от значения в каталоге менее, чем на 10% (в обе стороны).<br>![MotorData - Норма времени выше](attachments/26-motordata-norma-vremeni-vyshe.png) – текущее значение нормы времени превышает значение в каталоге.<br>![MotorData - Норма времени ниже](attachments/27-motordata-norma-vremeni-nizhe.png) – текущее значение нормы времени ниже значения в каталоге.<br>![MotorData - Норма времени соответствует одному из вариантов](attachments/28-motordata-norma-vremeni-sootvetstvuet-odnomu-iz-variantov.png) – есть несколько вариантов операций данной автоработы, и текущее значение нормы времени совпадает с одной из них.<br>![MotorData - Норма времени почти соответствует одному из вариантов](attachments/29-motordata-norma-vremeni-pochti-sootvetstvuet-odnomu-iz-variantov.png) – есть несколько вариантов операций данной автоработы, и текущее значение нормы времени отличается от одной из них менее, чем на 10%.<br>![MotorData - Норма времени не соответствует ни одному варианту](attachments/30-motordata-norma-vremeni-ne-sootvetstvuet-ni-odnomu-variantu.png)– есть несколько вариантов операций данной автоработы, но текущее значение нормы времени не соответствует ни одному из них.
 
 Если значение нормы времени отличается от каталога, можно вручную ввести нужное значение.
 
