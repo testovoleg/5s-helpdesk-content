@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T14:19:00+03:00",
-  "count": 283,
+  "generated_at": "2026-09-04T14:43:25+03:00",
+  "count": 297,
   "sections": {
     "tips": [
       {
@@ -141,7 +141,17 @@
           },
           {
             "name": "Интеграция с внешними сервисами",
-            "path": "articles/5S AUTO/Интеграция с внешними сервисами"
+            "path": "articles/5S AUTO/Интеграция с внешними сервисами",
+            "sections": [
+              {
+                "name": "Интеграция с телефонией",
+                "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией"
+              },
+              {
+                "name": "Интеграция с соцсетью ВКонтакте",
+                "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с соцсетью ВКонтакте"
+              }
+            ]
           },
           {
             "name": "Учет взаиморасчетов",
@@ -399,7 +409,13 @@
       "updated_at": "2024-09-03",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 25
+      "reading_time": 25,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Интеграция с внешними сервисами",
+          "order": 11
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Сообщения/Интеграция с мессенджером MAX",
@@ -409,7 +425,13 @@
       "updated_at": "2026-03-06",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 26
+      "reading_time": 26,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Интеграция с внешними сервисами",
+          "order": 13
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Сообщения/Интеграция с мессенджером Авито",
@@ -419,7 +441,13 @@
       "updated_at": "2025-06-26",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 9
+      "reading_time": 9,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Интеграция с внешними сервисами",
+          "order": 16
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Сообщения/Интеграция с пользовательским MAX",
@@ -429,7 +457,13 @@
       "updated_at": "2026-07-03",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 11
+      "reading_time": 11,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Интеграция с внешними сервисами",
+          "order": 14
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Сообщения/Интеграция с сообществом ВКонтакте (VK)",
@@ -439,7 +473,13 @@
       "updated_at": "2025-12-05",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 25
+      "reading_time": 25,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с соцсетью ВКонтакте",
+          "order": 0
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Сообщения/Контакт-центр 5S Chat",
@@ -499,7 +539,13 @@
       "updated_at": "2025-08-08",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 14
+      "reading_time": 14,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с соцсетью ВКонтакте",
+          "order": 1
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Сообщения/Шаблоны сообщений",
@@ -1235,7 +1281,13 @@
       "updated_at": "2025-09-18",
       "date_kind": "updated",
       "added_at": "2026-09-02T15:56:03+03:00",
-      "reading_time": 23
+      "reading_time": 23,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Интеграция с внешними сервисами",
+          "order": 18
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Применяемость по типу двигателя и типу КПП",
@@ -1573,7 +1625,13 @@
       "updated_at": "2026-07-29",
       "date_kind": "updated",
       "added_at": "2026-09-01T15:46:48+03:00",
-      "reading_time": 7
+      "reading_time": 7,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Интеграция с внешними сервисами",
+          "order": 9
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Прикрепление файлов к заказ-наряду",
@@ -2623,7 +2681,7 @@
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
       "title": "Интеграция с Audatex (AudaPad Web)",
       "type": "articles",
-      "order": 0,
+      "order": 19,
       "updated_at": "2026-08-21",
       "date_kind": "updated",
       "added_at": "2026-08-20T16:17:03+03:00",
@@ -2985,6 +3043,16 @@
       "added_at": "2026-07-31T09:42:06+03:00"
     },
     {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с ABCP",
+      "title": "Интеграция с ABCP",
+      "type": "articles",
+      "order": 10,
+      "updated_at": "2026-07-30",
+      "date_kind": "updated",
+      "added_at": "2026-07-30",
+      "reading_time": 35
+    },
+    {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Лицензирование 5S AUTO",
       "title": "Лицензирование 5S AUTO",
       "type": "articles",
@@ -3139,6 +3207,136 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией/Настройка интеграции с телефонией",
+      "title": "Настройка интеграции с телефонией",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2026-03-12",
+      "date_kind": "updated",
+      "added_at": "2026-03-12",
+      "reading_time": 10
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с ЭДО",
+      "title": "Интеграция с ЭДО",
+      "type": "articles",
+      "order": 12,
+      "updated_at": "2025-04-02",
+      "date_kind": "updated",
+      "added_at": "2025-04-02",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с сервисом Безбумажный офис F.Doc",
+      "title": "Интеграция с сервисом \"Безбумажный офис F.Doc\"",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2024-03-14",
+      "date_kind": "updated",
+      "added_at": "2024-03-14",
+      "reading_time": 27
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с MotorData",
+      "title": "Интеграция с MotorData",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2024-03-13",
+      "date_kind": "updated",
+      "added_at": "2024-03-13",
+      "reading_time": 24
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Электронная почта",
+      "title": "Электронная почта",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2024-02-07",
+      "date_kind": "updated",
+      "added_at": "2024-02-07",
+      "reading_time": 17
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией/Длительность звонков из телефонии",
+      "title": "Импорт и отображение длительности звонков из телефонии",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-01-19",
+      "date_kind": "updated",
+      "added_at": "2024-01-19",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией/Работа с пропущенными звонками",
+      "title": "Работа с пропущенными звонками",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2023-10-31",
+      "date_kind": "updated",
+      "added_at": "2023-10-31",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с BioTime",
+      "title": "Интеграция с BioTime",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2022-12-28",
+      "date_kind": "updated",
+      "added_at": "2022-12-28",
+      "reading_time": 21
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Фотофиксации",
+      "title": "Фотофиксации",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2022-06-24",
+      "reading_time": 23
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с TecDoc",
+      "title": "Интеграция с TecDoc",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2022-06-23",
+      "date_kind": "updated",
+      "added_at": "2022-06-23",
+      "reading_time": 3
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией/Проверка интеграции с телефонией",
+      "title": "Регламент проверки корректности работы интеграции с телефонией",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-06-23",
+      "date_kind": "updated",
+      "added_at": "2022-06-23",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Настройка интеграции с SMS Центр",
+      "title": "Настройка интеграции с SMS Центр",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-06-23",
+      "date_kind": "updated",
+      "added_at": "2022-06-23",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Настройка интеграции с каталогами Laximo",
+      "title": "Настройка интеграции с каталогами Laximo",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2022-06-23",
+      "date_kind": "updated",
+      "added_at": "2022-06-23",
+      "reading_time": 4
     }
   ]
 }
