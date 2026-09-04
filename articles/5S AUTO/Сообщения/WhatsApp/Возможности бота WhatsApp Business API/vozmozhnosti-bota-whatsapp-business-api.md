@@ -54,15 +54,15 @@
 
 1. */Личный кабинет* – переход в ЛК приложения [5S Link](https://www.5systems.ru/help/nastroyka-prilozheniya-5s-link-v2), где клиент может: просматривать информацию о своих а/м, историю обслуживания, рекомендации, добавлять в корзину услуги и товары, отслеживать текущие заказы и заявки, оплачивать документы и т.д.:
 
-![WABA - Команды - ЛК](attachments/04-waba-komandy-lk.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![WABA - Переход в 5S Link](attachments/05-waba-perehod-v-5s-link.png)
+   ![WABA - Команды - ЛК](attachments/04-waba-komandy-lk.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![WABA - Переход в 5S Link](attachments/05-waba-perehod-v-5s-link.png)
 
 2. */Записаться* – переход к записи на ремонт через [5S Link](https://www.5systems.ru/help/nastroyka-prilozheniya-5s-link-v2): в приложении клиент может выбрать нужные услуги, указать желаемую дату и время записи, отправить заявку, а также найти контакты сервиса, открыть карту с отметкой ближайшего филиала и построить маршрут:
 
-![WABA - Команды - Записаться](attachments/06-waba-komandy-zapisatsya.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![WABA - Переход к записи на ремонт в 5S Link](attachments/07-waba-perehod-k-zapisi-na-remont-v-5s-link.png)
+   ![WABA - Команды - Записаться](attachments/06-waba-komandy-zapisatsya.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![WABA - Переход к записи на ремонт в 5S Link](attachments/07-waba-perehod-k-zapisi-na-remont-v-5s-link.png)
 
 3. */Мои бонусы* – в ответ клиент получит информацию о количестве бонусных баллов на своем счете:
 
-![WABA - Команды - Мои бонусы](attachments/08-waba-komandy-moi-bonusy.png)
+   ![WABA - Команды - Мои бонусы](attachments/08-waba-komandy-moi-bonusy.png)
 
 4. */Помощь* – в ответ будет отправлена подсказка, как пользоваться меню быстрых действий:
 

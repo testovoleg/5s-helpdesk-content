@@ -96,7 +96,7 @@
 Для добавления соответствия есть 2 способа:
 
 1. Нажать кнопку-ссылку "Добавить" рядом с соответствием:<br>
-   ![Добавление в текст шаблона](attachments/10-dobavlenie-v-tekst-shablona.png)<br>
+   ![Добавление в текст шаблона](attachments/10-dobavlenie-v-tekst-shablona.png)
 2. Выбрать соответствие в меню "Автотекст":<br>
    ![Добавление в текст шаблона](attachments/11-dobavlenie-v-tekst-shablona.png)
 

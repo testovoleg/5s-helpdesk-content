@@ -32,11 +32,11 @@
 
 1. *с телефона:*
 
-![5S Chat - Пространства](attachments/01-5s-chat-prostranstva.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![5S Chat - Все чаты](attachments/02-5s-chat-vse-chaty.png)
+   ![5S Chat - Пространства](attachments/01-5s-chat-prostranstva.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![5S Chat - Все чаты](attachments/02-5s-chat-vse-chaty.png)
 
 2. *с компьютера через браузер:*
 
-![5S Chat - Пространство Telegram](attachments/03-5s-chat-prostranstvo-telegram.png)
+   ![5S Chat - Пространство Telegram](attachments/03-5s-chat-prostranstvo-telegram.png)
 
 3. *с компьютера через установленное приложение.*
 

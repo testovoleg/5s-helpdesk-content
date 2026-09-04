@@ -44,9 +44,9 @@
 1. Изменить шаблон текста сообщения — для этого сначала нужно перейти к редактированию действия:<br><br>
    ![Значимые события - Переход к редактированию действия](attachments/03-znachimye-sobytiya-perehod-k-redaktirovaniyu-deystviya.png)<br><br>
    затем открыть для редактирования шаблон сообщения:<br><br>
-   ![Редактирование шаблона сообщения действия](attachments/04-redaktirovanie-shablona-soobscheniya-deystviya.png)<br>
+   ![Редактирование шаблона сообщения действия](attachments/04-redaktirovanie-shablona-soobscheniya-deystviya.png)
 2. Указать другой состав и порядок каналов доставки сообщения:<br><br>
-   ![Каналы доставки действия](attachments/05-kanaly-dostavki-deystviya.png)<br>
+   ![Каналы доставки действия](attachments/05-kanaly-dostavki-deystviya.png)
 3. Включить/выключить отправку печатных форм документов или изменить отправляемые печатные формы:<br><br>
    ![Печатные формы действия](attachments/06-pechatnye-formy-deystviya.png)
 
