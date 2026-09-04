@@ -23,7 +23,7 @@
 
 ## Введение
 
-В данной статье описывается, как *зарегистрировать* компанию в Facebook\*\* Business Manager и 360dialog, а также как *верифицировать* компанию в Facebook\*\* Business Manager с целью полноценного использования канала [*WhatsApp Business API*](https://www.5systems.ru/help/nastroyki-integracii-s-whatsapp-business-api)[ *(WABA)*](https://www.5systems.ru/help/nastroyki-integracii-s-whatsapp-business-api) для переписки с клиентами.
+В данной статье описывается, как *зарегистрировать* компанию в Facebook\*\* Business Manager и 360dialog, а также как *верифицировать* компанию в Facebook\*\* Business Manager с целью полноценного использования канала [*WhatsApp Business API*](../Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md)[ *(WABA)*](../Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md) для переписки с клиентами.
 
 Преимущества WhatsApp Business API:
 
@@ -35,7 +35,7 @@
 - Расширенная информация о вашей компании в свойствах WhatsApp-аккаунта (адрес, сайт, режим работы и др.);
 - Больший уровень статуса и доверия клиентов к номеру, который использует официальное решение Facebook\*\*.
 
-Подробнее см. статью *"[Сравнение возможностей WABA и пользовательского WhatsApp](https://www.5systems.ru/help/sravnenie-vozmozhnostey-waba-i-polzovatelskogo-whatsapp)".*
+Подробнее см. статью *"[Сравнение возможностей WABA и пользовательского WhatsApp](../Сравнение%20возможностей%20WABA%20и%20пользовательского%20WhatsApp/sravnenie-vozmozhnostey-waba-i-polzovatelskogo-whatsapp.md)".*
 
 *Верификация Facebook\*\* Business* — это подтверждение, что учетная запись в Facebook\*\* Business Manager принадлежит именно вам. Чтобы подтвердить свою компанию, нужно будет предоставить ряд документов и сведений о компании. Верификация не является обязательной: чтобы определить, нужна ли она Вам, см. раздел [*Зачем нужна верификация компании*](#зачем-нужна-верификация-компании) ниже.
 

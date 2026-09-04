@@ -19,7 +19,7 @@
 
 Использование интеграции с **WhatsApp Business API (WABA)** позволяет настроить оформление профиля – задать имя компании, адрес, сайт и другие важные сведения, которые клиенты будут видеть при переходе на страницу компании в приложении WhatsApp. Все настройки производятся в ЛК Meta\* Business Suite, также можно произвести данные настройки через ЛК 360 Dialog.
 
-См. основную статью “[Возможности бота WhatsApp Business API](https://www.5systems.ru/help/vozmozhnosti-bota-whatsapp-business-api)”, а также “[Настройки интеграции с WhatsApp Business API](https://www.5systems.ru/help/nastroyki-integracii-s-whatsapp-business-api)”.
+См. основную статью “[Возможности бота WhatsApp Business API](../Возможности%20бота%20WhatsApp%20Business%20API/vozmozhnosti-bota-whatsapp-business-api.md)”, а также “[Настройки интеграции с WhatsApp Business API](../Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md)”.
 
 ## Переход к настройкам
 
@@ -51,12 +51,9 @@
 
 Следует задать для бота следующие настройки:
 
-**1.** Загрузить *Фото профиля;*
-
-**2.** Задать *Отображаемое имя;*
-
-**3.** Заполнить *Информацию о компании:*
-
+1. Загрузить *Фото профиля;*
+2. Задать *Отображаемое имя;*
+3. Заполнить *Информацию о компании:*
 - Выбрать *Категорию;*
 - Заполнить *Описание;*
 - Указать *Адрес;*
@@ -66,7 +63,7 @@
 
 ![WABA - Страница контакта](attachments/06-waba-stranica-kontakta.png)
 
-*Команды* появятся автоматически после [настройки интеграции с WhatsApp Business API](https://www.5systems.ru/help/nastroyki-integracii-s-whatsapp-business-api) в 5S AUTO – в данном случае они будут работать согласно *общей логике.* Также есть возможность настройки *индивидуальной логики* работы бота – в этом случае можно добавить дополнительные команды в разделе "Номера телефонов" (см. [выше](#nomera_telef)) на вкладке "Автоматизации" (подробнее см. [статью](https://www.5systems.ru/help/vozmozhnosti-bota-whatsapp-business-api)).
+*Команды* появятся автоматически после [настройки интеграции с WhatsApp Business API](../Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md) в 5S AUTO – в данном случае они будут работать согласно *общей логике.* Также есть возможность настройки *индивидуальной логики* работы бота – в этом случае можно добавить дополнительные команды в разделе "Номера телефонов" (см. [выше](#nomera_telef)) на вкладке "Автоматизации" (подробнее см. [статью](../Возможности%20бота%20WhatsApp%20Business%20API/vozmozhnosti-bota-whatsapp-business-api.md)).
 
 ## Подтверждение компании в Facebook
 
@@ -80,7 +77,7 @@
 
 ![WABA - Настройка профиля - Галочка](attachments/08-waba-nastroyka-profilya-galochka.png)
 
-Подробнее см. раздел “[Подтверждение компании](https://www.5systems.ru/help/registraciya-kompanii-v-facebook-i-360dialog#podtvkomp)” в статье “[Регистрация компании в Facebook\*\* и 360dialog](https://www.5systems.ru/help/registraciya-kompanii-v-facebook-i-360dialog)”, а также информацию на [сайте WhatsApp](https://faq.whatsapp.com/794517045178057/?locale=ru_RU).
+Подробнее см. раздел “[Подтверждение компании](../Регистрация%20компании%20в%20Facebook%20и%20360dialog/registraciya-kompanii-v-facebook-i-360dialog.md#подтверждение-компании)” в статье “[Регистрация компании в Facebook\*\* и 360dialog](../Регистрация%20компании%20в%20Facebook%20и%20360dialog/registraciya-kompanii-v-facebook-i-360dialog.md)”, а также информацию на [сайте WhatsApp](https://faq.whatsapp.com/794517045178057/?locale=ru_RU).
 
 *\*Meta признана экстремистской организацией, запрещенной на территории Российской Федерации.*
 

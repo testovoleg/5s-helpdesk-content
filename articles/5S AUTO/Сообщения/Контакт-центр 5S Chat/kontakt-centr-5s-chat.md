@@ -30,15 +30,15 @@
 
 Существуют следующие *способы подключения к сервису:*
 
-**1)** *с телефона:*
+1. *с телефона:*
 
 ![5S Chat - Пространства](attachments/01-5s-chat-prostranstva.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![5S Chat - Все чаты](attachments/02-5s-chat-vse-chaty.png)
 
-**2)** *с компьютера через браузер:*
+2. *с компьютера через браузер:*
 
 ![5S Chat - Пространство Telegram](attachments/03-5s-chat-prostranstvo-telegram.png)
 
-**3)** *с компьютера через установленное приложение.*
+3. *с компьютера через установленное приложение.*
 
 Сообщения, написанные в чате, автоматически отправляются клиенту через подключенную интеграцию с мессенджером, в котором идет общение. И наоборот, полученные от клиента сообщения отображаются в чате.
 
@@ -56,11 +56,9 @@
 
 Работа с контакт-центром 5S Chat осуществляется через любой совместимый клиент. Такими клиентами, например, являются:
 
-**1.** [Клиент для Android](https://play.google.com/store/apps/details?id=com.fivesystems.fluffychat) на базе [FluffyChat](https://fluffychat.im/);
-
-**2.** [Клиент для iOs](https://apps.apple.com/ru/app/element-messenger/id1083446067) на базе [Element.io](http://element.io);
-
-**3.** [Клиент для Web](https://element.5systems.ru/) на базе [Element.io](http://element.io).
+1. [Клиент для Android](https://play.google.com/store/apps/details?id=com.fivesystems.fluffychat) на базе [FluffyChat](https://fluffychat.im/);
+2. [Клиент для iOs](https://apps.apple.com/ru/app/element-messenger/id1083446067) на базе [Element.io](http://element.io);
+3. [Клиент для Web](https://element.5systems.ru/) на базе [Element.io](http://element.io).
 
 В случае работы с контакт-центром с телефона первым делом требуется установить приложение “5S Chat”.
 
@@ -204,18 +202,18 @@
 
 ![5S Chat - Файлы документа](attachments/25-5s-chat-fayly-dokumenta.png)
 
-Прикрепленный к документу файл можно отправить клиенту через [Ленту событий](https://www.5systems.ru/help/lenta-sobytiy):
+Прикрепленный к документу файл можно отправить клиенту через [Ленту событий](../../Работа%20с%20клиентами/Лента%20событий/lenta-sobytiy.md):
 
 ![5S Chat - Отправка файла клиенту](attachments/26-5s-chat-otpravka-fayla-klientu.png)
 
 ## Настройки в программе
 
 1. **Настройка интеграции с API 5S AUTO**<br>
-   Для работы с 5S Chat предварительно в программе должна быть настроена интеграция с [API 5S AUTO](https://www.5systems.ru/help/api-5s-auto).
+   Для работы с 5S Chat предварительно в программе должна быть настроена интеграция с [API 5S AUTO](https://www.5systems.ru/help/api-5s-auto).<br>
 2. **Настройка пользователя 5S Cloud**<br>
-   Для доступа в приложение потребуется ввести логин и пароль пользователя [5S Cloud](https://www.5systems.ru/help/sozdanie-i-redaktirovanie-polzovateley-5s-cloud).
+   Для доступа в приложение потребуется ввести логин и пароль пользователя [5S Cloud](https://www.5systems.ru/help/sozdanie-i-redaktirovanie-polzovateley-5s-cloud).<br>
 3. **Настройка интеграции с каналами связи**<br>
-   Для использования разных каналов связи – [MAX](https://www.5systems.ru/help/integraciya-s-messendzherom-max), [пользовательский MAX](https://www.5systems.ru/help/integraciya-s-polzovatelskim-max), [ВКонтакте](https://www.5systems.ru/help/integraciya-s-soobschestvom-vkontakte-vk), [Telegram](https://www.5systems.ru/help/integraciya-s-telegram), [WABA](https://www.5systems.ru/help/nastroyki-integracii-s-whatsapp-business-api), [WhatsApp](https://www.5systems.ru/help/nastroyka-integracii-s-whatsapp), [Авито](https://www.5systems.ru/help/integraciya-s-messendzherom-avito) и т.д. – требуется предварительно настроить интеграцию с ними.
+   Для использования разных каналов связи – [MAX](../Интеграция%20с%20мессенджером%20MAX/integraciya-s-messendzherom-max.md), [пользовательский MAX](../Интеграция%20с%20пользовательским%20MAX/integraciya-s-polzovatelskim-max.md), [ВКонтакте](../Интеграция%20с%20сообществом%20ВКонтакте%20%28VK%29/integraciya-s-soobschestvom-vkontakte-vk.md), [Telegram](../Интеграция%20с%20Telegram/integraciya-s-telegram.md), [WABA](../WhatsApp/Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md), [WhatsApp](../WhatsApp/Настройка%20интеграции%20с%20WhatsApp/nastroyka-integracii-s-whatsapp.md), [Авито](../Интеграция%20с%20мессенджером%20Авито/integraciya-s-messendzherom-avito.md) и т.д. – требуется предварительно настроить интеграцию с ними.
 
 ## Технология Matrix
 
@@ -232,7 +230,7 @@
    **3)** для iOs – для работы с контакт-центром с iPhone скачать приложение 5S Chat на App Store можно по ссылке: [https://apps.apple.com/ru/app/element-messenger/id1083446067](https://apps.apple.com/ru/app/element-messenger/id1083446067)<br>
    При авторизации потребуется указать сервер m.5systems.ru.<br><br>
    **4)** для Windows – скачать приложение для установки на компьютер с Windows можно на сайте [https://element.io/app](https://element.io/app);<br><br>
-   **5)** для Mac – скачать приложение для установки на компьютер Mac можно на сайте [https://element.io/app](https://element.io/app).
+   **5)** для Mac – скачать приложение для установки на компьютер Mac можно на сайте [https://element.io/app](https://element.io/app).<br>
 2. Через [FluffyChat](https://fluffychat.im/) – для телефона на Android.<br><br>
    *Скачать* приложение 5S Chat для клиентов компании 5SYSTEMS на Google Play можно по *[ссылке](https://play.google.com/store/apps/details?id=com.fivesystems.fluffychat).*
 
