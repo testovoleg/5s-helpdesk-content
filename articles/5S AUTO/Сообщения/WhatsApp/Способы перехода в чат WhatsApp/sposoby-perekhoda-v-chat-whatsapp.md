@@ -49,7 +49,7 @@
 
 Пример короткой ссылки: *[https://wa.me/message/WCIZKJXTXARQA1](https://wa.me/message/WCIZKJXTXARQA1)*
 
-![WABA - Пригласительная ссылка](attachments/02-waba-priglasitelnaya-ssylka.png) ![WABA - Ссылка с текстом сообщения](attachments/03-waba-ssylka-s-tekstom-soobscheniya.png)
+![WABA - Пригласительная ссылка](attachments/02-waba-priglasitelnaya-ssylka.png) &nbsp;&nbsp;&nbsp;&nbsp; ![WABA - Ссылка с текстом сообщения](attachments/03-waba-ssylka-s-tekstom-soobscheniya.png)
 
 Ссылка создается в разделе “WhatsApp Manager” ЛК Meta\* Business Suite – инструкцию см. [*ниже*](#создание-ссылки-на-сообщение-только-для-waba)*.*
 

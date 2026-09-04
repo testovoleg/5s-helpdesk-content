@@ -85,13 +85,13 @@
 
 После перехода в бот клиент нажимает кнопку запуска “Начать” и получает приветственное сообщение:
 
-![Max - Запуск бота](attachments/05-max-zapusk-bota.png) ![Max - Бот запущен](attachments/06-max-bot-zapuschen.png)
+![Max - Запуск бота](attachments/05-max-zapusk-bota.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Max - Бот запущен](attachments/06-max-bot-zapuschen.png)
 
 #### Авторизация
 
 Для *авторизации* у бота и дальнейшего использования приложения 5S LINK пользователю потребуется подтвердить *согласие на обработку персональных данных* и получение сообщений от бота – для этого нужно нажать кнопку *“Согласиться и отправить мой телефон”:*
 
-![Max - Запуск - Согласие](attachments/07-max-zapusk-soglasie.png) ![Max - Запуск - Согласие отправлено](attachments/08-max-zapusk-soglasie-otpravleno.png)
+![Max - Запуск - Согласие](attachments/07-max-zapusk-soglasie.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Max - Запуск - Согласие отправлено](attachments/08-max-zapusk-soglasie-otpravleno.png)
 
 *Примечание:* В случае если пользователь не подтвердит номер телефона, то при нажатии кнопки перехода в приложение ему снова придет запрос подтверждения – без подтверждения телефона будет невозможно перейти в 5S LINK.
 

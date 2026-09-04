@@ -81,7 +81,7 @@
 
 Например, *Выберите действие* – это опция:
 
-![WhatsApp - Опция Выберите действие](attachments/10-whatsapp-opciya-vyberite-deystvie.png) ![WhatsApp - Выбор действия](attachments/11-whatsapp-vybor-deystviya.png)
+![WhatsApp - Опция Выберите действие](attachments/10-whatsapp-opciya-vyberite-deystvie.png) &nbsp;&nbsp;&nbsp; ![WhatsApp - Выбор действия](attachments/11-whatsapp-vybor-deystviya.png)
 
 Если требуется выбрать из 2 или 3-х вариантов – можно использовать кнопки.
 

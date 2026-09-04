@@ -39,7 +39,7 @@
 
 **1)** *с телефона:*
 
-![5S Chat - Пространства](attachments/01-5s-chat-prostranstva.png) ![5S Chat - Все чаты](attachments/02-5s-chat-vse-chaty.png)
+![5S Chat - Пространства](attachments/01-5s-chat-prostranstva.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![5S Chat - Все чаты](attachments/02-5s-chat-vse-chaty.png)
 
 **2)** *с компьютера через браузер:*
 
@@ -79,7 +79,7 @@
 
 После установки можно будет заходить в приложение через ярлык на рабочем столе устройства:
 
-![5S Chat - Установка](attachments/04-5s-chat-ustanovka.png) ![5S Chat - Установлено](attachments/05-5s-chat-ustanovleno.png)
+![5S Chat - Установка](attachments/04-5s-chat-ustanovka.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![5S Chat - Установлено](attachments/05-5s-chat-ustanovleno.png)
 
 #### 2) Для iOs
 
@@ -101,7 +101,7 @@
 
 Затем ввести учетные данные [пользователя 5S Cloud](https://www.5systems.ru/help/sozdanie-i-redaktirovanie-polzovateley-5s-cloud) – имя и пароль:
 
-![5S Chat - Авторизация - Логин](attachments/07-5s-chat-avtorizaciya-login.png) ![5S Chat - Авторизация - Пароль](attachments/08-5s-chat-avtorizaciya-parol.png)
+![5S Chat - Авторизация - Логин](attachments/07-5s-chat-avtorizaciya-login.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![5S Chat - Авторизация - Пароль](attachments/08-5s-chat-avtorizaciya-parol.png)
 
 Далее происходит переход к авторизации на сервере Matrix – следует нажать *“Продолжить” (“Continue”):*
 
@@ -123,7 +123,7 @@
 
 При переходе в определенное пространство отображаются комнаты – т.е. все чаты по данному каналу переписки:
 
-![5S Chat - Пространство Telegram](attachments/12-5s-chat-prostranstvo-telegram.png) ![5S Chat - Пространство WABA](attachments/13-5s-chat-prostranstvo-waba.png)
+![5S Chat - Пространство Telegram](attachments/12-5s-chat-prostranstvo-telegram.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![5S Chat - Пространство WABA](attachments/13-5s-chat-prostranstvo-waba.png)
 
 Наименование комнаты формируется по принципу: *Имя клиента (Сделка #<номер сделки> + Статус сделки)* – см. [ниже](#1-наименование-чата).
 
@@ -167,7 +167,7 @@
 
 При закрытии сделки, а также при отсутствии новых сообщений в чате в течение 14 дней комната автоматически перемещается в *архив:*
 
-![5S Chat - Пространства - Архив](attachments/17-5s-chat-prostranstva-arhiv.png) ![5S Chat - Пространство Архив](attachments/18-5s-chat-prostranstvo-arhiv.png)
+![5S Chat - Пространства - Архив](attachments/17-5s-chat-prostranstva-arhiv.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![5S Chat - Пространство Архив](attachments/18-5s-chat-prostranstvo-arhiv.png)
 
 В случае если клиент повторно напишет в чат, произойдет восстановление комнаты из архива.
 
@@ -201,7 +201,7 @@
 
 Участники комнаты “Обмен файлами” в 5S Chat отправляют в чат изображение:
 
-![5S Chat - Отправка файла](attachments/22-5s-chat-otpravka-fayla.png) ![5S Chat - Отправить изображение](attachments/23-5s-chat-otpravit-izobrazhenie.png)
+![5S Chat - Отправка файла](attachments/22-5s-chat-otpravka-fayla.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![5S Chat - Отправить изображение](attachments/23-5s-chat-otpravit-izobrazhenie.png)
 
 Отправленное изображение сохраняется в облачном хранилище файлов. Для прикрепления к документу в программе следует нажать кнопку *“Открыть картинки и файлы → Прикрепление из корзины файлов”.* В таблице необходимо выбрать и выделить нужную картинку и нажать кнопку *“Прикрепить”:*
 

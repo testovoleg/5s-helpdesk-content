@@ -56,13 +56,13 @@
 
 Компания отправляет клиенту ссылку на сообщество VK в сообщении либо размещает ссылку на сайте. Клиент на своем устройстве переходит по ссылке в сообщество:
 
-![Интеграция с ВК - Переход по ссылке](attachments/01-integraciya-s-vk-perehod-po-ssylke.png) ![Интеграция с ВК - Сообщество](attachments/02-integraciya-s-vk-soobschestvo.png)
+![Интеграция с ВК - Переход по ссылке](attachments/01-integraciya-s-vk-perehod-po-ssylke.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Интеграция с ВК - Сообщество](attachments/02-integraciya-s-vk-soobschestvo.png)
 
 **2) Сканирование QR-кода**
 
 QR-код можно сгенерировать прямо в VK и вывести его на экран смартфона либо отправить другому пользователю:
 
-![Интеграция с ВК - QR-код](attachments/03-integraciya-s-vk-qr-kod.png) ![Интеграция с ВК - QR-код](attachments/04-integraciya-s-vk-qr-kod.png)
+![Интеграция с ВК - QR-код](attachments/03-integraciya-s-vk-qr-kod.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Интеграция с ВК - QR-код](attachments/04-integraciya-s-vk-qr-kod.png)
 
 Также можно сгенерировать QR-код при помощи специальных сервисов, например: [qrcoder.ru](http://qrcoder.ru/), [qrcode-monkey.com/ru](https://qrcode-monkey.com/ru), [code-qr.ru](https://code-qr.ru).
 
@@ -146,7 +146,7 @@ QR-код можно сгенерировать прямо в VK и вывест
 
 Есть возможность подключить и настроить шаблоны сообщений для отправки клиентам через сообщения сообщества ВКонтакте. Можно настроить кнопки со ссылками, ведущими на различные ресурсы – в приложение, на карту, страницу с отзывами и другие:
 
-![Интеграция с ВК - Переписка с клиентом](attachments/12-integraciya-s-vk-perepiska-s-klientom.png) ![Интеграция с ВК - Местоположение](attachments/13-integraciya-s-vk-mestopolozhenie.png)
+![Интеграция с ВК - Переписка с клиентом](attachments/12-integraciya-s-vk-perepiska-s-klientom.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Интеграция с ВК - Местоположение](attachments/13-integraciya-s-vk-mestopolozhenie.png)
 
 Сообщения на основе шаблонов можно отправлять вручную либо есть возможность настроить автоматическую отправку.
 
@@ -395,7 +395,7 @@ QR-код можно сгенерировать прямо в VK и вывест
 - *open_app* – кнопка со ссылкой на [приложение 5S Link](#3-подключение-приложения-5s-link-в-сообщество);
 - *open_link* – кнопка со ссылкой, для использования требуется в столбце *“link”* вставить ссылку, по которой требуется перенаправить клиента, например, на карту с местоположением филиала или на страницу с отзывами:
 
-  ![Интеграция с ВК - Кнопка Местоположение](attachments/42-integraciya-s-vk-knopka-mestopolozhenie.png) ![Интеграция с ВК - Местоположение](attachments/43-integraciya-s-vk-mestopolozhenie.png)
+  ![Интеграция с ВК - Кнопка Местоположение](attachments/42-integraciya-s-vk-knopka-mestopolozhenie.png) &nbsp;&nbsp;&nbsp; ![Интеграция с ВК - Местоположение](attachments/43-integraciya-s-vk-mestopolozhenie.png)
 
   Можно использовать ссылки на страницы сообщества ВКонтакте, а также на другие сайты.
 
