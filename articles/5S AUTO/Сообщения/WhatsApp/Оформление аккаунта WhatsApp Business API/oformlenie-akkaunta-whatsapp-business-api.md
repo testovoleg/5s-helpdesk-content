@@ -75,7 +75,7 @@
 - расширение лимитов инициируемых компанией переписок;
 - больший уровень статуса и доверия у конечных пользователей.
 
-![WABA - Настройка профиля - Галочка](attachments/08-waba-nastroyka-profilya-galochka.png)
+  ![WABA - Настройка профиля - Галочка](attachments/08-waba-nastroyka-profilya-galochka.png)
 
 Подробнее см. раздел “[Подтверждение компании](../Регистрация%20компании%20в%20Facebook%20и%20360dialog/registraciya-kompanii-v-facebook-i-360dialog.md#подтверждение-компании)” в статье “[Регистрация компании в Facebook\*\* и 360dialog](../Регистрация%20компании%20в%20Facebook%20и%20360dialog/registraciya-kompanii-v-facebook-i-360dialog.md)”, а также информацию на [сайте WhatsApp](https://faq.whatsapp.com/794517045178057/?locale=ru_RU).
 
