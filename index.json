@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:03:05+03:00",
+  "generated_at": "2026-09-04T17:19:20+03:00",
   "count": 298,
   "sections": {
     "tips": [
@@ -266,7 +266,7 @@
       "title": "Интеграция с ABCP",
       "type": "articles",
       "order": 10,
-      "updated_at": "2026-07-30",
+      "updated_at": "2026-09-04",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 35
@@ -346,7 +346,7 @@
       "title": "Регламент проверки корректности работы интеграции с телефонией",
       "type": "articles",
       "order": 1,
-      "updated_at": "2022-06-23",
+      "updated_at": "2026-09-04",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 6
@@ -386,7 +386,7 @@
       "title": "Фотофиксации",
       "type": "articles",
       "order": 6,
-      "updated_at": "2022-06-24",
+      "updated_at": "2026-09-04",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 23
@@ -742,7 +742,7 @@
       "title": "Настройка Веб-сервиса Allautoparts (Автостелс)",
       "type": "articles",
       "order": 4,
-      "updated_at": "2022-06-20",
+      "updated_at": "2026-09-04",
       "date_kind": "updated",
       "added_at": "2026-09-03T14:53:31+03:00",
       "reading_time": 8
@@ -752,7 +752,7 @@
       "title": "Настройка Веб-сервиса Armtek (Армтек)",
       "type": "articles",
       "order": 5,
-      "updated_at": "2022-06-20",
+      "updated_at": "2026-09-04",
       "date_kind": "updated",
       "added_at": "2026-09-03T14:53:31+03:00",
       "reading_time": 8
@@ -1062,7 +1062,7 @@
       "title": "Настройка Веб-сервиса PartKom (ПартКом)",
       "type": "articles",
       "order": 36,
-      "updated_at": "2022-06-20",
+      "updated_at": "2026-09-04",
       "date_kind": "updated",
       "added_at": "2026-09-03T14:53:31+03:00",
       "reading_time": 7
@@ -1242,7 +1242,7 @@
       "title": "Настройка Веб-сервиса Zzap",
       "type": "articles",
       "order": 53,
-      "updated_at": "2022-06-20",
+      "updated_at": "2026-09-04",
       "date_kind": "updated",
       "added_at": "2026-09-03T14:53:31+03:00",
       "reading_time": 5
