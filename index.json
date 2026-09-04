@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T14:12:05+03:00",
+  "generated_at": "2026-09-04T14:19:00+03:00",
   "count": 283,
   "sections": {
     "tips": [
@@ -256,10 +256,10 @@
       "title": "Адресация задач в CRM по исполнителям",
       "type": "articles",
       "order": 0,
-      "updated_at": "2022-06-24",
+      "updated_at": "2026-09-04",
       "date_kind": "updated",
       "added_at": "2026-09-04T13:45:58+03:00",
-      "reading_time": 9
+      "reading_time": 3
     },
     {
       "path": "articles/5S AUTO/Задачи/Тонкая настройка адресации задач в CRM",
