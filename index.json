@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T15:10:55+03:00",
+  "generated_at": "2026-09-04T15:18:00+03:00",
   "count": 298,
   "sections": {
     "tips": [
@@ -402,6 +402,16 @@
       "reading_time": 17
     },
     {
+      "path": "articles/5S AUTO/Сообщения/Интеграция с ABCP",
+      "title": "Интеграция с ABCP",
+      "type": "articles",
+      "order": 16,
+      "updated_at": "2026-09-04",
+      "date_kind": "updated",
+      "added_at": "2026-09-04T14:42:48+03:00",
+      "reading_time": 19
+    },
+    {
       "path": "articles/5S AUTO/Задачи/Адресация задач в CRM по исполнителям",
       "title": "Адресация задач в CRM по исполнителям",
       "type": "articles",
@@ -420,16 +430,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-04T13:45:58+03:00",
       "reading_time": 7
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/Интеграция с ABCP",
-      "title": "Интеграция с ABCP",
-      "type": "articles",
-      "order": 16,
-      "updated_at": "2026-09-04",
-      "date_kind": "updated",
-      "added_at": "2026-09-04",
-      "reading_time": 19
     },
     {
       "path": "articles/5S AUTO/Бонусная система/Настройка бонусной системы",
@@ -546,7 +546,7 @@
       "title": "Сравнение возможностей WABA и пользовательского WhatsApp",
       "type": "articles",
       "order": 9,
-      "updated_at": "2025-05-21",
+      "updated_at": "2026-09-04",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 8

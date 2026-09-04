@@ -2,7 +2,7 @@
 
 # Сравнение возможностей WABA и пользовательского WhatsApp
 
-<table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 21.05.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 04.09.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/sravnenie-vozmozhnostey-waba-i-polzovatelskogo-whatsapp</sub>
 
@@ -15,7 +15,7 @@
 
 ## Введение
 
-Подключить **WhatsApp** к 5S AUTO можно двумя способами: с помощью интеграции с [пользовательским WhatsApp](https://www.5systems.ru/help/nastroyka-integracii-s-whatsapp) и через официальное решение Meta\* – [WhatsApp Business API (WABA)](https://www.5systems.ru/help/nastroyki-integracii-s-whatsapp-business-api).
+Подключить **WhatsApp** к 5S AUTO можно двумя способами: с помощью интеграции с [пользовательским WhatsApp](../Настройка%20интеграции%20с%20WhatsApp/nastroyka-integracii-s-whatsapp.md) и через официальное решение Meta\* – [WhatsApp Business API (WABA)](../Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md).
 
 Оба решения позволяют вести переписку с клиентами из программы, но процесс подключения, возможности и задачи у них разные.
 
