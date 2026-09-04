@@ -2,7 +2,7 @@
 
 # Возможности бота WhatsApp Business API
 
-<table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 13.05.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 04.09.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/vozmozhnosti-bota-whatsapp-business-api</sub>
 
@@ -66,7 +66,7 @@
 
 4. */Помощь* – в ответ будет отправлена подсказка, как пользоваться меню быстрых действий:
 
-![WABA - Команды - Помощь](attachments/09-waba-komandy-pomosch.png)
+   ![WABA - Команды - Помощь](attachments/09-waba-komandy-pomosch.png)
 
 ## Индивидуальная логика бота
 
