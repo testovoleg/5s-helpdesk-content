@@ -23,9 +23,9 @@
 
 ## Введение
 
-Подключить **WhatsApp** к 5S AUTO можно двумя способами: с помощью интеграции с *пользовательским WhatsApp* и через *WhatsApp Business API (WABA).* Отличия, преимущества и ограничения обоих методов см. в статье “[Сравнение возможностей WABA и пользовательского WhatsApp](../Сравнение%20возможностей%20WABA%20и%20пользовательского%20WhatsApp/sravnenie-vozmozhnostey-waba-i-polzovatelskogo-whatsapp.md)”.
+Подключить **WhatsApp** к 5S AUTO можно двумя способами: с помощью интеграции с *пользовательским WhatsApp* и через *WhatsApp Business API (WABA).* Отличия, преимущества и ограничения обоих методов см. в статье “[Сравнение возможностей WABA и пользовательского WhatsApp](https://www.5systems.ru/help/sravnenie-vozmozhnostey-waba-i-polzovatelskogo-whatsapp)”.
 
-Например, возможности бота, массовые рассылки и использование шаблонов сообщений с кнопками возможны только при использовании официального решения WABA (см. статью “[Возможности бота WhatsApp Business API](../Возможности%20бота%20WhatsApp%20Business%20API/vozmozhnosti-bota-whatsapp-business-api.md)” и другие статьи в разделе “[WhatsApp](https://www.5systems.ru/help/whatsapp)”).
+Например, возможности бота, массовые рассылки и использование шаблонов сообщений с кнопками возможны только при использовании официального решения WABA (см. статью “[Возможности бота WhatsApp Business API](https://www.5systems.ru/help/vozmozhnosti-bota-whatsapp-business-api)” и другие статьи в разделе “[WhatsApp](https://www.5systems.ru/help/whatsapp)”).
 
 В рамках текущей статьи описана настройка интеграции с *пользовательским* WhatsApp. Он более прост в подключении, чем WABA, но имеет ограничения в использовании функционала.
 

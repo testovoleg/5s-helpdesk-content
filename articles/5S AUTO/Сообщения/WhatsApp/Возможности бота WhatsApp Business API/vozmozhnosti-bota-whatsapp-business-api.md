@@ -20,13 +20,13 @@
 
 ***Боты WhatsApp Business API*** применяются для автоматизации обслуживания клиентов – они могут отвечать на стандартные вопросы пользователей моментально и в любое время суток, выдавать информацию по запросам, а также собирать от клиентов обратную связь.
 
-Логика работы ботов задается в программе 5S AUTO механизмом [значимых событий](../../Настройка%20автоматической%20отправки%20сообщений%20через%20мессенджеры/nastroyka-avtomaticheskoy-otpravki-soobscheniy-cherez-messendzhery.md), а также на уровне [5S Cloud](https://www.5systems.ru/help/sozdanie-i-redaktirovanie-polzovateley-5s-cloud) (микросервис Воt API). Реализована *общая логика* работы бота сразу для всех пользователей программы – она подключается автоматически при [настройке интеграции 5S AUTO с WhatsApp Business API](../Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md). Есть возможность настройки *индивидуальной логики* работы бота отдельно под каждую компанию.
+Логика работы ботов задается в программе 5S AUTO механизмом [значимых событий](https://www.5systems.ru/help/nastroyka-avtomaticheskoy-otpravki-soobscheniy-cherez-messendzhery), а также на уровне [5S Cloud](https://www.5systems.ru/help/sozdanie-i-redaktirovanie-polzovateley-5s-cloud) (микросервис Воt API). Реализована *общая логика* работы бота сразу для всех пользователей программы – она подключается автоматически при [настройке интеграции 5S AUTO с WhatsApp Business API](https://www.5systems.ru/help/nastroyki-integracii-s-whatsapp-business-api). Есть возможность настройки *индивидуальной логики* работы бота отдельно под каждую компанию.
 
 Также см. статьи:
 
-- [Настройки интеграции с WhatsApp Business API](../Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md);
-- [Оформление аккаунта WhatsApp Business API](../Оформление%20аккаунта%20WhatsApp%20Business%20API/oformlenie-akkaunta-whatsapp-business-api.md);
-- [Способы перехода в WhatsApp-бот](../Способы%20перехода%20в%20чат%20WhatsApp/sposoby-perekhoda-v-chat-whatsapp.md) и другие статьи в разделе “[WhatsApp](https://www.5systems.ru/help/whatsapp)”.
+- [Настройки интеграции с WhatsApp Business API](https://www.5systems.ru/help/nastroyki-integracii-s-whatsapp-business-api);
+- [Оформление аккаунта WhatsApp Business API](https://www.5systems.ru/help/oformlenie-akkaunta-whatsapp-business-api);
+- [Способы перехода в WhatsApp-бот](https://www.5systems.ru/help/sposoby-perekhoda-v-chat-whatsapp) и другие статьи в разделе “[WhatsApp](https://www.5systems.ru/help/whatsapp)”.
 
 Для работы с ботом WhatsApp Business API предварительно у клиентов должно быть установлено приложение WhatsApp.
 
@@ -74,9 +74,9 @@
 
 Бот с индивидуальной логикой будет отправлять сообщения на основе шаблонов, заранее настроенных под бизнес-процессы компании – с интерактивными кнопками, меню действий, картинками, списком акций и т.д. При нажатии кнопок и выборе пунктов меню клиентом бот будет отправлять следующее автоматическое сообщение – например, печатную форму документа, карту с маршрутом проезда, информацию об акции и т.д.
 
-Также есть возможность добавить дополнительные [команды](#2-команды) для меню быстрых действий – это можно сделать в [настройках аккаунта WABA](../Оформление%20аккаунта%20WhatsApp%20Business%20API/oformlenie-akkaunta-whatsapp-business-api.md) в разделе "Номера телефонов" на вкладке "Автоматизации".
+Также есть возможность добавить дополнительные [команды](#2-команды) для меню быстрых действий – это можно сделать в [настройках аккаунта WABA](https://www.5systems.ru/help/oformlenie-akkaunta-whatsapp-business-api) в разделе "Номера телефонов" на вкладке "Автоматизации".
 
-Подробнее см. статьи: “[Пример индивидуальной настройки WABA](../Пример%20индивидуальной%20настройки%20WABA/primer-individualnoy-nastroyki-waba.md)”, “[Уведомление покупателю о поступлении заказа](https://www.5systems.ru/help/uvedomlenie-pokupatelyu-o-postuplenii-zakaza)”.
+Подробнее см. статьи: “[Пример индивидуальной настройки WABA](https://www.5systems.ru/help/primer-individualnoy-nastroyki-waba)”, “[Уведомление покупателю о поступлении заказа](https://www.5systems.ru/help/uvedomlenie-pokupatelyu-o-postuplenii-zakaza)”.
 
 ---
 

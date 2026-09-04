@@ -18,14 +18,14 @@
 
 ## Введение
 
-В текущей статье описаны способы перехода клиентов в чат [*пользовательского WhatsApp*](../Настройка%20интеграции%20с%20WhatsApp/nastroyka-integracii-s-whatsapp.md) компании и в чат *[WhatsApp Business API (WABA)](../Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md).*
+В текущей статье описаны способы перехода клиентов в чат [*пользовательского WhatsApp*](https://www.5systems.ru/help/nastroyka-integracii-s-whatsapp) компании и в чат *[WhatsApp Business API (WABA)](https://www.5systems.ru/help/nastroyki-integracii-s-whatsapp-business-api).*
 
 Также см. статьи:
 
-- [Возможности бота WhatsApp Business API](../Возможности%20бота%20WhatsApp%20Business%20API/vozmozhnosti-bota-whatsapp-business-api.md);
-- [Настройки интеграции с WhatsApp Business API](../Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md);
-- [Оформление аккаунта WhatsApp Business API](../Оформление%20аккаунта%20WhatsApp%20Business%20API/oformlenie-akkaunta-whatsapp-business-api.md);
-- [Настройка интеграции с WhatsApp](../Настройка%20интеграции%20с%20WhatsApp/nastroyka-integracii-s-whatsapp.md) и другие статьи в разделе “[WhatsApp](https://www.5systems.ru/help/whatsapp)”.
+- [Возможности бота WhatsApp Business API](https://www.5systems.ru/help/vozmozhnosti-bota-whatsapp-business-api);
+- [Настройки интеграции с WhatsApp Business API](https://www.5systems.ru/help/nastroyki-integracii-s-whatsapp-business-api);
+- [Оформление аккаунта WhatsApp Business API](https://www.5systems.ru/help/oformlenie-akkaunta-whatsapp-business-api);
+- [Настройка интеграции с WhatsApp](https://www.5systems.ru/help/nastroyka-integracii-s-whatsapp) и другие статьи в разделе “[WhatsApp](https://www.5systems.ru/help/whatsapp)”.
 
 Для работы с чатом WhatsApp и WABA предварительно у клиентов должно быть установлено приложение WhatsApp.
 
@@ -75,7 +75,7 @@
 
 *Примечание:* Такой же диалог откроется, если клиент самостоятельно найдет чат компании по номеру телефона, напишет интересующий его вопрос, и получит ответное сообщение.
 
-Подробнее о диалоговой системе WABA и об отличиях в инициации диалогов компанией и пользователями см. в статье “[Настройка шаблонов WhatsApp Business API](../../Настройка%20шаблонов%20WhatsApp%20Business%20API/nastroyka-shablonov-whatsapp-business-api.md#диалоговая-система-waba)”.
+Подробнее о диалоговой системе WABA и об отличиях в инициации диалогов компанией и пользователями см. в статье “[Настройка шаблонов WhatsApp Business API](https://www.5systems.ru/help/nastroyka-shablonov-whatsapp-business-api#dialogsys)”.
 
 Чтобы настроить ссылку с шаблоном для отправки пользователем следует в ЛК Meta\* Business Suite в разделе “Все инструменты” перейти в раздел “WhatsApp Manager”:
 
