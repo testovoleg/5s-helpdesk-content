@@ -2,7 +2,7 @@
 
 # Настройка Веб-сервиса Auto-help (Авто-Хэлп)
 
-<table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 04.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 14.03.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-veb-servisa-auto-help-avto-khelp</sub>
 

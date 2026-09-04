@@ -2,7 +2,7 @@
 
 # Настройка Веб-сервиса MParts (МПартс) v.2
 
-<table><tr><td><b>Время чтения:</b> 6 мин.</td><td><b>Обновлено:</b> 04.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 6 мин.</td><td><b>Обновлено:</b> 03.04.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-veb-servisa-mparts-mparts-v2</sub>
 

@@ -2,7 +2,7 @@
 
 # Регламент проверки корректности работы интеграции с телефонией
 
-<table><tr><td><b>Время чтения:</b> 6 мин.</td><td><b>Обновлено:</b> 04.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 23.06.2022</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/reglament-proverki-korrektnosti-raboty-integracii-s-telefoniey</sub>
 

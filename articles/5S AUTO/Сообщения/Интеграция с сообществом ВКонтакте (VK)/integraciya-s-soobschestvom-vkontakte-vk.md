@@ -2,7 +2,7 @@
 
 # Интеграция с сообществом ВКонтакте (VK)
 
-<table><tr><td><b>Время чтения:</b> 25 мин.</td><td><b>Обновлено:</b> 04.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 25 мин.</td><td><b>Обновлено:</b> 05.12.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-soobschestvom-vkontakte-vk</sub>
 

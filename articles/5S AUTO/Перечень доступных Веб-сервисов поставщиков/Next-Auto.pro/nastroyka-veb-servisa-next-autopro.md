@@ -2,7 +2,7 @@
 
 # Настройка Веб-сервиса Next-Auto.pro
 
-<table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 04.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 17.03.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-veb-servisa-next-autopro</sub>
 

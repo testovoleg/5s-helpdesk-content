@@ -2,7 +2,7 @@
 
 # Пример индивидуальной настройки WABA
 
-<table><tr><td><b>Время чтения:</b> 24 мин.</td><td><b>Обновлено:</b> 04.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 24 мин.</td><td><b>Обновлено:</b> 06.07.2023</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/primer-individualnoy-nastroyki-waba</sub>
 
