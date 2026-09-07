@@ -16,7 +16,7 @@
 
 ## Описание
 
-Обработчик предназначен для работы с *клиентским API **ZZap v.2*: [https://zzap.ru](https://zzap.ru/).
+Обработчик предназначен для работы с *клиентским API **ZZap v.2**:* [https://zzap.ru](https://zzap.ru/).
 
 Документация: [https://wiki.zzap.ru/api-zzap/](https://wiki.zzap.ru/api-zzap/)
 

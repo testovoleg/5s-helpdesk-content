@@ -25,7 +25,7 @@
 
 ***WhatsApp Business API (WABA)*** – это официальное решение Meta[\*](#snoska-1) для интеграции WhatsApp с CRM-системами.
 
-Подключить WhatsApp к 5S AUTO можно двумя способами: с помощью интеграции с [*пользовательским WhatsApp*](../Настройка%20интеграции%20с%20WhatsApp/nastroyka-integracii-s-whatsapp.md) и через *WhatsApp Business API (WABA).* Отличия, преимущества и ограничения обоих методов см. в статье “[Сравнение возможностей WABA и пользовательского WhatsApp](../Сравнение%20возможностей%20WABA%20и%20пользовательского%20WhatsApp/sravnenie-vozmozhnostey-waba-i-polzovatelskogo-whatsapp.md)”*.*
+Подключить WhatsApp к 5S AUTO можно двумя способами: с помощью интеграции с [*пользовательским WhatsApp*](../Настройка%20интеграции%20с%20WhatsApp/nastroyka-integracii-s-whatsapp.md) и через *WhatsApp Business API (WABA).* Отличия, преимущества и ограничения обоих методов см. в статье “[Сравнение возможностей WABA и пользовательского WhatsApp](../Сравнение%20возможностей%20WABA%20и%20пользовательского%20WhatsApp/sravnenie-vozmozhnostey-waba-i-polzovatelskogo-whatsapp.md)”.
 
 Только интеграция с WABA позволяет пользователям 5S AUTO полноценно использовать все функции канала WhatsApp для общения с клиентами:
 
