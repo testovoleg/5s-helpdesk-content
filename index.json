@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T15:50:29+03:00",
+  "generated_at": "2026-09-07T15:59:28+03:00",
   "count": 324,
   "sections": {
     "tips": [
@@ -271,6 +271,106 @@
     "lessons": []
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Автоматическая загрузка банковских выписок",
+      "title": "Автоматическая загрузка банковских выписок",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2025-03-18",
+      "date_kind": "updated",
+      "added_at": "2026-09-07T15:49:53+03:00",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Настройка API Сбербанка для загрузки выписок",
+      "title": "Настройка API Сбербанка для загрузки выписок",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-07-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-07T15:49:53+03:00",
+      "reading_time": 10
+    },
+    {
+      "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Обработка для загрузки банковских выписок",
+      "title": "Обработка для загрузки банковских выписок",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-03-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-07T15:49:53+03:00",
+      "reading_time": 11
+    },
+    {
+      "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Альфа-Банка",
+      "title": "Подключение загрузки выписок Альфа-Банка",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2025-03-19",
+      "date_kind": "updated",
+      "added_at": "2026-09-07T15:49:53+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Т-Банка",
+      "title": "Подключение загрузки выписок Т-Банка",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2026-07-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-07T15:49:53+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Печать QR-кода для оплаты",
+      "title": "Печать QR-кода для оплаты",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2025-04-25",
+      "date_kind": "updated",
+      "added_at": "2026-09-07T15:49:53+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение SberPay QR",
+      "title": "Подключение SberPay QR",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-05-07",
+      "date_kind": "updated",
+      "added_at": "2026-09-07T15:49:53+03:00",
+      "reading_time": 11
+    },
+    {
+      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП T-Банка",
+      "title": "Подключение СБП T-Банка",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-05-19",
+      "date_kind": "updated",
+      "added_at": "2026-09-07T15:49:53+03:00",
+      "reading_time": 11
+    },
+    {
+      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Альфа-Банка",
+      "title": "Подключение СБП Альфа-Банка",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2025-02-07",
+      "date_kind": "updated",
+      "added_at": "2026-09-07T15:49:53+03:00",
+      "reading_time": 11
+    },
+    {
+      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Работа с СБП",
+      "title": "Работа с СБП",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2026-05-07",
+      "date_kind": "updated",
+      "added_at": "2026-09-07T15:49:53+03:00",
+      "reading_time": 24
+    },
     {
       "path": "articles/5S AUTO/Касса/Интеграция с Webkassa.KZ",
       "title": "Интеграция с Webkassa.KZ",
@@ -3375,16 +3475,6 @@
       "added_at": "2026-07-31T09:42:06+03:00"
     },
     {
-      "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Настройка API Сбербанка для загрузки выписок",
-      "title": "Настройка API Сбербанка для загрузки выписок",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2026-07-31",
-      "date_kind": "updated",
-      "added_at": "2026-07-31",
-      "reading_time": 10
-    },
-    {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Лицензирование 5S AUTO",
       "title": "Лицензирование 5S AUTO",
       "type": "articles",
@@ -3539,96 +3629,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Т-Банка",
-      "title": "Подключение загрузки выписок Т-Банка",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2026-07-29",
-      "date_kind": "updated",
-      "added_at": "2026-07-29",
-      "reading_time": 6
-    },
-    {
-      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП T-Банка",
-      "title": "Подключение СБП T-Банка",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2026-05-19",
-      "date_kind": "updated",
-      "added_at": "2026-05-19",
-      "reading_time": 11
-    },
-    {
-      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение SberPay QR",
-      "title": "Подключение SberPay QR",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2026-05-07",
-      "date_kind": "updated",
-      "added_at": "2026-05-07",
-      "reading_time": 11
-    },
-    {
-      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Работа с СБП",
-      "title": "Работа с СБП",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2026-05-07",
-      "date_kind": "updated",
-      "added_at": "2026-05-07",
-      "reading_time": 24
-    },
-    {
-      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Печать QR-кода для оплаты",
-      "title": "Печать QR-кода для оплаты",
-      "type": "articles",
-      "order": 5,
-      "updated_at": "2025-04-25",
-      "date_kind": "updated",
-      "added_at": "2025-04-25",
-      "reading_time": 9
-    },
-    {
-      "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Обработка для загрузки банковских выписок",
-      "title": "Обработка для загрузки банковских выписок",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2025-03-20",
-      "date_kind": "updated",
-      "added_at": "2025-03-20",
-      "reading_time": 11
-    },
-    {
-      "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Альфа-Банка",
-      "title": "Подключение загрузки выписок Альфа-Банка",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2025-03-19",
-      "date_kind": "updated",
-      "added_at": "2025-03-19",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Автоматическая загрузка банковских выписок",
-      "title": "Автоматическая загрузка банковских выписок",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2025-03-18",
-      "date_kind": "updated",
-      "added_at": "2025-03-18",
-      "reading_time": 12
-    },
-    {
-      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Альфа-Банка",
-      "title": "Подключение СБП Альфа-Банка",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2025-02-07",
-      "date_kind": "updated",
-      "added_at": "2025-02-07",
-      "reading_time": 11
     }
   ]
 }
