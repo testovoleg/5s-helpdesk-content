@@ -117,8 +117,9 @@
 ```
 openssl pkcs12 -in <имя вашего файла>.p12 -nodes -nocerts -out private.key
 openssl pkcs12 -in <имя вашего файла>.p12 -clcerts -nokeys -out client_cert.crt
-потребуется ввод [пароля](#parol) от сертификата
 ```
+
+*потребуется ввод [пароля](#parol) от сертификата*
 
 *В случае возникновения сложностей, обратитесь в техподдержку 5SYSTEMS.*
 
