@@ -78,9 +78,9 @@
 
 См. видеоинструкции:
 
-- [Как принять оплату по Заказ-наряду](https://youtu.be/03Wjvnbd_y8)
+- [Как принять оплату по Заказ-наряду](../../Автосервис/Работа%20с%20Заказ-нарядами/Как%20принять%20оплату%20по%20Заказ-наряду/kak-prinyat-oplatu-po-zakaz-naryadu.md)
 
-  [![Как принять оплату по Заказ-наряду](attachments/video-01-kak-prinyat-oplatu-po-zakaz-naryadu.png)](https://youtu.be/03Wjvnbd_y8)
+  [![Как принять оплату по Заказ-наряду](attachments/video-01-kak-prinyat-oplatu-po-zakaz-naryadu.png)](https://edu.5systems.ru/video/Zakaz-naryad/Zakaz-naryad_5-Oplata_Zakaz-naryada.mp4)
 
 - [Прием предоплаты](https://youtu.be/lS67DJ8veYU)
 
@@ -88,7 +88,7 @@
 
 - [Зачет аванса](https://youtu.be/oHdoYVae3UM)
 
-[![5S AUTO_Прием оплаты: Зачет аванса](attachments/video-03-5s-auto-priem-oplaty-zachet-avansa.png)](https://youtu.be/oHdoYVae3UM)
+  [![5S AUTO_Прием оплаты: Зачет аванса](attachments/video-03-5s-auto-priem-oplaty-zachet-avansa.png)](https://youtu.be/oHdoYVae3UM)
 
 ## Возврат
 
