@@ -43,7 +43,7 @@
 
 - *ключ API –* ключ доступа покупателя, заказанный в личном кабинете и полученный на электронную почту:
 
-![Веб-сервис TISS - Параметры сервиса](attachments/02-veb-servis-tiss-parametry-servisa.png)
+  ![Веб-сервис TISS - Параметры сервиса](attachments/02-veb-servis-tiss-parametry-servisa.png)
 
 ## Опции методов
 
