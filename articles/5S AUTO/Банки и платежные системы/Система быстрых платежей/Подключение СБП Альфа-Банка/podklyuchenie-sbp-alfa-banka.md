@@ -142,7 +142,9 @@
 
 Команда для сборки pfx-контейнера[\*](#snoska):
 
-*openssl pkcs12 -password pass:PASSWORD -export -certpbe PBE-SHA1-3DES -keypbe PBE-SHA1-3DES -macalg sha1 -out certificate.p12 -inkey Company.key -in Company.cer -certfile apica_2022_chain.cer*
+```
+openssl pkcs12 -password pass:PASSWORD -export -certpbe PBE-SHA1-3DES -keypbe PBE-SHA1-3DES -macalg sha1 -out certificate.p12 -inkey Company.key -in Company.cer -certfile apica_2022_chain.cer
+```
 
 где:
 
