@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T10:07:30+03:00",
-  "count": 297,
+  "generated_at": "2026-09-07T10:25:59+03:00",
+  "count": 305,
   "sections": {
     "tips": [
       {
@@ -3337,6 +3337,86 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Учет взаиморасчетов/Автозакрытие сделок и ручная привязка",
+      "title": "Автозакрытие сделок и ручная привязка",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2022-12-06",
+      "date_kind": "updated",
+      "added_at": "2022-12-06",
+      "reading_time": 14
+    },
+    {
+      "path": "articles/5S AUTO/Учет взаиморасчетов/Корректировка остатков взаиморасчетов",
+      "title": "Корректировка остатков взаиморасчетов",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2022-12-06",
+      "date_kind": "updated",
+      "added_at": "2022-12-06",
+      "reading_time": 10
+    },
+    {
+      "path": "articles/5S AUTO/Учет взаиморасчетов/Отчет Возраст задолженности",
+      "title": "Отчет “Возраст задолженности”",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2022-12-06",
+      "date_kind": "updated",
+      "added_at": "2022-12-06",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Учет взаиморасчетов/Взаиморасчеты с контрагентами",
+      "title": "Взаиморасчеты с контрагентами",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-12-05",
+      "date_kind": "updated",
+      "added_at": "2022-12-05",
+      "reading_time": 21
+    },
+    {
+      "path": "articles/5S AUTO/Учет взаиморасчетов/Отчет Взаиморасчеты с контрагентами",
+      "title": "Отчет “Взаиморасчеты с контрагентами”",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-12-05",
+      "date_kind": "updated",
+      "added_at": "2022-12-05",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Учет взаиморасчетов/Акт сверки взаиморасчетов",
+      "title": "Акт сверки взаиморасчетов",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2022-07-08",
+      "date_kind": "updated",
+      "added_at": "2022-07-08",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Учет взаиморасчетов/Запрет отгрузки без оплаты",
+      "title": "Запрет отгрузки без оплаты",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2022-06-24",
+      "reading_time": 10
+    },
+    {
+      "path": "articles/5S AUTO/Учет взаиморасчетов/Контроль дебиторской задолженности юр. лиц",
+      "title": "Контроль дебиторской задолженности юр. лиц",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2022-06-24",
+      "reading_time": 19
     }
   ]
 }
