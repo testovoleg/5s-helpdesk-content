@@ -49,7 +49,7 @@
 
 ![WABA - Пригласительная ссылка](attachments/02-waba-priglasitelnaya-ssylka.png) &nbsp;&nbsp;&nbsp;&nbsp; ![WABA - Ссылка с текстом сообщения](attachments/03-waba-ssylka-s-tekstom-soobscheniya.png)
 
-Ссылка создается в разделе “WhatsApp Manager” ЛК Meta[\*](#snoska) Business Suite – инструкцию см. [*ниже*](#создание-ссылки-на-сообщение-только-для-waba)*.*
+Ссылка создается в разделе “WhatsApp Manager” ЛК Meta[\*](#snoska) Business Suite – инструкцию см. [*ниже*](#создание-ссылки-на-сообщение-только-для-waba).
 
 ### 3. Ссылка в виде QR-кода
 
