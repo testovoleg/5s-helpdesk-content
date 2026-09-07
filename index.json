@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T17:14:56+03:00",
-  "count": 324,
+  "generated_at": "2026-09-07T17:26:42+03:00",
+  "count": 328,
   "sections": {
     "tips": [
       {
@@ -565,7 +565,13 @@
       "updated_at": "2022-12-28",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
-      "reading_time": 21
+      "reading_time": 21,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Персонал и мотивация",
+          "order": 4
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с MotorData",
@@ -3629,6 +3635,46 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Персонал и мотивация/Описание возможностей системы мотивации",
+      "title": "Описание возможностей системы мотивации",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2025-12-29",
+      "date_kind": "updated",
+      "added_at": "2025-12-29",
+      "reading_time": 14
+    },
+    {
+      "path": "articles/5S AUTO/Персонал и мотивация/Выявление и разбор нарушений",
+      "title": "Выявление и разбор нарушений",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2024-01-17",
+      "date_kind": "updated",
+      "added_at": "2024-01-17",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Персонал и мотивация/Табель учета рабочего времени",
+      "title": "Табель учета рабочего времени",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2022-06-24",
+      "reading_time": 23
+    },
+    {
+      "path": "articles/5S AUTO/Персонал и мотивация/Настройка системы мотивации",
+      "title": "Настройка системы мотивации",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2022-06-14",
+      "date_kind": "updated",
+      "added_at": "2022-06-14",
+      "reading_time": 9
     }
   ]
 }
