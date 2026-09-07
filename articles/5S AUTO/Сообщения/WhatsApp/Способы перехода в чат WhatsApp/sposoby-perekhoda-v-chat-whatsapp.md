@@ -49,7 +49,7 @@
 
 ![WABA - Пригласительная ссылка](attachments/02-waba-priglasitelnaya-ssylka.png) &nbsp;&nbsp;&nbsp;&nbsp; ![WABA - Ссылка с текстом сообщения](attachments/03-waba-ssylka-s-tekstom-soobscheniya.png)
 
-Ссылка создается в разделе “WhatsApp Manager” ЛК Meta\* Business Suite – инструкцию см. [*ниже*](#создание-ссылки-на-сообщение-только-для-waba)*.*
+Ссылка создается в разделе “WhatsApp Manager” ЛК Meta[\*](#snoska) Business Suite – инструкцию см. [*ниже*](#создание-ссылки-на-сообщение-только-для-waba)*.*
 
 ### 3. Ссылка в виде QR-кода
 
@@ -77,7 +77,7 @@
 
 Подробнее о диалоговой системе WABA и об отличиях в инициации диалогов компанией и пользователями см. в статье “[Настройка шаблонов WhatsApp Business API](../../Настройка%20шаблонов%20WhatsApp%20Business%20API/nastroyka-shablonov-whatsapp-business-api.md#диалоговая-система-waba)”.
 
-Чтобы настроить ссылку с шаблоном для отправки пользователем следует в ЛК Meta\* Business Suite в разделе “Все инструменты” перейти в раздел “WhatsApp Manager”:
+Чтобы настроить ссылку с шаблоном для отправки пользователем следует в ЛК Meta[\*](#snoska) Business Suite в разделе “Все инструменты” перейти в раздел “WhatsApp Manager”:
 
 ![WABA - Настройка в WABA](attachments/06-waba-nastroyka-v-waba.png)
 
@@ -93,7 +93,7 @@
 
 ![WABA - Настройка в WABA - Скопировать ссылку](attachments/09-waba-nastroyka-v-waba-skopirovat-ssylku.png)
 
-*\*Meta признана экстремистской организацией, запрещенной на территории Российской Федерации.*
+<a id="snoska"></a>*\*Meta признана экстремистской организацией, запрещенной на территории Российской Федерации.*
 
 ---
 

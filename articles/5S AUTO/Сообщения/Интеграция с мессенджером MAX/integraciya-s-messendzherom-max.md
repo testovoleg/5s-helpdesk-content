@@ -174,7 +174,7 @@
 
 После успешного *подключения к платформе MAX* можно переходить к созданию бота.
 
-Подробнее см. статью на сайте сервиса [MAX для бизнеса](https://business.max.ru/): “[Подключение к платформе и создание профиля организации](https://dev.max.ru/docs/maxbusiness/connection?utm_source=b2bmax&utm_medium=documentation_1_screen&utm_campaign=landing)”.
+Подробнее см. статью на сайте сервиса [MAX для бизнеса](https://business.max.ru/): “[Подключение к платформе и создание профиля организации](https://dev.max.ru/docs/maxbusiness/connection)”.
 
 ### 2. Создание бота MAX
 
