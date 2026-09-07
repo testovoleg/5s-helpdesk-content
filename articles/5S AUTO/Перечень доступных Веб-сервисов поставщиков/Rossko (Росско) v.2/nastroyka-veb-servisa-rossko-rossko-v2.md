@@ -64,7 +64,7 @@
 - Ключ 1 - KEY 1, ключ авторизации “пользователь”;
 - Ключ 2 - KEY 2, ключ авторизации “пароль”.
 
-  ![Веб-сервис Rossko - Параметры сервиса](attachments/05-veb-servis-rossko-parametry-servisa.png)
+![Веб-сервис Rossko - Параметры сервиса](attachments/05-veb-servis-rossko-parametry-servisa.png)
 
 ## Опции методов
 

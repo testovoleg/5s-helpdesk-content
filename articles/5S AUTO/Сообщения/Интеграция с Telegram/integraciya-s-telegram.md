@@ -111,7 +111,7 @@
 - вести переписку с сервисом в чате;
 - просматривать и редактировать информацию в своем профиле, выбирать светлую или темную тему.
 
-  ![Telegram - Информация об АМ](attachments/09-telegram-informaciya-ob-am.png) &nbsp;&nbsp; ![Telegram - Предварительная Запись](attachments/10-telegram-predvaritelnaya-zapis.png)
+![Telegram - Информация об АМ](attachments/09-telegram-informaciya-ob-am.png) &nbsp;&nbsp; ![Telegram - Предварительная Запись](attachments/10-telegram-predvaritelnaya-zapis.png)
 
 ![Telegram - Запись на ремонт](attachments/11-telegram-zapis-na-remont.png) &nbsp;&nbsp; ![Telegram - Бонусы](attachments/12-telegram-bonusy.png)
 
@@ -193,7 +193,7 @@
 
 1. Воспользоваться меню по команде */start:*
 
-   ![Telegram - Оформление бота - Меню](attachments/21-telegram-oformlenie-bota-menyu.png)
+![Telegram - Оформление бота - Меню](attachments/21-telegram-oformlenie-bota-menyu.png)
 
 Для оформления используются команды:
 
