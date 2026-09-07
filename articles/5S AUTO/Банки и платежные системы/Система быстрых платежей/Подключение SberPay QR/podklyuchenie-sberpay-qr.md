@@ -77,7 +77,9 @@
 
 В открывшемся разделе *“Колбэк-уведомления”* необходимо прописать следующую ссылку для уведомлений:
 
-*https://api.5systems.ru/payment/v1/sber/notify*
+```
+https://api.5systems.ru/payment/v1/sber/notify
+```
 
 и сохранить изменения:
 
