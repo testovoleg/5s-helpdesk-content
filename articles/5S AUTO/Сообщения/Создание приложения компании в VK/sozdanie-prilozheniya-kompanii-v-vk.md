@@ -210,13 +210,13 @@
 
    ![Брендовое приложение VK - Иконка на странице загрузки](attachments/25-brendovoe-prilozhenie-vk-ikonka-na-stranice-zagruzki.png)
 
-   <a id="inf"></a>
+<a id="inf"></a>
 
 2. Информация о приложении:
 
    ![Брендовое приложение VK - Информация о приложении](attachments/26-brendovoe-prilozhenie-vk-informaciya-o-prilozhenii.png)
 
-   <a id="razrab"></a>
+<a id="razrab"></a>
 
 3. Информация о разработчике приложения:
 

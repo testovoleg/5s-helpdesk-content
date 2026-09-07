@@ -109,11 +109,9 @@
 - находить контакты сервиса, открыть карту с отметкой ближайшего филиала и построить маршрут;
 - отслеживать информацию о своих бонусных баллах, подтверждать списание и делиться ими через QR-код;
 - вести переписку с сервисом в чате;
-- просматривать и редактировать информацию в своем профиле, выбирать светлую или темную тему.
-
-  ![Telegram - Информация об АМ](attachments/09-telegram-informaciya-ob-am.png) &nbsp;&nbsp; ![Telegram - Предварительная Запись](attachments/10-telegram-predvaritelnaya-zapis.png)
-
-![Telegram - Запись на ремонт](attachments/11-telegram-zapis-na-remont.png) &nbsp;&nbsp; ![Telegram - Бонусы](attachments/12-telegram-bonusy.png)
+- просматривать и редактировать информацию в своем профиле, выбирать светлую или темную тему.<br><br>
+  ![Telegram - Информация об АМ](attachments/09-telegram-informaciya-ob-am.png) &nbsp;&nbsp; ![Telegram - Предварительная Запись](attachments/10-telegram-predvaritelnaya-zapis.png)<br><br>
+  ![Telegram - Запись на ремонт](attachments/11-telegram-zapis-na-remont.png) &nbsp;&nbsp; ![Telegram - Бонусы](attachments/12-telegram-bonusy.png)
 
 #### 2) Переписка с клиентами
 
@@ -191,8 +189,7 @@
 
 К оформлению внешнего вида бота можно перейти через *BotFathe*r двумя способами:
 
-1. Воспользоваться меню по команде */start:*
-
+1. Воспользоваться меню по команде */start:*<br><br>
    ![Telegram - Оформление бота - Меню](attachments/21-telegram-oformlenie-bota-menyu.png)
 
 Для оформления используются команды:
@@ -203,10 +200,9 @@
 - */setuserpic* – меняет фото профиля, см. [ниже](#1-фото-профиля);
 - */deletebot* – удаляет бота и освобождает юзернейм, действие не может быть отменено.
 
-  <a id="mybots"></a>
+<a id="mybots"></a>
 
-2. Выбрать в меню или ввести команду */mybots* и выбрать из списка созданного ранее бота – при этом откроется меню управления им:
-
+2. Выбрать в меню или ввести команду */mybots* и выбрать из списка созданного ранее бота – при этом откроется меню управления им:<br><br>
    ![Telegram - Оформление бота](attachments/22-telegram-oformlenie-bota.png)
 
 Далее необходимо перейти в раздел *Edit Bot:*

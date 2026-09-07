@@ -83,7 +83,7 @@ QR-код можно сгенерировать прямо в VK и вывест
 
    ![Интеграция с ВК - Сообщество - Приложение](attachments/07-integraciya-s-vk-soobschestvo-prilozhenie.png)
 
-   <a id="kn_menu"></a>
+<a id="kn_menu"></a>
 
 2. нажать кнопку “Меню” в чате с сообществом:
 
