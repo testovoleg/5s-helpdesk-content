@@ -39,7 +39,9 @@
 
 Загруженная форма будет вызываться на печать вместо [стандартной формы печати Диагностической анкеты](https://5systems.ru/help/kak-raspechatat-blank-ankety).
 
-**Файл для скачивания:** [pechat-diagnosticheskoy-ankety.7z](attachments/pechat-diagnosticheskoy-ankety.7z) (.7z, 18 КБ)
+## Файлы для скачивания
+
+- [pechat-diagnosticheskoy-ankety.7z](attachments/pechat-diagnosticheskoy-ankety.7z) (.7z, 18 КБ)
 
 ---
 
