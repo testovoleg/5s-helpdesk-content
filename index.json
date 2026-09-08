@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:39:09+03:00",
+  "generated_at": "2026-09-08T11:48:48+03:00",
   "count": 356,
   "sections": {
     "tips": [
@@ -280,6 +280,236 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/API 5S AUTO",
+      "title": "API 5S AUTO",
+      "type": "articles",
+      "order": 16,
+      "updated_at": "2026-08-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Библиотека картинок",
+      "title": "Библиотека картинок",
+      "type": "articles",
+      "order": 13,
+      "updated_at": "2026-01-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Версионирование",
+      "title": "Версионирование",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2026-01-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Восстановление последовательностей документов",
+      "title": "Восстановление последовательностей документов",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2025-06-18",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 13
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Доступ к данным по подразделениям (RLS)",
+      "title": "Доступ к данным по подразделениям (RLS)",
+      "type": "articles",
+      "order": 9,
+      "updated_at": "2025-02-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 22
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Загрузка адресного классификатора",
+      "title": "Загрузка адресного классификатора",
+      "type": "articles",
+      "order": 23,
+      "updated_at": "2026-06-15",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Запуск произвольных обработок в регламентном задании",
+      "title": "Запуск произвольных обработок в регламентном задании",
+      "type": "articles",
+      "order": 11,
+      "updated_at": "2022-06-15",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Мастер настройки системы",
+      "title": "Мастер настройки системы",
+      "type": "articles",
+      "order": 19,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 36
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Настройка видимости складов",
+      "title": "Настройка видимости складов",
+      "type": "articles",
+      "order": 10,
+      "updated_at": "2025-09-08",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Настройка полнотекстового поиска",
+      "title": "Настройка полнотекстового поиска",
+      "type": "articles",
+      "order": 14,
+      "updated_at": "2026-01-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Настройка рабочего стола",
+      "title": "Настройка рабочего стола",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-06-10",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 13
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Настройка цветового оформления статусов и состояний",
+      "title": "Настройка цветового оформления статусов и состояний",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-01-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Настройки Помощника автосервиса",
+      "title": "Настройки Помощника автосервиса",
+      "type": "articles",
+      "order": 20,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Обработка исправления ошибок в складском учете",
+      "title": "Обработка исправления ошибок в складском учете",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2023-06-26",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 17
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Перенос данных",
+      "title": "Перенос данных",
+      "type": "articles",
+      "order": 21,
+      "updated_at": "2026-01-15",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 23
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Подключение внешних печатных форм/Печать диагностической анкеты",
+      "title": "Подключение внешней печатной формы \"Печать диагностической анкеты\"",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Подключение внешних печатных форм/Печать корзины",
+      "title": "Подключение внешней печатной формы \"Печать корзины\"",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Поиск и замена дублирующихся записей",
+      "title": "Поиск и замена дублирующихся записей",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Права на редактирование документов",
+      "title": "Права на редактирование документов",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2025-06-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 16
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Создание второй службы",
+      "title": "Создание второй службы",
+      "type": "articles",
+      "order": 22,
+      "updated_at": "2022-06-16",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Создание и редактирование пользователей 5S Cloud",
+      "title": "Создание и редактирование пользователей 5S Cloud",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2025-04-04",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 15
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Создание типовой анкеты",
+      "title": "Создание типовой анкеты",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2022-06-15",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 16
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Часовые пояса",
+      "title": "Часовые пояса",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2024-04-22",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:38:17+03:00",
+      "reading_time": 24
+    },
     {
       "path": "articles/5S AUTO/Структура компании/Справочник Организации",
       "title": "Справочник \"Организации\"",
@@ -3425,16 +3655,6 @@
       "added_at": "2026-08-11T11:05:05+03:00"
     },
     {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/API 5S AUTO",
-      "title": "API 5S AUTO",
-      "type": "articles",
-      "order": 16,
-      "updated_at": "2026-08-11",
-      "date_kind": "updated",
-      "added_at": "2026-08-11",
-      "reading_time": 8
-    },
-    {
       "path": "tips/5S AUTO/CRM/Что делать, если пропадают состояния заказ-нарядов",
       "title": "Что делать, если пропадают состояния заказ-нарядов",
       "type": "tips",
@@ -3760,226 +3980,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Загрузка адресного классификатора",
-      "title": "Загрузка адресного классификатора",
-      "type": "articles",
-      "order": 23,
-      "updated_at": "2026-06-15",
-      "date_kind": "updated",
-      "added_at": "2026-06-15",
-      "reading_time": 7
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Перенос данных",
-      "title": "Перенос данных",
-      "type": "articles",
-      "order": 21,
-      "updated_at": "2026-01-15",
-      "date_kind": "updated",
-      "added_at": "2026-01-15",
-      "reading_time": 23
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Библиотека картинок",
-      "title": "Библиотека картинок",
-      "type": "articles",
-      "order": 13,
-      "updated_at": "2026-01-14",
-      "date_kind": "updated",
-      "added_at": "2026-01-14",
-      "reading_time": 6
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Версионирование",
-      "title": "Версионирование",
-      "type": "articles",
-      "order": 15,
-      "updated_at": "2026-01-14",
-      "date_kind": "updated",
-      "added_at": "2026-01-14",
-      "reading_time": 8
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Настройка полнотекстового поиска",
-      "title": "Настройка полнотекстового поиска",
-      "type": "articles",
-      "order": 14,
-      "updated_at": "2026-01-14",
-      "date_kind": "updated",
-      "added_at": "2026-01-14",
-      "reading_time": 7
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Настройка видимости складов",
-      "title": "Настройка видимости складов",
-      "type": "articles",
-      "order": 10,
-      "updated_at": "2025-09-08",
-      "date_kind": "updated",
-      "added_at": "2025-09-08",
-      "reading_time": 12
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Права на редактирование документов",
-      "title": "Права на редактирование документов",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2025-06-27",
-      "date_kind": "updated",
-      "added_at": "2025-06-27",
-      "reading_time": 16
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Восстановление последовательностей документов",
-      "title": "Восстановление последовательностей документов",
-      "type": "articles",
-      "order": 6,
-      "updated_at": "2025-06-18",
-      "date_kind": "updated",
-      "added_at": "2025-06-18",
-      "reading_time": 13
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Создание и редактирование пользователей 5S Cloud",
-      "title": "Создание и редактирование пользователей 5S Cloud",
-      "type": "articles",
-      "order": 17,
-      "updated_at": "2025-04-04",
-      "date_kind": "updated",
-      "added_at": "2025-04-04",
-      "reading_time": 15
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Доступ к данным по подразделениям (RLS)",
-      "title": "Доступ к данным по подразделениям (RLS)",
-      "type": "articles",
-      "order": 9,
-      "updated_at": "2025-02-28",
-      "date_kind": "updated",
-      "added_at": "2025-02-28",
-      "reading_time": 22
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Часовые пояса",
-      "title": "Часовые пояса",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2024-04-22",
-      "date_kind": "updated",
-      "added_at": "2024-04-22",
-      "reading_time": 24
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Настройка цветового оформления статусов и состояний",
-      "title": "Настройка цветового оформления статусов и состояний",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2024-01-24",
-      "date_kind": "updated",
-      "added_at": "2024-01-24",
-      "reading_time": 9
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Обработка исправления ошибок в складском учете",
-      "title": "Обработка исправления ошибок в складском учете",
-      "type": "articles",
-      "order": 8,
-      "updated_at": "2023-06-26",
-      "date_kind": "updated",
-      "added_at": "2023-06-26",
-      "reading_time": 17
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Подключение внешних печатных форм/Печать диагностической анкеты",
-      "title": "Подключение внешней печатной формы \"Печать диагностической анкеты\"",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2022-07-11",
-      "date_kind": "updated",
-      "added_at": "2022-07-11",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Подключение внешних печатных форм/Печать корзины",
-      "title": "Подключение внешней печатной формы \"Печать корзины\"",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2022-07-11",
-      "date_kind": "updated",
-      "added_at": "2022-07-11",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Мастер настройки системы",
-      "title": "Мастер настройки системы",
-      "type": "articles",
-      "order": 19,
-      "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2022-06-24",
-      "reading_time": 36
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Настройки Помощника автосервиса",
-      "title": "Настройки Помощника автосервиса",
-      "type": "articles",
-      "order": 20,
-      "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2022-06-24",
-      "reading_time": 7
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Поиск и замена дублирующихся записей",
-      "title": "Поиск и замена дублирующихся записей",
-      "type": "articles",
-      "order": 7,
-      "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2022-06-24",
-      "reading_time": 12
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Создание второй службы",
-      "title": "Создание второй службы",
-      "type": "articles",
-      "order": 22,
-      "updated_at": "2022-06-16",
-      "date_kind": "updated",
-      "added_at": "2022-06-16",
-      "reading_time": 8
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Запуск произвольных обработок в регламентном задании",
-      "title": "Запуск произвольных обработок в регламентном задании",
-      "type": "articles",
-      "order": 11,
-      "updated_at": "2022-06-15",
-      "date_kind": "updated",
-      "added_at": "2022-06-15",
-      "reading_time": 7
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Создание типовой анкеты",
-      "title": "Создание типовой анкеты",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2022-06-15",
-      "date_kind": "updated",
-      "added_at": "2022-06-15",
-      "reading_time": 16
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Настройка рабочего стола",
-      "title": "Настройка рабочего стола",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2022-06-10",
-      "date_kind": "updated",
-      "added_at": "2022-06-10",
-      "reading_time": 13
     }
   ]
 }
