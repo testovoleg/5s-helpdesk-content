@@ -64,7 +64,7 @@
 
 ![Печать рекомендаций - Цвет рамки](attachments/06-cvet-ramki.png)
 
-## Файлы для скачивания
+## Файл для скачивания
 
 - [5с Печатная форма ПечатьРекомендаций.zip](attachments/5s-pechatnaya-forma-pechat-rekomendaciy.zip) (.zip, 12 КБ)
 
