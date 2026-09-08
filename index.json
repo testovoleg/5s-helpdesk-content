@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T16:45:39+03:00",
+  "generated_at": "2026-09-08T16:50:24+03:00",
   "count": 356,
   "sections": {
     "tips": [
@@ -253,7 +253,29 @@
       },
       {
         "name": "5S Chat",
-        "path": "articles/5S Chat"
+        "path": "articles/5S Chat",
+        "sections": [
+          {
+            "name": "WhatsApp",
+            "path": "articles/5S Chat/WhatsApp"
+          },
+          {
+            "name": "Telegram",
+            "path": "articles/5S Chat/Telegram"
+          },
+          {
+            "name": "MAX",
+            "path": "articles/5S Chat/MAX"
+          },
+          {
+            "name": "ВКонтакте",
+            "path": "articles/5S Chat/ВКонтакте"
+          },
+          {
+            "name": "Авито",
+            "path": "articles/5S Chat/Авито"
+          }
+        ]
       },
       {
         "name": "5S Cloud",
@@ -1125,8 +1147,8 @@
       "reading_time": 5,
       "also_in": [
         {
-          "path": "articles/5S Chat",
-          "order": 4
+          "path": "articles/5S Chat/WhatsApp",
+          "order": 3
         }
       ]
     },
@@ -1151,8 +1173,8 @@
       "reading_time": 12,
       "also_in": [
         {
-          "path": "articles/5S Chat",
-          "order": 1
+          "path": "articles/5S Chat/WhatsApp",
+          "order": 0
         },
         {
           "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
@@ -1171,8 +1193,8 @@
       "reading_time": 9,
       "also_in": [
         {
-          "path": "articles/5S Chat",
-          "order": 3
+          "path": "articles/5S Chat/WhatsApp",
+          "order": 2
         }
       ]
     },
@@ -1187,8 +1209,8 @@
       "reading_time": 5,
       "also_in": [
         {
-          "path": "articles/5S Chat",
-          "order": 2
+          "path": "articles/5S Chat/WhatsApp",
+          "order": 1
         }
       ]
     },
@@ -1243,8 +1265,8 @@
       "reading_time": 25,
       "also_in": [
         {
-          "path": "articles/5S Chat",
-          "order": 5
+          "path": "articles/5S Chat/Telegram",
+          "order": 0
         },
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
@@ -1267,8 +1289,8 @@
       "reading_time": 26,
       "also_in": [
         {
-          "path": "articles/5S Chat",
-          "order": 6
+          "path": "articles/5S Chat/MAX",
+          "order": 0
         },
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
@@ -1291,8 +1313,8 @@
       "reading_time": 9,
       "also_in": [
         {
-          "path": "articles/5S Chat",
-          "order": 10
+          "path": "articles/5S Chat/Авито",
+          "order": 0
         },
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
@@ -1311,8 +1333,8 @@
       "reading_time": 11,
       "also_in": [
         {
-          "path": "articles/5S Chat",
-          "order": 7
+          "path": "articles/5S Chat/MAX",
+          "order": 1
         },
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
@@ -1335,8 +1357,8 @@
       "reading_time": 25,
       "also_in": [
         {
-          "path": "articles/5S Chat",
-          "order": 8
+          "path": "articles/5S Chat/ВКонтакте",
+          "order": 0
         },
         {
           "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
@@ -1415,8 +1437,8 @@
       "reading_time": 14,
       "also_in": [
         {
-          "path": "articles/5S Chat",
-          "order": 9
+          "path": "articles/5S Chat/ВКонтакте",
+          "order": 1
         },
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с соцсетью ВКонтакте",
