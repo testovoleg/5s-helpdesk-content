@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T15:46:38+03:00",
+  "generated_at": "2026-09-08T16:21:07+03:00",
   "count": 356,
   "sections": {
     "tips": [
@@ -125,6 +125,10 @@
             "name": "Сообщения",
             "path": "articles/5S AUTO/Сообщения",
             "sections": [
+              {
+                "name": "Настройка интеграции с мессенджерами для рассылки сообщений",
+                "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений"
+              },
               {
                 "name": "WhatsApp",
                 "path": "articles/5S AUTO/Сообщения/WhatsApp"
@@ -990,7 +994,13 @@
       "updated_at": "2022-06-23",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
-      "reading_time": 9
+      "reading_time": 9,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
+          "order": 5
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Настройка интеграции с каталогами Laximo",
@@ -1120,7 +1130,13 @@
       "updated_at": "2025-05-20",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 12
+      "reading_time": 12,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
+          "order": 4
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка интеграции с WhatsApp Business API (WABA)",
@@ -1186,7 +1202,7 @@
       "path": "articles/5S AUTO/Сообщения/Интеграция с Telegram",
       "title": "Интеграция с Telegram",
       "type": "articles",
-      "order": 10,
+      "order": 11,
       "updated_at": "2024-09-03",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -1195,6 +1211,10 @@
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
           "order": 11
+        },
+        {
+          "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
+          "order": 3
         }
       ]
     },
@@ -1202,7 +1222,7 @@
       "path": "articles/5S AUTO/Сообщения/Интеграция с мессенджером MAX",
       "title": "Интеграция с мессенджером MAX",
       "type": "articles",
-      "order": 12,
+      "order": 13,
       "updated_at": "2026-03-06",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -1211,6 +1231,10 @@
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
           "order": 13
+        },
+        {
+          "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
+          "order": 0
         }
       ]
     },
@@ -1218,7 +1242,7 @@
       "path": "articles/5S AUTO/Сообщения/Интеграция с мессенджером Авито",
       "title": "Интеграция с мессенджером Авито",
       "type": "articles",
-      "order": 14,
+      "order": 15,
       "updated_at": "2025-06-26",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -1234,7 +1258,7 @@
       "path": "articles/5S AUTO/Сообщения/Интеграция с пользовательским MAX",
       "title": "Интеграция с пользовательским MAX",
       "type": "articles",
-      "order": 13,
+      "order": 14,
       "updated_at": "2026-07-03",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -1243,6 +1267,10 @@
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
           "order": 14
+        },
+        {
+          "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
+          "order": 1
         }
       ]
     },
@@ -1250,12 +1278,16 @@
       "path": "articles/5S AUTO/Сообщения/Интеграция с сообществом ВКонтакте (VK)",
       "title": "Интеграция с сообществом ВКонтакте (VK)",
       "type": "articles",
-      "order": 5,
+      "order": 6,
       "updated_at": "2025-12-05",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 25,
       "also_in": [
+        {
+          "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
+          "order": 2
+        },
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с соцсетью ВКонтакте",
           "order": 0
@@ -1266,7 +1298,7 @@
       "path": "articles/5S AUTO/Сообщения/Контакт-центр 5S Chat",
       "title": "Контакт-центр 5S Chat",
       "type": "articles",
-      "order": 15,
+      "order": 16,
       "updated_at": "2026-02-09",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -1286,7 +1318,7 @@
       "path": "articles/5S AUTO/Сообщения/Настройка автоматической отправки сообщений через мессенджеры",
       "title": "Настройка автоматической отправки сообщений через мессенджеры",
       "type": "articles",
-      "order": 11,
+      "order": 12,
       "updated_at": "2024-01-12",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -1316,7 +1348,7 @@
       "path": "articles/5S AUTO/Сообщения/Создание приложения компании в VK",
       "title": "Создание приложения компании в VK",
       "type": "articles",
-      "order": 6,
+      "order": 7,
       "updated_at": "2025-08-08",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -1332,7 +1364,7 @@
       "path": "articles/5S AUTO/Сообщения/Шаблоны сообщений",
       "title": "Шаблоны сообщений",
       "type": "articles",
-      "order": 8,
+      "order": 9,
       "updated_at": "2024-01-18",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -3228,7 +3260,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Сообщения",
-          "order": 9
+          "order": 10
         }
       ]
     },
@@ -3236,7 +3268,7 @@
       "path": "articles/5S AUTO/Сообщения/Настройка шаблонов WhatsApp Business API",
       "title": "Настройка шаблонов WhatsApp Business API",
       "type": "articles",
-      "order": 7,
+      "order": 8,
       "updated_at": "2025-09-19",
       "date_kind": "updated",
       "added_at": "2026-08-26T11:14:15+03:00",
