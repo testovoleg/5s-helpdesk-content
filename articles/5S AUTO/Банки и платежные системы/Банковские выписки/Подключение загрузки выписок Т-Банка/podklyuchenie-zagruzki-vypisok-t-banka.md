@@ -32,7 +32,7 @@
 
 ![Автозагрузка выписок - Т-Банк - Выпуск токена](attachments/01-avtozagruzka-vypisok-t-bank-vypusk-tokena.png)
 
-Требуется указать внешние IP-адреса для обращения к API – адреса см. в статье “[API 5S AUTO](https://www.5systems.ru/help/api-5s-auto#ipadresa)”:
+Требуется указать внешние IP-адреса для обращения к API – адреса см. в статье “[API 5S AUTO](../../../Администрирование%20и%20настройка%20системы/API%205S%20AUTO/api-5s-auto.md#ip-адреса-компании-5systems)”:
 
 ![Автозагрузка выписок - Т-Банк - Внешний IP-адрес](attachments/02-avtozagruzka-vypisok-t-bank-vneshniy-ip-adres.png)
 
