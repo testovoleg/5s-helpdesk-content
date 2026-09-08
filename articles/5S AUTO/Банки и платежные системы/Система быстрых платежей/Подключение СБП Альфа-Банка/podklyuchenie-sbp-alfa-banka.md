@@ -2,7 +2,7 @@
 
 # Подключение СБП Альфа-Банка
 
-<table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 07.02.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 08.09.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-sbp-alfa-banka</sub>
 
@@ -97,7 +97,7 @@
 
 Альфа-Банк выдает доступ к пром-версии API *только* после успешного *тестирования* всех запросов на Песочнице. Тестирование необходимо выполнить либо самостоятельно, либо привлечь специалистов компании 5SYSTEMS, т.к. для выполнения запросов требуется наличие технических навыков по работе с API.
 
-Для самостоятельного тестирования см [документацию](https://developers.alfabank.ru/products/alfa-api/documentation/articles/sbp/articles/sbp-c2b/articles/cash-qrc-registration/v1/cash-qrc-registration?navFilter=b2c), а также коллекцию запросов postman:
+Для самостоятельного тестирования см. [документацию](https://developers.alfabank.ru/products/alfa-api/documentation/articles/sbp/articles/sbp-c2b/articles/cash-qrc-registration/v1/cash-qrc-registration?navFilter=b2c), а также коллекцию запросов postman:
 
 - [файл](attachments/kollekciya-zaprosov-postman-dlya-testirovaniya-integracii-alfa.zip) (требуется распаковать);
 - [публикация](https://s.5systems.ru/JjcQWHmK).
