@@ -238,6 +238,10 @@ openssl pkcs12 -password pass:PASSWORD -export -certpbe PBE-SHA1-3DES -keypbe PB
 
 Также необходимо активировать и настроить уведомления о смене статусов платежей – см. в статье “[Работа с СБП](../Работа%20с%20СБП/rabota-s-sbp.md#настройка-уведомлений-о-смене-статусов)”.
 
+## Файл для скачивания
+
+- [alfabank-sandbox-public-postman-collection.zip](attachments/alfabank-sandbox-public-postman-collection.zip) (.zip, 9 КБ)
+
 ---
 
 **Теги:** платежные системы, сбп, альфа-банк, подключение, интеграция

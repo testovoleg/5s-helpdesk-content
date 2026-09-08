@@ -222,6 +222,10 @@
 
    ![Брендовое приложение VK - Разработчик](attachments/27-brendovoe-prilozhenie-vk-razrabotchik.png)
 
+## Файл для скачивания
+
+- [Обложка для меню](attachments/oblozhka-dlya-menyu.zip) (.zip, 74 КБ)
+
 ---
 
 **Теги:** ВКонтакте, VK, приложение компании, ключ доступа, интеграция

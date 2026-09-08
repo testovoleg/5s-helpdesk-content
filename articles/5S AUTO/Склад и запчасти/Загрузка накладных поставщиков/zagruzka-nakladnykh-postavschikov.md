@@ -282,6 +282,13 @@
 
 ![Загрузка накладных - Фоновое задание](attachments/26-reglamentnoe-zadanie.png)
 
+## Файлы для скачивания
+
+- [Авто-Евро](attachments/primer-avtoevro.xls) (.xls, 54 КБ)
+- [АВТОРУСЬ](attachments/primer-avtorus.xls) (.xls, 44 КБ)
+- [БЕРГ](attachments/primer-berg.xls) (.xls, 36 КБ)
+- [Росско](attachments/primer-rossko.zip) (.zip, 1 КБ)
+
 ---
 
 **Теги:** загрузка накладных, поставщики, поступление товаров, обработчики загрузки, электронная почта, регламентное задание, уведомления
