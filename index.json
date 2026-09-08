@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T09:37:05+03:00",
+  "generated_at": "2026-09-08T09:49:06+03:00",
   "count": 329,
   "sections": {
     "tips": [
@@ -277,13 +277,24 @@
   },
   "materials": [
     {
+      "path": "lessons/Краткий курс для Автосалона/Выбор автомобиля",
+      "title": "Выбор автомобиля",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2024-11-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T09:35:06+03:00",
+      "reading_time": 4
+    },
+    {
       "path": "lessons/Краткий курс для Автосалона/Регистрация обращения",
       "title": "Регистрация обращения",
       "type": "lessons",
       "order": 0,
       "updated_at": "2024-11-27",
       "date_kind": "updated",
-      "added_at": "2026-09-08T08:57:25+03:00"
+      "added_at": "2026-09-08T08:57:25+03:00",
+      "reading_time": 7
     },
     {
       "path": "articles/5S AUTO/Персонал и мотивация/Выявление и разбор нарушений",
@@ -3683,15 +3694,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "lessons/Краткий курс для Автосалона/Выбор автомобиля",
-      "title": "Выбор автомобиля",
-      "type": "lessons",
-      "order": 1,
-      "updated_at": "2024-11-28",
-      "date_kind": "updated",
-      "added_at": "2024-11-28"
     }
   ]
 }

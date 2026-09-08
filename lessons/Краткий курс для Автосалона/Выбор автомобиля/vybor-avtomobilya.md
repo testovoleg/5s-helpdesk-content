@@ -2,7 +2,7 @@
 
 # Выбор автомобиля
 
-<table><tr><td><b>Обновлено:</b> 28.11.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 28.11.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/vybor-avtomobilya</sub>
 
@@ -39,7 +39,11 @@
 - *[Автомобили](../../../articles/5S%20AUTO/Автосервис/Автомобили/avtomobili.md)*
 - *[Модели автомобилей и другие справочники](../../../articles/5S%20AUTO/Автосервис/Модели%20автомобилей%20и%20другие%20справочники/modeli-avtomobiley-i-drugie-spravochniki.md)* и [другие](https://5systems.ru/articles).
 
-*[← Предыдущий урок “Регистрация обращения”](../Регистрация%20обращения/registraciya-obrascheniya.md)       [Следующий урок "Встреча" →](https://www.5systems.ru/help/vstrecha)*
+<div align="center">
+
+*[← Предыдущий урок “Регистрация обращения”](../Регистрация%20обращения/registraciya-obrascheniya.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Следующий урок "Встреча" →](https://www.5systems.ru/help/vstrecha)*
+
+</div>
 
 ---
 

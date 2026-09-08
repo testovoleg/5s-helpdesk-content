@@ -2,7 +2,7 @@
 
 # Регистрация обращения
 
-<table><tr><td><b>Обновлено:</b> 27.11.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 27.11.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/registraciya-obrascheniya</sub>
 
@@ -97,7 +97,11 @@
 - *[Настройка рекламных каналов](https://www.5systems.ru/help/nastroyka-reklamnykh-kanalov);*<br>
   и *[другие](https://5systems.ru/articles).*
 
+<div align="center">
+
 [*Следующий урок "Выбор автомобиля" →*](../Выбор%20автомобиля/vybor-avtomobilya.md)
+
+</div>
 
 ---
 
