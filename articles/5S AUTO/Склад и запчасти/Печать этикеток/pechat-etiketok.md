@@ -107,9 +107,9 @@
 3. установите шаблон для печати (*[скачать шаблон](attachments/shablon-etiketki.mxl.zip)*, редактирование шаблона в программе через меню: Файл → Открыть),
 4. нажмите кнопку "Печать" для перехода в предпросмотр:
 
-![Печать этикеток](attachments/16-pechat-etiketok-win.png)
+   ![Печать этикеток](attachments/16-pechat-etiketok-win.png)
 
-![Предпросмотр печати этикеток](attachments/17-predprosmotr-pechati.png)
+   ![Предпросмотр печати этикеток](attachments/17-predprosmotr-pechati.png)
 
 5. если все устраивает, то перейдите к печати.
 
