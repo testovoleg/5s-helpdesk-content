@@ -155,7 +155,7 @@
 
 ---
 
-По вопросам подбора, активации и продления лицензий 5S AUTO обращайтесь в [техническую поддержку 5SYSTEMS](https://www.5systems.ru/help/kak-obratitsya-v-tekhnicheskuyu-podderzhku).
+По вопросам подбора, активации и продления лицензий 5S AUTO обращайтесь в [техническую поддержку 5SYSTEMS](../../../../tips/Техподдержка/Как%20обратиться%20в%20техническую%20поддержку/kak-obratitsya-v-tekhnicheskuyu-podderzhku.md).
 
 ---
 
