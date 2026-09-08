@@ -97,7 +97,11 @@
 - *[Настройка рекламных каналов](https://www.5systems.ru/help/nastroyka-reklamnykh-kanalov);*<br>
   и *[другие](https://5systems.ru/articles).*
 
+<div align="center">
+
 [*Следующий урок "Выбор автомобиля" →*](../Выбор%20автомобиля/vybor-avtomobilya.md)
+
+</div>
 
 ---
 
