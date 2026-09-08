@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T09:02:10+03:00",
+  "generated_at": "2026-09-08T09:18:55+03:00",
   "count": 328,
   "sections": {
     "tips": [
@@ -736,6 +736,26 @@
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 17
+    },
+    {
+      "path": "articles/5S AUTO/Телефония/Работа с пропущенными звонками",
+      "title": "Работа с пропущенными звонками",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2023-10-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-04T14:42:48+03:00",
+      "reading_time": 12,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/CRM",
+          "order": 9
+        },
+        {
+          "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией",
+          "order": 3
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Задачи/Адресация задач в CRM по исполнителям",
@@ -3663,26 +3683,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Телефония/Работа с пропущенными звонками",
-      "title": "Работа с пропущенными звонками",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2023-10-31",
-      "date_kind": "updated",
-      "added_at": "2023-10-31",
-      "reading_time": 12,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/CRM",
-          "order": 9
-        },
-        {
-          "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией",
-          "order": 3
-        }
-      ]
     }
   ]
 }
