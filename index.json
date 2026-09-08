@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:02:21+03:00",
+  "generated_at": "2026-09-08T11:04:13+03:00",
   "count": 333,
   "sections": {
     "tips": [
@@ -276,6 +276,26 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Структура компании/Справочник Организации",
+      "title": "Справочник \"Организации\"",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2025-03-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:01:33+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Структура компании/Справочник Подразделения компании",
+      "title": "Справочник \"Подразделения компании\"",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-03-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T11:01:33+03:00",
+      "reading_time": 23
+    },
     {
       "path": "articles/5S AUTO/Управление качеством обслуживания/Обработка жалоб от клиентов",
       "title": "Обработка жалоб от клиентов",
@@ -3714,26 +3734,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Структура компании/Справочник Подразделения компании",
-      "title": "Справочник \"Подразделения компании\"",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2025-03-31",
-      "date_kind": "updated",
-      "added_at": "2025-03-31",
-      "reading_time": 23
-    },
-    {
-      "path": "articles/5S AUTO/Структура компании/Справочник Организации",
-      "title": "Справочник \"Организации\"",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2025-03-27",
-      "date_kind": "updated",
-      "added_at": "2025-03-27",
-      "reading_time": 7
     }
   ]
 }
