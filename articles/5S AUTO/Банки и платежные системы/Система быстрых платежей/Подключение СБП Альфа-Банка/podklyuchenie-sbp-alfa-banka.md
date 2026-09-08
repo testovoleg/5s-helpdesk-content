@@ -97,9 +97,9 @@
 
 Альфа-Банк выдает доступ к пром-версии API *только* после успешного *тестирования* всех запросов на Песочнице. Тестирование необходимо выполнить либо самостоятельно, либо привлечь специалистов компании 5SYSTEMS, т.к. для выполнения запросов требуется наличие технических навыков по работе с API.
 
-Для самостоятельного тестирования см [документацию](https://developers.alfabank.ru/products/alfa-api/documentation/articles/sbp/articles/sbp-c2b/articles/cash-qrc-registration/v1/cash-qrc-registration?navFilter=b2c), а также коллекцию запросов postman:
+Для самостоятельного тестирования см. [документацию](https://developers.alfabank.ru/products/alfa-api/documentation/articles/sbp/articles/sbp-c2b/articles/cash-qrc-registration/v1/cash-qrc-registration?navFilter=b2c), а также коллекцию запросов postman:
 
-- [файл](attachments/alfabank-sandbox-public-postman-collection.zip) (требуется распаковать);
+- [файл](attachments/kollekciya-zaprosov-postman-dlya-testirovaniya-integracii-alfa.zip) (требуется распаковать);
 - [публикация](https://s.5systems.ru/JjcQWHmK).
 
 После завершения тестирования необходимо в продолжение переписки по заявке *сообщить* специалистам банка *о завершении тестирования.*
@@ -237,6 +237,10 @@ openssl pkcs12 -password pass:PASSWORD -export -certpbe PBE-SHA1-3DES -keypbe PB
 #### 5) Настройка уведомлений о смене статусов
 
 Также необходимо активировать и настроить уведомления о смене статусов платежей – см. в статье “[Работа с СБП](../Работа%20с%20СБП/rabota-s-sbp.md#настройка-уведомлений-о-смене-статусов)”.
+
+## Файл для скачивания
+
+- [Коллекция запросов postman для тестирования интеграции Alfa](attachments/kollekciya-zaprosov-postman-dlya-testirovaniya-integracii-alfa.zip) (.zip, 9 КБ)
 
 ---
 

@@ -25,7 +25,7 @@
 2. Задать *наименование “Печать диагностической анкеты”*;
 3. Выбрать вид обработки “Печатная форма” (должен стоять по умолчанию).
 4. Загрузить с компьютера файл с печатной формой нажатием на кнопку “Загрузить”  ![Внешние печатные формы - Кнопка Загрузить](attachments/02-vneshnie-pechatnye-formy-knopka-zagruzit.png).<br>
-   *Пример файла для загрузки можно скачать по ссылке:* [Печать диагностической анкеты.7z](attachments/pechat-diagnosticheskoy-ankety-7z.7z) (требуется разархивировать).<br>
+   *Пример файла для загрузки можно скачать по ссылке:* [Печать диагностической анкеты.7z](attachments/pechat-diagnosticheskoy-ankety.7z) (требуется разархивировать).<br>
    ***Файл должен иметь наименование “Печать диагностической анкеты.epf”***:<br><br>
    ![Внешние печатные формы - Диагностическая анкета](attachments/03-vneshnie-pechatnye-formy-diagnosticheskaya-anketa.png)
 
@@ -39,7 +39,9 @@
 
 Загруженная форма будет вызываться на печать вместо [стандартной формы печати Диагностической анкеты](https://5systems.ru/help/kak-raspechatat-blank-ankety).
 
-**Файл для скачивания:** [pechat-diagnosticheskoy-ankety.7z](attachments/pechat-diagnosticheskoy-ankety.7z) (.7z, 18 КБ)
+## Файл для скачивания
+
+- [Печать диагностической анкеты](attachments/pechat-diagnosticheskoy-ankety.7z) (.7z, 18 КБ)
 
 ---
 
