@@ -66,7 +66,7 @@
 
 ## Файл для скачивания
 
-- [5с Печатная форма ПечатьРекомендаций.zip](attachments/5s-pechatnaya-forma-pechat-rekomendaciy.zip) (.zip, 12 КБ)
+- [5с Печатная форма ПечатьРекомендаций](attachments/5s-pechatnaya-forma-pechat-rekomendaciy.zip) (.zip, 12 КБ)
 
 ---
 

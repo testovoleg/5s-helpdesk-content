@@ -129,7 +129,7 @@
 
 ## Файл для скачивания
 
-- [скачать шаблон](attachments/shablon-etiketki.mxl.zip) (.zip, 3 КБ)
+- [Шаблон этикетки](attachments/shablon-etiketki.mxl.zip) (.zip, 3 КБ)
 
 ---
 

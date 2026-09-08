@@ -99,7 +99,7 @@
 
 Для самостоятельного тестирования см [документацию](https://developers.alfabank.ru/products/alfa-api/documentation/articles/sbp/articles/sbp-c2b/articles/cash-qrc-registration/v1/cash-qrc-registration?navFilter=b2c), а также коллекцию запросов postman:
 
-- [файл](attachments/alfabank-sandbox-public-postman-collection.zip) (требуется распаковать);
+- [файл](attachments/kollekciya-zaprosov-postman-dlya-testirovaniya-integracii-alfa.zip) (требуется распаковать);
 - [публикация](https://s.5systems.ru/JjcQWHmK).
 
 После завершения тестирования необходимо в продолжение переписки по заявке *сообщить* специалистам банка *о завершении тестирования.*
@@ -240,7 +240,7 @@ openssl pkcs12 -password pass:PASSWORD -export -certpbe PBE-SHA1-3DES -keypbe PB
 
 ## Файл для скачивания
 
-- [alfabank-sandbox-public-postman-collection.zip](attachments/alfabank-sandbox-public-postman-collection.zip) (.zip, 9 КБ)
+- [Коллекция запросов postman для тестирования интеграции Alfa](attachments/kollekciya-zaprosov-postman-dlya-testirovaniya-integracii-alfa.zip) (.zip, 9 КБ)
 
 ---
 

@@ -422,7 +422,7 @@ QR-код можно сгенерировать прямо в VK и вывест
 
 ## Файл для скачивания
 
-- [oblozhka-prilozheniya-vk.zip](attachments/oblozhka-prilozheniya-vk.zip) (.zip, 74 КБ)
+- [Обложка приложения VK](attachments/oblozhka-prilozheniya-vk.zip) (.zip, 74 КБ)
 
 ---
 
