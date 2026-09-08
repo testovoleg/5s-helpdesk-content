@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T09:05:50+03:00",
-  "count": 328,
+  "generated_at": "2026-09-08T09:37:05+03:00",
+  "count": 329,
   "sections": {
     "tips": [
       {
@@ -276,6 +276,55 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Краткий курс для Автосалона/Регистрация обращения",
+      "title": "Регистрация обращения",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2024-11-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T08:57:25+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Персонал и мотивация/Выявление и разбор нарушений",
+      "title": "Выявление и разбор нарушений",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2024-01-17",
+      "date_kind": "updated",
+      "added_at": "2026-09-07T17:26:04+03:00",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Персонал и мотивация/Настройка системы мотивации",
+      "title": "Настройка системы мотивации",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2022-06-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-07T17:26:04+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Персонал и мотивация/Описание возможностей системы мотивации",
+      "title": "Описание возможностей системы мотивации",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2025-12-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-07T17:26:04+03:00",
+      "reading_time": 14
+    },
+    {
+      "path": "articles/5S AUTO/Персонал и мотивация/Табель учета рабочего времени",
+      "title": "Табель учета рабочего времени",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-07T17:26:04+03:00",
+      "reading_time": 23
+    },
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Автоматическая загрузка банковских выписок",
       "title": "Автоматическая загрузка банковских выписок",
@@ -687,6 +736,26 @@
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 17
+    },
+    {
+      "path": "articles/5S AUTO/Телефония/Работа с пропущенными звонками",
+      "title": "Работа с пропущенными звонками",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2023-10-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-04T14:42:48+03:00",
+      "reading_time": 12,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/CRM",
+          "order": 9
+        },
+        {
+          "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией",
+          "order": 3
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Задачи/Адресация задач в CRM по исполнителям",
@@ -3616,73 +3685,13 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Персонал и мотивация/Описание возможностей системы мотивации",
-      "title": "Описание возможностей системы мотивации",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2025-12-29",
-      "date_kind": "updated",
-      "added_at": "2025-12-29",
-      "reading_time": 14
-    },
-    {
-      "path": "lessons/Краткий курс для Автосалона/Регистрация обращения",
-      "title": "Регистрация обращения",
+      "path": "lessons/Краткий курс для Автосалона/Выбор автомобиля",
+      "title": "Выбор автомобиля",
       "type": "lessons",
-      "order": 0,
-      "updated_at": "2024-11-27",
-      "date_kind": "updated",
-      "added_at": "2024-11-27"
-    },
-    {
-      "path": "articles/5S AUTO/Персонал и мотивация/Выявление и разбор нарушений",
-      "title": "Выявление и разбор нарушений",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2024-01-17",
-      "date_kind": "updated",
-      "added_at": "2024-01-17",
-      "reading_time": 12
-    },
-    {
-      "path": "articles/5S AUTO/Телефония/Работа с пропущенными звонками",
-      "title": "Работа с пропущенными звонками",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2023-10-31",
-      "date_kind": "updated",
-      "added_at": "2023-10-31",
-      "reading_time": 12,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/CRM",
-          "order": 9
-        },
-        {
-          "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией",
-          "order": 3
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Персонал и мотивация/Табель учета рабочего времени",
-      "title": "Табель учета рабочего времени",
-      "type": "articles",
       "order": 1,
-      "updated_at": "2022-06-24",
+      "updated_at": "2024-11-28",
       "date_kind": "updated",
-      "added_at": "2022-06-24",
-      "reading_time": 23
-    },
-    {
-      "path": "articles/5S AUTO/Персонал и мотивация/Настройка системы мотивации",
-      "title": "Настройка системы мотивации",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2022-06-14",
-      "date_kind": "updated",
-      "added_at": "2022-06-14",
-      "reading_time": 9
+      "added_at": "2024-11-28"
     }
   ]
 }
