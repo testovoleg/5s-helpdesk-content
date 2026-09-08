@@ -16,7 +16,7 @@
 
 В рамках данной статьи приводятся инструкции по действиям в случае блокировки WABA и рекомендации по снижению вероятности блокировки.
 
-О предварительной настройке работы с WABA см. статьи [Настройка интеграции с WhatsApp Business API](../Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md) и [Регистрация компании в Facebook\*\* и 360dialog](../Регистрация%20компании%20в%20Facebook%20и%20360dialog/registraciya-kompanii-v-facebook-i-360dialog.md). Также см. другие статьи в разделе "[WhatsApp](https://www.5systems.ru/help/whatsapp)".
+О предварительной настройке работы с WABA см. статьи [Настройка интеграции с WhatsApp Business API](../Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md) и [Регистрация компании в Facebook\*\* и 360dialog](../Регистрация%20компании%20в%20Facebook%20и%20360dialog/registraciya-kompanii-v-facebook-i-360dialog.md). Также см. другие статьи в разделе "[WhatsApp](../)".
 
 ## Блокировка аккаунта
 

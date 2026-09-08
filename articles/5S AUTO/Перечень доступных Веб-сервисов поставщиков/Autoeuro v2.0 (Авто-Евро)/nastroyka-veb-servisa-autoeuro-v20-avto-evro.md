@@ -44,7 +44,7 @@
 
 Параметры подключения к Веб-сервису поставщика настраиваются на вкладке *“Параметры сервиса”:*
 
-*![Веб-сервис Autoeuro - Параметры сервиса](attachments/02-veb-servis-autoeuro-parametry-servisa.png)*
+![Веб-сервис Autoeuro - Параметры сервиса](attachments/02-veb-servis-autoeuro-parametry-servisa.png)
 
 Для подключения Веб-сервисов Autoeuro (Авто-Евро) v.2 необходимо указать следующие параметры:
 

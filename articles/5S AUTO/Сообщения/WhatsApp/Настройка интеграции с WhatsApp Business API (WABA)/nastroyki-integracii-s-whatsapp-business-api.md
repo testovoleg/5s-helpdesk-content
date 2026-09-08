@@ -48,7 +48,7 @@
 
 ![WABA - Автоматическое сообщение](attachments/02-waba-avtomaticheskoe-soobschenie.png)
 
-*Примечание:* Также см. другие статьи в разделе “[WhatsApp](https://www.5systems.ru/help/whatsapp)”.
+*Примечание:* Также см. другие статьи в разделе “[WhatsApp](../)”.
 
 ## Основные шаги настройки
 
