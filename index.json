@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T17:22:12+03:00",
+  "generated_at": "2026-09-08T17:23:10+03:00",
   "count": 360,
   "sections": {
     "tips": [
@@ -306,6 +306,46 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Пользователи и права/Мастер быстрого ввода пользователей и сотрудников",
+      "title": "Мастер быстрого ввода пользователей и сотрудников",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-06-03",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T17:21:18+03:00",
+      "reading_time": 14
+    },
+    {
+      "path": "articles/5S AUTO/Пользователи и права/Пользователи",
+      "title": "Пользователи",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-06-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T17:21:18+03:00",
+      "reading_time": 30
+    },
+    {
+      "path": "articles/5S AUTO/Пользователи и права/Роли пользователей",
+      "title": "Роли пользователей",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2025-02-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T17:21:18+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Пользователи и права/Установка прав и настроек пользователя",
+      "title": "Установка прав и настроек пользователя",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-11-22",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T17:21:18+03:00",
+      "reading_time": 18
+    },
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/API 5S AUTO",
       "title": "API 5S AUTO",
@@ -4104,46 +4144,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Пользователи и права/Роли пользователей",
-      "title": "Роли пользователей",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2025-02-28",
-      "date_kind": "updated",
-      "added_at": "2025-02-28",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Пользователи и права/Установка прав и настроек пользователя",
-      "title": "Установка прав и настроек пользователя",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2024-11-22",
-      "date_kind": "updated",
-      "added_at": "2024-11-22",
-      "reading_time": 18
-    },
-    {
-      "path": "articles/5S AUTO/Пользователи и права/Пользователи",
-      "title": "Пользователи",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2022-06-14",
-      "date_kind": "updated",
-      "added_at": "2022-06-14",
-      "reading_time": 30
-    },
-    {
-      "path": "articles/5S AUTO/Пользователи и права/Мастер быстрого ввода пользователей и сотрудников",
-      "title": "Мастер быстрого ввода пользователей и сотрудников",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2022-06-03",
-      "date_kind": "updated",
-      "added_at": "2022-06-03",
-      "reading_time": 14
     }
   ]
 }
