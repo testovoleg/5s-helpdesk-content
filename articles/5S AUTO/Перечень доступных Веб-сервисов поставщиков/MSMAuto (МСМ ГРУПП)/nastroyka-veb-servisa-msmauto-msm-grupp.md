@@ -43,7 +43,7 @@
 
 Параметры подключения к Веб-сервису поставщика настраиваются на вкладке *“Параметры сервиса”:*
 
-*![Веб-сервис MSMAuto - Параметры сервиса](attachments/02-veb-servis-msmauto-parametry-servisa.png)*
+![Веб-сервис MSMAuto - Параметры сервиса](attachments/02-veb-servis-msmauto-parametry-servisa.png)
 
 Для подключения Веб-сервисов MSMAuto (МСМ ГРУПП) необходимо указать следующие параметры:
 

@@ -20,7 +20,7 @@
 
 Открыть отчет можно через меню *Финансы → Разделы учета → Расчеты с контрагентами → Возраст задолженности[\*](#snoska):*
 
-*![Отчет Возраст задолженности - Путь](attachments/01-otchet-vozrast-zadolzhennosti-put.png)*
+![Отчет Возраст задолженности - Путь](attachments/01-otchet-vozrast-zadolzhennosti-put.png)
 
 <a id="snoska"></a>*\*Примечание: В случае если данного пункта меню нет на рабочем столе, можно добавить его вручную – см. статью "[Настройка рабочего стола](https://www.5systems.ru/help/nastroyka-rabochego-stola#nastrrazdelov)".*
 

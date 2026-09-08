@@ -97,7 +97,7 @@
 
 Данный шаблон находится в режиме просмотра (на вкладке “Шаблон” написано: “*только просмотр”*), т.к. его статус утвержден *(“approved”):*
 
-**![WhatsApp - Вкладка WABA](attachments/14-whatsapp-vkladka-waba.png)**
+![WhatsApp - Вкладка WABA](attachments/14-whatsapp-vkladka-waba.png)
 
 Статус подтягивается с сервера WhatsApp.
 
