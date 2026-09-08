@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T16:57:52+03:00",
+  "generated_at": "2026-09-08T17:02:44+03:00",
   "count": 356,
   "sections": {
     "tips": [
@@ -2172,13 +2172,7 @@
       "updated_at": "2023-03-14",
       "date_kind": "updated",
       "added_at": "2026-09-03T08:57:05+03:00",
-      "reading_time": 25,
-      "also_in": [
-        {
-          "path": "articles/5S TSD",
-          "order": 1
-        }
-      ]
+      "reading_time": 25
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Автозаполнение применяемости из заказ-наряда",
