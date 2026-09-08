@@ -37,7 +37,8 @@
 
 Для создания анкеты:
 
-1. Перейдите в справочник "Типовые анкеты": ![Опрос по качеству - Типовые анкеты](attachments/01-opros-po-kachestvu-tipovye-ankety.png)
+1. Перейдите в справочник "Типовые анкеты":<br><br>
+   ![Опрос по качеству - Типовые анкеты](attachments/01-opros-po-kachestvu-tipovye-ankety.png)
 2. Создайте анкету с вопросами для оценки качества обслуживания:<br><br>
    ![Опрос по качеству - Создание анкеты](attachments/02-opros-po-kachestvu-sozdanie-ankety.png)
 
@@ -78,7 +79,8 @@
 2. Связаться с клиентом.
 3. Создать документ "Опрос":<br><br>
    ![Опрос по качеству - Задача](attachments/07-opros-po-kachestvu-zadacha.png)
-4. Заполнить анкету ответами клиента и записать изменения: ![Опрос по качеству - Варианты ответа](attachments/08-opros-po-kachestvu-varianty-otveta.png)
+4. Заполнить анкету ответами клиента и записать изменения:<br><br>
+   ![Опрос по качеству - Варианты ответа](attachments/08-opros-po-kachestvu-varianty-otveta.png)
 5. Выполнить задачу:<br><br>
    ![Опрос по качеству - Выполнить задачу](attachments/09-opros-po-kachestvu-vypolnit-zadachu.png)
 
