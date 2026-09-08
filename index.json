@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T09:21:58+03:00",
-  "count": 328,
+  "generated_at": "2026-09-08T09:35:47+03:00",
+  "count": 329,
   "sections": {
     "tips": [
       {
@@ -3683,6 +3683,15 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "lessons/Краткий курс для Автосалона/Выбор автомобиля",
+      "title": "Выбор автомобиля",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2024-11-28",
+      "date_kind": "updated",
+      "added_at": "2024-11-28"
     }
   ]
 }
