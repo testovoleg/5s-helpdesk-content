@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T10:25:10+03:00",
-  "count": 329,
+  "generated_at": "2026-09-08T10:57:07+03:00",
+  "count": 331,
   "sections": {
     "tips": [
       {
@@ -3694,6 +3694,26 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Управление качеством обслуживания/Обработка жалоб от клиентов",
+      "title": "Обработка жалоб от клиентов",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2022-06-24",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Управление качеством обслуживания/Опрос клиента о качестве обслуживания",
+      "title": "Опрос клиента о качестве обслуживания",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2022-06-24",
+      "reading_time": 17
     }
   ]
 }
