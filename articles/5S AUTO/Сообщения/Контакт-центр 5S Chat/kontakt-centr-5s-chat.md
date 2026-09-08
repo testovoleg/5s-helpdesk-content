@@ -86,11 +86,11 @@
 
 Войти в 5S Chat можно с телефона через установленное приложение (см. [выше](#1-для-android)), либо с компьютера через браузер, открыв страницу [https://element.5systems.ru/](https://element.5systems.ru/).
 
-Далее требуется авторизация через сервер *m.5systems.ru* под учетной записью [5S Cloud](https://www.5systems.ru/help/sozdanie-i-redaktirovanie-polzovateley-5s-cloud) – следует нажать кнопку “Продолжить”:
+Далее требуется авторизация через сервер *m.5systems.ru* под учетной записью [5S Cloud](../../Администрирование%20и%20настройка%20системы/Создание%20и%20редактирование%20пользователей%205S%20Cloud/sozdanie-i-redaktirovanie-polzovateley-5s-cloud.md) – следует нажать кнопку “Продолжить”:
 
 ![5S Chat - Сервер](attachments/06-5s-chat-server.png)
 
-Затем ввести учетные данные [пользователя 5S Cloud](https://www.5systems.ru/help/sozdanie-i-redaktirovanie-polzovateley-5s-cloud) – имя и пароль:
+Затем ввести учетные данные [пользователя 5S Cloud](../../Администрирование%20и%20настройка%20системы/Создание%20и%20редактирование%20пользователей%205S%20Cloud/sozdanie-i-redaktirovanie-polzovateley-5s-cloud.md) – имя и пароль:
 
 ![5S Chat - Авторизация - Логин](attachments/07-5s-chat-avtorizaciya-login.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![5S Chat - Авторизация - Пароль](attachments/08-5s-chat-avtorizaciya-parol.png)
 
@@ -208,10 +208,10 @@
 ## Настройки в программе
 
 1. **Настройка интеграции с API 5S AUTO**<br>
-   Для работы с 5S Chat предварительно в программе должна быть настроена интеграция с [API 5S AUTO](https://www.5systems.ru/help/api-5s-auto).
+   Для работы с 5S Chat предварительно в программе должна быть настроена интеграция с [API 5S AUTO](../../Администрирование%20и%20настройка%20системы/API%205S%20AUTO/api-5s-auto.md).
 
 2. **Настройка пользователя 5S Cloud**<br>
-   Для доступа в приложение потребуется ввести логин и пароль пользователя [5S Cloud](https://www.5systems.ru/help/sozdanie-i-redaktirovanie-polzovateley-5s-cloud).
+   Для доступа в приложение потребуется ввести логин и пароль пользователя [5S Cloud](../../Администрирование%20и%20настройка%20системы/Создание%20и%20редактирование%20пользователей%205S%20Cloud/sozdanie-i-redaktirovanie-polzovateley-5s-cloud.md).
 
 3. **Настройка интеграции с каналами связи**<br>
    Для использования разных каналов связи – [MAX](../Интеграция%20с%20мессенджером%20MAX/integraciya-s-messendzherom-max.md), [пользовательский MAX](../Интеграция%20с%20пользовательским%20MAX/integraciya-s-polzovatelskim-max.md), [ВКонтакте](../Интеграция%20с%20сообществом%20ВКонтакте%20%28VK%29/integraciya-s-soobschestvom-vkontakte-vk.md), [Telegram](../Интеграция%20с%20Telegram/integraciya-s-telegram.md), [WABA](../WhatsApp/Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md), [WhatsApp](../WhatsApp/Настройка%20интеграции%20с%20WhatsApp/nastroyka-integracii-s-whatsapp.md), [Авито](../Интеграция%20с%20мессенджером%20Авито/integraciya-s-messendzherom-avito.md) и т.д. – требуется предварительно настроить интеграцию с ними.
