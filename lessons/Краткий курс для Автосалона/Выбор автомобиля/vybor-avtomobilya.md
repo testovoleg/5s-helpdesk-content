@@ -2,7 +2,7 @@
 
 # Выбор автомобиля
 
-<table><tr><td><b>Обновлено:</b> 28.11.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 28.11.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/vybor-avtomobilya</sub>
 
