@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T16:50:24+03:00",
+  "generated_at": "2026-09-08T16:53:32+03:00",
   "count": 356,
   "sections": {
     "tips": [
@@ -256,14 +256,6 @@
         "path": "articles/5S Chat",
         "sections": [
           {
-            "name": "WhatsApp",
-            "path": "articles/5S Chat/WhatsApp"
-          },
-          {
-            "name": "Telegram",
-            "path": "articles/5S Chat/Telegram"
-          },
-          {
             "name": "MAX",
             "path": "articles/5S Chat/MAX"
           },
@@ -274,6 +266,14 @@
           {
             "name": "Авито",
             "path": "articles/5S Chat/Авито"
+          },
+          {
+            "name": "Telegram",
+            "path": "articles/5S Chat/Telegram"
+          },
+          {
+            "name": "WhatsApp",
+            "path": "articles/5S Chat/WhatsApp"
           }
         ]
       },
