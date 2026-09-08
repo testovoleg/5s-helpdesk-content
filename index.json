@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T08:58:13+03:00",
-  "count": 329,
+  "generated_at": "2026-09-08T09:02:10+03:00",
+  "count": 328,
   "sections": {
     "tips": [
       {
@@ -276,6 +276,15 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Краткий курс для Автосалона/Регистрация обращения",
+      "title": "Регистрация обращения",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2024-11-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T08:57:25+03:00"
+    },
     {
       "path": "articles/5S AUTO/Персонал и мотивация/Выявление и разбор нарушений",
       "title": "Выявление и разбор нарушений",
@@ -687,16 +696,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией/Работа с пропущенными звонками",
-      "title": "Работа с пропущенными звонками",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2023-10-31",
-      "date_kind": "updated",
-      "added_at": "2026-09-04T14:42:48+03:00",
-      "reading_time": 12
     },
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Настройка интеграции с SMS Центр",
@@ -2997,22 +2996,6 @@
       "reading_time": 10
     },
     {
-      "path": "articles/5S AUTO/Телефония/Работа с пропущенными звонками",
-      "title": "Работа с пропущенными звонками",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2023-10-31",
-      "date_kind": "updated",
-      "added_at": "2026-08-26T10:18:19+03:00",
-      "reading_time": 12,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/CRM",
-          "order": 9
-        }
-      ]
-    },
-    {
       "path": "articles/5S AUTO/CRM/Чаты клиента",
       "title": "Чаты клиента",
       "type": "articles",
@@ -3682,13 +3665,24 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "lessons/Краткий курс для Автосалона/Регистрация обращения",
-      "title": "Регистрация обращения",
-      "type": "lessons",
+      "path": "articles/5S AUTO/Телефония/Работа с пропущенными звонками",
+      "title": "Работа с пропущенными звонками",
+      "type": "articles",
       "order": 0,
-      "updated_at": "2024-11-27",
+      "updated_at": "2023-10-31",
       "date_kind": "updated",
-      "added_at": "2024-11-27"
+      "added_at": "2023-10-31",
+      "reading_time": 12,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/CRM",
+          "order": 9
+        },
+        {
+          "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией",
+          "order": 3
+        }
+      ]
     }
   ]
 }
