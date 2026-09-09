@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T13:55:58+03:00",
+  "generated_at": "2026-09-09T14:01:10+03:00",
   "count": 384,
   "sections": {
     "tips": [
@@ -362,7 +362,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Подключение банковского терминала",
       "title": "Подключение банковского терминала",
       "type": "articles",
-      "order": 7,
+      "order": 6,
       "updated_at": "2025-01-30",
       "date_kind": "updated",
       "added_at": "2026-09-09T13:33:30+03:00",
@@ -372,7 +372,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Подключение кассы ККМ",
       "title": "Подключение кассы ККМ",
       "type": "articles",
-      "order": 4,
+      "order": 0,
       "updated_at": "2025-09-09",
       "date_kind": "updated",
       "added_at": "2026-09-09T13:33:30+03:00",
@@ -382,7 +382,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Рабочие места",
       "title": "Рабочие места",
       "type": "articles",
-      "order": 10,
+      "order": 2,
       "updated_at": "2024-07-11",
       "date_kind": "updated",
       "added_at": "2026-09-09T13:33:30+03:00",
@@ -1096,7 +1096,7 @@
         },
         {
           "path": "articles/5S AUTO/Торговое оборудование",
-          "order": 6
+          "order": 4
         }
       ]
     },
@@ -1134,13 +1134,7 @@
       "updated_at": "2024-05-20",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
-      "reading_time": 26,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Торговое оборудование",
-          "order": 9
-        }
-      ]
+      "reading_time": 26
     },
     {
       "path": "articles/5S AUTO/Касса/Режимы печати чеков",
@@ -1155,10 +1149,6 @@
         {
           "path": "articles/5S AUTO/Маркировка",
           "order": 9
-        },
-        {
-          "path": "articles/5S AUTO/Торговое оборудование",
-          "order": 3
         }
       ]
     },
@@ -2496,7 +2486,7 @@
         },
         {
           "path": "articles/5S AUTO/Торговое оборудование",
-          "order": 1
+          "order": 8
         }
       ]
     },
@@ -2512,7 +2502,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Торговое оборудование",
-          "order": 11
+          "order": 9
         }
       ]
     },
@@ -2636,7 +2626,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Торговое оборудование",
-          "order": 2
+          "order": 5
         }
       ]
     },
@@ -3884,7 +3874,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "title": "Справочник «Оборудование»",
       "type": "articles",
-      "order": 5,
+      "order": 1,
       "updated_at": "2026-08-25",
       "date_kind": "updated",
       "added_at": "2026-08-25T11:27:15+03:00",
