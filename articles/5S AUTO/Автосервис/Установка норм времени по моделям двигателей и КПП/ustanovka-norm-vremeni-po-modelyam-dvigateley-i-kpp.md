@@ -6,7 +6,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/ustanovka-norm-vremeni-po-modelyam-dvigateley-i-kpp</sub>
 
-*Функционал доступен с релиза 2.3.1.1.*
+> *Актуально начиная с версии релиза 5S AUTO **2.3.1.1**.*
 
 ## Содержание
 

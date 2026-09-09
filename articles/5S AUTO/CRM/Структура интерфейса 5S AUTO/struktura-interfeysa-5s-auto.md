@@ -6,7 +6,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/struktura-interfeysa-5s-auto</sub>
 
-**Актуально для релиза 2.6.1.1**
+> *Актуально начиная с версии релиза 5S AUTO **2.6.1.1**.*
 
 ## Содержание
 

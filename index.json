@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T10:25:19+03:00",
-  "count": 371,
+  "generated_at": "2026-09-09T11:43:47+03:00",
+  "count": 378,
   "sections": {
     "tips": [
       {
@@ -306,6 +306,116 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Отчеты/Настройка отчетов на СКД",
+      "title": "Настройка отчетов на СКД",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-06-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T09:25:57+03:00",
+      "reading_time": 41
+    },
+    {
+      "path": "articles/5S AUTO/Отчеты/Отчет ROMI рекламных каналов",
+      "title": "Отчет \"ROMI рекламных каналов\"",
+      "type": "articles",
+      "order": 10,
+      "updated_at": "2024-10-30",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T09:25:57+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Отчеты/Отчет Воронка продаж по закрытым сделкам",
+      "title": "Отчет \"Воронка продаж по закрытым сделкам\"",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2026-08-04",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T09:25:57+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Отчеты/Отчет Операционная воронка продаж",
+      "title": "Отчет «Операционная воронка продаж»",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-08-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T09:25:57+03:00",
+      "reading_time": 11
+    },
+    {
+      "path": "articles/5S AUTO/Отчеты/Отчет Остатки и обороты активов",
+      "title": "Отчет “Остатки и обороты активов”",
+      "type": "articles",
+      "order": 9,
+      "updated_at": "2024-09-18",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T09:25:57+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Отчеты/Отчет Отбор по контрагентам",
+      "title": "Отчет \"Отбор по контрагентам\"",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2022-06-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T09:25:57+03:00",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Отчеты/Отчет Продажи СОЗЧ",
+      "title": "Отчет \"Продажи СОЗЧ\"",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2023-12-26",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T09:25:57+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Отчеты/Отчет Регистрация внешних пользователей",
+      "title": "Отчет “Регистрация внешних пользователей”",
+      "type": "articles",
+      "order": 11,
+      "updated_at": "2026-07-02",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T09:25:57+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Отчеты/Отчет Статистика по обращениям",
+      "title": "Отчет \"Статистика по обращениям\"",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-08-04",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T09:25:57+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Отчеты/Отчет Эффективность мастеров",
+      "title": "Отчет \"Эффективность мастеров\"",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-08-09",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T09:25:57+03:00",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Отчеты/Отчеты по складскому учету",
+      "title": "Отчеты по складскому учету",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2022-06-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T09:25:57+03:00",
+      "reading_time": 7
+    },
     {
       "path": "articles/5S AUTO/Пользователи и права/Мастер быстрого ввода пользователей и сотрудников",
       "title": "Мастер быстрого ввода пользователей и сотрудников",
@@ -878,7 +988,13 @@
       "updated_at": "2026-01-12",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
-      "reading_time": 10
+      "reading_time": 10,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Маркировка",
+          "order": 11
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Касса/Упрощенный Фронт кассира",
@@ -2207,6 +2323,10 @@
         {
           "path": "articles/5S TSD",
           "order": 0
+        },
+        {
+          "path": "articles/5S AUTO/Маркировка",
+          "order": 10
         }
       ]
     },
@@ -3144,16 +3264,6 @@
       ]
     },
     {
-      "path": "articles/5S AUTO/Отчеты/Отчет Операционная воронка продаж",
-      "title": "Отчет «Операционная воронка продаж»",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2026-08-31",
-      "date_kind": "updated",
-      "added_at": "2026-08-31",
-      "reading_time": 11
-    },
-    {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Действия с подобранными деталями в Онлайн-каталоге",
       "title": "Действия с подобранными деталями в Онлайн-каталоге",
       "type": "articles",
@@ -3925,26 +4035,6 @@
       "added_at": "2026-08-07T14:13:18+03:00"
     },
     {
-      "path": "articles/5S AUTO/Отчеты/Отчет Воронка продаж по закрытым сделкам",
-      "title": "Отчет \"Воронка продаж по закрытым сделкам\"",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2026-08-04",
-      "date_kind": "updated",
-      "added_at": "2026-08-04",
-      "reading_time": 9
-    },
-    {
-      "path": "articles/5S AUTO/Отчеты/Отчет Статистика по обращениям",
-      "title": "Отчет \"Статистика по обращениям\"",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2026-08-04",
-      "date_kind": "updated",
-      "added_at": "2026-08-04",
-      "reading_time": 5
-    },
-    {
       "path": "articles/5S AUTO/Маркировка/Настройка интеграции с ТС ПИоТ",
       "title": "Настройка интеграции с ТС ПИоТ",
       "type": "articles",
@@ -3964,7 +4054,7 @@
       "path": "articles/5S AUTO/Маркировка/Установка Единого Сервисного Модуля (ЕСМ)",
       "title": "Установка Единого Сервисного Модуля (ЕСМ)",
       "type": "articles",
-      "order": 0,
+      "order": 2,
       "updated_at": "2026-08-17",
       "date_kind": "updated",
       "added_at": "2026-07-31T16:09:25+03:00",
@@ -3974,7 +4064,7 @@
       "path": "articles/5S AUTO/Маркировка/Установка Локального модуля Честного знака",
       "title": "Установка Локального модуля Честного знака",
       "type": "articles",
-      "order": 0,
+      "order": 1,
       "updated_at": "2026-09-01",
       "date_kind": "updated",
       "added_at": "2026-07-31T16:09:25+03:00",
@@ -4166,8 +4256,8 @@
       "path": "articles/5S AUTO/Маркировка/Вывод кодов маркировки из оборота",
       "title": "Вывод кодов маркировки из оборота",
       "type": "articles",
-      "order": 0,
-      "updated_at": "2026-08-17",
+      "order": 7,
+      "updated_at": "2026-09-09",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:58:30+03:00",
       "reading_time": 20
@@ -4182,84 +4272,74 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Отчеты/Отчет Регистрация внешних пользователей",
-      "title": "Отчет “Регистрация внешних пользователей”",
+      "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
+      "title": "Маркировка товаров",
       "type": "articles",
-      "order": 11,
-      "updated_at": "2026-07-02",
+      "order": 4,
+      "updated_at": "2026-06-09",
       "date_kind": "updated",
-      "added_at": "2026-07-02",
+      "added_at": "2026-06-09",
+      "reading_time": 28
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Операции с кодами маркировки",
+      "title": "Операции с кодами маркировки",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2026-06-09",
+      "date_kind": "updated",
+      "added_at": "2026-06-09",
+      "reading_time": 29
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Настройка интеграции с Честным знаком",
+      "title": "Настройка интеграции с Честным знаком",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2026-06-08",
+      "date_kind": "updated",
+      "added_at": "2026-06-08",
+      "reading_time": 16
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Инвентаризация кодов маркировки",
+      "title": "Инвентаризация кодов маркировки",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2026-05-21",
+      "date_kind": "updated",
+      "added_at": "2026-05-21",
+      "reading_time": 13
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Частичное выбытие маркированного товара",
+      "title": "Частичное выбытие маркированного товара",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2026-04-28",
+      "date_kind": "updated",
+      "added_at": "2026-04-28",
+      "reading_time": 19
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Получение токена доступа к API Честного знака",
+      "title": "Получение токена доступа к API Честного знака",
+      "type": "articles",
+      "order": 9,
+      "updated_at": "2026-04-27",
+      "date_kind": "updated",
+      "added_at": "2026-04-27",
       "reading_time": 6
     },
     {
-      "path": "articles/5S AUTO/Отчеты/Отчет ROMI рекламных каналов",
-      "title": "Отчет \"ROMI рекламных каналов\"",
+      "path": "articles/5S AUTO/Маркировка/Регистрация в системе Честный знак",
+      "title": "Регистрация в системе Честный знак",
       "type": "articles",
-      "order": 10,
-      "updated_at": "2024-10-30",
+      "order": 12,
+      "updated_at": "2025-11-24",
       "date_kind": "updated",
-      "added_at": "2024-10-30",
-      "reading_time": 9
-    },
-    {
-      "path": "articles/5S AUTO/Отчеты/Отчет Остатки и обороты активов",
-      "title": "Отчет “Остатки и обороты активов”",
-      "type": "articles",
-      "order": 9,
-      "updated_at": "2024-09-18",
-      "date_kind": "updated",
-      "added_at": "2024-09-18",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Отчеты/Отчет Эффективность мастеров",
-      "title": "Отчет \"Эффективность мастеров\"",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2024-08-09",
-      "date_kind": "updated",
-      "added_at": "2024-08-09",
-      "reading_time": 12
-    },
-    {
-      "path": "articles/5S AUTO/Отчеты/Отчет Продажи СОЗЧ",
-      "title": "Отчет \"Продажи СОЗЧ\"",
-      "type": "articles",
-      "order": 5,
-      "updated_at": "2023-12-26",
-      "date_kind": "updated",
-      "added_at": "2023-12-26",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Отчеты/Настройка отчетов на СКД",
-      "title": "Настройка отчетов на СКД",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2022-06-28",
-      "date_kind": "updated",
-      "added_at": "2022-06-28",
-      "reading_time": 41
-    },
-    {
-      "path": "articles/5S AUTO/Отчеты/Отчет Отбор по контрагентам",
-      "title": "Отчет \"Отбор по контрагентам\"",
-      "type": "articles",
-      "order": 7,
-      "updated_at": "2022-06-28",
-      "date_kind": "updated",
-      "added_at": "2022-06-28",
-      "reading_time": 12
-    },
-    {
-      "path": "articles/5S AUTO/Отчеты/Отчеты по складскому учету",
-      "title": "Отчеты по складскому учету",
-      "type": "articles",
-      "order": 6,
-      "updated_at": "2022-06-28",
-      "date_kind": "updated",
-      "added_at": "2022-06-28",
-      "reading_time": 7
+      "added_at": "2025-11-24",
+      "reading_time": 6
     }
   ]
 }

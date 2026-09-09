@@ -6,7 +6,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-vneshney-pechatnoy-formy-pechat-rekomendaciy</sub>
 
-*Актуально для релиза 2.7.1.*
+> *Актуально начиная с версии релиза 5S AUTO **2.7.1**.*
 
 ## Содержание
 
