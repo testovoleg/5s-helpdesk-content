@@ -191,16 +191,28 @@ def collect_sections(dir_path: Path) -> list[dict]:
     }
 
     wanted = read_order(dir_path)
-    names = [n for n in wanted if n in present]
+    # Подраздел из другого раздела — строкой с путем ("../Маркировка/Интеграция
+    # с ТС ПИоТ"), как и заимствованная статья: папка одна, показывается в двух
+    # местах. Узел получает настоящий путь и признак borrowed.
+    borrowed_dirs = {}
+    for n in wanted:
+        if "/" in n:
+            target = (dir_path / n).resolve()
+            if target.is_dir() and not is_material(target):
+                borrowed_dirs[n] = target
+    names = [n for n in wanted if n in present or n in borrowed_dirs]
     names += [n for n in present if n not in wanted]
 
     sections = []
     for name in names:
+        folder = present[name] if name in present else borrowed_dirs[name]
         node: dict = {
-            "name": name,
-            "path": present[name].relative_to(ROOT).as_posix(),
+            "name": folder.name,
+            "path": folder.relative_to(ROOT).as_posix(),
         }
-        children = collect_sections(present[name])
+        if name in borrowed_dirs:
+            node["borrowed"] = True
+        children = collect_sections(folder)
         if children:
             node["sections"] = children
         sections.append(node)
