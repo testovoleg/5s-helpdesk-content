@@ -6,7 +6,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/inventarizaciya-kodov-markirovki</sub>
 
-> *Актуально начиная с версии релиза 5S AUTO **2.8.3.50**.*
+> *Актуально начиная с релиза 2.8.3.50*
 
 ## Содержание
 

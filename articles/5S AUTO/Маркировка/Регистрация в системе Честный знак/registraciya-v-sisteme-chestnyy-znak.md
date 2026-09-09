@@ -6,7 +6,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/registraciya-v-sisteme-chestnyy-znak</sub>
 
-> *Актуально начиная с версии релиза 5S AUTO **2.8.3**.*
+> *Функционал доступен с **релиза 2.8.3.***
 
 ## Содержание
 
