@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T13:03:58+03:00",
+  "generated_at": "2026-09-09T13:06:15+03:00",
   "count": 378,
   "sections": {
     "tips": [
@@ -4118,7 +4118,13 @@
       "updated_at": "2026-09-09",
       "date_kind": "updated",
       "added_at": "2026-07-31T16:09:25+03:00",
-      "reading_time": 10
+      "reading_time": 10,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Касса",
+          "order": 6
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Маркировка/Настройка интеграции с ТС ПИоТ, ЕСМ и ЛМ ЧЗ/Установка Единого Сервисного Модуля (ЕСМ)",
