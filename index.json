@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T15:09:17+03:00",
-  "count": 387,
+  "generated_at": "2026-09-09T17:06:10+03:00",
+  "count": 411,
   "sections": {
     "tips": [
       {
@@ -255,6 +255,16 @@
             ]
           },
           {
+            "name": "Приложение 5S LINK",
+            "path": "articles/5S AUTO/Приложение 5S LINK",
+            "sections": [
+              {
+                "name": "Мобильное приложение 5S LINK v1",
+                "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1"
+              }
+            ]
+          },
+          {
             "name": "Практики",
             "path": "articles/5S AUTO/Практики"
           },
@@ -278,7 +288,20 @@
       },
       {
         "name": "5S LINK",
-        "path": "articles/5S LINK"
+        "path": "articles/5S LINK",
+        "sections": [
+          {
+            "name": "Приложение 5S LINK",
+            "path": "articles/5S AUTO/Приложение 5S LINK",
+            "borrowed": true,
+            "sections": [
+              {
+                "name": "Мобильное приложение 5S LINK v1",
+                "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1"
+              }
+            ]
+          }
+        ]
       },
       {
         "name": "5S Chat",
@@ -335,6 +358,48 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Телефония/Настройка внутренних телефонов сотрудников",
+      "title": "Настройка внутренних телефонов сотрудников",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2025-04-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T14:41:07+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Телефония/Настройка интеграции с телефонией MANGO OFFICE",
+      "title": "Настройка интеграции с телефонией MANGO OFFICE",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-03-26",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T14:41:07+03:00",
+      "reading_time": 13,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией",
+          "order": 3
+        }
+      ]
+    },
+    {
+      "path": "articles/5S AUTO/Телефония/Настройка интеграции с телефонией Novofon",
+      "title": "Настройка интеграции с телефонией Novofon",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-03-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T14:41:07+03:00",
+      "reading_time": 12,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией",
+          "order": 4
+        }
+      ]
+    },
     {
       "path": "articles/5S AUTO/Торговое оборудование/Настройка терминалов Сбербанка/Настройка подключения терминала эквайринга Сбербанка по сети",
       "title": "Настройка подключения терминала эквайринга Сбербанка по сети",
@@ -399,7 +464,7 @@
       "path": "articles/5S AUTO/Маркировка/Инвентаризация кодов маркировки",
       "title": "Инвентаризация кодов маркировки",
       "type": "articles",
-      "order": 4,
+      "order": 3,
       "updated_at": "2026-05-21",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -409,7 +474,7 @@
       "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
       "title": "Маркировка товаров",
       "type": "articles",
-      "order": 2,
+      "order": 0,
       "updated_at": "2026-06-09",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -419,7 +484,7 @@
       "path": "articles/5S AUTO/Маркировка/Настройка интеграции с Честным знаком",
       "title": "Настройка интеграции с Честным знаком",
       "type": "articles",
-      "order": 3,
+      "order": 5,
       "updated_at": "2026-06-08",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -439,7 +504,7 @@
       "path": "articles/5S AUTO/Маркировка/Получение токена доступа к API Честного знака",
       "title": "Получение токена доступа к API Честного знака",
       "type": "articles",
-      "order": 7,
+      "order": 6,
       "updated_at": "2026-04-27",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -449,7 +514,7 @@
       "path": "articles/5S AUTO/Маркировка/Регистрация в системе Честный знак",
       "title": "Регистрация в системе Честный знак",
       "type": "articles",
-      "order": 10,
+      "order": 4,
       "updated_at": "2025-11-24",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -459,7 +524,7 @@
       "path": "articles/5S AUTO/Маркировка/Частичное выбытие маркированного товара",
       "title": "Частичное выбытие маркированного товара",
       "type": "articles",
-      "order": 6,
+      "order": 8,
       "updated_at": "2026-04-28",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -808,6 +873,10 @@
         {
           "path": "articles/5S AUTO/Пользователи и права",
           "order": 4
+        },
+        {
+          "path": "articles/5S AUTO/Практики",
+          "order": 4
         }
       ]
     },
@@ -1151,13 +1220,7 @@
       "updated_at": "2026-01-12",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
-      "reading_time": 10,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Маркировка",
-          "order": 9
-        }
-      ]
+      "reading_time": 10
     },
     {
       "path": "articles/5S AUTO/Касса/Упрощенный Фронт кассира",
@@ -1491,7 +1554,13 @@
       "updated_at": "2024-04-08",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 19
+      "reading_time": 19,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Практики",
+          "order": 7
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка интеграции с WhatsApp",
@@ -1553,7 +1622,13 @@
       "updated_at": "2023-07-06",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 24
+      "reading_time": 24,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Практики",
+          "order": 13
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Регистрация компании в Facebook и 360dialog",
@@ -2495,7 +2570,7 @@
         },
         {
           "path": "articles/5S AUTO/Маркировка",
-          "order": 8
+          "order": 9
         },
         {
           "path": "articles/5S AUTO/Торговое оборудование",
@@ -3708,26 +3783,6 @@
       ]
     },
     {
-      "path": "articles/5S AUTO/Сообщения/Настройка шаблонов WhatsApp Business API",
-      "title": "Настройка шаблонов WhatsApp Business API",
-      "type": "articles",
-      "order": 8,
-      "updated_at": "2025-09-19",
-      "date_kind": "updated",
-      "added_at": "2026-08-26T11:14:15+03:00",
-      "reading_time": 29,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/CRM",
-          "order": 16
-        },
-        {
-          "path": "articles/5S AUTO/Сообщения/WhatsApp",
-          "order": 4
-        }
-      ]
-    },
-    {
       "path": "articles/5S AUTO/CRM/Настройка параметров уведомлений",
       "title": "Настройка параметров уведомлений",
       "type": "articles",
@@ -4318,7 +4373,13 @@
       "updated_at": "2026-08-17",
       "date_kind": "updated",
       "added_at": "2026-07-29T15:46:44+03:00",
-      "reading_time": 9
+      "reading_time": 9,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Практики",
+          "order": 9
+        }
+      ]
     },
     {
       "path": "tips/Оборудование/Кассы ККМ/В ККТ нет денег для выплаты",
@@ -4441,7 +4502,7 @@
       "path": "articles/5S AUTO/Маркировка/Вывод кодов маркировки из оборота",
       "title": "Вывод кодов маркировки из оборота",
       "type": "articles",
-      "order": 5,
+      "order": 2,
       "updated_at": "2026-09-09",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:58:30+03:00",
@@ -4457,46 +4518,264 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Телефония/Настройка интеграции с телефонией Novofon",
-      "title": "Настройка интеграции с телефонией Novofon",
+      "path": "articles/5S AUTO/Практики/Применение НДС при УСН",
+      "title": "Применение НДС при УСН",
       "type": "articles",
-      "order": 2,
-      "updated_at": "2026-03-27",
+      "order": 14,
+      "updated_at": "2026-01-19",
       "date_kind": "updated",
-      "added_at": "2026-03-27",
-      "reading_time": 12,
+      "added_at": "2026-01-19",
+      "reading_time": 17
+    },
+    {
+      "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка шаблонов WhatsApp Business API",
+      "title": "Настройка шаблонов WhatsApp Business API",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2025-09-19",
+      "date_kind": "updated",
+      "added_at": "2025-09-19",
+      "reading_time": 29,
       "also_in": [
         {
-          "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией",
-          "order": 4
+          "path": "articles/5S AUTO/CRM",
+          "order": 16
+        },
+        {
+          "path": "articles/5S AUTO/Сообщения",
+          "order": 8
         }
       ]
     },
     {
-      "path": "articles/5S AUTO/Телефония/Настройка интеграции с телефонией MANGO OFFICE",
-      "title": "Настройка интеграции с телефонией MANGO OFFICE",
+      "path": "articles/5S AUTO/Практики/Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
+      "title": "Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-07-23",
+      "date_kind": "updated",
+      "added_at": "2025-07-23",
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Учет выработки специалистов по запчастям в Заказ-нарядах",
+      "title": "Учет выработки специалистов по запчастям в Заказ-нарядах",
       "type": "articles",
       "order": 1,
-      "updated_at": "2026-03-26",
+      "updated_at": "2025-07-23",
       "date_kind": "updated",
-      "added_at": "2026-03-26",
-      "reading_time": 13,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией",
-          "order": 3
-        }
-      ]
+      "added_at": "2025-07-23",
+      "reading_time": 4
     },
     {
-      "path": "articles/5S AUTO/Телефония/Настройка внутренних телефонов сотрудников",
-      "title": "Настройка внутренних телефонов сотрудников",
+      "path": "articles/5S AUTO/Приложение 5S LINK/Настройка приложения 5S LINK v2",
+      "title": "Настройка приложения 5S LINK v2",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-05-13",
+      "date_kind": "updated",
+      "added_at": "2025-05-13",
+      "reading_time": 18
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Особенности реализации подакцизных товаров",
+      "title": "Особенности реализации подакцизных товаров",
       "type": "articles",
       "order": 3,
-      "updated_at": "2025-04-11",
+      "updated_at": "2025-02-06",
       "date_kind": "updated",
-      "added_at": "2025-04-11",
+      "added_at": "2025-02-06",
+      "reading_time": 14
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Настройка каталога услуг",
+      "title": "Настройка каталога услуг",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2025-01-22",
+      "date_kind": "updated",
+      "added_at": "2025-01-22",
       "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Настройка филиалов компании",
+      "title": "Настройка филиалов компании",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2025-01-22",
+      "date_kind": "updated",
+      "added_at": "2025-01-22",
+      "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Внешние пользователи",
+      "title": "Внешние пользователи",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2025-01-17",
+      "date_kind": "updated",
+      "added_at": "2025-01-17",
+      "reading_time": 3
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Push-сообщения",
+      "title": "Push-сообщения",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2024-12-09",
+      "date_kind": "updated",
+      "added_at": "2024-12-09",
+      "reading_time": 11
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Анализ и установка цен",
+      "title": "Анализ и установка цен",
+      "type": "articles",
+      "order": 10,
+      "updated_at": "2024-11-19",
+      "date_kind": "updated",
+      "added_at": "2024-11-19",
+      "reading_time": 22
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Автоматическое создание договора с контрагентом",
+      "title": "Автоматическое создание договора с контрагентом",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-10-30",
+      "date_kind": "updated",
+      "added_at": "2024-10-30",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Разделение чеков ККМ",
+      "title": "Разделение чеков ККМ",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2024-06-04",
+      "date_kind": "updated",
+      "added_at": "2024-06-04",
+      "reading_time": 24
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Запрос на отзыв довольного клиента об автосервисе",
+      "title": "Запрос на отзыв довольного клиента об автосервисе",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2024-01-12",
+      "date_kind": "updated",
+      "added_at": "2024-01-12",
+      "reading_time": 16
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Уведомление покупателю о поступлении заказа",
+      "title": "Уведомление покупателю о поступлении заказа",
+      "type": "articles",
+      "order": 12,
+      "updated_at": "2023-06-29",
+      "date_kind": "updated",
+      "added_at": "2023-06-29",
+      "reading_time": 13
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Запись на ремонт через 5S LINK",
+      "title": "Запись на ремонт через 5S LINK",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2023-05-10",
+      "date_kind": "updated",
+      "added_at": "2023-05-10",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Интерфейс 5S LINK",
+      "title": "Интерфейс 5S LINK",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2023-05-10",
+      "date_kind": "updated",
+      "added_at": "2023-05-10",
+      "reading_time": 14
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Настройки 5S LINK в Личном кабинете",
+      "title": "Настройки 5S LINK в Личном кабинете",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2023-05-10",
+      "date_kind": "updated",
+      "added_at": "2023-05-10",
+      "reading_time": 19
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Настройки интеграции программы с 5S LINK",
+      "title": "Настройки интеграции программы с 5S LINK",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2023-05-10",
+      "date_kind": "updated",
+      "added_at": "2023-05-10",
+      "reading_time": 21
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Отзывы в 5S LINK",
+      "title": "Отзывы в 5S LINK",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2023-05-10",
+      "date_kind": "updated",
+      "added_at": "2023-05-10",
+      "reading_time": 10
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Регистрация и авторизация в 5S LINK",
+      "title": "Регистрация и авторизация в 5S LINK",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2023-05-10",
+      "date_kind": "updated",
+      "added_at": "2023-05-10",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Замена товара услугой при пробитии чека",
+      "title": "Замена товара услугой при пробитии чека",
+      "type": "articles",
+      "order": 16,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2022-06-24",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Организация порядка на складе",
+      "title": "Организация порядка на складе",
+      "type": "articles",
+      "order": 11,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2022-06-24",
+      "reading_time": 1
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Пакетные предложения",
+      "title": "Пакетные предложения",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2022-06-24",
+      "reading_time": 15
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Особенности настройки для компаний с несколькими подразделениями",
+      "title": "Особенности настройки для компаний с несколькими подразделениями",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2022-06-16",
+      "date_kind": "updated",
+      "added_at": "2022-06-16",
+      "reading_time": 13
     }
   ]
 }

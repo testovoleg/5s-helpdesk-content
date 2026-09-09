@@ -286,7 +286,7 @@
 Есть возможность вывести на экран сменяющие друг друга слайды:
 
 1. QR-код для перехода в [Telegram-бот](../../Сообщения/Интеграция%20с%20Telegram/integraciya-s-telegram.md) компании;
-2. QR-код для перехода в приложение [5S Link](https://www.5systems.ru/help/nastroyka-prilozheniya-5s-link-v2);
+2. QR-код для перехода в приложение [5S Link](../../Приложение%205S%20LINK/Настройка%20приложения%205S%20LINK%20v2/nastroyka-prilozheniya-5s-link-v2.md);
 3. логотип СБП:
 
 ![5S Pay - Экран Tg-бот](attachments/32-5s-pay-ekran-tg-bot.png) &nbsp;&nbsp; ![5S Pay - Экран 5S Link](attachments/33-5s-pay-ekran-5s-link.png) &nbsp;&nbsp; ![5S Pay - Экран СБП](attachments/34-5s-pay-ekran-sbp.png)

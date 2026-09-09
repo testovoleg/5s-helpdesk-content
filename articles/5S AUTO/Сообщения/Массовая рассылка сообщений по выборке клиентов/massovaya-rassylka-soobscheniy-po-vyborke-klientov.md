@@ -43,7 +43,7 @@
 
 ![Массовая рассылка - Шаблон WABA](attachments/04-massovaya-rassylka-shablon-waba.png)
 
-Подробнее см. статью *[Настройка шаблонов WhatsApp Business API](../Настройка%20шаблонов%20WhatsApp%20Business%20API/nastroyka-shablonov-whatsapp-business-api.md).*
+Подробнее см. статью *[Настройка шаблонов WhatsApp Business API](../WhatsApp/Настройка%20шаблонов%20WhatsApp%20Business%20API/nastroyka-shablonov-whatsapp-business-api.md).*
 
 ### Выборка клиентов
 
