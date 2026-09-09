@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T16:09:01+03:00",
-  "count": 410,
+  "generated_at": "2026-09-09T16:25:24+03:00",
+  "count": 411,
   "sections": {
     "tips": [
       {
@@ -266,20 +266,7 @@
           },
           {
             "name": "Практики",
-            "path": "articles/5S AUTO/Практики",
-            "sections": [
-              {
-                "name": "Организация порядка на складе",
-                "path": "articles/5S AUTO/Практики/Организация порядка на складе",
-                "sections": [
-                  {
-                    "name": "Штрихкодирование номенклатуры",
-                    "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры",
-                    "borrowed": true
-                  }
-                ]
-              }
-            ]
+            "path": "articles/5S AUTO/Практики"
           },
           {
             "name": "Аналитика",
@@ -881,13 +868,7 @@
       "updated_at": "2022-06-28",
       "date_kind": "updated",
       "added_at": "2026-09-09T09:25:57+03:00",
-      "reading_time": 7,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Практики/Организация порядка на складе",
-          "order": 4
-        }
-      ]
+      "reading_time": 7
     },
     {
       "path": "articles/5S AUTO/Пользователи и права/Мастер быстрого ввода пользователей и сотрудников",
@@ -2939,13 +2920,7 @@
       "updated_at": "2022-06-22",
       "date_kind": "updated",
       "added_at": "2026-09-02T14:08:52+03:00",
-      "reading_time": 8,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Практики/Организация порядка на складе",
-          "order": 1
-        }
-      ]
+      "reading_time": 8
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Назначение штрихкодов товарам",
@@ -2991,13 +2966,7 @@
       "updated_at": "2022-06-22",
       "date_kind": "updated",
       "added_at": "2026-09-02T11:58:37+03:00",
-      "reading_time": 16,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Практики/Организация порядка на складе",
-          "order": 3
-        }
-      ]
+      "reading_time": 16
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Виды склада",
@@ -3007,13 +2976,7 @@
       "updated_at": "2022-06-22",
       "date_kind": "updated",
       "added_at": "2026-09-02T11:49:43+03:00",
-      "reading_time": 8,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Практики/Организация порядка на складе",
-          "order": 0
-        }
-      ]
+      "reading_time": 8
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Пополнение складских запасов",
@@ -4803,6 +4766,16 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Организация порядка на складе",
+      "title": "Организация порядка на складе",
+      "type": "articles",
+      "order": 11,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2022-06-24",
+      "reading_time": 1
     }
   ]
 }
