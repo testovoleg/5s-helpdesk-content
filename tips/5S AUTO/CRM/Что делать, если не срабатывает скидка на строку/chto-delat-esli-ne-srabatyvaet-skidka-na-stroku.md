@@ -31,7 +31,7 @@
 
 ## Материалы для изучения
 
-- Статья [Настройка скидок](https://www.5systems.ru/help/nastroyka-skidok)
+- Статья [Настройка скидок](../../../../articles/5S%20AUTO/Ценообразование/Настройка%20скидок/nastroyka-skidok.md)
 - Урок [Как создать скидку на строку](https://www.5systems.ru/help/kak-sozdat-skidku-na-stroku)
 
 ## Похожие вопросы
