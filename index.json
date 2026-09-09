@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:05:25+03:00",
+  "generated_at": "2026-09-09T15:13:22+03:00",
   "count": 387,
   "sections": {
     "tips": [
@@ -441,7 +441,7 @@
       "path": "articles/5S AUTO/Маркировка/Инвентаризация кодов маркировки",
       "title": "Инвентаризация кодов маркировки",
       "type": "articles",
-      "order": 4,
+      "order": 3,
       "updated_at": "2026-05-21",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -451,7 +451,7 @@
       "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
       "title": "Маркировка товаров",
       "type": "articles",
-      "order": 2,
+      "order": 0,
       "updated_at": "2026-06-09",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -461,7 +461,7 @@
       "path": "articles/5S AUTO/Маркировка/Настройка интеграции с Честным знаком",
       "title": "Настройка интеграции с Честным знаком",
       "type": "articles",
-      "order": 3,
+      "order": 5,
       "updated_at": "2026-06-08",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -481,7 +481,7 @@
       "path": "articles/5S AUTO/Маркировка/Получение токена доступа к API Честного знака",
       "title": "Получение токена доступа к API Честного знака",
       "type": "articles",
-      "order": 7,
+      "order": 6,
       "updated_at": "2026-04-27",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -491,7 +491,7 @@
       "path": "articles/5S AUTO/Маркировка/Регистрация в системе Честный знак",
       "title": "Регистрация в системе Честный знак",
       "type": "articles",
-      "order": 10,
+      "order": 4,
       "updated_at": "2025-11-24",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -501,7 +501,7 @@
       "path": "articles/5S AUTO/Маркировка/Частичное выбытие маркированного товара",
       "title": "Частичное выбытие маркированного товара",
       "type": "articles",
-      "order": 6,
+      "order": 8,
       "updated_at": "2026-04-28",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -1193,13 +1193,7 @@
       "updated_at": "2026-01-12",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
-      "reading_time": 10,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Маркировка",
-          "order": 9
-        }
-      ]
+      "reading_time": 10
     },
     {
       "path": "articles/5S AUTO/Касса/Упрощенный Фронт кассира",
@@ -2537,7 +2531,7 @@
         },
         {
           "path": "articles/5S AUTO/Маркировка",
-          "order": 8
+          "order": 9
         },
         {
           "path": "articles/5S AUTO/Торговое оборудование",
@@ -4483,7 +4477,7 @@
       "path": "articles/5S AUTO/Маркировка/Вывод кодов маркировки из оборота",
       "title": "Вывод кодов маркировки из оборота",
       "type": "articles",
-      "order": 5,
+      "order": 2,
       "updated_at": "2026-09-09",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:58:30+03:00",
