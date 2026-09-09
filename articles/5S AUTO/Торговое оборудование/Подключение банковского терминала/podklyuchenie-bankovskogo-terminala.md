@@ -44,17 +44,17 @@
 
    ![Подключение терминала - Шаг 4](attachments/07-podklyuchenie-terminala-shag-4.png)
 
-Открывается окно *"Экземпляр оборудования"* – следует нажать кнопку "Применить" (окно при этом закрывается):
+   Открывается окно *"Экземпляр оборудования"* – следует нажать кнопку "Применить" (окно при этом закрывается):
 
-![Подключение терминала - Настройка экземпляра оборудования](attachments/08-podklyuchenie-terminala-nastroyka-ekzemplyara-oborudovaniya.png)
+   ![Подключение терминала - Настройка экземпляра оборудования](attachments/08-podklyuchenie-terminala-nastroyka-ekzemplyara-oborudovaniya.png)
 
 5. На *Шаге 5* следует в "Мастере добавления оборудования" нажать кнопку "Готово":
 
-![Подключение терминала - Шаг 5 Готово](attachments/09-podklyuchenie-terminala-shag-5-gotovo.png)
+   ![Подключение терминала - Шаг 5 Готово](attachments/09-podklyuchenie-terminala-shag-5-gotovo.png)
 
-В окне справочника "Оборудование" появляется терминал:
+   В окне справочника "Оборудование" появляется терминал:
 
-![Подключение терминала - Терминал в списке](attachments/10-podklyuchenie-terminala-terminal-v-spiske.png)
+   ![Подключение терминала - Терминал в списке](attachments/10-podklyuchenie-terminala-terminal-v-spiske.png)
 
 ## Настройка терминала в Рабочем месте
 
