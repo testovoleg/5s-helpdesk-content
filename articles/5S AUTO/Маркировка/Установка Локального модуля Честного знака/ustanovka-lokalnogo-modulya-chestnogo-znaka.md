@@ -4,7 +4,7 @@
 
 <table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 01.09.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/podklyuchenie-ts-piot</sub>
+<sub>Источник: https://www.5systems.ru/help/ustanovka-lokalnogo-modulya-chestnogo-znaka</sub>
 
 **Актуально начиная с релиза 2.8.3.58**
 
