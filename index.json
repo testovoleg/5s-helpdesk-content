@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T15:13:22+03:00",
-  "count": 387,
+  "generated_at": "2026-09-09T15:25:34+03:00",
+  "count": 399,
   "sections": {
     "tips": [
       {
@@ -256,7 +256,20 @@
           },
           {
             "name": "Практики",
-            "path": "articles/5S AUTO/Практики"
+            "path": "articles/5S AUTO/Практики",
+            "sections": [
+              {
+                "name": "Организация порядка на складе",
+                "path": "articles/5S AUTO/Практики/Организация порядка на складе",
+                "sections": [
+                  {
+                    "name": "Штрихкодирование номенклатуры",
+                    "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры",
+                    "borrowed": true
+                  }
+                ]
+              }
+            ]
           },
           {
             "name": "Аналитика",
@@ -615,7 +628,13 @@
       "updated_at": "2022-06-28",
       "date_kind": "updated",
       "added_at": "2026-09-09T09:25:57+03:00",
-      "reading_time": 7
+      "reading_time": 7,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Практики/Организация порядка на складе",
+          "order": 4
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Пользователи и права/Мастер быстрого ввода пользователей и сотрудников",
@@ -849,6 +868,10 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Пользователи и права",
+          "order": 4
+        },
+        {
+          "path": "articles/5S AUTO/Практики",
           "order": 4
         }
       ]
@@ -1527,7 +1550,13 @@
       "updated_at": "2024-04-08",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 19
+      "reading_time": 19,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Практики",
+          "order": 7
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка интеграции с WhatsApp",
@@ -1589,7 +1618,13 @@
       "updated_at": "2023-07-06",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 24
+      "reading_time": 24,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Практики",
+          "order": 13
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Регистрация компании в Facebook и 360dialog",
@@ -2651,7 +2686,13 @@
       "updated_at": "2022-06-22",
       "date_kind": "updated",
       "added_at": "2026-09-02T14:08:52+03:00",
-      "reading_time": 8
+      "reading_time": 8,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Практики/Организация порядка на складе",
+          "order": 1
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Назначение штрихкодов товарам",
@@ -2697,7 +2738,13 @@
       "updated_at": "2022-06-22",
       "date_kind": "updated",
       "added_at": "2026-09-02T11:58:37+03:00",
-      "reading_time": 16
+      "reading_time": 16,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Практики/Организация порядка на складе",
+          "order": 3
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Виды склада",
@@ -2707,7 +2754,13 @@
       "updated_at": "2022-06-22",
       "date_kind": "updated",
       "added_at": "2026-09-02T11:49:43+03:00",
-      "reading_time": 8
+      "reading_time": 8,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Практики/Организация порядка на складе",
+          "order": 0
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Пополнение складских запасов",
@@ -4354,7 +4407,13 @@
       "updated_at": "2026-08-17",
       "date_kind": "updated",
       "added_at": "2026-07-29T15:46:44+03:00",
-      "reading_time": 9
+      "reading_time": 9,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Практики",
+          "order": 9
+        }
+      ]
     },
     {
       "path": "tips/Оборудование/Кассы ККМ/В ККТ нет денег для выплаты",
@@ -4491,6 +4550,126 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Применение НДС при УСН",
+      "title": "Применение НДС при УСН",
+      "type": "articles",
+      "order": 14,
+      "updated_at": "2026-01-19",
+      "date_kind": "updated",
+      "added_at": "2026-01-19",
+      "reading_time": 17
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
+      "title": "Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-07-23",
+      "date_kind": "updated",
+      "added_at": "2025-07-23",
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Учет выработки специалистов по запчастям в Заказ-нарядах",
+      "title": "Учет выработки специалистов по запчастям в Заказ-нарядах",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2025-07-23",
+      "date_kind": "updated",
+      "added_at": "2025-07-23",
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Особенности реализации подакцизных товаров",
+      "title": "Особенности реализации подакцизных товаров",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2025-02-06",
+      "date_kind": "updated",
+      "added_at": "2025-02-06",
+      "reading_time": 14
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Анализ и установка цен",
+      "title": "Анализ и установка цен",
+      "type": "articles",
+      "order": 10,
+      "updated_at": "2024-11-19",
+      "date_kind": "updated",
+      "added_at": "2024-11-19",
+      "reading_time": 22
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Автоматическое создание договора с контрагентом",
+      "title": "Автоматическое создание договора с контрагентом",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-10-30",
+      "date_kind": "updated",
+      "added_at": "2024-10-30",
+      "reading_time": 5
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Разделение чеков ККМ",
+      "title": "Разделение чеков ККМ",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2024-06-04",
+      "date_kind": "updated",
+      "added_at": "2024-06-04",
+      "reading_time": 24
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Запрос на отзыв довольного клиента об автосервисе",
+      "title": "Запрос на отзыв довольного клиента об автосервисе",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2024-01-12",
+      "date_kind": "updated",
+      "added_at": "2024-01-12",
+      "reading_time": 16
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Уведомление покупателю о поступлении заказа",
+      "title": "Уведомление покупателю о поступлении заказа",
+      "type": "articles",
+      "order": 12,
+      "updated_at": "2023-06-29",
+      "date_kind": "updated",
+      "added_at": "2023-06-29",
+      "reading_time": 13
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Замена товара услугой при пробитии чека",
+      "title": "Замена товара услугой при пробитии чека",
+      "type": "articles",
+      "order": 16,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2022-06-24",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Пакетные предложения",
+      "title": "Пакетные предложения",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2022-06-24",
+      "reading_time": 15
+    },
+    {
+      "path": "articles/5S AUTO/Практики/Особенности настройки для компаний с несколькими подразделениями",
+      "title": "Особенности настройки для компаний с несколькими подразделениями",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2022-06-16",
+      "date_kind": "updated",
+      "added_at": "2022-06-16",
+      "reading_time": 13
     }
   ]
 }
