@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T17:23:10+03:00",
+  "generated_at": "2026-09-09T08:58:50+03:00",
   "count": 360,
   "sections": {
     "tips": [
@@ -534,7 +534,13 @@
       "updated_at": "2025-06-27",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
-      "reading_time": 16
+      "reading_time": 16,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Пользователи и права",
+          "order": 4
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Создание второй службы",
