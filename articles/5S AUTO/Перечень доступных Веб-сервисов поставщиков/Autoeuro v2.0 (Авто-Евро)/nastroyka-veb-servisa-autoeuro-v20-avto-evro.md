@@ -6,7 +6,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-veb-servisa-autoeuro-v20-avto-evro</sub>
 
-> *Актуально начиная с версии релиза 2.8.2*
+> *Актуально начиная с версии релиза 5S AUTO **2.8.2**.*
 
 ## Содержание
 

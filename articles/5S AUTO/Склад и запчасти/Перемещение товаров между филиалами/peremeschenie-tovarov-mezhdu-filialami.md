@@ -6,7 +6,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/peremeschenie-tovarov-mezhdu-filialami</sub>
 
-> *Функционал доступен начиная с релиза 2.2.7.2.*
+> *Актуально начиная с версии релиза 5S AUTO **2.2.7.2**.*
 
 ## Содержание
 

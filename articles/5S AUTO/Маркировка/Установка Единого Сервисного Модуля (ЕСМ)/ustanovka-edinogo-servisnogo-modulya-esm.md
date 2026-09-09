@@ -6,7 +6,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/ustanovka-edinogo-servisnogo-modulya-esm</sub>
 
-**Актуально начиная с релиза 2.8.3.58**
+> *Актуально начиная с версии релиза 5S AUTO **2.8.3.58**.*
 
 ## Содержание
 

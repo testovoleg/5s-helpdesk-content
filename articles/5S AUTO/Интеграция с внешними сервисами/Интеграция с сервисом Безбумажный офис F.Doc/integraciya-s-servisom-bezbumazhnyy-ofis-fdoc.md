@@ -6,7 +6,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-servisom-bezbumazhnyy-ofis-fdoc</sub>
 
-> *Актуально начиная с версии релиза 2.6.1.1.*
+> *Актуально начиная с версии релиза 5S AUTO **2.6.1.1**.*
 
 ## Содержание
 

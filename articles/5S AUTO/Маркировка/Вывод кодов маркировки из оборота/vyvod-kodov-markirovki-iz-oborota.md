@@ -6,7 +6,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/vyvod-kodov-markirovki-iz-oborota</sub>
 
-**Актуально начиная с релиза 2.8.3.42**
+> *Актуально начиная с версии релиза 5S AUTO **2.8.3.42**.*
 
 ## Содержание
 

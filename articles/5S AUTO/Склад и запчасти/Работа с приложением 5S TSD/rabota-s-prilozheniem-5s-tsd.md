@@ -6,7 +6,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-prilozheniem-5s-tsd</sub>
 
-> *Функционал доступен начиная с релиза 5S AUTO 2.8.3*
+> *Актуально начиная с версии релиза 5S AUTO **2.8.3**.*
 
 ## Содержание
 

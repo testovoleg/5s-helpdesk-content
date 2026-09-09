@@ -6,7 +6,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/sravnenie-vozmozhnostey-waba-i-polzovatelskogo-whatsapp</sub>
 
-> *Функционал доступен начиная с релиза 2.8.3.*
+> *Актуально начиная с версии релиза 5S AUTO **2.8.3**.*
 
 ## Содержание
 

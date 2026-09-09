@@ -6,7 +6,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/dostup-k-dannym-po-podrazdeleniyam-rls</sub>
 
-> *Актуально для релиза 2.8.1.*
+> *Актуально начиная с версии релиза 5S AUTO **2.8.1**.*
 
 ## Содержание
 
