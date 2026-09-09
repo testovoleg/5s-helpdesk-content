@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T14:42:01+03:00",
+  "generated_at": "2026-09-09T14:42:57+03:00",
   "count": 387,
   "sections": {
     "tips": [
@@ -335,6 +335,36 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Телефония/Настройка внутренних телефонов сотрудников",
+      "title": "Настройка внутренних телефонов сотрудников",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2025-04-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T14:41:07+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "articles/5S AUTO/Телефония/Настройка интеграции с телефонией MANGO OFFICE",
+      "title": "Настройка интеграции с телефонией MANGO OFFICE",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-03-26",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T14:41:07+03:00",
+      "reading_time": 13
+    },
+    {
+      "path": "articles/5S AUTO/Телефония/Настройка интеграции с телефонией Novofon",
+      "title": "Настройка интеграции с телефонией Novofon",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-03-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T14:41:07+03:00",
+      "reading_time": 12
+    },
     {
       "path": "articles/5S AUTO/Торговое оборудование/Настройка терминалов Сбербанка/Настройка подключения терминала эквайринга Сбербанка по сети",
       "title": "Настройка подключения терминала эквайринга Сбербанка по сети",
@@ -4455,36 +4485,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Телефония/Настройка интеграции с телефонией Novofon",
-      "title": "Настройка интеграции с телефонией Novofon",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2026-03-27",
-      "date_kind": "updated",
-      "added_at": "2026-03-27",
-      "reading_time": 12
-    },
-    {
-      "path": "articles/5S AUTO/Телефония/Настройка интеграции с телефонией MANGO OFFICE",
-      "title": "Настройка интеграции с телефонией MANGO OFFICE",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2026-03-26",
-      "date_kind": "updated",
-      "added_at": "2026-03-26",
-      "reading_time": 13
-    },
-    {
-      "path": "articles/5S AUTO/Телефония/Настройка внутренних телефонов сотрудников",
-      "title": "Настройка внутренних телефонов сотрудников",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2025-04-11",
-      "date_kind": "updated",
-      "added_at": "2025-04-11",
-      "reading_time": 9
     }
   ]
 }
