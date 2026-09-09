@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:25:24+03:00",
+  "generated_at": "2026-09-09T16:30:45+03:00",
   "count": 411,
   "sections": {
     "tips": [
@@ -358,6 +358,16 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Практики/Организация порядка на складе",
+      "title": "Организация порядка на складе",
+      "type": "articles",
+      "order": 11,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T16:24:16+03:00",
+      "reading_time": 1
+    },
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Внешние пользователи",
       "title": "Внешние пользователи",
@@ -4766,16 +4776,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Практики/Организация порядка на складе",
-      "title": "Организация порядка на складе",
-      "type": "articles",
-      "order": 11,
-      "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2022-06-24",
-      "reading_time": 1
     }
   ]
 }
