@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:43:47+03:00",
+  "generated_at": "2026-09-09T13:21:53+03:00",
   "count": 378,
   "sections": {
     "tips": [
@@ -215,7 +215,13 @@
           },
           {
             "name": "Маркировка",
-            "path": "articles/5S AUTO/Маркировка"
+            "path": "articles/5S AUTO/Маркировка",
+            "sections": [
+              {
+                "name": "Интеграция с ТС ПИоТ",
+                "path": "articles/5S AUTO/Маркировка/Интеграция с ТС ПИоТ"
+              }
+            ]
           },
           {
             "name": "Торговое оборудование",
@@ -306,6 +312,76 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Маркировка/Инвентаризация кодов маркировки",
+      "title": "Инвентаризация кодов маркировки",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-05-21",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T10:36:12+03:00",
+      "reading_time": 13
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
+      "title": "Маркировка товаров",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-06-09",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T10:36:12+03:00",
+      "reading_time": 28
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Настройка интеграции с Честным знаком",
+      "title": "Настройка интеграции с Честным знаком",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2026-06-08",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T10:36:12+03:00",
+      "reading_time": 16
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Операции с кодами маркировки",
+      "title": "Операции с кодами маркировки",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-06-09",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T10:36:12+03:00",
+      "reading_time": 29
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Получение токена доступа к API Честного знака",
+      "title": "Получение токена доступа к API Честного знака",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2026-04-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T10:36:12+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Регистрация в системе Честный знак",
+      "title": "Регистрация в системе Честный знак",
+      "type": "articles",
+      "order": 10,
+      "updated_at": "2025-11-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T10:36:12+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Частичное выбытие маркированного товара",
+      "title": "Частичное выбытие маркированного товара",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2026-04-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T10:36:12+03:00",
+      "reading_time": 19
+    },
     {
       "path": "articles/5S AUTO/Отчеты/Настройка отчетов на СКД",
       "title": "Настройка отчетов на СКД",
@@ -415,6 +491,32 @@
       "date_kind": "updated",
       "added_at": "2026-09-09T09:25:57+03:00",
       "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Интеграция с ТС ПИоТ/Настройка интеграции с ТС ПИоТ",
+      "title": "Настройка интеграции с ТС ПИоТ",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2026-09-09",
+      "date_kind": "updated",
+      "added_at": "2026-09-09",
+      "reading_time": 10,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/Касса",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Интеграция с ТС ПИоТ/Установка Единого Сервисного Модуля (ЕСМ)",
+      "title": "Установка Единого Сервисного Модуля (ЕСМ)",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-09-09",
+      "date_kind": "updated",
+      "added_at": "2026-09-09",
+      "reading_time": 8
     },
     {
       "path": "articles/5S AUTO/Пользователи и права/Мастер быстрого ввода пользователей и сотрудников",
@@ -992,7 +1094,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Маркировка",
-          "order": 11
+          "order": 9
         }
       ]
     },
@@ -2326,7 +2428,7 @@
         },
         {
           "path": "articles/5S AUTO/Маркировка",
-          "order": 10
+          "order": 8
         }
       ]
     },
@@ -3028,6 +3130,16 @@
       "added_at": "2026-09-01T08:55:44+03:00",
       "reading_time": 3,
       "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Маркировка/Интеграция с ТС ПИоТ/Установка Локального модуля Честного знака",
+      "title": "Установка Локального модуля Честного знака",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-09-01",
+      "date_kind": "updated",
+      "added_at": "2026-09-01",
+      "reading_time": 8
     },
     {
       "path": "articles/5S AUTO/Запись на ремонт/Назначение и интерфейс АРМ Запись на ремонт",
@@ -4035,42 +4147,6 @@
       "added_at": "2026-08-07T14:13:18+03:00"
     },
     {
-      "path": "articles/5S AUTO/Маркировка/Настройка интеграции с ТС ПИоТ",
-      "title": "Настройка интеграции с ТС ПИоТ",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2026-08-17",
-      "date_kind": "updated",
-      "added_at": "2026-07-31T16:09:25+03:00",
-      "reading_time": 10,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Касса",
-          "order": 6
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Маркировка/Установка Единого Сервисного Модуля (ЕСМ)",
-      "title": "Установка Единого Сервисного Модуля (ЕСМ)",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2026-08-17",
-      "date_kind": "updated",
-      "added_at": "2026-07-31T16:09:25+03:00",
-      "reading_time": 8
-    },
-    {
-      "path": "articles/5S AUTO/Маркировка/Установка Локального модуля Честного знака",
-      "title": "Установка Локального модуля Честного знака",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2026-09-01",
-      "date_kind": "updated",
-      "added_at": "2026-07-31T16:09:25+03:00",
-      "reading_time": 8
-    },
-    {
       "path": "tips/5S AUTO/CRM/Как посмотреть количество уникальных клиентов, обратившихся за период",
       "title": "Как посмотреть количество уникальных клиентов, обратившихся за период",
       "type": "tips",
@@ -4256,7 +4332,7 @@
       "path": "articles/5S AUTO/Маркировка/Вывод кодов маркировки из оборота",
       "title": "Вывод кодов маркировки из оборота",
       "type": "articles",
-      "order": 7,
+      "order": 5,
       "updated_at": "2026-09-09",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:58:30+03:00",
@@ -4270,76 +4346,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
-      "title": "Маркировка товаров",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2026-06-09",
-      "date_kind": "updated",
-      "added_at": "2026-06-09",
-      "reading_time": 28
-    },
-    {
-      "path": "articles/5S AUTO/Маркировка/Операции с кодами маркировки",
-      "title": "Операции с кодами маркировки",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2026-06-09",
-      "date_kind": "updated",
-      "added_at": "2026-06-09",
-      "reading_time": 29
-    },
-    {
-      "path": "articles/5S AUTO/Маркировка/Настройка интеграции с Честным знаком",
-      "title": "Настройка интеграции с Честным знаком",
-      "type": "articles",
-      "order": 5,
-      "updated_at": "2026-06-08",
-      "date_kind": "updated",
-      "added_at": "2026-06-08",
-      "reading_time": 16
-    },
-    {
-      "path": "articles/5S AUTO/Маркировка/Инвентаризация кодов маркировки",
-      "title": "Инвентаризация кодов маркировки",
-      "type": "articles",
-      "order": 6,
-      "updated_at": "2026-05-21",
-      "date_kind": "updated",
-      "added_at": "2026-05-21",
-      "reading_time": 13
-    },
-    {
-      "path": "articles/5S AUTO/Маркировка/Частичное выбытие маркированного товара",
-      "title": "Частичное выбытие маркированного товара",
-      "type": "articles",
-      "order": 8,
-      "updated_at": "2026-04-28",
-      "date_kind": "updated",
-      "added_at": "2026-04-28",
-      "reading_time": 19
-    },
-    {
-      "path": "articles/5S AUTO/Маркировка/Получение токена доступа к API Честного знака",
-      "title": "Получение токена доступа к API Честного знака",
-      "type": "articles",
-      "order": 9,
-      "updated_at": "2026-04-27",
-      "date_kind": "updated",
-      "added_at": "2026-04-27",
-      "reading_time": 6
-    },
-    {
-      "path": "articles/5S AUTO/Маркировка/Регистрация в системе Честный знак",
-      "title": "Регистрация в системе Честный знак",
-      "type": "articles",
-      "order": 12,
-      "updated_at": "2025-11-24",
-      "date_kind": "updated",
-      "added_at": "2025-11-24",
-      "reading_time": 6
     }
   ]
 }

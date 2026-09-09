@@ -29,7 +29,7 @@
 
 ## Введение
 
-См. основную статью "[Маркировка товаров](../Маркировка%20товаров/markirovka-tovarov.md)", а также другие статьи в разделе Базы знаний "[Маркированные товары](https://www.5systems.ru/taxonomy/term/240)".
+См. основную статью "[Маркировка товаров](../Маркировка%20товаров/markirovka-tovarov.md)", а также другие статьи в разделе Базы знаний "[Маркированные товары](../)".
 
 Коды маркировки могут быть внесены в программу путем загрузки документов от поставщика через систему ЭДО, либо путем сканирования 2D-сканером или через веб-приложение [5S TSD](../../Склад%20и%20запчасти/Работа%20с%20приложением%205S%20TSD/rabota-s-prilozheniem-5s-tsd.md).
 
@@ -222,7 +222,7 @@
 
 С 1 марта 2025 г. также [обязательна](https://markirovka.ru/knowledge/tovarnye-gruppy/molochnaya-produkciya/trebovaniya-k-uchastniku-dlya-realizatsii-zapretitelnogo-rezhima-onlayn-oflayn) проверка в *офлайн-режиме* — в ситуациях, когда онлайн-связь с ГИС МТ временно недоступна (см. материалы на сайте «Честного знака»: [Офлайн проверка на кассах. ЛМ ЧЗ](https://markirovka.ru/community/rezhim-proverok-na-kassakh/oflayn-proverka-na-kassakh-lokalnyy-modul-chz), [Требования для реализации разрешительного режима онлайн / офлайн](https://markirovka.ru/knowledge/tovarnye-gruppy/molochnaya-produkciya/trebovaniya-k-uchastniku-dlya-realizatsii-zapretitelnogo-rezhima-onlayn-oflayn)). В этом случае решение о продаже товара с маркировкой принимается на основании информации из локальной базы данных, при восстановлении связи данные автоматически отправляются ОФД и в «Честный знак».
 
-Ранее разрешительный режим в 5S AUTO был реализован через API с использованием *токена ККТ.* С 28 декабря 2025 г. (согласно ППР № [515](https://xn--80ajghhoc2aj1c8b.xn--p1ai/upload/1201905060041.pdf) и [303](https://xn--80ajghhoc2aj1c8b.xn--p1ai/upload/1202003230014.pdf)) введено требование установки единого ПО — ***ТС ПИоТ*** (см. статью "[Подключение ТС ПИоТ](../Настройка%20интеграции%20с%20ТС%20ПИоТ/nastroyka-integracii-s-ts-piot.md)"). До 1 июля 2026 г. [работает переходный период](https://xn--80ajghhoc2aj1c8b.xn--p1ai/info/news/vazhno-obyazatelno-ustanovite-modul-ts-piot/).
+Ранее разрешительный режим в 5S AUTO был реализован через API с использованием *токена ККТ.* С 28 декабря 2025 г. (согласно ППР № [515](https://xn--80ajghhoc2aj1c8b.xn--p1ai/upload/1201905060041.pdf) и [303](https://xn--80ajghhoc2aj1c8b.xn--p1ai/upload/1202003230014.pdf)) введено требование установки единого ПО — ***ТС ПИоТ*** (см. статью "[Подключение ТС ПИоТ](../Интеграция%20с%20ТС%20ПИоТ/Настройка%20интеграции%20с%20ТС%20ПИоТ/nastroyka-integracii-s-ts-piot.md)"). До 1 июля 2026 г. [работает переходный период](https://xn--80ajghhoc2aj1c8b.xn--p1ai/info/news/vazhno-obyazatelno-ustanovite-modul-ts-piot/).
 
 ***Как работает разрешительный режим***
 
