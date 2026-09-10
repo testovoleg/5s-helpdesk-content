@@ -1,255 +1,311 @@
 {
-  "generated_at": "2026-09-10T12:53:07+03:00",
+  "generated_at": "2026-09-10T13:06:49+03:00",
   "count": 422,
   "sections": {
     "tips": [
       {
         "name": "5S AUTO",
         "path": "tips/5S AUTO",
+        "order": 0,
         "sections": [
           {
             "name": "CRM",
-            "path": "tips/5S AUTO/CRM"
+            "path": "tips/5S AUTO/CRM",
+            "order": 0
           },
           {
             "name": "Касса",
-            "path": "tips/5S AUTO/Касса"
+            "path": "tips/5S AUTO/Касса",
+            "order": 0
           },
           {
             "name": "Маркировка",
-            "path": "tips/5S AUTO/Маркировка"
+            "path": "tips/5S AUTO/Маркировка",
+            "order": 0
           },
           {
             "name": "Персонал",
-            "path": "tips/5S AUTO/Персонал"
+            "path": "tips/5S AUTO/Персонал",
+            "order": 0
           },
           {
             "name": "Склад и запчасти",
-            "path": "tips/5S AUTO/Склад и запчасти"
+            "path": "tips/5S AUTO/Склад и запчасти",
+            "order": 0
           }
         ]
       },
       {
         "name": "Оборудование",
         "path": "tips/Оборудование",
+        "order": 0,
         "sections": [
           {
             "name": "Банковские терминалы",
-            "path": "tips/Оборудование/Банковские терминалы"
+            "path": "tips/Оборудование/Банковские терминалы",
+            "order": 0
           },
           {
             "name": "Кассы ККМ",
-            "path": "tips/Оборудование/Кассы ККМ"
+            "path": "tips/Оборудование/Кассы ККМ",
+            "order": 0
           },
           {
             "name": "Сканеры штрихкодов",
-            "path": "tips/Оборудование/Сканеры штрихкодов"
+            "path": "tips/Оборудование/Сканеры штрихкодов",
+            "order": 0
           },
           {
             "name": "ТС ПИоТ",
-            "path": "tips/Оборудование/ТС ПИоТ"
+            "path": "tips/Оборудование/ТС ПИоТ",
+            "order": 0
           }
         ]
       },
       {
         "name": "Техподдержка",
-        "path": "tips/Техподдержка"
+        "path": "tips/Техподдержка",
+        "order": 0
       }
     ],
     "articles": [
       {
         "name": "5S AUTO",
         "path": "articles/5S AUTO",
+        "order": 0,
         "sections": [
           {
             "name": "Полезное",
-            "path": "articles/5S AUTO/Полезное"
+            "path": "articles/5S AUTO/Полезное",
+            "order": 0
           },
           {
             "name": "CRM",
-            "path": "articles/5S AUTO/CRM"
+            "path": "articles/5S AUTO/CRM",
+            "order": 1
           },
           {
             "name": "Работа с клиентами",
-            "path": "articles/5S AUTO/Работа с клиентами"
+            "path": "articles/5S AUTO/Работа с клиентами",
+            "order": 2
           },
           {
             "name": "Проценка запчастей и работ",
-            "path": "articles/5S AUTO/Проценка запчастей и работ"
+            "path": "articles/5S AUTO/Проценка запчастей и работ",
+            "order": 3
           },
           {
             "name": "Запись на ремонт",
-            "path": "articles/5S AUTO/Запись на ремонт"
+            "path": "articles/5S AUTO/Запись на ремонт",
+            "order": 4
           },
           {
             "name": "Автосервис",
             "path": "articles/5S AUTO/Автосервис",
+            "order": 5,
             "sections": [
               {
                 "name": "Работа с Заказ-нарядами",
-                "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами"
+                "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами",
+                "order": 11
               },
               {
                 "name": "Ремонт агрегатов",
-                "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов"
+                "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов",
+                "order": 21
               }
             ]
           },
           {
             "name": "Склад и запчасти",
             "path": "articles/5S AUTO/Склад и запчасти",
+            "order": 6,
             "sections": [
               {
                 "name": "Применяемость запчастей",
-                "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей"
+                "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей",
+                "order": 2
               },
               {
                 "name": "Штрихкодирование номенклатуры",
-                "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры"
+                "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры",
+                "order": 10
               }
             ]
           },
           {
             "name": "Работа с заказами",
-            "path": "articles/5S AUTO/Работа с заказами"
+            "path": "articles/5S AUTO/Работа с заказами",
+            "order": 7
           },
           {
             "name": "Ценообразование",
-            "path": "articles/5S AUTO/Ценообразование"
+            "path": "articles/5S AUTO/Ценообразование",
+            "order": 8
           },
           {
             "name": "Перечень доступных Веб-сервисов поставщиков",
-            "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков"
+            "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков",
+            "order": 9
           },
           {
             "name": "Сообщения",
             "path": "articles/5S AUTO/Сообщения",
+            "order": 10,
             "sections": [
               {
                 "name": "Настройка интеграции с мессенджерами для рассылки сообщений",
-                "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений"
+                "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
+                "order": 4
               },
               {
                 "name": "WhatsApp",
-                "path": "articles/5S AUTO/Сообщения/WhatsApp"
+                "path": "articles/5S AUTO/Сообщения/WhatsApp",
+                "order": 5
               }
             ]
           },
           {
             "name": "Бонусная система",
-            "path": "articles/5S AUTO/Бонусная система"
+            "path": "articles/5S AUTO/Бонусная система",
+            "order": 11
           },
           {
             "name": "Задачи",
-            "path": "articles/5S AUTO/Задачи"
+            "path": "articles/5S AUTO/Задачи",
+            "order": 12
           },
           {
             "name": "Интеграция с внешними сервисами",
             "path": "articles/5S AUTO/Интеграция с внешними сервисами",
+            "order": 13,
             "sections": [
               {
                 "name": "Интеграция с телефонией",
-                "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией"
+                "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией",
+                "order": 0
               },
               {
                 "name": "WhatsApp",
                 "path": "articles/5S AUTO/Сообщения/WhatsApp",
+                "order": 7,
                 "borrowed": true
               },
               {
                 "name": "Интеграция с соцсетью ВКонтакте",
-                "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с соцсетью ВКонтакте"
+                "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с соцсетью ВКонтакте",
+                "order": 8
               }
             ]
           },
           {
             "name": "Учет взаиморасчетов",
-            "path": "articles/5S AUTO/Учет взаиморасчетов"
+            "path": "articles/5S AUTO/Учет взаиморасчетов",
+            "order": 14
           },
           {
             "name": "Касса",
-            "path": "articles/5S AUTO/Касса"
+            "path": "articles/5S AUTO/Касса",
+            "order": 15
           },
           {
             "name": "Банки и платежные системы",
             "path": "articles/5S AUTO/Банки и платежные системы",
+            "order": 16,
             "sections": [
               {
                 "name": "Система быстрых платежей",
-                "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей"
+                "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей",
+                "order": 0
               },
               {
                 "name": "Банковские выписки",
-                "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки"
+                "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки",
+                "order": 1
               }
             ]
           },
           {
             "name": "Персонал и мотивация",
-            "path": "articles/5S AUTO/Персонал и мотивация"
+            "path": "articles/5S AUTO/Персонал и мотивация",
+            "order": 17
           },
           {
             "name": "Управление качеством обслуживания",
-            "path": "articles/5S AUTO/Управление качеством обслуживания"
+            "path": "articles/5S AUTO/Управление качеством обслуживания",
+            "order": 18
           },
           {
             "name": "Структура компании",
-            "path": "articles/5S AUTO/Структура компании"
+            "path": "articles/5S AUTO/Структура компании",
+            "order": 19
           },
           {
             "name": "Администрирование и настройка системы",
             "path": "articles/5S AUTO/Администрирование и настройка системы",
+            "order": 20,
             "sections": [
               {
                 "name": "Подключение внешних печатных форм",
-                "path": "articles/5S AUTO/Администрирование и настройка системы/Подключение внешних печатных форм"
+                "path": "articles/5S AUTO/Администрирование и настройка системы/Подключение внешних печатных форм",
+                "order": 5
               },
               {
                 "name": "Исправление ошибок версий",
-                "path": "articles/5S AUTO/Администрирование и настройка системы/Исправление ошибок версий"
+                "path": "articles/5S AUTO/Администрирование и настройка системы/Исправление ошибок версий",
+                "order": 25
               }
             ]
           },
           {
             "name": "Пользователи и права",
-            "path": "articles/5S AUTO/Пользователи и права"
+            "path": "articles/5S AUTO/Пользователи и права",
+            "order": 21
           },
           {
             "name": "Отчеты",
-            "path": "articles/5S AUTO/Отчеты"
+            "path": "articles/5S AUTO/Отчеты",
+            "order": 22
           },
           {
             "name": "Маркировка",
             "path": "articles/5S AUTO/Маркировка",
+            "order": 23,
             "sections": [
               {
                 "name": "Интеграция с ТС ПИоТ",
-                "path": "articles/5S AUTO/Маркировка/Интеграция с ТС ПИоТ"
+                "path": "articles/5S AUTO/Маркировка/Интеграция с ТС ПИоТ",
+                "order": 7
               }
             ]
           },
           {
             "name": "Торговое оборудование",
             "path": "articles/5S AUTO/Торговое оборудование",
+            "order": 24,
             "sections": [
               {
                 "name": "Интеграция с ТС ПИоТ",
                 "path": "articles/5S AUTO/Маркировка/Интеграция с ТС ПИоТ",
+                "order": 3,
                 "borrowed": true
               },
               {
                 "name": "Настройка терминалов Сбербанка",
-                "path": "articles/5S AUTO/Торговое оборудование/Настройка терминалов Сбербанка"
+                "path": "articles/5S AUTO/Торговое оборудование/Настройка терминалов Сбербанка",
+                "order": 7
               }
             ]
           },
           {
             "name": "Телефония",
             "path": "articles/5S AUTO/Телефония",
+            "order": 25,
             "sections": [
               {
                 "name": "Интеграция с телефонией",
                 "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией",
+                "order": 0,
                 "borrowed": true
               }
             ]
@@ -257,47 +313,57 @@
           {
             "name": "Приложение 5S LINK",
             "path": "articles/5S AUTO/Приложение 5S LINK",
+            "order": 26,
             "sections": [
               {
                 "name": "Мобильное приложение 5S LINK v1",
-                "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1"
+                "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1",
+                "order": 4
               }
             ]
           },
           {
             "name": "Практики",
-            "path": "articles/5S AUTO/Практики"
+            "path": "articles/5S AUTO/Практики",
+            "order": 27
           },
           {
             "name": "Аналитика",
-            "path": "articles/5S AUTO/Аналитика"
+            "path": "articles/5S AUTO/Аналитика",
+            "order": 28
           },
           {
             "name": "Контроль неликвидов",
-            "path": "articles/5S AUTO/Контроль неликвидов"
+            "path": "articles/5S AUTO/Контроль неликвидов",
+            "order": 29
           },
           {
             "name": "Прочее",
-            "path": "articles/5S AUTO/Прочее"
+            "path": "articles/5S AUTO/Прочее",
+            "order": 30
           },
           {
             "name": "Внешние обработки",
-            "path": "articles/5S AUTO/Внешние обработки"
+            "path": "articles/5S AUTO/Внешние обработки",
+            "order": 31
           }
         ]
       },
       {
         "name": "5S LINK",
         "path": "articles/5S LINK",
+        "order": 1,
         "sections": [
           {
             "name": "Приложение 5S LINK",
             "path": "articles/5S AUTO/Приложение 5S LINK",
+            "order": 0,
             "borrowed": true,
             "sections": [
               {
                 "name": "Мобильное приложение 5S LINK v1",
-                "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1"
+                "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1",
+                "order": 4
               }
             ]
           }
@@ -306,54 +372,66 @@
       {
         "name": "5S Chat",
         "path": "articles/5S Chat",
+        "order": 2,
         "sections": [
           {
             "name": "MAX",
-            "path": "articles/5S Chat/MAX"
+            "path": "articles/5S Chat/MAX",
+            "order": 1
           },
           {
             "name": "Telegram",
-            "path": "articles/5S Chat/Telegram"
+            "path": "articles/5S Chat/Telegram",
+            "order": 2
           },
           {
             "name": "WhatsApp",
-            "path": "articles/5S Chat/WhatsApp"
+            "path": "articles/5S Chat/WhatsApp",
+            "order": 3
           },
           {
             "name": "Авито",
-            "path": "articles/5S Chat/Авито"
+            "path": "articles/5S Chat/Авито",
+            "order": 4
           },
           {
             "name": "ВКонтакте",
-            "path": "articles/5S Chat/ВКонтакте"
+            "path": "articles/5S Chat/ВКонтакте",
+            "order": 5
           }
         ]
       },
       {
         "name": "5S Cloud",
-        "path": "articles/5S Cloud"
+        "path": "articles/5S Cloud",
+        "order": 3
       },
       {
         "name": "5S TSD",
-        "path": "articles/5S TSD"
+        "path": "articles/5S TSD",
+        "order": 4
       },
       {
         "name": "5S Pay",
-        "path": "articles/5S Pay"
+        "path": "articles/5S Pay",
+        "order": 5
       },
       {
         "name": "5S Remzona",
-        "path": "articles/5S Remzona"
+        "path": "articles/5S Remzona",
+        "order": 6
       },
       {
         "name": "5S AI Agent",
-        "path": "articles/5S AI Agent"
+        "path": "articles/5S AI Agent",
+        "order": 7
       }
     ],
     "lessons": [
       {
         "name": "Краткий курс для Автосалона",
-        "path": "lessons/Краткий курс для Автосалона"
+        "path": "lessons/Краткий курс для Автосалона",
+        "order": 0
       }
     ]
   },
