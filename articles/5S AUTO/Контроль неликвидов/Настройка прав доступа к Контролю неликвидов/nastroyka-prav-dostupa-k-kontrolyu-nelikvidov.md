@@ -117,6 +117,12 @@
 
 [![Аудио: Corporate Inspiration before Christmas](attachments/audio-01-corporate-inspiration.png)](attachments/01%20Corporate%20Inspiration%20before%20Christmas.mp3)
 
+## Документ по теме
+
+**Руководство «Альфа-Авто: Автосалон + Автосервис + Автозапчасти ПРОФ», редакция 5 (для тестирования):**
+
+[![Документ: Альфа-Авто, руководство, редакция 5](attachments/pdf-01-alfa-avto-kartochka.png)](attachments/alfa-avto_2012_07_26.pdf)
+
 ---
 
 **Теги:** контроль неликвидов, неликвиды, права доступа, роли, задачи, сроки хранения
