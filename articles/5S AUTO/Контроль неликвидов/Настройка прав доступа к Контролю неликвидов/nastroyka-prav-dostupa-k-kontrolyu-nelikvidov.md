@@ -111,6 +111,12 @@
 
 Для добавления следует выбрать тип данных – становится доступным выбор объекта, затем выбрать объект и нажать “Enter”. В колонке “Исключить” автоматически заполняется значение типа данных.
 
+## Аудио по теме
+
+**Трек «Corporate Inspiration before Christmas» (для тестирования):**
+
+[![Аудио: Corporate Inspiration before Christmas](attachments/audio-01-corporate-inspiration.png)](attachments/01%20Corporate%20Inspiration%20before%20Christmas.mp3)
+
 ---
 
 **Теги:** контроль неликвидов, неликвиды, права доступа, роли, задачи, сроки хранения
