@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T11:33:07+03:00",
-  "count": 421,
+  "generated_at": "2026-09-10T11:43:51+03:00",
+  "count": 422,
   "sections": {
     "tips": [
       {
@@ -359,6 +359,36 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Прочее/Бот техподдержки в Max",
+      "title": "Бот техподдержки в Max",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T11:31:55+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "articles/5S AUTO/Прочее/Документация от 1С-Рарус",
+      "title": "Документация от 1С-Рарус",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2022-06-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T11:31:55+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/Прочее/Материалы для обмена с 1С Бухгалтерия",
+      "title": "Материалы для обмена с 1С Бухгалтерия",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2026-09-10",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T11:31:55+03:00",
+      "reading_time": 1
+    },
+    {
       "path": "articles/5S AUTO/Контроль неликвидов/Выявление неликвидов",
       "title": "Выявление неликвидов",
       "type": "articles",
@@ -427,16 +457,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-10T10:03:28+03:00",
       "reading_time": 8
-    },
-    {
-      "path": "articles/5S AUTO/Прочее/Материалы для обмена с 1С Бухгалтерия",
-      "title": "Материалы для обмена с 1С Бухгалтерия",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2026-09-10",
-      "date_kind": "updated",
-      "added_at": "2026-09-10",
-      "reading_time": 1
     },
     {
       "path": "articles/5S AUTO/Практики/Организация порядка на складе",
@@ -4576,13 +4596,7 @@
       "order": 0,
       "updated_at": "2026-08-24",
       "date_kind": "updated",
-      "added_at": "2026-08-07T14:13:18+03:00",
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Прочее",
-          "order": 0
-        }
-      ]
+      "added_at": "2026-08-07T14:13:18+03:00"
     },
     {
       "path": "tips/Техподдержка/Как перейти в Базу знаний",
@@ -4864,24 +4878,14 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "articles/5S AUTO/Прочее/Бот техподдержки в Max",
-      "title": "Бот техподдержки в Max",
+      "path": "articles/5S AUTO/Прочее/Как обратиться в техническую поддержку",
+      "title": "Как обратиться в техническую поддержку",
       "type": "articles",
-      "order": 1,
+      "order": 0,
       "updated_at": "2026-06-24",
       "date_kind": "updated",
       "added_at": "2026-06-24",
-      "reading_time": 7
-    },
-    {
-      "path": "articles/5S AUTO/Прочее/Документация от 1С-Рарус",
-      "title": "Документация от 1С-Рарус",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2022-06-20",
-      "date_kind": "updated",
-      "added_at": "2022-06-20",
-      "reading_time": 4
+      "reading_time": 9
     }
   ]
 }
