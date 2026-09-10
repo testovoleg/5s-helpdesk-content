@@ -15,7 +15,7 @@
 - [Механизм отправки уведомлений](attachments/mehanizm-otpravki-uvedomleniy.docx)
 - [Создание значимого события](attachments/sozdanie-znachimogo-sobytiya.doc)
 - [Оплата картой](attachments/oplata-kartoy.docx)
-- [Порядок работы с кассами с поддержкой ФДД 1.05](https://5systems.ru/sites/default/files/2022-06/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_%D1%81_%D0%BA%D0%B0%D1%81%D1%81%D0%B0%D0%BC%D0%B8.docx)
+- [Порядок работы с кассами с поддержкой ФДД 1.05](attachments/poryadok-raboty-s-kassami-s-podderzhkoy-fdd-1-05.docx)
 - [Дополнение "Альфа-Авто: Интерфейс с Аудатэкс"](attachments/dopolnenie-alfa-avto-interfeys-s-audateks.docx)
 - [Чек коррекции](attachments/chek-korrekcii.docx)
 - [Учет по характеристикам номенклатуры](attachments/uchet-po-harakteristikam-nomenklatury.doc)
@@ -23,7 +23,7 @@
 - [Реализация товара с маркировкой](https://rarus.ru/publications/20200122-realizatsiya-tovara-s-markirovkoy-412295/)<br>
   ⇨ Ссылка на скачивание файла: [ЗаполнениеУчетаМаркировкиВТипахНоменклатуры.zip](attachments/zapolnenieuchetamarkirovkivtipahnomenklatury.zip)
 - Обновленная документация 2021:
-  - Методические материалы (Руководство пользователя): [Том 1](https://5systems.ru/sites/default/files/2022-06/Autosalon5_tom1_2021_11_09.pdf), [Том 2](https://5systems.ru/sites/default/files/2022-06/Autosalon5_tom2_2021_11_09.pdf), [Том 3](https://5systems.ru/sites/default/files/2022-06/Autosalon5_tom3_2021_11_09.pdf)
+  - Методические материалы (Руководство пользователя): [Том 1](attachments/tom-1.pdf), [Том 2](attachments/tom-2.pdf), [Том 3](attachments/tom-3.pdf)
   - [Инструкция: Учет прослеживаемых товаров в Альфа-Авто ред.5](attachments/instrukciya-uchet-proslezhivaemyh-tovarov-v-alfa-avto-red-5.docx)
   - Обработка Получение РНПТ для прослеживаемых товаров на остатках:<br>
     предназначена для использования на релизе 5.1.27.04.<br>
@@ -41,10 +41,14 @@
 - [Механизм отправки уведомлений](attachments/mehanizm-otpravki-uvedomleniy.docx) (.docx, 253 КБ)
 - [Создание значимого события](attachments/sozdanie-znachimogo-sobytiya.doc) (.doc, 138 КБ)
 - [Оплата картой](attachments/oplata-kartoy.docx) (.docx, 977 КБ)
+- [Порядок работы с кассами с поддержкой ФДД 1.05](attachments/poryadok-raboty-s-kassami-s-podderzhkoy-fdd-1-05.docx) (.docx, 14.0 МБ)
 - [Дополнение "Альфа-Авто: Интерфейс с Аудатэкс"](attachments/dopolnenie-alfa-avto-interfeys-s-audateks.docx) (.docx, 2.3 МБ)
 - [Чек коррекции](attachments/chek-korrekcii.docx) (.docx, 1.5 МБ)
 - [Учет по характеристикам номенклатуры](attachments/uchet-po-harakteristikam-nomenklatury.doc) (.doc, 356 КБ)
 - [zapolnenieuchetamarkirovkivtipahnomenklatury.zip](attachments/zapolnenieuchetamarkirovkivtipahnomenklatury.zip) (.zip, 7 КБ)
+- [Том 1](attachments/tom-1.pdf) (.pdf, 7.5 МБ)
+- [Том 2](attachments/tom-2.pdf) (.pdf, 9.0 МБ)
+- [Том 3](attachments/tom-3.pdf) (.pdf, 6.6 МБ)
 - [Инструкция: Учет прослеживаемых товаров в Альфа-Авто ред.5](attachments/instrukciya-uchet-proslezhivaemyh-tovarov-v-alfa-avto-red-5.docx) (.docx, 1.9 МБ)
 - [ostatkiproslezhivaemyhtovarov.zip](attachments/ostatkiproslezhivaemyhtovarov.zip) (.zip, 18 КБ)
 

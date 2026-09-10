@@ -13,13 +13,17 @@
 
 ## Документация и обработки для обмена с бухгалтерией
 
-- [Методическое пособие по обмену с бухгалтерией](https://5systems.ru/sites/default/files/2022-06/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%BA%D0%B0_%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD_%D1%81_%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D0%B8%D0%B5%D0%B9.docx)
+- [Методическое пособие по обмену с бухгалтерией](attachments/metodicheskoe-posobie-po-obmenu-s-buhgalteriey.docx)
 
 ## Вебинары Альфа-Авто по обмену с бухгалтерий
 
 - [Отражение операций Альфа-Авто по приобретению и реализации ТМЦ в 1С Бухгалтерии](https://edu.5systems.ru/video/archive/Zapis_vebinara_Otrazhenie_operacij_Alfa-Avto_po_priobreteniju_i_realizacii_TMC_v_1C_Buhgalterii.mp4)
 - [Обмен операциями автосервиса между Альфа Авто и 1С Бухгалтерия](https://rutube.ru/video/8d0ea96c3c214d86a50c799f02fec0d8/)
 - [Обмен с 1С Бухгалтерией: взаиморасчеты и движения денежных средств](https://rutube.ru/video/02863381ec80264c0af7232f6df24b03/)
+
+## Файл для скачивания
+
+- [Методическое пособие по обмену с бухгалтерией](attachments/metodicheskoe-posobie-po-obmenu-s-buhgalteriey.docx) (.docx, 9.4 МБ)
 
 ---
 
