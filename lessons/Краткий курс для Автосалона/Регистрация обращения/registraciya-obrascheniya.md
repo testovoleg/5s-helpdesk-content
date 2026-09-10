@@ -39,7 +39,7 @@
 
 ![Автосалон - Список](attachments/02-avtosalon-spisok.png)
 
-Определение воронки при автоматическом создании сделки производится на основе настроек *[рекламных каналов](https://www.5systems.ru/help/nastroyka-reklamnykh-kanalov).*
+Определение воронки при автоматическом создании сделки производится на основе настроек *[рекламных каналов](../../../articles/5S%20AUTO/Аналитика/Настройка%20рекламных%20каналов/nastroyka-reklamnykh-kanalov.md).*
 
 Есть возможность создать сделку вручную, например, при визите клиента – для этого нужно нажать кнопку *“Добавить”* либо *“Добавить процесс → Создать сделку”:*
 
@@ -94,7 +94,7 @@
 
 - *[Канбан сделок](../../../articles/5S%20AUTO/CRM/Канбан%20сделок/kanban-sdelok.md), [Список сделок](../../../articles/5S%20AUTO/CRM/Список%20сделок/spisok-sdelok.md), [Работа со сделкой](../../../articles/5S%20AUTO/CRM/Работа%20со%20сделкой/rabota-so-sdelkoy.md), [События сделки](../../../articles/5S%20AUTO/CRM/События%20сделки/sobytiya-sdelki.md)* и другие статьи в разделе [CRM](https://5systems.ru/taxonomy/term/149);
 - *[Контрагенты и контакты](../../../articles/5S%20AUTO/Работа%20с%20клиентами/Контрагенты%20и%20контакты/kontragenty-i-kontakty.md), [Идентификация клиента на форме сделки](../../../articles/5S%20AUTO/Работа%20с%20клиентами/Идентификация%20клиента%20на%20форме%20Сделки/identifikaciya-klienta-na-forme-sdelki.md)* и другие статьи в разделе [Работа с клиентами](https://5systems.ru/taxonomy/term/151);
-- *[Настройка рекламных каналов](https://www.5systems.ru/help/nastroyka-reklamnykh-kanalov);*<br>
+- *[Настройка рекламных каналов](../../../articles/5S%20AUTO/Аналитика/Настройка%20рекламных%20каналов/nastroyka-reklamnykh-kanalov.md);*<br>
   и *[другие](https://5systems.ru/articles).*
 
 <div align="center">
