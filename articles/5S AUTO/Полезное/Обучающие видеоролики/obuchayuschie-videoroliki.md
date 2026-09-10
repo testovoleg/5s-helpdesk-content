@@ -73,7 +73,7 @@
 
    [![Online_katalog-2_Varianty_perehoda](attachments/video-13-online-katalog-2-varianty-perehoda.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-2_Varianty_perehoda.mp4)
 
-3. [Как идентифицировать автомобиль в Онлайн-каталоге](../../../../lessons/Урок%207.%20Онлайн-каталог%20запчастей/Идентификация%20автомобиля%20в%20Онлайн-каталоге/kak-identificirovat-avtomobil-v-onlayn-kataloge.md):
+3. [Как идентифицировать автомобиль в Онлайн-каталоге](../../../../lessons/Урок%207.%20Онлайн-каталог%20запчастей/Как%20идентифицировать%20автомобиль%20в%20Онлайн-каталоге/kak-identificirovat-avtomobil-v-onlayn-kataloge.md):
 
    [![Online_katalog-3_Identifikaciya_avtomobilya](attachments/video-14-online-katalog-3-identifikaciya-avtomobilya.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-3_Identifikaciya_avtomobilya.mp4)
 
@@ -117,7 +117,7 @@
 
 ## Запись на ремонт
 
-1. [Назначение и интерфейс АРМ Запись на ремонт](../../../../lessons/Урок%208.%20Запись%20на%20ремонт/Назначение%20и%20интерфейс%20АРМ%20Запись%20на%20ремонт/naznachenie-i-interfeys-arm-zapis-na-remont.md):
+1. [Назначение и интерфейс АРМ Запись на ремонт](../../../../lessons/Урок%208.%20Запись%20на%20ремонт/Обзор%20интерфейса%20АРМ%20Запись%20на%20ремонт/obzor-interfeysa-arm-zapis-na-remont.md):
 
    [![Zapis_na_remont-1_Naznachenie_i_interfeys](attachments/video-24-zapis-na-remont-1-naznachenie-i-interfeys.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-1_Naznachenie_i_interfeys.mp4)
 
@@ -125,7 +125,7 @@
 
    [![Zapis_na_remont-2_Zapis_iz_Korziny](attachments/video-25-zapis-na-remont-2-zapis-iz-korziny.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-2_Zapis_iz_Korziny.mp4)
 
-3. [Как записать клиента из Заказ наряда](../../../../lessons/Урок%208.%20Запись%20на%20ремонт/Как%20записать%20клиента%20из%20Заказ%20наряда/kak-zapisat-klienta-iz-zakaz-naryada.md):
+3. [Как записать клиента из Заказ-наряда](../../../../lessons/Урок%208.%20Запись%20на%20ремонт/Как%20записать%20клиента%20из%20Заказ-наряда/kak-zapisat-klienta-iz-zakaz-naryada.md):
 
    [![Zapis_na_remont-3_Zapis_iz_Zakaz-naryada](attachments/video-26-zapis-na-remont-3-zapis-iz-zakaz-naryada.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-3_Zapis_iz_Zakaz-naryada.mp4)
 
