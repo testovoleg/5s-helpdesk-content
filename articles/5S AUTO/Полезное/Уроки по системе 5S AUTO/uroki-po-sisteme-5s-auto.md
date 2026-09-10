@@ -2,7 +2,7 @@
 
 # Уроки по системе "5S AUTO"
 
-<table><tr><td><b>Время чтения:</b> 2 мин.</td><td><b>Обновлено:</b> 10.09.2026</td></tr></table>
+<table><tr><td><b>Обновлено:</b> 10.09.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/uroki-po-sisteme-5s-auto</sub>
 
