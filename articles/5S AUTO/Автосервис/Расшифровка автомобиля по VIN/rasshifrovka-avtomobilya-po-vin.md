@@ -198,11 +198,11 @@
 
 См. видеоинструкции:
 
-**1. [Как создать карточку автомобиля через TecDoc](../../Проценка%20запчастей%20и%20работ/Как%20создать%20автомобиль%20в%20Корзине/kak-sozdat-avtomobil-v-korzine.md):**
+**1. [Как создать карточку автомобиля через TecDoc](../../../../lessons/Урок%206.%20Подбор%20запчастей%20и%20работ/Как%20создать%20автомобиль%20в%20Корзине/kak-sozdat-avtomobil-v-korzine.md):**
 
 [![Как создать карточку автомобиля через TecDoc](attachments/video-6-sozdanie_avtomobilya.png)](https://edu.5systems.ru/video/Korzina/Korzina-6_Sozdanie_avtomobilya.mp4)
 
-**2. [Как идентифицировать автомобиль в Онлайн-каталоге](../../Проценка%20запчастей%20и%20работ/Идентификация%20автомобиля%20в%20Онлайн-каталоге/kak-identificirovat-avtomobil-v-onlayn-kataloge.md):**
+**2. [Как идентифицировать автомобиль в Онлайн-каталоге](../../../../lessons/Урок%207.%20Онлайн-каталог%20запчастей/Идентификация%20автомобиля%20в%20Онлайн-каталоге/kak-identificirovat-avtomobil-v-onlayn-kataloge.md):**
 
 [![Как идентифицировать автомобиль в Онлайн-каталоге](attachments/video-3-identifikaciya-avtomobilya.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-3_Identifikaciya_avtomobilya.mp4)
 

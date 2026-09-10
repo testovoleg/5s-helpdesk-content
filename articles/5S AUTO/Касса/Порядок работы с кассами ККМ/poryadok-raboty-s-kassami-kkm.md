@@ -78,7 +78,7 @@
 
 См. видеоинструкции:
 
-- [Как принять оплату по Заказ-наряду](../../Автосервис/Работа%20с%20Заказ-нарядами/Как%20принять%20оплату%20по%20Заказ-наряду/kak-prinyat-oplatu-po-zakaz-naryadu.md)
+- [Как принять оплату по Заказ-наряду](../../../../lessons/Урок%2010.%20Работа%20с%20Заказ-нарядами/Как%20принять%20оплату%20по%20Заказ-наряду/kak-prinyat-oplatu-po-zakaz-naryadu.md)
 
   [![Как принять оплату по Заказ-наряду](attachments/video-01-kak-prinyat-oplatu-po-zakaz-naryadu.png)](https://edu.5systems.ru/video/Zakaz-naryad/Zakaz-naryad_5-Oplata_Zakaz-naryada.mp4)
 
