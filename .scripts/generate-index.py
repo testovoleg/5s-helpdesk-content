@@ -209,6 +209,11 @@ def collect_sections(dir_path: Path) -> list[dict]:
         node: dict = {
             "name": folder.name,
             "path": folder.relative_to(ROOT).as_posix(),
+            # Позиция в .order родителя — той же нумерацией, что и order у
+            # статей раздела: статьи и подразделы в списке перемешаны, и сайт
+            # должен ставить подраздел между статьями, как на старом сайте.
+            # Неперечисленные — после списка
+            "order": wanted.index(name) if name in wanted else len(wanted),
         }
         if name in borrowed_dirs:
             node["borrowed"] = True
