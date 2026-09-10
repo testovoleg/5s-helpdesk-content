@@ -95,17 +95,17 @@
 
 ## Видеоинструкции по работе с АРМ «Запись на ремонт»
 
-**1. [Назначение и интерфейс АРМ Запись на ремонт](../../../../lessons/Урок%208.%20Запись%20на%20ремонт/Назначение%20и%20интерфейс%20АРМ%20Запись%20на%20ремонт/naznachenie-i-interfeys-arm-zapis-na-remont.md):**
+**1. [Обзор интерфейса АРМ Запись на ремонт](../../../../lessons/Урок%208.%20Запись%20на%20ремонт/Обзор%20интерфейса%20АРМ%20Запись%20на%20ремонт/naznachenie-i-interfeys-arm-zapis-na-remont.md):**
 
-[![Назначение и интерфейс АРМ Запись на ремонт](attachments/video-1-naznachenie_i_interfeys.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-1_Naznachenie_i_interfeys.mp4)
+[![Обзор интерфейса АРМ Запись на ремонт](attachments/video-1-naznachenie_i_interfeys.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-1_Naznachenie_i_interfeys.mp4)
 
 **2. [Как записать клиента из Корзины](../../../../lessons/Урок%208.%20Запись%20на%20ремонт/Как%20записать%20клиента%20из%20Корзины/kak-zapisat-klienta-iz-korziny.md):**
 
 [![Как записать клиента из Корзины](attachments/video-2-zapis_iz_korziny.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-2_Zapis_iz_Korziny.mp4)
 
-**3. [Как записать клиента из Заказ наряда](../../../../lessons/Урок%208.%20Запись%20на%20ремонт/Как%20записать%20клиента%20из%20Заказ%20наряда/kak-zapisat-klienta-iz-zakaz-naryada.md):**
+**3. [Как записать клиента из Заказ-наряда](../../../../lessons/Урок%208.%20Запись%20на%20ремонт/Как%20записать%20клиента%20из%20Заказ-наряда/kak-zapisat-klienta-iz-zakaz-naryada.md):**
 
-[![Как записать клиента из Заказ наряда](attachments/video-3-zapis_iz_zakaz_naryada.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-3_Zapis_iz_Zakaz-naryada.mp4)
+[![Как записать клиента из Заказ-наряда](attachments/video-3-zapis_iz_zakaz_naryada.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-3_Zapis_iz_Zakaz-naryada.mp4)
 
 **4. [Как подобрать автоработы из АРМ Запись на ремонт](../../../../lessons/Урок%208.%20Запись%20на%20ремонт/Как%20подобрать%20автоработы%20из%20АРМ%20Запись%20на%20ремонт/kak-podobrat-avtoraboty-iz-arm-zapis-na-remont.md):**
 

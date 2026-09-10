@@ -393,7 +393,7 @@
 
 [![Как перейти в Онлайн-каталог](attachments/video-12-varianty_perehoda_v_online_katalog.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-2_Varianty_perehoda.mp4)
 
-**3. [Как идентифицировать автомобиль в Онлайн-каталоге](../../../../lessons/Урок%207.%20Онлайн-каталог%20запчастей/Идентификация%20автомобиля%20в%20Онлайн-каталоге/kak-identificirovat-avtomobil-v-onlayn-kataloge.md):**
+**3. [Как идентифицировать автомобиль в Онлайн-каталоге](../../../../lessons/Урок%207.%20Онлайн-каталог%20запчастей/Как%20идентифицировать%20автомобиль%20в%20Онлайн-каталоге/kak-identificirovat-avtomobil-v-onlayn-kataloge.md):**
 
 [![Как идентифицировать автомобиль в Онлайн-каталоге](attachments/video-13-identifikaciya_avtomobilya_v_online_kataloge.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-3_Identifikaciya_avtomobilya.mp4)
 
