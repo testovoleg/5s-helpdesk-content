@@ -19,7 +19,7 @@
 
 1. [Назначение и интерфейс АРМ "Корзина"](../../Проценка%20запчастей%20и%20работ/Назначение%20и%20интерфейс%20АРМ%20Корзина/naznachenie-i-interfeys-arm-korzina.md):
 
-[![Korzina-1_Naznachenie_i_interfeys](attachments/video-01-korzina-1-naznachenie-i-interfeys.png)](https://edu.5systems.ru/video/Korzina/Korzina-1_Naznachenie_i_interfeys.mp4)
+   [![Korzina-1_Naznachenie_i_interfeys](attachments/video-01-korzina-1-naznachenie-i-interfeys.png)](https://edu.5systems.ru/video/Korzina/Korzina-1_Naznachenie_i_interfeys.mp4)
 
 2. [Как подбирать запасные части в АРМ Корзина](../../Проценка%20запчастей%20и%20работ/Как%20подбирать%20запасные%20части%20в%20АРМ%20Корзина/kak-podbirat-zapasnye-chasti-v-arm-korzina.md):
 
