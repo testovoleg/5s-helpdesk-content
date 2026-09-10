@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:51:56+03:00",
+  "generated_at": "2026-09-10T11:01:11+03:00",
   "count": 418,
   "sections": {
     "tips": [
@@ -358,6 +358,46 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Контроль неликвидов/Выявление неликвидов",
+      "title": "Выявление неликвидов",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2023-06-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T10:35:23+03:00",
+      "reading_time": 22
+    },
+    {
+      "path": "articles/5S AUTO/Контроль неликвидов/Настройка прав доступа к Контролю неликвидов",
+      "title": "Настройка прав доступа к Контролю неликвидов",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2023-06-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T10:35:23+03:00",
+      "reading_time": 14
+    },
+    {
+      "path": "articles/5S AUTO/Контроль неликвидов/Настройки процесса Контроля неликвидов",
+      "title": "Настройки процесса Контроля неликвидов",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2023-06-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T10:35:23+03:00",
+      "reading_time": 13
+    },
+    {
+      "path": "articles/5S AUTO/Контроль неликвидов/Принятие решения по неликвидам",
+      "title": "Принятие решения по неликвидам",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2023-06-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T10:35:23+03:00",
+      "reading_time": 20
+    },
     {
       "path": "articles/5S AUTO/Аналитика/Настройка интеграции с Calltouch",
       "title": "Настройка интеграции с Calltouch",
@@ -4806,46 +4846,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Контроль неликвидов/Выявление неликвидов",
-      "title": "Выявление неликвидов",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2023-06-14",
-      "date_kind": "updated",
-      "added_at": "2023-06-14",
-      "reading_time": 22
-    },
-    {
-      "path": "articles/5S AUTO/Контроль неликвидов/Настройка прав доступа к Контролю неликвидов",
-      "title": "Настройка прав доступа к Контролю неликвидов",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2023-06-14",
-      "date_kind": "updated",
-      "added_at": "2023-06-14",
-      "reading_time": 14
-    },
-    {
-      "path": "articles/5S AUTO/Контроль неликвидов/Настройки процесса Контроля неликвидов",
-      "title": "Настройки процесса Контроля неликвидов",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2023-06-14",
-      "date_kind": "updated",
-      "added_at": "2023-06-14",
-      "reading_time": 13
-    },
-    {
-      "path": "articles/5S AUTO/Контроль неликвидов/Принятие решения по неликвидам",
-      "title": "Принятие решения по неликвидам",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2023-06-14",
-      "date_kind": "updated",
-      "added_at": "2023-06-14",
-      "reading_time": 20
     }
   ]
 }
