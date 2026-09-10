@@ -95,7 +95,7 @@
 - *[Канбан сделок](../../../articles/5S%20AUTO/CRM/Канбан%20сделок/kanban-sdelok.md), [Список сделок](../../../articles/5S%20AUTO/CRM/Список%20сделок/spisok-sdelok.md), [Работа со сделкой](../../../articles/5S%20AUTO/CRM/Работа%20со%20сделкой/rabota-so-sdelkoy.md), [События сделки](../../../articles/5S%20AUTO/CRM/События%20сделки/sobytiya-sdelki.md)* и другие статьи в разделе [CRM](https://5systems.ru/taxonomy/term/149);
 - *[Контрагенты и контакты](../../../articles/5S%20AUTO/Работа%20с%20клиентами/Контрагенты%20и%20контакты/kontragenty-i-kontakty.md), [Идентификация клиента на форме сделки](../../../articles/5S%20AUTO/Работа%20с%20клиентами/Идентификация%20клиента%20на%20форме%20Сделки/identifikaciya-klienta-na-forme-sdelki.md)* и другие статьи в разделе [Работа с клиентами](https://5systems.ru/taxonomy/term/151);
 - *[Настройка рекламных каналов](../../../articles/5S%20AUTO/Аналитика/Настройка%20рекламных%20каналов/nastroyka-reklamnykh-kanalov.md);*<br>
-  и *[другие](https://5systems.ru/articles).*
+  и *[другие](../../../articles/).*
 
 <div align="center">
 

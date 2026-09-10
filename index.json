@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:43:51+03:00",
+  "generated_at": "2026-09-10T11:49:42+03:00",
   "count": 422,
   "sections": {
     "tips": [
@@ -358,6 +358,16 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Прочее/Как обратиться в техническую поддержку",
+      "title": "Как обратиться в техническую поддержку",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2026-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T11:42:31+03:00",
+      "reading_time": 9
+    },
     {
       "path": "articles/5S AUTO/Прочее/Бот техподдержки в Max",
       "title": "Бот техподдержки в Max",
@@ -4876,16 +4886,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Прочее/Как обратиться в техническую поддержку",
-      "title": "Как обратиться в техническую поддержку",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2026-06-24",
-      "date_kind": "updated",
-      "added_at": "2026-06-24",
-      "reading_time": 9
     }
   ]
 }

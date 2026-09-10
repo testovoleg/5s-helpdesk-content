@@ -37,7 +37,7 @@
 *и статьи на Базе знаний:*
 
 - *[Автомобили](../../../articles/5S%20AUTO/Автосервис/Автомобили/avtomobili.md)*
-- *[Модели автомобилей и другие справочники](../../../articles/5S%20AUTO/Автосервис/Модели%20автомобилей%20и%20другие%20справочники/modeli-avtomobiley-i-drugie-spravochniki.md)* и [другие](https://5systems.ru/articles).
+- *[Модели автомобилей и другие справочники](../../../articles/5S%20AUTO/Автосервис/Модели%20автомобилей%20и%20другие%20справочники/modeli-avtomobiley-i-drugie-spravochniki.md)* и [другие](../../../articles/).
 
 <div align="center">
 
