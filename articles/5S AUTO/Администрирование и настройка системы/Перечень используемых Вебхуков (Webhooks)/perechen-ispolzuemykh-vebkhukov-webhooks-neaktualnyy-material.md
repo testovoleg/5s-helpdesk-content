@@ -6,6 +6,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/perechen-ispolzuemykh-vebkhukov-webhooks-neaktualnyy-material</sub>
 
+> *Комментарий: статья требует актуализации.*
+
 ## Содержание
 
 1. [Введение](#введение)
