@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T15:17:51+03:00",
-  "count": 424,
+  "generated_at": "2026-09-10T15:34:00+03:00",
+  "count": 427,
   "sections": {
     "tips": [
       {
@@ -4982,6 +4982,39 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Торговое оборудование/Решение распространенных ошибок при работе с кассой",
+      "title": "Решение распространенных ошибок при работе с кассой",
+      "type": "articles",
+      "order": 10,
+      "updated_at": "2025-12-24",
+      "date_kind": "updated",
+      "added_at": "2025-12-24",
+      "reading_time": 16,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/EuroAuto (ЕвроАвто)",
+      "title": "Настройка Веб-сервиса EuroAuto (ЕвроАвто)",
+      "type": "articles",
+      "order": 57,
+      "updated_at": "2023-04-04",
+      "date_kind": "updated",
+      "added_at": "2023-04-04",
+      "reading_time": 5,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Описание реквизитов прайс-листа",
+      "title": "Описание реквизитов прайс-листа",
+      "type": "articles",
+      "order": 23,
+      "updated_at": "2022-06-27",
+      "date_kind": "updated",
+      "added_at": "2022-06-27",
+      "reading_time": 6,
+      "hidden": true
     }
   ]
 }
