@@ -25,6 +25,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 # Время чтения показываем только у больших статей; советы читаются за минуту
 READING_TIME_ROOTS = ("articles", "lessons")
+# Статьи без времени чтения по решению редакции: архив «Что нового» — это
+# список ссылок, читать его подряд никто не будет (Катя, 10.09.2026)
+NO_READING_TIME = (
+    "articles/5S AUTO/Полезное/Последние добавленные статьи",
+    "articles/5S AUTO/Полезное/Уроки по системе 5S AUTO",   # тоже список ссылок
+)
 CONTENT_ROOTS = ("tips", "articles", "lessons")
 
 # Подпись у даты: "Создано", если материал с тех пор не правили, иначе
@@ -232,7 +238,7 @@ def apply(
     label = LABEL_OLD if transferred else (label or LABEL_NEW)
 
     reading = None
-    if rel.startswith(READING_TIME_ROOTS):
+    if rel.startswith(READING_TIME_ROOTS) and not rel.startswith(NO_READING_TIME):
         reading = current_reading(text) or f"{estimate_minutes(text)} мин."
 
     layout = layout_of(text, rel)
