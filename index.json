@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T15:20:00+03:00",
-  "count": 424,
+  "generated_at": "2026-09-10T16:49:40+03:00",
+  "count": 431,
   "sections": {
     "tips": [
       {
@@ -436,6 +436,83 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Автосервис/Монитор мастеров",
+      "title": "Монитор мастеров",
+      "type": "articles",
+      "order": 22,
+      "updated_at": "2022-06-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T16:22:20+03:00",
+      "reading_time": 4,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Перечень используемых Вебхуков (Webhooks)",
+      "title": "Перечень используемых Вебхуков (Webhooks) (неактуальный материал)",
+      "type": "articles",
+      "order": 25,
+      "updated_at": "2022-06-17",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T16:22:20+03:00",
+      "reading_time": 18,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Задачи/Работа с задачами",
+      "title": "Работа с задачами",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T16:22:20+03:00",
+      "reading_time": 41,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Полезное/Обучающие видеоролики",
+      "title": "Обучающие видеоролики",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-09-17",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T16:22:20+03:00",
+      "reading_time": 10,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/EuroAuto (ЕвроАвто)",
+      "title": "Настройка Веб-сервиса EuroAuto (ЕвроАвто)",
+      "type": "articles",
+      "order": 57,
+      "updated_at": "2023-04-04",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T15:32:59+03:00",
+      "reading_time": 5,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Описание реквизитов прайс-листа",
+      "title": "Описание реквизитов прайс-листа",
+      "type": "articles",
+      "order": 23,
+      "updated_at": "2022-06-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T15:32:59+03:00",
+      "reading_time": 6,
+      "hidden": true
+    },
+    {
+      "path": "articles/5S AUTO/Торговое оборудование/Решение распространенных ошибок при работе с кассой",
+      "title": "Решение распространенных ошибок при работе с кассой",
+      "type": "articles",
+      "order": 10,
+      "updated_at": "2025-12-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-10T15:32:59+03:00",
+      "reading_time": 16,
+      "hidden": true
+    },
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "title": "Последние добавленные статьи",
