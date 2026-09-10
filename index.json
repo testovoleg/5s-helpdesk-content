@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T13:53:02+03:00",
-  "count": 422,
+  "generated_at": "2026-09-10T14:39:24+03:00",
+  "count": 424,
   "sections": {
     "tips": [
       {
@@ -545,6 +545,26 @@
       "date_kind": "updated",
       "added_at": "2026-09-10T10:03:28+03:00",
       "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
+      "title": "Последние добавленные статьи",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2026-09-10",
+      "date_kind": "updated",
+      "added_at": "2026-09-10",
+      "reading_time": 33
+    },
+    {
+      "path": "articles/5S AUTO/Полезное/Уроки по системе 5S AUTO",
+      "title": "Уроки по системе \"5S AUTO\"",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-09-10",
+      "date_kind": "updated",
+      "added_at": "2026-09-10",
+      "reading_time": 2
     },
     {
       "path": "articles/5S AUTO/Практики/Организация порядка на складе",
