@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T15:45:30+03:00",
-  "count": 518,
+  "generated_at": "2026-09-11T15:56:55+03:00",
+  "count": 521,
   "sections": {
     "tips": [
       {
@@ -1641,6 +1641,30 @@
       "reading_time": 8
     },
     {
+      "path": "lessons/Урок 7. Онлайн-каталог запчастей/Практическое задание по теме «Онлайн-каталог запчастей»",
+      "file": "prakticheskoe-zadanie-po-teme-onlayn-katalog-zapchastey.md",
+      "sha": "7f2afde7fea50ee19055e3d8f8b980af38a5eee1",
+      "title": "Практическое задание по теме \"Онлайн-каталог запчастей\"",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2026-09-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 7. Онлайн-каталог запчастей/Тестирование по курсу «Работа с онлайн-каталогом запчастей»",
+      "file": "testirovanie-po-kursu-rabota-s-onlayn-katalogom-zapchastey.md",
+      "sha": "5df32ff72fa2633318f266792f6fd72da3878c35",
+      "title": "Тестирование по курсу \"Работа с онлайн-каталогом запчастей\"",
+      "type": "lessons",
+      "order": 7,
+      "updated_at": "2026-09-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11",
+      "reading_time": 1
+    },
+    {
       "path": "articles/5S AUTO/Автосервис/Монитор мастеров",
       "file": "monitor-masterov.md",
       "sha": "a835486087e84f513940d5e96f00e1df521ea99d",
@@ -1734,7 +1758,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "3203dabbac5cd3b7518fdb79ab0c804282c4938e",
+      "sha": "c613dadaa90537d0de84a78a6d5a8414dde07a9f",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -2308,7 +2332,7 @@
     {
       "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
       "file": "markirovka-tovarov.md",
-      "sha": "303f9b8472c6ab78bbb45647bc18f35727acb911",
+      "sha": "b4d30f6fb65a64d37ec96c983efb7c5c2871b727",
       "title": "Маркировка товаров",
       "type": "articles",
       "order": 0,
@@ -7089,6 +7113,18 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "lessons/Урок 7. Онлайн-каталог запчастей/Как подключить онлайн-каталог",
+      "file": "kak-podklyuchit-onlayn-katalog.md",
+      "sha": "2ffd34d4960c81187fca3d8ad363b63c2977588b",
+      "title": "Как подключить онлайн-каталог",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2022-05-27",
+      "date_kind": "updated",
+      "added_at": "2022-05-27",
+      "reading_time": 4
     }
   ]
 }

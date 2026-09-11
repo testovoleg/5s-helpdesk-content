@@ -594,7 +594,7 @@
 ## Ноябрь 2022
 
 1. [Как подключить Telegram](https://5systems.ru/help/kak-podklyuchit-telegram) *Новый урок*
-2. [Как подключить онлайн-каталог](https://5systems.ru/help/kak-podklyuchit-onlayn-katalog) *Новый урок*
+2. [Как подключить онлайн-каталог](../../../../lessons/Урок%207.%20Онлайн-каталог%20запчастей/Как%20подключить%20онлайн-каталог/kak-podklyuchit-onlayn-katalog.md) *Новый урок*
 3. [Принцип работы с соцсетью “ВКонтакте”](https://5systems.ru/help/princip-raboty-s-socsetyu-vkontakte) *Новая статья*
 4. [Настройка интеграции с соцсетью “ВКонтакте”](https://5systems.ru/help/nastroyka-integracii-s-socsetyu-vkontakte) *Новая статья*
 5. [Пользователи](../../Пользователи%20и%20права/Пользователи/polzovateli.md) *Статья обновлена*
