@@ -172,8 +172,8 @@
 3. [Возможные проблемы с WABA и их устранение](../../Сообщения/WhatsApp/Возможные%20проблемы%20с%20WABA%20и%20их%20устранение/vozmozhnye-problemy-s-waba-i-ikh-ustranenie.md), [Настройки интеграции с WhatsApp Business API](../../Сообщения/WhatsApp/Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md) и [Регистрация компании в Facebook и 360dialog](../../Сообщения/WhatsApp/Регистрация%20компании%20в%20Facebook%20и%20360dialog/registraciya-kompanii-v-facebook-i-360dialog.md) *Статьи дополнены рекомендациями по снижению вероятности блокировки*
 4. *Обновлены уроки:*
    - [Как работать с интерфейсом 5S AUTO](../../../../lessons/Интерфейс%20программы/Как%20работать%20с%20интерфейсом%205S%20AUTO/kak-rabotat-s-interfeysom-5s-auto.md)
-   - [Как записать клиента из Сделки](https://www.5systems.ru/help/kak-zapisat-klienta-iz-sdelki)
-   - [Как создать заказ-наряд из Сделки](https://www.5systems.ru/help/kak-sozdat-zakaz-naryad-iz-sdelki)
+   - [Как записать клиента из Сделки](../../../../lessons/Урок%201.%20CRM/Как%20записать%20клиента%20из%20Сделки/kak-zapisat-klienta-iz-sdelki.md)
+   - [Как создать заказ-наряд из Сделки](../../../../lessons/Урок%201.%20CRM/Как%20создать%20заказ-наряд%20из%20Сделки/kak-sozdat-zakaz-naryad-iz-sdelki.md)
    - [Как работать с поиском](../../../../lessons/Интерфейс%20программы/Как%20работать%20с%20поиском/kak-rabotat-s-poiskom.md)
    - [Как расшифровать автомобиль по гос. номеру](https://www.5systems.ru/help/kak-rasshifrovat-avtomobil-po-gos-nomeru)
    - [Как расшифровать автомобиль по VIN](https://www.5systems.ru/help/kak-rasshifrovat-avtomobil-po-vin)
@@ -188,16 +188,16 @@
 2. [Настройка видимости складов](../../Администрирование%20и%20настройка%20системы/Настройка%20видимости%20складов/nastroyka-vidimosti-skladov.md) *Статья обновлена в связи с доработкой функционала*
 3. [Подключение кассы ККМ](../../Торговое%20оборудование/Подключение%20кассы%20ККМ/podklyuchenie-kassy-kkm.md) *Обновлены разделы статьи "[Ставки НДС и Налоговые группы](../../Торговое%20оборудование/Подключение%20кассы%20ККМ/podklyuchenie-kassy-kkm.md#ставки-ндс-и-налоговые-группы)" и "[Пароль кассира ККМ в настройках драйвера оборудования](../../Торговое%20оборудование/Подключение%20кассы%20ККМ/podklyuchenie-kassy-kkm.md#пароль-кассира-ккм)"*
 4. [Настройка параметров уведомлений](../../CRM/Настройка%20параметров%20уведомлений/nastroyka-parametrov-uvedomleniy.md) *Статья обновлена*
-5. [Как квалифицировать Лид](https://www.5systems.ru/help/kak-kvalificirovat-lid) *Урок обновлен*
+5. [Как квалифицировать Лид](../../../../lessons/Урок%201.%20CRM/Как%20квалифицировать%20Лид/kak-kvalificirovat-lid.md) *Урок обновлен*
 6. *Обновлены уроки:*
-   - [Как идентифицировать клиента в Сделке](https://www.5systems.ru/help/kak-identificirovat-klienta-v-sdelke)
-   - [Как отразить результат общения с клиентом](https://www.5systems.ru/help/kak-otrazit-rezultat-obscheniya-s-klientom)
-   - [Как перенаправить Сделку на другого сотрудника](https://www.5systems.ru/help/kak-perenapravit-sdelku-na-drugogo-sotrudnika)
-   - [Как отправить сообщение из Сделки](https://www.5systems.ru/help/kak-otpravit-soobschenie-iz-sdelki)
-   - [Как запланировать звонок клиенту](https://www.5systems.ru/help/kak-zaplanirovat-zvonok-klientu)
-   - [Как создать задачу по Сделке](https://www.5systems.ru/help/kak-sozdat-zadachu-po-sdelke)
-   - [Как создать Корзину из Сделки](https://www.5systems.ru/help/kak-sozdat-korzinu-iz-sdelki)
-   - [Как отложить Сделку](https://www.5systems.ru/help/kak-otlozhit-sdelku)
+   - [Как идентифицировать клиента в Сделке](../../../../lessons/Урок%201.%20CRM/Как%20идентифицировать%20клиента%20в%20Сделке/kak-identificirovat-klienta-v-sdelke.md)
+   - [Как отразить результат общения с клиентом](../../../../lessons/Урок%201.%20CRM/Как%20отразить%20результат%20общения%20с%20клиентом/kak-otrazit-rezultat-obscheniya-s-klientom.md)
+   - [Как перенаправить Сделку на другого сотрудника](../../../../lessons/Урок%201.%20CRM/Как%20перенаправить%20Сделку%20на%20другого%20сотрудника/kak-perenapravit-sdelku-na-drugogo-sotrudnika.md)
+   - [Как отправить сообщение из Сделки](../../../../lessons/Урок%201.%20CRM/Как%20отправить%20сообщение%20из%20Сделки/kak-otpravit-soobschenie-iz-sdelki.md)
+   - [Как запланировать звонок клиенту](../../../../lessons/Урок%201.%20CRM/Как%20запланировать%20звонок%20клиенту/kak-zaplanirovat-zvonok-klientu.md)
+   - [Как создать задачу по Сделке](../../../../lessons/Урок%201.%20CRM/Как%20создать%20задачу%20по%20Сделке/kak-sozdat-zadachu-po-sdelke.md)
+   - [Как создать Корзину из Сделки](../../../../lessons/Урок%201.%20CRM/Как%20создать%20Корзину%20из%20Сделки/kak-sozdat-korzinu-iz-sdelki.md)
+   - [Как отложить Сделку](../../../../lessons/Урок%201.%20CRM/Как%20отложить%20Сделку/kak-otlozhit-sdelku.md)
 7. [Как настроить автоматическое формирование цен](https://www.5systems.ru/help/kak-nastroit-avtomaticheskoe-formirovanie-cen) *Урок обновлен и дополнен*
 8. [Автоматическая публикация объявлений на Авито](../../Склад%20и%20запчасти/Автоматическая%20публикация%20объявлений%20на%20Авито/avtomaticheskaya-publikaciya-obyavleniy-na-avito.md) *Новая статья*
 
@@ -511,7 +511,7 @@
 1. [Обработка жалоб от клиентов](../../Управление%20качеством%20обслуживания/Обработка%20жалоб%20от%20клиентов/obrabotka-zhalob-ot-klientov.md) *Статья обновлена, добавлен описание отчета "Анализ жалоб клиентов"*
 2. [Опрос клиента о качестве обслуживания](../../Управление%20качеством%20обслуживания/Опрос%20клиента%20о%20качестве%20обслуживания/opros-klienta-o-kachestve-obsluzhivaniya.md) *Статья обновлена, добавлено описание отчетов*
 3. [Интеграция с ЭДО](../../Интеграция%20с%20внешними%20сервисами/Интеграция%20с%20ЭДО/integraciya-s-edo.md) *Новая статья*
-4. [Как квалифицировать Лид](https://5systems.ru/help/kak-kvalificirovat-lid) *Дополнен урок*
+4. [Как квалифицировать Лид](../../../../lessons/Урок%201.%20CRM/Как%20квалифицировать%20Лид/kak-kvalificirovat-lid.md) *Дополнен урок*
 
 ## Август 2023
 
@@ -619,7 +619,7 @@
 7. [Календарь для планирования работ](../../Запись%20на%20ремонт/Календарь%20для%20планирования%20работ/kalendar-dlya-planirovaniya-rabot.md) *Статья обновлена*
 8. [Планирование работ и подготовка к заезду](../../Запись%20на%20ремонт/Планирование%20работ%20и%20подготовка%20к%20заезду/planirovanie-rabot-i-podgotovka-k-zaezdu.md) *Статья обновлена*
 9. [Начальные настройки для работы в АРМ “Запись на ремонт”](../../Запись%20на%20ремонт/Начальные%20настройки%20для%20работы%20в%20АРМ%20Запись%20на%20ремонт/nachalnye-nastroyki-dlya-raboty-v-arm-zapis-na-remont.md) *Статья обновлена*
-10. [Как квалифицировать Лид](https://5systems.ru/help/kak-kvalificirovat-lid) *Новый урок*
+10. [Как квалифицировать Лид](../../../../lessons/Урок%201.%20CRM/Как%20квалифицировать%20Лид/kak-kvalificirovat-lid.md) *Новый урок*
 11. [Отложенные сделки](../../CRM/Отложенные%20сделки/otlozhennye-sdelki.md) *Новая статья*
 12. [Приглашение в Telegram](../../CRM/Приглашение%20в%20Telegram/priglashenie-v-telegram.md) *Новая статья*
 13. [Лента событий](../../Работа%20с%20клиентами/Лента%20событий/lenta-sobytiy.md) *Статья полностью обновлена*
