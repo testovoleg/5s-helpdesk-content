@@ -192,27 +192,27 @@
 
 ## Видеоинструкции по работе с АРМ Клиенты и автомобили
 
-**1. [Интерфейс АРМ Клиенты и автомобили](https://www.5systems.ru/help/interfeys-arm-klienty-i-avtomobili):**
+**1. [Интерфейс АРМ Клиенты и автомобили](../../../../lessons/Урок%203.%20Клиенты%20и%20автомобили/Интерфейс%20АРМ%20Клиенты%20и%20автомобили/interfeys-arm-klienty-i-avtomobili.md):**
 
 [![Видео: интерфейс АРМ Клиенты и автомобили](attachments/video-1.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_1-Naznachenie_i_interfeys.mp4)
 
-**2. [Как найти клиента в АРМ Клиенты и автомобили](https://www.5systems.ru/help/kak-nayti-klienta-v-arm-klienty-i-avtomobili):**
+**2. [Как найти клиента в АРМ Клиенты и автомобили](../../../../lessons/Урок%203.%20Клиенты%20и%20автомобили/Как%20найти%20клиента%20в%20АРМ%20Клиенты%20и%20автомобили/kak-nayti-klienta-v-arm-klienty-i-avtomobili.md):**
 
 [![Видео: как найти клиента](attachments/video-2.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_2-Stroki_poiska.mp4)
 
-**3. [Дополнительные критерии поиска в АРМ Клиенты и автомобили](https://www.5systems.ru/help/dopolnitelnye-kriterii-poiska-v-arm-klienty-i-avtomobili):**
+**3. [Дополнительные критерии поиска в АРМ Клиенты и автомобили](../../../../lessons/Урок%203.%20Клиенты%20и%20автомобили/Дополнительные%20критерии%20поиска%20в%20АРМ%20Клиенты%20и%20автомобили/dopolnitelnye-kriterii-poiska-v-arm-klienty-i-avtomobili.md):**
 
 [![Видео: дополнительные критерии поиска](attachments/video-3.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_3-Filtry.mp4)
 
-**4. [Вкладки АРМ Клиенты и автомобили](https://www.5systems.ru/help/vkladki-arm-klienty-i-avtomobili):**
+**4. [Вкладки АРМ Клиенты и автомобили](../../../../lessons/Урок%203.%20Клиенты%20и%20автомобили/Вкладки%20АРМ%20Клиенты%20и%20автомобили/vkladki-arm-klienty-i-avtomobili.md):**
 
 [![Видео: вкладки АРМ](attachments/video-4.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_4-Informacionnye_zakladki.mp4)
 
-**5. [Как создать обращение в АРМ Клиенты и автомобили](https://www.5systems.ru/help/kak-sozdat-obraschenie-v-arm-klienty-i-avtomobili):**
+**5. [Как создать обращение в АРМ Клиенты и автомобили](../../../../lessons/Урок%203.%20Клиенты%20и%20автомобили/Как%20создать%20обращение%20в%20АРМ%20Клиенты%20и%20автомобили/kak-sozdat-obraschenie-v-arm-klienty-i-avtomobili.md):**
 
 [![Видео: как создать обращение](attachments/video-5.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_5-Sozdanie_obrashcheniya_vruchnuyu.mp4)
 
-**6. [Как перейти в другие АРМ из Клиенты и автомобили](https://www.5systems.ru/help/kak-pereyti-v-drugie-arm-iz-klienty-i-avtomobili):**
+**6. [Как перейти в другие АРМ из Клиенты и автомобили](../../../../lessons/Урок%203.%20Клиенты%20и%20автомобили/Как%20перейти%20в%20другие%20АРМ%20из%20Клиенты%20и%20автомобили/kak-pereyti-v-drugie-arm-iz-klienty-i-avtomobili.md):**
 
 [![Видео: переход в другие АРМ](attachments/video-6.png)](https://edu.5systems.ru/video/Klienty_i_Avtomobili/Klienty_i_Avtomobili_6-Perehod_v_drugie_ARM.mp4)
 
