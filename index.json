@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:43:50+03:00",
+  "generated_at": "2026-09-11T16:45:44+03:00",
   "count": 532,
   "sections": {
     "tips": [
@@ -635,7 +635,7 @@
     {
       "path": "lessons/Урок 9. Работа с Поиском цен/Как подключить веб-сервис поставщика",
       "file": "kak-podklyuchit-veb-servis-postavschika.md",
-      "sha": "cd6e341506890f548bbb7744a97fbcf53da10d7c",
+      "sha": "154af813545140f5ec034d58cfaa117417f815e0",
       "title": "Как подключить веб-сервис поставщика",
       "type": "lessons",
       "order": 0,
@@ -659,7 +659,7 @@
     {
       "path": "lessons/Урок 9. Работа с Поиском цен/Примеры подключения поставщиков Armtek, Rossko, Berg, Mikado",
       "file": "primery-podklyucheniya-postavschikov-armtek-rossko-berg-mikado.md",
-      "sha": "f387fa664fdd4cb0df3bbb4617391db33122936e",
+      "sha": "8661f133b1247d754e5da83c9473d5610f48c5ae",
       "title": "Примеры подключения поставщиков Armtek, Rossko, Berg, Mikado",
       "type": "lessons",
       "order": 1,
