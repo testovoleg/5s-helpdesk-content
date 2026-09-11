@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T17:09:24+03:00",
-  "count": 532,
+  "generated_at": "2026-09-11T17:25:42+03:00",
+  "count": 535,
   "sections": {
     "tips": [
       {
@@ -1043,7 +1043,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Как работать со справочником «Автомобили»",
       "file": "avtomobili.md",
-      "sha": "8eea09ed4bdc5cea12ae3fd67c41f011c8f18e1c",
+      "sha": "de1eb85982544234a853dcee734ba176ef86deec",
       "title": "Как работать со справочником «Автомобили»",
       "type": "lessons",
       "order": 2,
@@ -1787,7 +1787,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Создание карточки автомобиля",
       "file": "sozdanie-kartochki-avtomobilya.md",
-      "sha": "32b8644bd058f6e404f462a74acff957b725f35a",
+      "sha": "36b8232e5cc30b8a28ab9d321dabff53b6bce4da",
       "title": "Создание карточки автомобиля",
       "type": "lessons",
       "order": 8,
@@ -1807,6 +1807,18 @@
       "date_kind": "updated",
       "added_at": "2026-09-11T08:57:43+03:00",
       "reading_time": 8
+    },
+    {
+      "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Практическое задание",
+      "file": "prakticheskoe-zadanie-0.md",
+      "sha": "98c1fd706509dca949f6c822701d2b34b34820d1",
+      "title": "Практическое задание",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2026-09-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11",
+      "reading_time": 1
     },
     {
       "path": "articles/5S AUTO/Автосервис/Монитор мастеров",
@@ -1902,7 +1914,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "c60dc1c8a5b0f1e7619b610534559f3aba5a4ec2",
+      "sha": "84c243c3f545453ce4cafa4d1d9c0df06ccf2711",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -3522,7 +3534,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с TecDoc",
       "file": "integraciya-s-tecdoc.md",
-      "sha": "9cbfa556cca909c5bcf4d54032a1d6dd97fcac36",
+      "sha": "910ad367625215926b54daa370c673bca47c280b",
       "title": "Интеграция с TecDoc",
       "type": "articles",
       "order": 3,
@@ -5660,7 +5672,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Расшифровка автомобиля по VIN",
       "file": "rasshifrovka-avtomobilya-po-vin.md",
-      "sha": "ae2db94e99e0b5dc0320ab703f6deb25d044bde9",
+      "sha": "cd11e701cf2ed14b496ed342098defb61d39dba6",
       "title": "Расшифровка автомобиля по VIN",
       "type": "articles",
       "order": 2,
@@ -6581,7 +6593,7 @@
     {
       "path": "tips/5S AUTO/CRM/Как пополнить баланс для расшифровки авто в ГИБДД",
       "file": "kak-popolnit-balans-dlya-rasshifrovki-avto.md",
-      "sha": "795a504fdca152c3096f6194e900daa3a6ed484d",
+      "sha": "7304a04d07fea08dea8bcea5561c5c94c423dd8f",
       "title": "Как пополнить баланс для расшифровки авто в ГИБДД?",
       "type": "tips",
       "order": 0,
@@ -7257,6 +7269,30 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по гос. номеру",
+      "file": "kak-rasshifrovat-avtomobil-po-gos-nomeru.md",
+      "sha": "967fe5fe16d9a6384ec5128e4bfcc66f9358952f",
+      "title": "Как расшифровать автомобиль по гос. номеру",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2026-07-29",
+      "date_kind": "updated",
+      "added_at": "2026-07-29",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
+      "file": "kak-rasshifrovat-avtomobil-po-vin.md",
+      "sha": "a797dbed40fba4454d84460624afa38e25be0ef7",
+      "title": "Как расшифровать автомобиль по VIN",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2025-10-30",
+      "date_kind": "updated",
+      "added_at": "2025-10-30",
+      "reading_time": 10
     }
   ]
 }
