@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T14:10:14+03:00",
+  "generated_at": "2026-09-11T14:27:34+03:00",
   "count": 503,
   "sections": {
     "tips": [
@@ -601,7 +601,7 @@
       "title": "Как добавить автоработу",
       "type": "lessons",
       "order": 3,
-      "updated_at": "2026-09-11",
+      "updated_at": "2023-12-25",
       "date_kind": "updated",
       "added_at": "2026-09-11T12:01:42+03:00",
       "reading_time": 2
@@ -611,7 +611,7 @@
       "title": "Как добавить номенклатуру",
       "type": "lessons",
       "order": 1,
-      "updated_at": "2026-09-11",
+      "updated_at": "2022-07-08",
       "date_kind": "updated",
       "added_at": "2026-09-11T12:01:42+03:00",
       "reading_time": 1
@@ -621,7 +621,7 @@
       "title": "Как работать со справочником «Автоработы»",
       "type": "lessons",
       "order": 2,
-      "updated_at": "2026-09-11",
+      "updated_at": "2025-07-18",
       "date_kind": "updated",
       "added_at": "2026-09-11T12:01:42+03:00",
       "reading_time": 7
