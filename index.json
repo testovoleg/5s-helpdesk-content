@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T16:36:43+03:00",
-  "count": 528,
+  "generated_at": "2026-09-11T16:41:57+03:00",
+  "count": 532,
   "sections": {
     "tips": [
       {
@@ -1761,6 +1761,42 @@
       "reading_time": 8
     },
     {
+      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Методический материал по теме «Работа с Заказ-нарядами»",
+      "file": "metodicheskiy-material-po-teme-rabota-s-zakaz-naryadami.md",
+      "sha": "3f2c49ec880e9b1230ba0731cf354e36232e948b",
+      "title": "Методический материал по теме: \"Работа с Заказ-нарядами\"",
+      "type": "lessons",
+      "order": 9,
+      "updated_at": "2026-09-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11",
+      "reading_time": 10
+    },
+    {
+      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Практическое задание по теме «Работа с Заказ-нарядами»",
+      "file": "prakticheskoe-zadanie-po-teme-rabota-s-zakaz-naryadami.md",
+      "sha": "0e93b7a1a8ae050a0f27543133c5ee83985914b4",
+      "title": "Практическое задание по теме: \"Работа с Заказ-нарядами\"",
+      "type": "lessons",
+      "order": 10,
+      "updated_at": "2026-09-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Тестирование по курсу «Работа с Заказ-нарядами»",
+      "file": "testirovanie-po-kursu-rabota-s-zakaz-naryadami.md",
+      "sha": "fa94ecbd7afb00b3e425328306564167d96f80af",
+      "title": "Тестирование по курсу \"Работа с Заказ-нарядами\"",
+      "type": "lessons",
+      "order": 11,
+      "updated_at": "2026-09-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11",
+      "reading_time": 1
+    },
+    {
       "path": "articles/5S AUTO/Автосервис/Монитор мастеров",
       "file": "monitor-masterov.md",
       "sha": "7b9563d54d88f225395fd55c79147daad138aaa8",
@@ -1876,7 +1912,7 @@
     {
       "path": "articles/5S AUTO/Прочее/Как обратиться в техническую поддержку",
       "file": "kak-obratitsya-v-tekhnicheskuyu-podderzhku.md",
-      "sha": "df3663f00c7c8dd73f4ee6c5a53ebe94e2cf1861",
+      "sha": "c04b401e76924855b7b1c92627f5af0adcf671f3",
       "title": "Как обратиться в техническую поддержку",
       "type": "articles",
       "order": 0,
@@ -3188,7 +3224,7 @@
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Альфа-Банка",
       "file": "podklyuchenie-sbp-alfa-banka.md",
-      "sha": "d8e948578cff87c382f9d78b777b3a75ddf22f54",
+      "sha": "5426d6d496eb6115c63268be3efb106206778d69",
       "title": "Подключение СБП Альфа-Банка",
       "type": "articles",
       "order": 3,
@@ -6206,7 +6242,7 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Контрагенты и контакты",
       "file": "kontragenty-i-kontakty.md",
-      "sha": "c74ca0116d25df03bcdaa483492e37b32269da2a",
+      "sha": "ce4cc10b867c4aaeddc5be3de575ab8e58da3d99",
       "title": "Контрагенты и контакты",
       "type": "articles",
       "order": 0,
@@ -7209,6 +7245,18 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Как оформить гарантийный заказ-наряд",
+      "file": "kak-oformit-garantiynyy-zakaz-naryad.md",
+      "sha": "ed8e3b4504407f0ddbb579fa004623825c39ddd6",
+      "title": "Как оформить гарантийный заказ-наряд",
+      "type": "lessons",
+      "order": 8,
+      "updated_at": "2022-05-27",
+      "date_kind": "updated",
+      "added_at": "2022-05-27",
+      "reading_time": 6
     }
   ]
 }
