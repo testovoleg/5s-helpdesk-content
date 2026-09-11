@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T15:57:58+03:00",
-  "count": 521,
+  "generated_at": "2026-09-11T16:04:04+03:00",
+  "count": 524,
   "sections": {
     "tips": [
       {
@@ -1677,6 +1677,42 @@
       "reading_time": 8
     },
     {
+      "path": "lessons/Урок 8. Запись на ремонт/Как настроить график работы цеха",
+      "file": "kak-nastroit-grafik-raboty-cekha.md",
+      "sha": "1df4252f7e72c5869c68b521caac41c00e8176ba",
+      "title": "Как настроить график работы цеха",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2026-09-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11",
+      "reading_time": 8
+    },
+    {
+      "path": "lessons/Урок 8. Запись на ремонт/Практическое задание по теме «Запись на Ремонт»",
+      "file": "prakticheskoe-zadanie-po-teme-zapis-na-remont.md",
+      "sha": "b6a865cb3a877b20d50269a0fe0fa5dedd4d5699",
+      "title": "Практическое задание по теме \"Запись на Ремонт\"",
+      "type": "lessons",
+      "order": 7,
+      "updated_at": "2026-09-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 8. Запись на ремонт/Тестирование по курсу «Запись клиентов на ремонт»",
+      "file": "testirovanie-po-kursu-zapis-klientov-na-remont.md",
+      "sha": "b18677ec60a1e929bdecbfb7f24dbf816f19d5ad",
+      "title": "Тестирование по курсу \"Запись клиентов на ремонт\"",
+      "type": "lessons",
+      "order": 8,
+      "updated_at": "2026-09-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11",
+      "reading_time": 1
+    },
+    {
       "path": "articles/5S AUTO/Автосервис/Монитор мастеров",
       "file": "monitor-masterov.md",
       "sha": "a835486087e84f513940d5e96f00e1df521ea99d",
@@ -1770,7 +1806,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "c613dadaa90537d0de84a78a6d5a8414dde07a9f",
+      "sha": "7504afe84768ec15a41612d68048de4ad011ba0f",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -5684,7 +5720,7 @@
     {
       "path": "articles/5S AUTO/Запись на ремонт/Начальные настройки для работы в АРМ Запись на ремонт",
       "file": "nachalnye-nastroyki-dlya-raboty-v-arm-zapis-na-remont.md",
-      "sha": "e34a78abdaaa0b69db0ec96ed1cd5290fd17d71d",
+      "sha": "1cea3cd2121a31a02578c2a4c922a332ecef1758",
       "title": "Начальные настройки для работы в АРМ «Запись на ремонт»",
       "type": "articles",
       "order": 0,
