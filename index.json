@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:30:56+03:00",
+  "generated_at": "2026-09-11T16:36:43+03:00",
   "count": 528,
   "sections": {
     "tips": [
@@ -599,11 +599,11 @@
     {
       "path": "lessons/Урок 9. Работа с Поиском цен/Как подключить веб-сервис поставщика",
       "file": "kak-podklyuchit-veb-servis-postavschika.md",
-      "sha": "e33aab89a88f37d5cf9e48269eaed6bbdbbd3685",
+      "sha": "cd6e341506890f548bbb7744a97fbcf53da10d7c",
       "title": "Как подключить веб-сервис поставщика",
       "type": "lessons",
       "order": 0,
-      "updated_at": "2026-09-11",
+      "updated_at": "2022-07-08",
       "date_kind": "updated",
       "added_at": "2026-09-11T16:29:21+03:00",
       "reading_time": 3
@@ -611,11 +611,11 @@
     {
       "path": "lessons/Урок 9. Работа с Поиском цен/Практическое задание по теме «Поиск цен»",
       "file": "prakticheskoe-zadanie-po-teme-poisk-cen.md",
-      "sha": "948072009856f176851a9cbd83621ab721c21333",
+      "sha": "021a75c8b7ebea8b2b8a3f71b31a7157385a31df",
       "title": "Практическое задание по теме \"Поиск цен\"",
       "type": "lessons",
       "order": 9,
-      "updated_at": "2026-09-11",
+      "updated_at": "2022-07-08",
       "date_kind": "updated",
       "added_at": "2026-09-11T16:29:21+03:00",
       "reading_time": 1
@@ -623,11 +623,11 @@
     {
       "path": "lessons/Урок 9. Работа с Поиском цен/Примеры подключения поставщиков Armtek, Rossko, Berg, Mikado",
       "file": "primery-podklyucheniya-postavschikov-armtek-rossko-berg-mikado.md",
-      "sha": "056cf9a7bd11b9a0b70151acac8f628eb451d267",
+      "sha": "19dfca8b671145bc18e3798940fe65b2fd608369",
       "title": "Примеры подключения поставщиков Armtek, Rossko, Berg, Mikado",
       "type": "lessons",
       "order": 1,
-      "updated_at": "2026-09-11",
+      "updated_at": "2022-08-29",
       "date_kind": "updated",
       "added_at": "2026-09-11T16:29:21+03:00",
       "reading_time": 12
@@ -635,11 +635,11 @@
     {
       "path": "lessons/Урок 9. Работа с Поиском цен/Тестирование по курсу «Поиск предложений в прайс-листах поставщиков»",
       "file": "testirovanie-po-kursu-poisk-predlozheniy-v-prays-listakh-postavschikov.md",
-      "sha": "83f443138920d3af0ba02431c5c3e9d3917c2082",
+      "sha": "35a2f00cafa26e65105c6ff12fbc902955b6d949",
       "title": "Тестирование по курсу \"Поиск предложений в прайс-листах поставщиков\"",
       "type": "lessons",
       "order": 10,
-      "updated_at": "2026-09-11",
+      "updated_at": "2022-07-08",
       "date_kind": "updated",
       "added_at": "2026-09-11T16:29:21+03:00",
       "reading_time": 1
