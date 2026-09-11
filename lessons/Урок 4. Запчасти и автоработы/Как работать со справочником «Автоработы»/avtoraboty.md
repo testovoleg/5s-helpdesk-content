@@ -2,7 +2,7 @@
 
 # Как работать со справочником «Автоработы»
 
-<table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 11.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 18.07.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/avtoraboty</sub>
 
@@ -10,19 +10,7 @@
 
 1. [Расположение справочника “Автоработы”](#расположение-справочника-автоработы)
 2. [Работа со справочником](#работа-со-справочником)
-   - [Кнопки панели управления](#кнопки-панели-управления)
-   - [Поиск по справочнику](#поиск-по-справочнику)
-      - [Вариант 1. Поиск одним полем](#вариант-1-поиск-одним-полем)
-      - [Вариант 2. Поиск по отдельным полям](#вариант-2-поиск-по-отдельным-полям)
 3. [Карточка автоработы](#карточка-автоработы)
-   - [Описание полей карточки автоработы](#описание-полей-карточки-автоработы)
-   - [Вкладки карточки автоработы](#вкладки-карточки-автоработы)
-      - [1. Нормы времени](#1-нормы-времени)
-      - [2. ТО](#2-то)
-      - [3. Связи](#3-связи)
-      - [4. Каталог](#4-каталог)
-      - [5. Дополнительно](#5-дополнительно)
-      - [6. Комментарий](#6-комментарий)
 
 Справочник ***“Автоработы”*** содержит перечень всех авторемонтных работ, производимых компанией.
 
@@ -38,7 +26,7 @@
 
 ### Кнопки панели управления
 
-<table><tr><td><b>Кнопка</b></td><td><b>Описание</b></td></tr><tr><td align="center"><img src="attachments/03-knopka-sozdat-novuyu-avtorabotu.png" alt="Кнопка Создать новую автоработу" /></td><td>Добавить: создать новую автоработу.</td></tr><tr><td align="center"><img src="attachments/04-knopka-dobavit-gruppu.png" alt="Кнопка Добавить группу" /></td><td>Добавить группу: создать папку для группировки списка.</td></tr><tr><td align="center"><img src="attachments/05-knopka-dobavit-kopirovaniem.png" alt="Кнопка Добавить копированием" /></td><td>Добавить новый элемент копированием.</td></tr><tr><td align="center"><img src="attachments/06-knopka-izmenit.png" alt="Кнопка Изменить" /></td><td>Изменить текущий элемент.</td></tr><tr><td align="center"><img src="attachments/07-knopka-pometit-na-udalenie.png" alt="Кнопка Пометить на удаление" /></td><td>Установить пометку удаления.</td></tr><tr><td align="center"><img src="attachments/08-knopka-ierarhicheskiy-prosmotr.png" alt="Кнопка Иерархический просмотр" /></td><td>Включить/отключить иерархический просмотр.</td></tr><tr><td align="center"><img src="attachments/09-knopka-peremestit-v-druguyu-gruppu.png" alt="Кнопка Переместить в другую группу" /></td><td>Переместить элемент в другую группу.</td></tr><tr><td align="center"><img src="attachments/10-knopki-filtrov.png" alt="Кнопки фильтров" /></td><td>Фильтры и отборы.</td></tr><tr><td align="center"><img src="attachments/11-knopka-vvesti-na-osnovanii.png" alt="Кнопка Ввести на основании" /></td><td>Ввести на основании.</td></tr><tr><td align="center"><img src="attachments/12-knopka-obnovit.png" alt="Кнопка Обновить" /></td><td>Обновить текущий список.</td></tr><tr><td align="center"><img src="attachments/13-knopka-pereyti-k-svyazannoy-informacii.png" alt="Кнопка Перейти к связанной информации" /></td><td>Перейти к связанной информации.</td></tr><tr><td align="center"><img src="attachments/14-knopka-prikrepit-fayl-s-kartinkoy.png" alt="Кнопка Прикрепить файл с картинкой" /></td><td>Прикрепление файла с картинкой.</td></tr><tr><td align="center"><img src="attachments/15-knopka-prikrepit-fayl-s-opisaniem.png" alt="Кнопка Прикрепить файл с описанием" /></td><td>Прикрепление файла с описанием.</td></tr></table>
+<table><tr><td><b>Кнопка</b></td><td><b>Описание</b></td></tr><tr><td align="center"><img src="attachments/03-knopka-sozdat-novuyu-avtorabotu.png" alt="Кнопка Создать новую автоработу" /></td><td>Добавить: создать новую автоработу</td></tr><tr><td align="center"><img src="attachments/04-knopka-dobavit-gruppu.png" alt="Кнопка Добавить группу" /></td><td>Добавить группу: создать папку для группировки списка</td></tr><tr><td align="center"><img src="attachments/05-knopka-dobavit-kopirovaniem.png" alt="Кнопка Добавить копированием" /></td><td>Добавить новый элемент копированием</td></tr><tr><td align="center"><img src="attachments/06-knopka-izmenit.png" alt="Кнопка Изменить" /></td><td>Изменить текущий элемент</td></tr><tr><td align="center"><img src="attachments/07-knopka-pometit-na-udalenie.png" alt="Кнопка Пометить на удаление" /></td><td>Установить пометку удаления</td></tr><tr><td align="center"><img src="attachments/08-knopka-ierarhicheskiy-prosmotr.png" alt="Кнопка Иерархический просмотр" /></td><td>Включить/отключить иерархический просмотр</td></tr><tr><td align="center"><img src="attachments/09-knopka-peremestit-v-druguyu-gruppu.png" alt="Кнопка Переместить в другую группу" /></td><td>Переместить элемент в другую группу</td></tr><tr><td align="center"><img src="attachments/10-knopki-filtrov.png" alt="Кнопки фильтров" /></td><td>Фильтры и отборы</td></tr><tr><td align="center"><img src="attachments/11-knopka-vvesti-na-osnovanii.png" alt="Кнопка Ввести на основании" /></td><td>Ввести на основании</td></tr><tr><td align="center"><img src="attachments/12-knopka-obnovit.png" alt="Кнопка Обновить" /></td><td>Обновить текущий список</td></tr><tr><td align="center"><img src="attachments/13-knopka-pereyti-k-svyazannoy-informacii.png" alt="Кнопка Перейти к связанной информации" /></td><td>Перейти к связанной информации</td></tr><tr><td align="center"><img src="attachments/14-knopka-prikrepit-fayl-s-kartinkoy.png" alt="Кнопка Прикрепить файл с картинкой" /></td><td>Прикрепление файла с картинкой</td></tr><tr><td align="center"><img src="attachments/15-knopka-prikrepit-fayl-s-opisaniem.png" alt="Кнопка Прикрепить файл с описанием" /></td><td>Прикрепление файла с описанием</td></tr></table>
 
 ### Поиск по справочнику
 
