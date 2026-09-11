@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:57:58+03:00",
+  "generated_at": "2026-09-11T16:01:19+03:00",
   "count": 521,
   "sections": {
     "tips": [
@@ -1692,7 +1692,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Перечень используемых Вебхуков (Webhooks)",
       "file": "perechen-ispolzuemykh-vebkhukov-webhooks-neaktualnyy-material.md",
-      "sha": "b0df2074f6038770d8d8752e9ed3777abd23e8b5",
+      "sha": "3154aa26559d4953e00d4914ef692d1704db7111",
       "title": "Перечень используемых Вебхуков (Webhooks) (неактуальный материал)",
       "type": "articles",
       "order": 25,
@@ -1705,7 +1705,7 @@
     {
       "path": "articles/5S AUTO/Задачи/Работа с задачами",
       "file": "rabota-s-zadachami.md",
-      "sha": "bdba47895ffd8060e1fbd6db60459c5757b13a6f",
+      "sha": "7daa25eebeb95122e93c6372e8885ff4a4c35011",
       "title": "Работа с задачами",
       "type": "articles",
       "order": 3,
@@ -1770,7 +1770,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "c613dadaa90537d0de84a78a6d5a8414dde07a9f",
+      "sha": "aaa3717b7aaaaca94cb38f8a1a0294315c8b2922",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -6426,7 +6426,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "file": "spravochnik-oborudovanie.md",
-      "sha": "a0d48c4b0984dbdf97b498be1880bef9b90c24ce",
+      "sha": "f0961800cdbfedabe9d87bab2f0e3d53c59b77ae",
       "title": "Справочник «Оборудование»",
       "type": "articles",
       "order": 1,
@@ -6482,7 +6482,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
       "file": "integraciya-s-audatex.md",
-      "sha": "6b5e3081e42041a0d273df6d3d360869390adb5c",
+      "sha": "45865ffd7592abe143d611585f699bc487cb520f",
       "title": "Интеграция с Audatex (AudaPad Web)",
       "type": "articles",
       "order": 19,
@@ -6571,7 +6571,7 @@
     {
       "path": "tips/Техподдержка/Проблема с подключением к серверу — ошибка приложения",
       "file": "problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya.md",
-      "sha": "75f07af7177465a3eedc73bd572b778f2542d1ac",
+      "sha": "109aaf6abdb1ae0101880d1f5f4ca3fbfaa5f79c",
       "title": "Проблема с подключением к серверу — ошибка приложения",
       "type": "tips",
       "order": 0,
@@ -6637,7 +6637,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
       "file": "udalenie-starykh-dannykh.md",
-      "sha": "afe152b92cd9ad7e5c2ef385b32233cf2ef2efbc",
+      "sha": "096af5c9db87b39537c97f0ef22f9084dbe81d76",
       "title": "Удаление старых данных программы",
       "type": "articles",
       "order": 24,
