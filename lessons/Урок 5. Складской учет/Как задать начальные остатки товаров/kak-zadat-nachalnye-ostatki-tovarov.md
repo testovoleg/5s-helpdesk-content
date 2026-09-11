@@ -2,7 +2,7 @@
 
 # Как задать начальные остатки товаров
 
-<table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 11.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 21.11.2022</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/kak-zadat-nachalnye-ostatki-tovarov</sub>
 
