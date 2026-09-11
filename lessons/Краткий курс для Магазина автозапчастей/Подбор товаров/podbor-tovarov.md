@@ -146,6 +146,8 @@
 
 <div align="center">
 
+<br>
+
 *[← Предыдущий урок "Создание сделки"](../Создание%20сделки/sozdanie-sdelki-0.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Следующий урок "Товар в наличии" →](../Товар%20в%20наличии/tovar-v-nalichii.md)*
 
 </div>

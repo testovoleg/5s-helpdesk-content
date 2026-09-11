@@ -28,6 +28,8 @@
 
 <div align="center">
 
+<br>
+
 *[← Предыдущий урок "Отказ поставщика"](../Отказ%20поставщика/otkaz-postavschika.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Следующий урок "Снят резерв" →](../Снят%20резерв/snyat-rezerv.md)*
 
 </div>

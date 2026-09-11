@@ -50,6 +50,8 @@
 
 <div align="center">
 
+<br>
+
 *[← Предыдущий урок "Подбор товаров"](../Подбор%20товаров/podbor-tovarov.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Следующий урок "Оформление заказа" →](../Оформление%20заказа/oformlenie-zakaza.md)*
 
 </div>

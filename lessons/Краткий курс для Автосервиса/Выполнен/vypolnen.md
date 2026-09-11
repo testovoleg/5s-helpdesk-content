@@ -75,6 +75,8 @@
 
 <div align="center">
 
+<br>
+
 *[← Предыдущий урок "В работе"](../В%20работе/v-rabote.md)* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Следующий урок "Обращение первичного клиента" →*](../Обращение%20первичного%20клиента/obraschenie-pervichnogo-klienta.md)
 
 </div>

@@ -26,6 +26,8 @@
 
 <div align="center">
 
+<br>
+
 *[← Предыдущий урок "Доработать"](../Доработать/dorabotat.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Следующий урок "Выдача заказа" →](../Выдача%20заказа/vydacha-zakaza.md)*
 
 </div>

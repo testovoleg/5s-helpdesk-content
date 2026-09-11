@@ -66,6 +66,8 @@
 
 <div align="center">
 
+<br>
+
 *[← Предыдущий урок "Товар в наличии"](../Товар%20в%20наличии/tovar-v-nalichii.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Следующий урок "Отказ поставщика" →](../Отказ%20поставщика/otkaz-postavschika.md)*
 
 </div>

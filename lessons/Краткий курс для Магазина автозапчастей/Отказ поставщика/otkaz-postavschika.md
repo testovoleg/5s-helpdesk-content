@@ -28,6 +28,8 @@
 
 <div align="center">
 
+<br>
+
 *[← Предыдущий урок "Оформление заказа"](../Оформление%20заказа/oformlenie-zakaza.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Следующий урок "Доработать" →](../Доработать/dorabotat.md)*
 
 </div>

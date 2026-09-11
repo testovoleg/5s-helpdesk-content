@@ -68,6 +68,8 @@
 
 <div align="center">
 
+<br>
+
 *[← Предыдущий урок "Записан"](../Записан/zapisan.md)* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Следующий урок "Выполнен" →*](../Выполнен/vypolnen.md)
 
 </div>

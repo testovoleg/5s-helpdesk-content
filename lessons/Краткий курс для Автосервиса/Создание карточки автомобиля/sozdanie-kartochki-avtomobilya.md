@@ -33,6 +33,8 @@
 
 <div align="center">
 
+<br>
+
 *[← Предыдущий урок "Обращение первичного клиента"](../Обращение%20первичного%20клиента/obraschenie-pervichnogo-klienta.md)*
 
 </div>

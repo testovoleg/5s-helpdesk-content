@@ -53,6 +53,8 @@
 
 <div align="center">
 
+<br>
+
 *[← Предыдущий урок "Согласование"](../Согласование/soglasovanie.md)* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Следующий урок "Записан" →*](../Записан/zapisan.md)
 
 </div>

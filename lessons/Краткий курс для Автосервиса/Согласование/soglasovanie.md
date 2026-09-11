@@ -26,6 +26,8 @@
 
 <div align="center">
 
+<br>
+
 *[← Предыдущий урок "Заявка"](../Заявка/zayavka.md)* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Следующий урок "Заказ запчастей" →*](../Заказ%20запчастей/zakaz-zapchastey.md)
 
 </div>

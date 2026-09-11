@@ -30,6 +30,8 @@
 
 <div align="center">
 
+<br>
+
 *[← Предыдущий урок "Выполнен"](../Выполнен/vypolnen.md)* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Следующий урок "Создание карточки автомобиля" →*](../Создание%20карточки%20автомобиля/sozdanie-kartochki-avtomobilya.md)
 
 </div>
