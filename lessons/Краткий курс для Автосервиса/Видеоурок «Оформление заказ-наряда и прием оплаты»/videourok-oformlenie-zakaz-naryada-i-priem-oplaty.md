@@ -2,7 +2,7 @@
 
 # Видеоурок "Оформление заказ-наряда и прием оплаты"
 
-<table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 11.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 12.09.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/videourok-oformlenie-zakaz-naryada-i-priem-oplaty</sub>
 

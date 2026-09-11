@@ -2,7 +2,7 @@
 
 # Видеоурок "Калькуляция и запись на ремонт"
 
-<table><tr><td><b>Время чтения:</b> 14 мин.</td><td><b>Обновлено:</b> 11.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 14 мин.</td><td><b>Обновлено:</b> 12.09.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/videourok-kalkulyaciya-i-zapis-na-remont</sub>
 
