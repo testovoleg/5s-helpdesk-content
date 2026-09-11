@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:45:44+03:00",
+  "generated_at": "2026-09-11T17:01:07+03:00",
   "count": 532,
   "sections": {
     "tips": [
@@ -611,11 +611,11 @@
     {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Методический материал по теме «Работа с Заказ-нарядами»",
       "file": "metodicheskiy-material-po-teme-rabota-s-zakaz-naryadami.md",
-      "sha": "3f2c49ec880e9b1230ba0731cf354e36232e948b",
+      "sha": "a53ca0eb9a1ddae54c42ad71126b527f3838935d",
       "title": "Методический материал по теме: \"Работа с Заказ-нарядами\"",
       "type": "lessons",
       "order": 9,
-      "updated_at": "2026-09-11",
+      "updated_at": "2022-07-08",
       "date_kind": "updated",
       "added_at": "2026-09-11T16:41:42+03:00",
       "reading_time": 10
@@ -623,11 +623,11 @@
     {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Практическое задание по теме «Работа с Заказ-нарядами»",
       "file": "prakticheskoe-zadanie-po-teme-rabota-s-zakaz-naryadami.md",
-      "sha": "0e93b7a1a8ae050a0f27543133c5ee83985914b4",
+      "sha": "4ff38aea32486abb39c23c0dffb9addfe6d5199a",
       "title": "Практическое задание по теме: \"Работа с Заказ-нарядами\"",
       "type": "lessons",
       "order": 10,
-      "updated_at": "2026-09-11",
+      "updated_at": "2022-07-11",
       "date_kind": "updated",
       "added_at": "2026-09-11T16:41:42+03:00",
       "reading_time": 2
@@ -947,11 +947,11 @@
     {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Тестирование по курсу «Работа с Заказ-нарядами»",
       "file": "testirovanie-po-kursu-rabota-s-zakaz-naryadami.md",
-      "sha": "fa94ecbd7afb00b3e425328306564167d96f80af",
+      "sha": "5c2c569679ef9a846c10b306fa190a554bdae3a8",
       "title": "Тестирование по курсу \"Работа с Заказ-нарядами\"",
       "type": "lessons",
       "order": 11,
-      "updated_at": "2026-09-11",
+      "updated_at": "2022-07-11",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:46:07+03:00",
       "reading_time": 1
