@@ -2,7 +2,7 @@
 
 # Действия с подобранными деталями в Онлайн-каталоге
 
-<table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 07.09.2022</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 2 мин.</td><td><b>Обновлено:</b> 07.09.2022</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/deystviya-s-podobrannymi-detalyami-v-onlayn-kataloge</sub>
 
