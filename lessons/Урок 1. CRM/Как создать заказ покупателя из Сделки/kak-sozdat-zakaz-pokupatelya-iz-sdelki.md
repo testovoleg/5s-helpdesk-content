@@ -2,7 +2,7 @@
 
 # Как создать заказ покупателя из Сделки
 
-<table><tr><td><b>Время чтения:</b> 1 мин.</td><td><b>Обновлено:</b> 11.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 1 мин.</td><td><b>Обновлено:</b> 23.07.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/kak-sozdat-zakaz-pokupatelya-iz-sdelki</sub>
 
