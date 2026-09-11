@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:15:12+03:00",
+  "generated_at": "2026-09-11T10:25:38+03:00",
   "count": 458,
   "sections": {
     "tips": [
@@ -596,6 +596,66 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Краткий курс для Автосалона/Встреча",
+      "title": "Встреча",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2024-11-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T10:14:50+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "lessons/Краткий курс для Автосалона/Выдача автомобиля",
+      "title": "Выдача автомобиля",
+      "type": "lessons",
+      "order": 7,
+      "updated_at": "2024-11-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T10:14:50+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Краткий курс для Автосалона/Договор",
+      "title": "Договор",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2024-11-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T10:14:50+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "lessons/Краткий курс для Автосалона/Расчет Трейд-Ин",
+      "title": "Расчет Трейд-Ин",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2024-11-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T10:14:50+03:00",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Краткий курс для Автосалона/Расчет кредита",
+      "title": "Расчет кредита",
+      "type": "lessons",
+      "order": 5,
+      "updated_at": "2024-11-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T10:14:50+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "lessons/Краткий курс для Автосалона/Тест-драйв",
+      "title": "Тест-драйв",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2024-11-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T10:14:50+03:00",
+      "reading_time": 3
+    },
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Выдача заказа",
       "title": "Выдача заказа",
@@ -5393,66 +5453,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "lessons/Краткий курс для Автосалона/Встреча",
-      "title": "Встреча",
-      "type": "lessons",
-      "order": 2,
-      "updated_at": "2024-11-28",
-      "date_kind": "updated",
-      "added_at": "2024-11-28",
-      "reading_time": 5
-    },
-    {
-      "path": "lessons/Краткий курс для Автосалона/Выдача автомобиля",
-      "title": "Выдача автомобиля",
-      "type": "lessons",
-      "order": 7,
-      "updated_at": "2024-11-28",
-      "date_kind": "updated",
-      "added_at": "2024-11-28",
-      "reading_time": 4
-    },
-    {
-      "path": "lessons/Краткий курс для Автосалона/Договор",
-      "title": "Договор",
-      "type": "lessons",
-      "order": 6,
-      "updated_at": "2024-11-28",
-      "date_kind": "updated",
-      "added_at": "2024-11-28",
-      "reading_time": 7
-    },
-    {
-      "path": "lessons/Краткий курс для Автосалона/Расчет Трейд-Ин",
-      "title": "Расчет Трейд-Ин",
-      "type": "lessons",
-      "order": 4,
-      "updated_at": "2024-11-28",
-      "date_kind": "updated",
-      "added_at": "2024-11-28",
-      "reading_time": 3
-    },
-    {
-      "path": "lessons/Краткий курс для Автосалона/Расчет кредита",
-      "title": "Расчет кредита",
-      "type": "lessons",
-      "order": 5,
-      "updated_at": "2024-11-28",
-      "date_kind": "updated",
-      "added_at": "2024-11-28",
-      "reading_time": 5
-    },
-    {
-      "path": "lessons/Краткий курс для Автосалона/Тест-драйв",
-      "title": "Тест-драйв",
-      "type": "lessons",
-      "order": 3,
-      "updated_at": "2024-11-28",
-      "date_kind": "updated",
-      "added_at": "2024-11-28",
-      "reading_time": 3
     }
   ]
 }
