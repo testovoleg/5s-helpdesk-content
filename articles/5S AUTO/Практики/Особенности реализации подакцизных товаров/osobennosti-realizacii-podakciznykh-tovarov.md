@@ -79,9 +79,9 @@
 
 ![Подакцизные товары - Предупреждение о двух чеках](attachments/09-podakciznye-tovary-preduprezhdenie-o-dvuh-chekah.png)
 
-<table><tr><td>Пробьем первый чек:</td><td>Перейдем в режим "Оплата док." и нажмем кнопку "Выбрать":</td></tr><tr><td><img src="attachments/10-podakciznye-tovary-probitie-pervogo-cheka.png" alt="Подакцизные товары - Пробитие первого чека" /></td><td><img src="attachments/11-podakciznye-tovary-perehod-k-probitiyu-otlozhennogo-cheka.png" alt="Подакцизные товары - Переход к пробитию отложенного чека" /></td></tr></table>
+<table><tr><td>Пробьем первый чек:</td><td>Перейдем в режим "Оплата док." и нажмем кнопку "Выбрать":</td></tr><tr><td align="center"><img src="attachments/10-podakciznye-tovary-probitie-pervogo-cheka.png" alt="Подакцизные товары - Пробитие первого чека" /></td><td align="center"><img src="attachments/11-podakciznye-tovary-perehod-k-probitiyu-otlozhennogo-cheka.png" alt="Подакцизные товары - Переход к пробитию отложенного чека" /></td></tr></table>
 
-<table><tr><td>Выберем отложенный чек двойным кликом левой клавиши мыши:</td><td>Пробьем загруженный во фронт кассира отложенный чек:</td></tr><tr><td><img src="attachments/12-podakciznye-tovary-vybor-otlozhennogo-cheka-na-oplatu.png" alt="Подакцизные товары - Выбор отложенного чека на оплату" /></td><td><img src="attachments/13-podakciznye-tovary-probitie-vtorogo-cheka.png" alt="Подакцизные товары - Пробитие второго чека" /></td></tr></table>
+<table><tr><td>Выберем отложенный чек двойным кликом левой клавиши мыши:</td><td>Пробьем загруженный во фронт кассира отложенный чек:</td></tr><tr><td align="center"><img src="attachments/12-podakciznye-tovary-vybor-otlozhennogo-cheka-na-oplatu.png" alt="Подакцизные товары - Выбор отложенного чека на оплату" /></td><td align="center"><img src="attachments/13-podakciznye-tovary-probitie-vtorogo-cheka.png" alt="Подакцизные товары - Пробитие второго чека" /></td></tr></table>
 
 В результате по документу сформировалась 2 чека на оплату по разным подразделениям:
 
