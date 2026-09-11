@@ -298,8 +298,28 @@ def collect_borrowed() -> dict[str, list[dict]]:
     return borrowed
 
 
+def cached_added_dates() -> dict[str, str]:
+    """Даты появления материалов из прежнего index.json.
+
+    Дата появления у пути не меняется, а git log --follow по каждому из
+    ~450 материалов — это 5–8 минут на каждый коммит (хук pre-commit).
+    Берём готовое значение, если оно уже от git (с временем и поясом);
+    дата-заглушка вида ГГГГ-ММ-ДД (материал ещё не был закоммичен, см.
+    «or updated_at» ниже) пересчитывается, пока git её не узнает."""
+    try:
+        old = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    return {
+        m["path"]: m["added_at"]
+        for m in old.get("materials", [])
+        if isinstance(m.get("added_at"), str) and "T" in m["added_at"]
+    }
+
+
 def collect_materials() -> list[dict]:
     borrowed = collect_borrowed()
+    cached = cached_added_dates()
     materials: list[dict] = []
 
     for root in CONTENT_ROOTS:
@@ -351,7 +371,8 @@ def collect_materials() -> list[dict]:
                 # created — материал с момента создания не правили
                 "date_kind": meta.get("date_kind", "updated"),
                 # Когда материал появился у нас — по ней порядок в индексе
-                "added_at": git_added_date(md_path.relative_to(ROOT).as_posix())
+                "added_at": cached.get(rel)
+                or git_added_date(md_path.relative_to(ROOT).as_posix())
                 or updated_at,
             }
             if meta.get("reading_time"):

@@ -41,6 +41,8 @@
 
 <div align="center">
 
+<br>
+
 *[← Предыдущий урок “Регистрация обращения”](../Регистрация%20обращения/registraciya-obrascheniya.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Следующий урок "Встреча" →](https://www.5systems.ru/help/vstrecha)*
 
 </div>

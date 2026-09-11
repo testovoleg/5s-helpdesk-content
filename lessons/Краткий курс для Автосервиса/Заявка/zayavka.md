@@ -117,6 +117,8 @@
 
 <div align="center">
 
+<br>
+
 *[← Предыдущий урок "Создание сделки"](../Создание%20сделки/sozdanie-sdelki.md)* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Следующий урок "Согласование" →*](../Согласование/soglasovanie.md)
 
 </div>
