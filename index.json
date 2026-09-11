@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T15:46:54+03:00",
-  "count": 518,
+  "generated_at": "2026-09-11T15:57:58+03:00",
+  "count": 521,
   "sections": {
     "tips": [
       {
@@ -597,6 +597,30 @@
   },
   "materials": [
     {
+      "path": "lessons/Урок 7. Онлайн-каталог запчастей/Как подключить онлайн-каталог",
+      "file": "kak-podklyuchit-onlayn-katalog.md",
+      "sha": "2ffd34d4960c81187fca3d8ad363b63c2977588b",
+      "title": "Как подключить онлайн-каталог",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2022-05-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T15:56:38+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 7. Онлайн-каталог запчастей/Практическое задание по теме «Онлайн-каталог запчастей»",
+      "file": "prakticheskoe-zadanie-po-teme-onlayn-katalog-zapchastey.md",
+      "sha": "a155441a160546cb6c1790a7a9f7b1a8b7ca1622",
+      "title": "Практическое задание по теме \"Онлайн-каталог запчастей\"",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2022-07-08",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T15:56:38+03:00",
+      "reading_time": 1
+    },
+    {
       "path": "lessons/Урок 6. Подбор запчастей и работ/Практическое задание по теме «АРМ Корзина»",
       "file": "prakticheskoe-zadanie-po-teme-arm-korzina.md",
       "sha": "09d60a3ce167b783cd9dc2a2bdbbf3e634a937d2",
@@ -987,6 +1011,18 @@
       "title": "Тестирование по курсу \"Подбор запчастей и авторабот\"",
       "type": "lessons",
       "order": 11,
+      "updated_at": "2022-07-08",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T11:46:07+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 7. Онлайн-каталог запчастей/Тестирование по курсу «Работа с онлайн-каталогом запчастей»",
+      "file": "testirovanie-po-kursu-rabota-s-onlayn-katalogom-zapchastey.md",
+      "sha": "eebe1d1350ccae5e55c794f21b9929935372d3de",
+      "title": "Тестирование по курсу \"Работа с онлайн-каталогом запчастей\"",
+      "type": "lessons",
+      "order": 7,
       "updated_at": "2022-07-08",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:46:07+03:00",
@@ -1656,7 +1692,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Перечень используемых Вебхуков (Webhooks)",
       "file": "perechen-ispolzuemykh-vebkhukov-webhooks-neaktualnyy-material.md",
-      "sha": "3154aa26559d4953e00d4914ef692d1704db7111",
+      "sha": "b0df2074f6038770d8d8752e9ed3777abd23e8b5",
       "title": "Перечень используемых Вебхуков (Webhooks) (неактуальный материал)",
       "type": "articles",
       "order": 25,
@@ -1669,7 +1705,7 @@
     {
       "path": "articles/5S AUTO/Задачи/Работа с задачами",
       "file": "rabota-s-zadachami.md",
-      "sha": "7daa25eebeb95122e93c6372e8885ff4a4c35011",
+      "sha": "bdba47895ffd8060e1fbd6db60459c5757b13a6f",
       "title": "Работа с задачами",
       "type": "articles",
       "order": 3,
@@ -1734,7 +1770,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "3e08bf36c78940e5d1476f0930b66ecc08c28d7c",
+      "sha": "c613dadaa90537d0de84a78a6d5a8414dde07a9f",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -2308,7 +2344,7 @@
     {
       "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
       "file": "markirovka-tovarov.md",
-      "sha": "303f9b8472c6ab78bbb45647bc18f35727acb911",
+      "sha": "b4d30f6fb65a64d37ec96c983efb7c5c2871b727",
       "title": "Маркировка товаров",
       "type": "articles",
       "order": 0,
@@ -6390,7 +6426,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "file": "spravochnik-oborudovanie.md",
-      "sha": "f0961800cdbfedabe9d87bab2f0e3d53c59b77ae",
+      "sha": "a0d48c4b0984dbdf97b498be1880bef9b90c24ce",
       "title": "Справочник «Оборудование»",
       "type": "articles",
       "order": 1,
@@ -6446,7 +6482,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
       "file": "integraciya-s-audatex.md",
-      "sha": "45865ffd7592abe143d611585f699bc487cb520f",
+      "sha": "6b5e3081e42041a0d273df6d3d360869390adb5c",
       "title": "Интеграция с Audatex (AudaPad Web)",
       "type": "articles",
       "order": 19,
@@ -6535,7 +6571,7 @@
     {
       "path": "tips/Техподдержка/Проблема с подключением к серверу — ошибка приложения",
       "file": "problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya.md",
-      "sha": "109aaf6abdb1ae0101880d1f5f4ca3fbfaa5f79c",
+      "sha": "75f07af7177465a3eedc73bd572b778f2542d1ac",
       "title": "Проблема с подключением к серверу — ошибка приложения",
       "type": "tips",
       "order": 0,
@@ -6601,7 +6637,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
       "file": "udalenie-starykh-dannykh.md",
-      "sha": "096af5c9db87b39537c97f0ef22f9084dbe81d76",
+      "sha": "afe152b92cd9ad7e5c2ef385b32233cf2ef2efbc",
       "title": "Удаление старых данных программы",
       "type": "articles",
       "order": 24,
