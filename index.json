@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:56:55+03:00",
+  "generated_at": "2026-09-11T15:57:58+03:00",
   "count": 521,
   "sections": {
     "tips": [
@@ -597,6 +597,30 @@
   },
   "materials": [
     {
+      "path": "lessons/Урок 7. Онлайн-каталог запчастей/Как подключить онлайн-каталог",
+      "file": "kak-podklyuchit-onlayn-katalog.md",
+      "sha": "2ffd34d4960c81187fca3d8ad363b63c2977588b",
+      "title": "Как подключить онлайн-каталог",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2022-05-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T15:56:38+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 7. Онлайн-каталог запчастей/Практическое задание по теме «Онлайн-каталог запчастей»",
+      "file": "prakticheskoe-zadanie-po-teme-onlayn-katalog-zapchastey.md",
+      "sha": "a155441a160546cb6c1790a7a9f7b1a8b7ca1622",
+      "title": "Практическое задание по теме \"Онлайн-каталог запчастей\"",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2022-07-08",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T15:56:38+03:00",
+      "reading_time": 1
+    },
+    {
       "path": "lessons/Урок 6. Подбор запчастей и работ/Практическое задание по теме «АРМ Корзина»",
       "file": "prakticheskoe-zadanie-po-teme-arm-korzina.md",
       "sha": "09d60a3ce167b783cd9dc2a2bdbbf3e634a937d2",
@@ -987,6 +1011,18 @@
       "title": "Тестирование по курсу \"Подбор запчастей и авторабот\"",
       "type": "lessons",
       "order": 11,
+      "updated_at": "2022-07-08",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T11:46:07+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 7. Онлайн-каталог запчастей/Тестирование по курсу «Работа с онлайн-каталогом запчастей»",
+      "file": "testirovanie-po-kursu-rabota-s-onlayn-katalogom-zapchastey.md",
+      "sha": "eebe1d1350ccae5e55c794f21b9929935372d3de",
+      "title": "Тестирование по курсу \"Работа с онлайн-каталогом запчастей\"",
+      "type": "lessons",
+      "order": 7,
       "updated_at": "2022-07-08",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:46:07+03:00",
@@ -1639,30 +1675,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-11T08:57:43+03:00",
       "reading_time": 8
-    },
-    {
-      "path": "lessons/Урок 7. Онлайн-каталог запчастей/Практическое задание по теме «Онлайн-каталог запчастей»",
-      "file": "prakticheskoe-zadanie-po-teme-onlayn-katalog-zapchastey.md",
-      "sha": "7f2afde7fea50ee19055e3d8f8b980af38a5eee1",
-      "title": "Практическое задание по теме \"Онлайн-каталог запчастей\"",
-      "type": "lessons",
-      "order": 6,
-      "updated_at": "2026-09-11",
-      "date_kind": "updated",
-      "added_at": "2026-09-11",
-      "reading_time": 1
-    },
-    {
-      "path": "lessons/Урок 7. Онлайн-каталог запчастей/Тестирование по курсу «Работа с онлайн-каталогом запчастей»",
-      "file": "testirovanie-po-kursu-rabota-s-onlayn-katalogom-zapchastey.md",
-      "sha": "5df32ff72fa2633318f266792f6fd72da3878c35",
-      "title": "Тестирование по курсу \"Работа с онлайн-каталогом запчастей\"",
-      "type": "lessons",
-      "order": 7,
-      "updated_at": "2026-09-11",
-      "date_kind": "updated",
-      "added_at": "2026-09-11",
-      "reading_time": 1
     },
     {
       "path": "articles/5S AUTO/Автосервис/Монитор мастеров",
@@ -7113,18 +7125,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "lessons/Урок 7. Онлайн-каталог запчастей/Как подключить онлайн-каталог",
-      "file": "kak-podklyuchit-onlayn-katalog.md",
-      "sha": "2ffd34d4960c81187fca3d8ad363b63c2977588b",
-      "title": "Как подключить онлайн-каталог",
-      "type": "lessons",
-      "order": 0,
-      "updated_at": "2022-05-27",
-      "date_kind": "updated",
-      "added_at": "2022-05-27",
-      "reading_time": 4
     }
   ]
 }
