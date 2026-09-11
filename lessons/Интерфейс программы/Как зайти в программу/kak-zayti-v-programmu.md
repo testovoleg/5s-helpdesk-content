@@ -2,7 +2,7 @@
 
 # Как зайти в программу
 
-<table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 11.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 12.03.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/kak-zayti-v-programmu</sub>
 
