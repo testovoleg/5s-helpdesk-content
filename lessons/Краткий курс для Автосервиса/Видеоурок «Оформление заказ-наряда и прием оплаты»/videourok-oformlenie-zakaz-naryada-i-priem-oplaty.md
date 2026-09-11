@@ -8,14 +8,14 @@
 
 ## Содержание
 
-1. [РАБОТА С ЗАКАЗ-НАРЯДОМ](#работа-с-заказ-нарядом)
+1. [Работа с Заказ-нарядом](#работа-с-заказ-нарядом)
 2. [Прием оплаты](#прием-оплаты)
 
 [![Vvodnyj_urok_Zakaz-naryad_i_oplata](attachments/video-01-vvodnyj-urok-zakaz-naryad-i-oplata.png)](https://edu.5systems.ru/video/Kratkiy_kurs_dlya_Avtoservisa/Vvodnyj_urok_Zakaz-naryad_i_oplata.mp4)
 
 *Видеоурок. Время просмотра – 3:30 мин.*
 
-## РАБОТА С ЗАКАЗ-НАРЯДОМ
+## Работа с Заказ-нарядом
 
 Одним из основных документов 5S AUTO является заказ-наряд.
 
