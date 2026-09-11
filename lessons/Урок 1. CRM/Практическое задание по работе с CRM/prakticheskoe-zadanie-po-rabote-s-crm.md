@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Практическое задание по работе с CRM
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 11.07.2022</td></tr></table>
@@ -28,5 +26,3 @@
 ---
 
 **Теги:** CRM, сделка, практическое задание
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

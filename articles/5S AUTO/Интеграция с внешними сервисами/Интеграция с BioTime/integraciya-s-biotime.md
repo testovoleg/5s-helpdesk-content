@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Интеграция с BioTime
 
 <table><tr><td><b>Время чтения:</b> 21 мин.</td><td><b>Обновлено:</b> 28.12.2022</td></tr></table>
@@ -201,5 +199,3 @@
 ---
 
 **Теги:** BioTime, учет рабочего времени, интеграция, настройка, персонал
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

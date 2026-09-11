@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Настройка интеграции с WhatsApp
 
 <table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 20.05.2025</td></tr></table>
@@ -162,5 +160,3 @@
 ---
 
 **Теги:** WhatsApp, интеграция, настройка, пользовательский аккаунт, мессенджеры
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

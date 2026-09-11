@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Контакт-центр 5S Chat
 
 <table><tr><td><b>Время чтения:</b> 14 мин.</td><td><b>Обновлено:</b> 09.02.2026</td></tr></table>
@@ -243,5 +241,3 @@
 ---
 
 **Теги:** 5S Chat, контакт-центр, чаты, операторы, мессенджеры
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

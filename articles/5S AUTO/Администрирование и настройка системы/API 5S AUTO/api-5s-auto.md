@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # API 5S AUTO
 
 <table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 11.08.2026</td></tr></table>
@@ -119,5 +117,3 @@ IP-адреса серверов компании 5SYSTEMS:
 ---
 
 **Теги:** администрирование, api, интеграция, http-сервис, ключ доступа
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

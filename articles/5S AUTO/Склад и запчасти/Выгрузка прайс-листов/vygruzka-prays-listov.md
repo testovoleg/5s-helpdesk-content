@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Выгрузка прайс-листов
 
 <table><tr><td><b>Время чтения:</b> 17 мин.</td><td><b>Обновлено:</b> 20.08.2025</td></tr></table>
@@ -273,5 +271,3 @@
 ---
 
 **Теги:** выгрузка прайс-листов, виды прайс-листов, avito, drom, ftp, e-mail, расписание
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

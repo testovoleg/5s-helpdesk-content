@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Настройка интеграции с телефонией MANGO OFFICE
 
 <table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 26.03.2026</td></tr></table>
@@ -194,5 +192,3 @@
 ---
 
 **Теги:** телефония, mango office, интеграция, настройка, api, внутренние номера
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

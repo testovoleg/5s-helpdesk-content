@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Оформление аккаунта WhatsApp Business API
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 14.05.2025</td></tr></table>
@@ -85,5 +83,3 @@
 ---
 
 **Теги:** WhatsApp, WABA, аккаунт, оформление, профиль компании
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Уроки по системе "5S AUTO"
 
 <table><tr><td><b>Обновлено:</b> 29.12.2025</td></tr></table>
@@ -46,5 +44,3 @@
 ---
 
 **Теги:** полезное, уроки, курсы, обучение
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

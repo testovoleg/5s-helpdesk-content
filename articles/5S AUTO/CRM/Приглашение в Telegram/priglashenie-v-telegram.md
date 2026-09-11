@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Приглашение в Telegram
 
 <table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 26.12.2025</td></tr></table>
@@ -33,5 +31,3 @@
 ---
 
 **Теги:** Telegram, приглашение в Telegram, чаты, мессенджеры, шаблоны сообщений, карточка контрагента, Telegram-бот
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Интеграция с Telegram
 
 <table><tr><td><b>Время чтения:</b> 25 мин.</td><td><b>Обновлено:</b> 03.09.2024</td></tr></table>
@@ -355,5 +353,3 @@
 ---
 
 **Теги:** Telegram, интеграция, чат-бот, BotFather, токен, мессенджеры
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

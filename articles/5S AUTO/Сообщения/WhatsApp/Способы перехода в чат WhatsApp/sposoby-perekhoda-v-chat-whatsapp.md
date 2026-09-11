@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Способы перехода в чат WhatsApp
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 14.05.2025</td></tr></table>
@@ -98,5 +96,3 @@
 ---
 
 **Теги:** WhatsApp, чат, переход в чат, ссылка, мессенджеры
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

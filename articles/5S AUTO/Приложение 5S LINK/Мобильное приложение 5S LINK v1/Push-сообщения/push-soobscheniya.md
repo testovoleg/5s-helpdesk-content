@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Push-сообщения
 
 <table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 09.12.2024</td></tr></table>
@@ -104,5 +102,3 @@
 ---
 
 **Теги:** 5s link, push-сообщения, сделка, контрагент, лента событий, сообщение
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

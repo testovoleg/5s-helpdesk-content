@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:06:09+03:00",
+  "generated_at": "2026-09-11T16:14:30+03:00",
   "count": 524,
   "sections": {
     "tips": [
@@ -599,7 +599,7 @@
     {
       "path": "lessons/Урок 8. Запись на ремонт/Как настроить график работы цеха",
       "file": "kak-nastroit-grafik-raboty-cekha.md",
-      "sha": "d40117c170cebb12953d59fb3276da97c5b2fda5",
+      "sha": "81e4925f3c550fbd392c557ba5c220559641213b",
       "title": "Как настроить график работы цеха",
       "type": "lessons",
       "order": 6,
@@ -611,7 +611,7 @@
     {
       "path": "lessons/Урок 8. Запись на ремонт/Практическое задание по теме «Запись на Ремонт»",
       "file": "prakticheskoe-zadanie-po-teme-zapis-na-remont.md",
-      "sha": "1b81ced264211c54fa982655d1ce2705e6b68c54",
+      "sha": "081cb737cc6d0ae11ec4fb5b07d5c584240b3e9b",
       "title": "Практическое задание по теме \"Запись на Ремонт\"",
       "type": "lessons",
       "order": 7,
@@ -623,7 +623,7 @@
     {
       "path": "lessons/Урок 7. Онлайн-каталог запчастей/Как подключить онлайн-каталог",
       "file": "kak-podklyuchit-onlayn-katalog.md",
-      "sha": "2ffd34d4960c81187fca3d8ad363b63c2977588b",
+      "sha": "0bf7c8897f3a0b0d7207a7c445e9d2291e95e491",
       "title": "Как подключить онлайн-каталог",
       "type": "lessons",
       "order": 0,
@@ -635,7 +635,7 @@
     {
       "path": "lessons/Урок 7. Онлайн-каталог запчастей/Практическое задание по теме «Онлайн-каталог запчастей»",
       "file": "prakticheskoe-zadanie-po-teme-onlayn-katalog-zapchastey.md",
-      "sha": "a155441a160546cb6c1790a7a9f7b1a8b7ca1622",
+      "sha": "ac3fd03665c79b6b97aeb6e3c0588d9fe16c0ff1",
       "title": "Практическое задание по теме \"Онлайн-каталог запчастей\"",
       "type": "lessons",
       "order": 6,
@@ -647,7 +647,7 @@
     {
       "path": "lessons/Урок 6. Подбор запчастей и работ/Практическое задание по теме «АРМ Корзина»",
       "file": "prakticheskoe-zadanie-po-teme-arm-korzina.md",
-      "sha": "09d60a3ce167b783cd9dc2a2bdbbf3e634a937d2",
+      "sha": "4f48e735025f60792656347bd5440cb1c2e8ff96",
       "title": "Практическое задание по теме \"АРМ Корзина\"",
       "type": "lessons",
       "order": 10,
@@ -659,7 +659,7 @@
     {
       "path": "lessons/Урок 5. Складской учет/Как добавить склад",
       "file": "kak-dobavit-sklad.md",
-      "sha": "30d670768ab2dd817119e3dafd4acdaf69b6f9a0",
+      "sha": "a612c5f394420e37102cf2db4b1b30fd927178af",
       "title": "Как добавить склад",
       "type": "lessons",
       "order": 5,
@@ -671,7 +671,7 @@
     {
       "path": "lessons/Урок 5. Складской учет/Как задать начальные остатки товаров",
       "file": "kak-zadat-nachalnye-ostatki-tovarov.md",
-      "sha": "3a1b91bb71f1d4aee425665682905ed678e97fee",
+      "sha": "adfde4841bbeae867d37736db880da725ff10c0d",
       "title": "Как задать начальные остатки товаров",
       "type": "lessons",
       "order": 0,
@@ -683,7 +683,7 @@
     {
       "path": "lessons/Урок 5. Складской учет/Как отразить расходы на доставку",
       "file": "kak-otrazit-raskhody-na-dostavku.md",
-      "sha": "6c9b28254e1c0988f91219d3f1b083b96f04af24",
+      "sha": "766594a8d1ed6987b4164f7af9ba6ce252dd36ac",
       "title": "Как отразить расходы на доставку",
       "type": "lessons",
       "order": 2,
@@ -695,7 +695,7 @@
     {
       "path": "lessons/Урок 5. Складской учет/Как оформить возврат товаров на склад из производства",
       "file": "kak-oformit-vozvrat-tovarov-na-sklad-iz-proizvodstva.md",
-      "sha": "e0c52bc50d4bcc154dfb6d8712cdec80504879de",
+      "sha": "c14b6cad9a2fddee5b91b5de85d0741d6977d17f",
       "title": "Как оформить возврат товаров на склад из производства",
       "type": "lessons",
       "order": 7,
@@ -707,7 +707,7 @@
     {
       "path": "lessons/Урок 5. Складской учет/Как оформить возврат товаров от покупателя",
       "file": "kak-oformit-vozvrat-tovarov-ot-pokupatelya.md",
-      "sha": "01ce2c4e5f10fc9dd075508e0a98a21cebdc1524",
+      "sha": "738b4db576c301b5040b1cd13ccd3c483ceeae5c",
       "title": "Как оформить возврат товаров от покупателя",
       "type": "lessons",
       "order": 4,
@@ -719,7 +719,7 @@
     {
       "path": "lessons/Урок 5. Складской учет/Как оформить выдачу товаров со склада под заказ-наряд",
       "file": "kak-oformit-vydachu-tovarov-so-sklada-pod-zakaz-naryad.md",
-      "sha": "e4cc3d5cf01bc7d1628862822631559f01e315e0",
+      "sha": "4ea18b4e0f4fe3bd96309bdef8ee237ecb534386",
       "title": "Как оформить выдачу товаров со склада под заказ-наряд",
       "type": "lessons",
       "order": 6,
@@ -731,7 +731,7 @@
     {
       "path": "lessons/Урок 5. Складской учет/Как оформить инвентаризацию по ячейкам хранения",
       "file": "kak-oformit-inventarizaciyu-po-yacheykam-khraneniya.md",
-      "sha": "a8f8f442dee1609466fab3308eb8c0df4b8dde56",
+      "sha": "0d5f97a975048af55a13f58d6903edfefbb0328f",
       "title": "Как оформить инвентаризацию по ячейкам хранения",
       "type": "lessons",
       "order": 11,
@@ -743,7 +743,7 @@
     {
       "path": "lessons/Урок 5. Складской учет/Как оформить инвентаризацию товаров на складе",
       "file": "kak-oformit-inventarizaciyu-tovarov-na-sklade.md",
-      "sha": "6036f9b8aa6c0be857619599728a4bc0e156507b",
+      "sha": "b3d1d5bf632f71840ce30182894de085314300d8",
       "title": "Как оформить инвентаризацию товаров на складе",
       "type": "lessons",
       "order": 10,
@@ -755,7 +755,7 @@
     {
       "path": "lessons/Урок 5. Складской учет/Как оформить перемещение товаров с одного склада на другой",
       "file": "kak-oformit-peremeschenie-tovarov-s-odnogo-sklada-na-drugoy.md",
-      "sha": "5cf31b436c2a2f731d9f1084528bff8c2caf28fe",
+      "sha": "c2e1460c42134e0c01d3e4d6b0606e7029ce4aad",
       "title": "Как оформить перемещение товаров с одного склада на другой",
       "type": "lessons",
       "order": 8,
@@ -767,7 +767,7 @@
     {
       "path": "lessons/Урок 5. Складской учет/Как оформить поступление товаров от поставщика",
       "file": "kak-oformit-postuplenie-tovarov-ot-postavschika.md",
-      "sha": "c1ccb36bdbf125dcdbd297298f47b3f5f345c04e",
+      "sha": "59b3008e066fef1eed3af16953e916b2d691ce9c",
       "title": "Как оформить поступление товаров от поставщика",
       "type": "lessons",
       "order": 1,
@@ -779,7 +779,7 @@
     {
       "path": "lessons/Урок 5. Складской учет/Как оформить продажу товаров клиенту",
       "file": "kak-oformit-prodazhu-tovarov-klientu.md",
-      "sha": "1b6cf23175380a084b9af05f4f0c0e800a8f99b9",
+      "sha": "1fdd5672237ef6e1993f03f67236a12706085488",
       "title": "Как оформить продажу товаров клиенту",
       "type": "lessons",
       "order": 3,
@@ -791,7 +791,7 @@
     {
       "path": "lessons/Урок 5. Складской учет/Как оформить списание товаров",
       "file": "kak-oformit-spisanie-tovarov.md",
-      "sha": "9f583dc32356dc2760765cde19d221c65f8d5942",
+      "sha": "3f1d56ad6a4165177222df9e7fb110f731774ffd",
       "title": "Как оформить списание товаров",
       "type": "lessons",
       "order": 9,
@@ -803,7 +803,7 @@
     {
       "path": "lessons/Урок 5. Складской учет/Как создать ячейки хранения для склада",
       "file": "kak-sozdat-yacheyki-khraneniya-dlya-sklada.md",
-      "sha": "0f142698ea2aa27b46949f05a11b6b3535db947c",
+      "sha": "498ee7fde44a4a7b9b88e29dabb1fc4816e35d74",
       "title": "Как создать ячейки хранения для склада",
       "type": "lessons",
       "order": 12,
@@ -815,7 +815,7 @@
     {
       "path": "lessons/Урок 4. Запчасти и автоработы/Как добавить автоработу",
       "file": "kak-dobavit-avtorabotu.md",
-      "sha": "43bd5b205adb0bca6edc792b3fe714362d63e76e",
+      "sha": "9efdf302a1b346297efa468dbeed4d4befcf01ef",
       "title": "Как добавить автоработу",
       "type": "lessons",
       "order": 3,
@@ -827,7 +827,7 @@
     {
       "path": "lessons/Урок 4. Запчасти и автоработы/Как добавить номенклатуру",
       "file": "kak-dobavit-nomenklaturu.md",
-      "sha": "ee9176be9d9e081675bbd329ba37794830e8d2b5",
+      "sha": "8af43af34d794302427899ec13e4060c8d1c617a",
       "title": "Как добавить номенклатуру",
       "type": "lessons",
       "order": 1,
@@ -839,7 +839,7 @@
     {
       "path": "lessons/Урок 4. Запчасти и автоработы/Как работать со справочником «Автоработы»",
       "file": "avtoraboty.md",
-      "sha": "ebd21ed3e42a1e796993ba6030e0c674cb5492e1",
+      "sha": "d2a1fa4f30232ce6ce43d86d20ec295e6589863b",
       "title": "Как работать со справочником «Автоработы»",
       "type": "lessons",
       "order": 2,
@@ -851,7 +851,7 @@
     {
       "path": "lessons/Урок 4. Запчасти и автоработы/Как работать со справочником «Номенклатура»",
       "file": "nomenklatura.md",
-      "sha": "ccc5a8412844dcb6ccd5051a5e4eb60de4bc1095",
+      "sha": "bbc491deb2ea6a8586b8545c05fe4359be13006a",
       "title": "Как работать со справочником «Номенклатура»",
       "type": "lessons",
       "order": 0,
@@ -863,7 +863,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Вкладки АРМ Клиенты и автомобили",
       "file": "vkladki-arm-klienty-i-avtomobili.md",
-      "sha": "d97f03d6a11eb74a5376923bf717ab4c72640b01",
+      "sha": "aaa760ba6aa5043e32b413d3979e43d4bb9862e6",
       "title": "Вкладки АРМ Клиенты и автомобили",
       "type": "lessons",
       "order": 9,
@@ -875,7 +875,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Дополнительные критерии поиска в АРМ Клиенты и автомобили",
       "file": "dopolnitelnye-kriterii-poiska-v-arm-klienty-i-avtomobili.md",
-      "sha": "c7464f742bdb1d3220e93fcf4b26a345bc42aec5",
+      "sha": "d8c7f3b97412e710857af02e84084a5713da7edc",
       "title": "Дополнительные критерии поиска в АРМ Клиенты и автомобили",
       "type": "lessons",
       "order": 8,
@@ -887,7 +887,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Интерфейс АРМ Клиенты и автомобили",
       "file": "interfeys-arm-klienty-i-avtomobili.md",
-      "sha": "02a6f8f098f13256e7eabaf2f053c20b451ed37f",
+      "sha": "c7072bd99df83b04a7e6f5670c95c69ee72f92a9",
       "title": "Интерфейс АРМ Клиенты и автомобили",
       "type": "lessons",
       "order": 4,
@@ -899,7 +899,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Как добавить нового клиента",
       "file": "kak-dobavit-novogo-klienta.md",
-      "sha": "b09dfde53dcc55be89c660c50c9b4cb4c33d42f4",
+      "sha": "f2715a925f319b5a969bd1f0625dccf06a96f37b",
       "title": "Как добавить нового клиента",
       "type": "lessons",
       "order": 6,
@@ -911,7 +911,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Как добавить новый автомобиль",
       "file": "kak-dobavit-novyy-avtomobil.md",
-      "sha": "049c9a1a7cb1843997929a30b684a0471d2fdcd0",
+      "sha": "60bbecc7ad5e58e6b3c9d1fbd0211ce0786be718",
       "title": "Как добавить новый автомобиль",
       "type": "lessons",
       "order": 7,
@@ -923,7 +923,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Как найти клиента в АРМ Клиенты и автомобили",
       "file": "kak-nayti-klienta-v-arm-klienty-i-avtomobili.md",
-      "sha": "a5d95eeeaacec908b18a42d0dc4cf45e4b12d405",
+      "sha": "73e0ed603b982260d4137e1c9ad4a5053e360899",
       "title": "Как найти клиента в АРМ Клиенты и автомобили",
       "type": "lessons",
       "order": 5,
@@ -935,7 +935,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Как перейти в другие АРМ из Клиенты и автомобили",
       "file": "kak-pereyti-v-drugie-arm-iz-klienty-i-avtomobili.md",
-      "sha": "1a282692bffbf3b0626db2cbff47f60693deff06",
+      "sha": "26201b6042508bfda1118ce46765c48bb638e615",
       "title": "Как перейти в другие АРМ из Клиенты и автомобили",
       "type": "lessons",
       "order": 11,
@@ -947,7 +947,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Как работать со справочником «Автомобили»",
       "file": "avtomobili.md",
-      "sha": "255ab8a1d0bfd5bf61d6def175de7c0d565296c7",
+      "sha": "8eea09ed4bdc5cea12ae3fd67c41f011c8f18e1c",
       "title": "Как работать со справочником «Автомобили»",
       "type": "lessons",
       "order": 2,
@@ -959,7 +959,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Как работать со справочником «Контрагенты и контакты»",
       "file": "kontragenty-i-kontakty.md",
-      "sha": "91ce562bbc3185b8cba2ad824b5705f2e7a37b4e",
+      "sha": "59f423def3cb5683aed49f06da19dac29d11af51",
       "title": "Как работать со справочником «Контрагенты и контакты»",
       "type": "lessons",
       "order": 0,
@@ -971,7 +971,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Как работать со справочником «Модели автомобилей»",
       "file": "modeli-avtomobiley.md",
-      "sha": "a522e0fb5b1eb03496869da7ced172205e29cf44",
+      "sha": "1a4f62af28bc32e740d4bb59349ce63e17c39d5f",
       "title": "Как работать со справочником «Модели автомобилей»",
       "type": "lessons",
       "order": 3,
@@ -983,7 +983,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Как создать контрагента по ИНН",
       "file": "kak-sozdat-kontragenta-po-inn.md",
-      "sha": "8ec5ff3ec810fe8a473c79e587c924329548753b",
+      "sha": "69357eb5085f824991b37778b7d7af59a9353190",
       "title": "Как создать контрагента по ИНН",
       "type": "lessons",
       "order": 1,
@@ -995,7 +995,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Как создать обращение в АРМ Клиенты и автомобили",
       "file": "kak-sozdat-obraschenie-v-arm-klienty-i-avtomobili.md",
-      "sha": "300703048ed7ce84de65421f6f3f2553fa5f4996",
+      "sha": "3e09a384f968826b43a5321b6271c5e90effcb06",
       "title": "Как создать обращение в АРМ Клиенты и автомобили",
       "type": "lessons",
       "order": 10,
@@ -1007,7 +1007,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Практическое задание по теме «АРМ Клиенты и Автомобили»",
       "file": "prakticheskoe-zadanie-po-teme-arm-klienty-i-avtomobili.md",
-      "sha": "6a46059e6b8665e46854c4081d01aa188db887c3",
+      "sha": "17e01b22679883a689b9d842c0993b5ecac548e4",
       "title": "Практическое задание по теме \"АРМ Клиенты и Автомобили\"",
       "type": "lessons",
       "order": 12,
@@ -1019,7 +1019,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Тестирование по курсу «Работа в АРМ Клиенты и автомобили»",
       "file": "testirovanie-po-kursu-rabota-v-arm-klienty-i-avtomobili.md",
-      "sha": "3a2bdad470607e6e23a143dbd53108ca8b52d674",
+      "sha": "a87bce5eba860fbae4d0b084c8ab4907b944a61a",
       "title": "Тестирование по курсу \"Работа в АРМ Клиенты и автомобили\"",
       "type": "lessons",
       "order": 13,
@@ -1031,7 +1031,7 @@
     {
       "path": "lessons/Урок 6. Подбор запчастей и работ/Тестирование по курсу «Подбор запчастей и авторабот»",
       "file": "testirovanie-po-kursu-podbor-zapchastey-i-avtorabot.md",
-      "sha": "16d1450a1faf526a1e8252d0d5c6bffb7aac1e04",
+      "sha": "7bd901602ce6d47a3eaa7ddffe4526fca842e72c",
       "title": "Тестирование по курсу \"Подбор запчастей и авторабот\"",
       "type": "lessons",
       "order": 11,
@@ -1043,7 +1043,7 @@
     {
       "path": "lessons/Урок 7. Онлайн-каталог запчастей/Тестирование по курсу «Работа с онлайн-каталогом запчастей»",
       "file": "testirovanie-po-kursu-rabota-s-onlayn-katalogom-zapchastey.md",
-      "sha": "eebe1d1350ccae5e55c794f21b9929935372d3de",
+      "sha": "9300f6594509d4a8c380854c12068b25a0e6778f",
       "title": "Тестирование по курсу \"Работа с онлайн-каталогом запчастей\"",
       "type": "lessons",
       "order": 7,
@@ -1055,7 +1055,7 @@
     {
       "path": "lessons/Урок 8. Запись на ремонт/Тестирование по курсу «Запись клиентов на ремонт»",
       "file": "testirovanie-po-kursu-zapis-klientov-na-remont.md",
-      "sha": "ecb27c4332fc686bad306de282b7088f1e3e9263",
+      "sha": "11df2f1bdb8fc7b638ade1eb9c3ec3accd8e6720",
       "title": "Тестирование по курсу \"Запись клиентов на ремонт\"",
       "type": "lessons",
       "order": 8,
@@ -1067,7 +1067,7 @@
     {
       "path": "lessons/Урок 2. Структура компании/Как добавить кассу",
       "file": "kak-dobavit-kassu.md",
-      "sha": "22900d68755ed60d3aeec5a26284b1c16a8396e9",
+      "sha": "224a56249c9e44b0365825efff90a60d9613696c",
       "title": "Как добавить кассу",
       "type": "lessons",
       "order": 3,
@@ -1079,7 +1079,7 @@
     {
       "path": "lessons/Урок 2. Структура компании/Как добавить логотип компании",
       "file": "kak-dobavit-logotip-kompanii.md",
-      "sha": "39b4c30dd35c9dfc1c1e028203e93cfb4b8f07b5",
+      "sha": "48e55fe3c1f2cba4216dc429b65928189d7af5a7",
       "title": "Как добавить логотип компании",
       "type": "lessons",
       "order": 6,
@@ -1091,7 +1091,7 @@
     {
       "path": "lessons/Урок 2. Структура компании/Как добавить организацию",
       "file": "kak-dobavit-organizaciyu.md",
-      "sha": "fde435201ed5346448d3f2e80f787753e16d0d14",
+      "sha": "568344d19a0de186e376901b38cd07acae654801",
       "title": "Как добавить организацию",
       "type": "lessons",
       "order": 0,
@@ -1103,7 +1103,7 @@
     {
       "path": "lessons/Урок 2. Структура компании/Как добавить подразделение",
       "file": "kak-dobavit-podrazdelenie.md",
-      "sha": "40b118b40393ff290be21f3ca567837490e83b78",
+      "sha": "15edfb41296efabf42d4ccef0c14f1188ecc56d1",
       "title": "Как добавить подразделение",
       "type": "lessons",
       "order": 1,
@@ -1115,7 +1115,7 @@
     {
       "path": "lessons/Урок 2. Структура компании/Как добавить пост-цех",
       "file": "kak-dobavit-postcekh.md",
-      "sha": "3efd51ab5921a809c04e0ca9b1ae50654a5c249a",
+      "sha": "bc8fca977056d6202002ad7b2765fe8da414c7d1",
       "title": "Как добавить пост/цех",
       "type": "lessons",
       "order": 5,
@@ -1127,7 +1127,7 @@
     {
       "path": "lessons/Урок 2. Структура компании/Как добавить р-счет организации",
       "file": "kak-dobavit-rschet-organizacii.md",
-      "sha": "c5bff3cac66f45df9582eed9c581e69ac098f9ee",
+      "sha": "d05b53ddf5658ebea893f24bb8a9a5d33499b9af",
       "title": "Как добавить р/счет организации",
       "type": "lessons",
       "order": 4,
@@ -1139,7 +1139,7 @@
     {
       "path": "lessons/Урок 2. Структура компании/Как настроить систему налогообложения",
       "file": "kak-nastroit-sistemu-nalogooblozheniya.md",
-      "sha": "f5f20f722a0652903ac12c19517cc546e9e92bbb",
+      "sha": "576073a560f95fe8c32198f0c927f74049a216e0",
       "title": "Как настроить систему налогообложения",
       "type": "lessons",
       "order": 2,
@@ -1151,7 +1151,7 @@
     {
       "path": "lessons/Урок 1. CRM/В чем разница между Лидами и Сделками",
       "file": "v-chem-raznica-mezhdu-lidami-i-sdelkami.md",
-      "sha": "d5e36c445ca9b4fe092ff48c789de991f726fcf6",
+      "sha": "dc35d0a037ce7442ce65d170c8ad7a372aa66ded",
       "title": "В чем разница между Лидами и Сделками",
       "type": "lessons",
       "order": 0,
@@ -1163,7 +1163,7 @@
     {
       "path": "lessons/Урок 1. CRM/Как записать клиента из Сделки",
       "file": "kak-zapisat-klienta-iz-sdelki.md",
-      "sha": "335ea2d71d3367de0b98be86868622f91be23315",
+      "sha": "9640497ac1b25dff8a50fda4a6b183e8f2ca69f4",
       "title": "Как записать клиента из Сделки",
       "type": "lessons",
       "order": 11,
@@ -1175,7 +1175,7 @@
     {
       "path": "lessons/Урок 1. CRM/Как запланировать звонок клиенту",
       "file": "kak-zaplanirovat-zvonok-klientu.md",
-      "sha": "a2a81c66c0d69395c8f81fe169e06062aabf7bc5",
+      "sha": "bed543ba8121c28b5a0bb3227fadaa97f80b69c1",
       "title": "Как запланировать звонок клиенту",
       "type": "lessons",
       "order": 6,
@@ -1187,7 +1187,7 @@
     {
       "path": "lessons/Урок 1. CRM/Как идентифицировать клиента в Сделке",
       "file": "kak-identificirovat-klienta-v-sdelke.md",
-      "sha": "f833c64a337de9559de26d01c070439f7e2b9cbb",
+      "sha": "89b61de540c88a67e4d9961b4839dfd6298c8cd5",
       "title": "Как идентифицировать клиента в Сделке",
       "type": "lessons",
       "order": 3,
@@ -1199,7 +1199,7 @@
     {
       "path": "lessons/Урок 1. CRM/Как квалифицировать Лид",
       "file": "kak-kvalificirovat-lid.md",
-      "sha": "d6af4ef3023bf94c020db727a6f1fe5d0626d0b5",
+      "sha": "4ec6a30ad5bf75e494c966cf45853c29de334a7b",
       "title": "Как квалифицировать Лид",
       "type": "lessons",
       "order": 2,
@@ -1211,7 +1211,7 @@
     {
       "path": "lessons/Урок 1. CRM/Как найти нужную Сделку на канбане",
       "file": "kak-nayti-nuzhnuyu-sdelku-na-kanbane.md",
-      "sha": "5d35877f98d632a7e1c40247821e4d903fabd562",
+      "sha": "f7ec258bf4d50e8b5e4a411b81c61c45f9efff91",
       "title": "Как найти нужную Сделку на канбане",
       "type": "lessons",
       "order": 14,
@@ -1223,7 +1223,7 @@
     {
       "path": "lessons/Урок 1. CRM/Как отложить Сделку",
       "file": "kak-otlozhit-sdelku.md",
-      "sha": "4594af6217b85376e1707c1d158268b039dd2e65",
+      "sha": "78a31bef99c551ca1f58464b68637f6471d8b84d",
       "title": "Как отложить Сделку",
       "type": "lessons",
       "order": 8,
@@ -1235,7 +1235,7 @@
     {
       "path": "lessons/Урок 1. CRM/Как отправить сообщение из Сделки",
       "file": "kak-otpravit-soobschenie-iz-sdelki.md",
-      "sha": "85bddd7891382c70ed02b7d9514ee28dae31b90d",
+      "sha": "79f9f3a0112defef7d812b03bad235c38659e260",
       "title": "Как отправить сообщение из Сделки",
       "type": "lessons",
       "order": 5,
@@ -1247,7 +1247,7 @@
     {
       "path": "lessons/Урок 1. CRM/Как отразить результат общения с клиентом",
       "file": "kak-otrazit-rezultat-obscheniya-s-klientom.md",
-      "sha": "e3a1c2f670cce296853209c7dc11962152f6c03e",
+      "sha": "ccbb8ebc5deacb341a01f51021cd622910f0b62c",
       "title": "Как отразить результат общения с клиентом",
       "type": "lessons",
       "order": 1,
@@ -1259,7 +1259,7 @@
     {
       "path": "lessons/Урок 1. CRM/Как перенаправить Сделку на другого сотрудника",
       "file": "kak-perenapravit-sdelku-na-drugogo-sotrudnika.md",
-      "sha": "031fd2cf2157503607e4881a1c90a3cf027d753d",
+      "sha": "ab515bc3fb8a1ab44c3b00a11e082597241cffb2",
       "title": "Как перенаправить Сделку на другого сотрудника",
       "type": "lessons",
       "order": 4,
@@ -1271,7 +1271,7 @@
     {
       "path": "lessons/Урок 1. CRM/Как создать Корзину из Сделки",
       "file": "kak-sozdat-korzinu-iz-sdelki.md",
-      "sha": "697d5f43a393f84e47d09870d9a4b8c7e7fc5bfd",
+      "sha": "59c2416713796065a40720cd374d0787124bf314",
       "title": "Как создать Корзину из Сделки",
       "type": "lessons",
       "order": 10,
@@ -1283,7 +1283,7 @@
     {
       "path": "lessons/Урок 1. CRM/Как создать задачу по Сделке",
       "file": "kak-sozdat-zadachu-po-sdelke.md",
-      "sha": "dd118ae88a714177425601911e15d3ca8abb1441",
+      "sha": "73aa8956527e1a58cf159ed779d1be7db901d762",
       "title": "Как создать задачу по Сделке",
       "type": "lessons",
       "order": 7,
@@ -1295,7 +1295,7 @@
     {
       "path": "lessons/Урок 1. CRM/Как создать заказ покупателя из Сделки",
       "file": "kak-sozdat-zakaz-pokupatelya-iz-sdelki.md",
-      "sha": "1895f160e94f5e3874c5e4cd43b5cca1b1aa4ac0",
+      "sha": "bd0b2d2d1806fe44ae81727e920fb1d2a7fbf038",
       "title": "Как создать заказ покупателя из Сделки",
       "type": "lessons",
       "order": 12,
@@ -1307,7 +1307,7 @@
     {
       "path": "lessons/Урок 1. CRM/Как создать заказ-наряд из Сделки",
       "file": "kak-sozdat-zakaz-naryad-iz-sdelki.md",
-      "sha": "348c00a915356b52e6ea16cd018db162157a53cc",
+      "sha": "f1e45d413600e61585bd0f6abd5ce371376f5dd6",
       "title": "Как создать заказ-наряд из Сделки",
       "type": "lessons",
       "order": 13,
@@ -1319,7 +1319,7 @@
     {
       "path": "lessons/Урок 1. CRM/Как установить этап Сделки",
       "file": "kak-ustanovit-etap-sdelki.md",
-      "sha": "a65df4f50d3819b8e6091999004aa5e8c4865194",
+      "sha": "2893c537481af29e1241aefb013b9517883d5427",
       "title": "Как установить этап Сделки",
       "type": "lessons",
       "order": 9,
@@ -1331,7 +1331,7 @@
     {
       "path": "lessons/Урок 1. CRM/Практическое задание по работе с CRM",
       "file": "prakticheskoe-zadanie-po-rabote-s-crm.md",
-      "sha": "17f6161164dd9dac4b0217e00f46b788d0880c50",
+      "sha": "fc81df63b35c8cfa798c6545673b465a779ee549",
       "title": "Практическое задание по работе с CRM",
       "type": "lessons",
       "order": 15,
@@ -1343,7 +1343,7 @@
     {
       "path": "lessons/Интерфейс программы/Как зайти в программу",
       "file": "kak-zayti-v-programmu.md",
-      "sha": "46d32e75078f2e25aef4644f8218b997a03ab85e",
+      "sha": "fee610fb8f9b971b1fde165715c7dfad4f35eed4",
       "title": "Как зайти в программу",
       "type": "lessons",
       "order": 0,
@@ -1355,7 +1355,7 @@
     {
       "path": "lessons/Интерфейс программы/Как подключиться к 5S AUTO с компьютера Mac",
       "file": "kak-podklyuchitsya-k-5s-auto-s-kompyutera-mac.md",
-      "sha": "34b80ee4a68cd2a9bc986f78d8b141f11a61ac5e",
+      "sha": "65746297b752508faecb9e02cbfdcf192b26775e",
       "title": "Как подключиться к 5S AUTO с компьютера Mac",
       "type": "lessons",
       "order": 3,
@@ -1367,7 +1367,7 @@
     {
       "path": "lessons/Интерфейс программы/Как работать с интерфейсом 5S AUTO",
       "file": "kak-rabotat-s-interfeysom-5s-auto.md",
-      "sha": "0de78f67c02bd53534116d9acae2ea033e3f1f83",
+      "sha": "f0730e09930261d0a2114cb326e2680d22f943b6",
       "title": "Как работать с интерфейсом 5S AUTO",
       "type": "lessons",
       "order": 1,
@@ -1379,7 +1379,7 @@
     {
       "path": "lessons/Интерфейс программы/Как работать с поиском",
       "file": "kak-rabotat-s-poiskom.md",
-      "sha": "b8128b74d96c8410699651a52bc7e62781d1aa9a",
+      "sha": "e788d91d685fd702e897043faff18e34bf26770a",
       "title": "Как работать с поиском",
       "type": "lessons",
       "order": 2,
@@ -1391,7 +1391,7 @@
     {
       "path": "lessons/Краткий курс для Автосалона/Встреча",
       "file": "vstrecha.md",
-      "sha": "4738aca6c6921d396b744e43a1ecdc0fb3551af6",
+      "sha": "1e2e6b72c3e4e70ea876284829f8001c087d323f",
       "title": "Встреча",
       "type": "lessons",
       "order": 2,
@@ -1403,7 +1403,7 @@
     {
       "path": "lessons/Краткий курс для Автосалона/Выдача автомобиля",
       "file": "vydacha-avtomobilya.md",
-      "sha": "933c13dc1b2f74ef65463b6770e51d1a55e7d9a5",
+      "sha": "eae2fdac015b19d581dd8fa8d015275c0381c644",
       "title": "Выдача автомобиля",
       "type": "lessons",
       "order": 7,
@@ -1415,7 +1415,7 @@
     {
       "path": "lessons/Краткий курс для Автосалона/Договор",
       "file": "dogovor.md",
-      "sha": "d2aba81abbc6189b351e90ad46054cf8c8b76bce",
+      "sha": "03a0db702d097695ce3982160851d7da7f61c5d9",
       "title": "Договор",
       "type": "lessons",
       "order": 6,
@@ -1427,7 +1427,7 @@
     {
       "path": "lessons/Краткий курс для Автосалона/Расчет Трейд-Ин",
       "file": "raschet-treyd.md",
-      "sha": "b10e85268bcee3b1f78b8d0d7cc2295b16d0c31a",
+      "sha": "51c7bb6dd1e18940315fd12c0f765d2b66a857bb",
       "title": "Расчет Трейд-Ин",
       "type": "lessons",
       "order": 4,
@@ -1439,7 +1439,7 @@
     {
       "path": "lessons/Краткий курс для Автосалона/Расчет кредита",
       "file": "raschet-kredita.md",
-      "sha": "7a00556c62dbfc11407287ca76d20f16e0fd62f4",
+      "sha": "a84b1ebc71689980e1c34538d0c53712ec87a754",
       "title": "Расчет кредита",
       "type": "lessons",
       "order": 5,
@@ -1451,7 +1451,7 @@
     {
       "path": "lessons/Краткий курс для Автосалона/Тест-драйв",
       "file": "test-drayv.md",
-      "sha": "064e78a3278bd4a40f9dbef1775d750c6d6bb9c0",
+      "sha": "89a8fab22e82d7ffeb0bd5602cf2165313f3dca6",
       "title": "Тест-драйв",
       "type": "lessons",
       "order": 3,
@@ -1463,7 +1463,7 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Выдача заказа",
       "file": "vydacha-zakaza.md",
-      "sha": "7aebede6aaaf16b8f2669767aa7b462a5499a5d5",
+      "sha": "0ae69d185327b332950111dd40222eefe1a1c24c",
       "title": "Выдача заказа",
       "type": "lessons",
       "order": 7,
@@ -1475,7 +1475,7 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Доработать",
       "file": "dorabotat.md",
-      "sha": "c800a245848341be044b4a60556b4bacf3a74fcb",
+      "sha": "086043221dc8e8932fe9e1a9c1ad95a922eebdaf",
       "title": "Доработать",
       "type": "lessons",
       "order": 5,
@@ -1487,7 +1487,7 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Отказ поставщика",
       "file": "otkaz-postavschika.md",
-      "sha": "9f280ec2030bcb33262a575c12efc1436c40b089",
+      "sha": "d72df667ab3ffa7a4f749eef289d450348822362",
       "title": "Отказ поставщика",
       "type": "lessons",
       "order": 4,
@@ -1499,7 +1499,7 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Оформление заказа",
       "file": "oformlenie-zakaza.md",
-      "sha": "35553bc4547fabad449a02e2f7f638788f5d5d38",
+      "sha": "9a5ae38614cf0a99d55bbd5f84cc8fe9d4d032a7",
       "title": "Оформление заказа",
       "type": "lessons",
       "order": 3,
@@ -1511,7 +1511,7 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Подбор товаров",
       "file": "podbor-tovarov.md",
-      "sha": "abea6a71396e03163f74d25eddad0ea2400d909e",
+      "sha": "4c45fb2832cf6483a99e518483b0d35b55d5ef9f",
       "title": "Подбор товаров",
       "type": "lessons",
       "order": 1,
@@ -1523,7 +1523,7 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Снят резерв",
       "file": "snyat-rezerv.md",
-      "sha": "eacdc80ea19969c09011d62d5ea41b9c007dadc4",
+      "sha": "b24fb3d1f5a0205d77eddc271a34b38ccfbea651",
       "title": "Снят резерв",
       "type": "lessons",
       "order": 6,
@@ -1535,7 +1535,7 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Создание сделки",
       "file": "sozdanie-sdelki-0.md",
-      "sha": "aea075d1addc9cd9fb67d55588ffda593d8d152b",
+      "sha": "7a67bc5bd2d884976bd5c86200c4ccbaf416eea8",
       "title": "Создание сделки",
       "type": "lessons",
       "order": 0,
@@ -1547,7 +1547,7 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Товар в наличии",
       "file": "tovar-v-nalichii.md",
-      "sha": "255c429ea7684809308540444d401d05810a5bfc",
+      "sha": "bb4832b97bbcace550788e2d204492a5b8ecf5de",
       "title": "Товар в наличии",
       "type": "lessons",
       "order": 2,
@@ -1559,7 +1559,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/В работе",
       "file": "v-rabote.md",
-      "sha": "41a1984bc48ed88672fd6fcc1c415b1cf2ea5ba6",
+      "sha": "20b19ea56b471ad3681c66e6fe4939df4ec2ca31",
       "title": "В работе",
       "type": "lessons",
       "order": 5,
@@ -1571,7 +1571,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Видеоурок «Калькуляция и запись на ремонт»",
       "file": "videourok-kalkulyaciya-i-zapis-na-remont.md",
-      "sha": "6632c5fe966b949fe0a62d1c0ad05d0590ff10c2",
+      "sha": "109e5c5ce47fe711439daf40c65e1601706aa8b0",
       "title": "Видеоурок \"Калькуляция и запись на ремонт\"",
       "type": "lessons",
       "order": 11,
@@ -1583,7 +1583,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Видеоурок «Оформление заказ-наряда и прием оплаты»",
       "file": "videourok-oformlenie-zakaz-naryada-i-priem-oplaty.md",
-      "sha": "188cac4b0a7b0c88642c1142c37d482185ac2bb2",
+      "sha": "b9acf1776e0dca58fcc9a8c3e4ff6d3071981856",
       "title": "Видеоурок \"Оформление заказ-наряда и прием оплаты\"",
       "type": "lessons",
       "order": 12,
@@ -1595,7 +1595,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Видеоурок «Регистрация обращения»",
       "file": "videourok-registraciya-obrascheniya.md",
-      "sha": "09edbea2b5a93215c0490cc854216a428e38343e",
+      "sha": "2076ddec84a0f90c2e7ffd58447f336af26b1035",
       "title": "Видеоурок \"Регистрация обращения\"",
       "type": "lessons",
       "order": 10,
@@ -1607,7 +1607,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Выполнен",
       "file": "vypolnen.md",
-      "sha": "97975289122fb6a81d197540369ac39ca9444387",
+      "sha": "6a09f855bc7ae3b960dbf8d801424614fe68eecf",
       "title": "Выполнен",
       "type": "lessons",
       "order": 6,
@@ -1619,7 +1619,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Заказ запчастей",
       "file": "zakaz-zapchastey.md",
-      "sha": "b932e91de333a22b9a2070bfe19d3a509ff08894",
+      "sha": "9b7cce506673124ae91c55ad0d3dc241f42b5791",
       "title": "Заказ запчастей",
       "type": "lessons",
       "order": 3,
@@ -1631,7 +1631,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Записан",
       "file": "zapisan.md",
-      "sha": "05308e98bf05f0793d4d4482f793b6fc53527d25",
+      "sha": "f0a31bef6e0711042899f4ab7cb55181806bccd2",
       "title": "Записан",
       "type": "lessons",
       "order": 4,
@@ -1643,7 +1643,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Заявка",
       "file": "zayavka.md",
-      "sha": "b68662e1047effe8069be856d24f903f258c9946",
+      "sha": "2f94b8a42a8a0d8d0839a6488ecc98e6fac342e4",
       "title": "Заявка",
       "type": "lessons",
       "order": 1,
@@ -1655,7 +1655,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Обращение первичного клиента",
       "file": "obraschenie-pervichnogo-klienta.md",
-      "sha": "b39cdda87177187e79749b0a60ab9d76c8a70eab",
+      "sha": "7bff800bc05fa6d271e9ae6c8b34056e6b795241",
       "title": "Обращение первичного клиента",
       "type": "lessons",
       "order": 7,
@@ -1667,7 +1667,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Практическое задание",
       "file": "prakticheskoe-zadanie.md",
-      "sha": "a8b4032ffe3cbed1a81b81b63f526a7d37b5123d",
+      "sha": "45297f4cdaea2a4e7efb234999e0fadb97439dc0",
       "title": "Практическое задание",
       "type": "lessons",
       "order": 9,
@@ -1679,7 +1679,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Согласование",
       "file": "soglasovanie.md",
-      "sha": "b7ada5b20cb62e106e40a9461609d51726276926",
+      "sha": "f1e33061444931274a294dc0c42bada71b5ce869",
       "title": "Согласование",
       "type": "lessons",
       "order": 2,
@@ -1691,7 +1691,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Создание карточки автомобиля",
       "file": "sozdanie-kartochki-avtomobilya.md",
-      "sha": "4997835c147ce4d741bb913becaeaa29d839205d",
+      "sha": "32b8644bd058f6e404f462a74acff957b725f35a",
       "title": "Создание карточки автомобиля",
       "type": "lessons",
       "order": 8,
@@ -1703,7 +1703,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Создание сделки",
       "file": "sozdanie-sdelki.md",
-      "sha": "f9920610c8c5264f7dbdead3c2e59d17a17cf056",
+      "sha": "8fd6d890a1bc768f1fd5ebbcce41058d8966b99c",
       "title": "Создание сделки",
       "type": "lessons",
       "order": 0,
@@ -1715,7 +1715,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Монитор мастеров",
       "file": "monitor-masterov.md",
-      "sha": "a835486087e84f513940d5e96f00e1df521ea99d",
+      "sha": "7b9563d54d88f225395fd55c79147daad138aaa8",
       "title": "Монитор мастеров",
       "type": "articles",
       "order": 22,
@@ -1728,7 +1728,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Перечень используемых Вебхуков (Webhooks)",
       "file": "perechen-ispolzuemykh-vebkhukov-webhooks-neaktualnyy-material.md",
-      "sha": "b0df2074f6038770d8d8752e9ed3777abd23e8b5",
+      "sha": "3950e7d966c6285e21305afad7b9ea3a049fbe79",
       "title": "Перечень используемых Вебхуков (Webhooks) (неактуальный материал)",
       "type": "articles",
       "order": 25,
@@ -1741,7 +1741,7 @@
     {
       "path": "articles/5S AUTO/Задачи/Работа с задачами",
       "file": "rabota-s-zadachami.md",
-      "sha": "bdba47895ffd8060e1fbd6db60459c5757b13a6f",
+      "sha": "765af75461c9781bc4ae223a41f371dfa6743ad4",
       "title": "Работа с задачами",
       "type": "articles",
       "order": 3,
@@ -1754,7 +1754,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Обучающие видеоролики",
       "file": "obuchayuschie-videoroliki.md",
-      "sha": "ea5d96314b2dded8afebac8befc4082a65ae1528",
+      "sha": "8b6688ca261664e4da39f33bdf6b1bb88fca23a9",
       "title": "Обучающие видеоролики",
       "type": "articles",
       "order": 2,
@@ -1767,7 +1767,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/EuroAuto (ЕвроАвто)",
       "file": "nastroyka-veb-servisa-euroauto-evroavto.md",
-      "sha": "826c619da7c03ef5999e8df1158511c911609685",
+      "sha": "e12d09d2e3913851d431d701c92379837c0c9a14",
       "title": "Настройка Веб-сервиса EuroAuto (ЕвроАвто)",
       "type": "articles",
       "order": 57,
@@ -1780,7 +1780,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Описание реквизитов прайс-листа",
       "file": "opisanie-rekvizitov-prays-lista.md",
-      "sha": "b6b5c90edb3b4f292ad58b0edc0ebb434700e523",
+      "sha": "4bf8ba7088c7b96d9ce807d827cb11f50ced5673",
       "title": "Описание реквизитов прайс-листа",
       "type": "articles",
       "order": 23,
@@ -1793,7 +1793,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Решение распространенных ошибок при работе с кассой",
       "file": "reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy.md",
-      "sha": "51ead8be635ad269f2fe80a030e25204985bf8ff",
+      "sha": "d606a086db5b6458dbb2942251dad035e6b0bae9",
       "title": "Решение распространенных ошибок при работе с кассой",
       "type": "articles",
       "order": 10,
@@ -1806,7 +1806,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "7504afe84768ec15a41612d68048de4ad011ba0f",
+      "sha": "c60dc1c8a5b0f1e7619b610534559f3aba5a4ec2",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -1817,7 +1817,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Уроки по системе 5S AUTO",
       "file": "uroki-po-sisteme-5s-auto.md",
-      "sha": "4a97250807adfe530d87d1aa60d5e0c5157db808",
+      "sha": "2588833a16306e2493d69def6fd47b90d4148ea8",
       "title": "Уроки по системе \"5S AUTO\"",
       "type": "articles",
       "order": 1,
@@ -1828,7 +1828,7 @@
     {
       "path": "articles/5S AUTO/Прочее/Как обратиться в техническую поддержку",
       "file": "kak-obratitsya-v-tekhnicheskuyu-podderzhku.md",
-      "sha": "4521fa6b5114a66d0b3feb6a4f5da8af3c76d127",
+      "sha": "df3663f00c7c8dd73f4ee6c5a53ebe94e2cf1861",
       "title": "Как обратиться в техническую поддержку",
       "type": "articles",
       "order": 0,
@@ -1840,7 +1840,7 @@
     {
       "path": "articles/5S AUTO/Прочее/Бот техподдержки в Max",
       "file": "bot-tekhpodderzhki-v-max.md",
-      "sha": "3731ac6682e389b63ab7cd51af882d65492614b8",
+      "sha": "0206683e496bfabce1018a4746b3d789ce1d4744",
       "title": "Бот техподдержки в Max",
       "type": "articles",
       "order": 1,
@@ -1852,7 +1852,7 @@
     {
       "path": "articles/5S AUTO/Прочее/Документация от 1С-Рарус",
       "file": "dokumentaciya-ot-1s-rarus.md",
-      "sha": "e2fa42f871c4a75670f2d76b49e89529dc3277a4",
+      "sha": "2f5c7b69392efd53ec9f1a9229fcd3b28c4c7f79",
       "title": "Документация от 1С-Рарус",
       "type": "articles",
       "order": 2,
@@ -1864,7 +1864,7 @@
     {
       "path": "articles/5S AUTO/Прочее/Материалы для обмена с 1С Бухгалтерия",
       "file": "materialy-dlya-obmena-s-1s-bukhgalteriya.md",
-      "sha": "1cc34c93e1199988c58dc5a132edc90238009f95",
+      "sha": "21ae685ed79d2be2851d834d61005add408a199f",
       "title": "Материалы для обмена с 1С Бухгалтерия",
       "type": "articles",
       "order": 3,
@@ -1876,7 +1876,7 @@
     {
       "path": "articles/5S AUTO/Контроль неликвидов/Выявление неликвидов",
       "file": "vyyavlenie-nelikvidov.md",
-      "sha": "408d1e4439136f6daa01bc0914c73f90273f0831",
+      "sha": "d206de2191ff39fc0da15870ce01ddd4a50d3522",
       "title": "Выявление неликвидов",
       "type": "articles",
       "order": 0,
@@ -1888,7 +1888,7 @@
     {
       "path": "articles/5S AUTO/Контроль неликвидов/Настройка прав доступа к Контролю неликвидов",
       "file": "nastroyka-prav-dostupa-k-kontrolyu-nelikvidov.md",
-      "sha": "75960eedb03f70d65b28cace0564095d4eeb3482",
+      "sha": "125efc77627d07dec59d79ea486f04d33e3221cf",
       "title": "Настройка прав доступа к Контролю неликвидов",
       "type": "articles",
       "order": 3,
@@ -1900,7 +1900,7 @@
     {
       "path": "articles/5S AUTO/Контроль неликвидов/Настройки процесса Контроля неликвидов",
       "file": "nastroyki-processa-kontrolya-nelikvidov.md",
-      "sha": "b241d9925323035ded7efcbeab072a61b611008d",
+      "sha": "473ef2e4a307958140a5617a5bbf4271a37f1a39",
       "title": "Настройки процесса Контроля неликвидов",
       "type": "articles",
       "order": 2,
@@ -1912,7 +1912,7 @@
     {
       "path": "articles/5S AUTO/Контроль неликвидов/Принятие решения по неликвидам",
       "file": "prinyatie-resheniya-po-nelikvidam.md",
-      "sha": "8e2858eb8bf3b29acf4a6c95634d4a69ee6a9b30",
+      "sha": "e0c98345e12db83f3c692378f15949dbdc201928",
       "title": "Принятие решения по неликвидам",
       "type": "articles",
       "order": 1,
@@ -1924,7 +1924,7 @@
     {
       "path": "articles/5S AUTO/Аналитика/Настройка интеграции с Calltouch",
       "file": "nastroyka-integracii-s-calltouch.md",
-      "sha": "faeefbc1e92698dd15e9e6bc6fc57b3ade95d771",
+      "sha": "584969477207ce425bb887e6032e69219b3e9311",
       "title": "Настройка интеграции с Calltouch",
       "type": "articles",
       "order": 2,
@@ -1936,7 +1936,7 @@
     {
       "path": "articles/5S AUTO/Аналитика/Настройка интеграции с системой аналитики Roistat",
       "file": "nastroyka-integracii-s-sistemoy-analitiki-roistat.md",
-      "sha": "a5b26c0cd7bf5d92cf5aa10dd6d2aff09c062244",
+      "sha": "607d9dbd925583677fc4e718013557867a6bc27c",
       "title": "Настройка интеграции с системой аналитики Roistat",
       "type": "articles",
       "order": 1,
@@ -1948,7 +1948,7 @@
     {
       "path": "articles/5S AUTO/Аналитика/Настройка рекламных каналов",
       "file": "nastroyka-reklamnykh-kanalov.md",
-      "sha": "cd7510777431011d03a4b7ceb219d33a7ea0a3a9",
+      "sha": "1b0c15ca3620ba70b01ce0d06cee247b4f5b1118",
       "title": "Настройка рекламных каналов",
       "type": "articles",
       "order": 0,
@@ -1960,7 +1960,7 @@
     {
       "path": "articles/5S AUTO/Практики/Организация порядка на складе",
       "file": "organizaciya-poryadka-na-sklade.md",
-      "sha": "64802f16b1386452d7676de9373170d59e22b53c",
+      "sha": "784d7cf035b2e5545f103b0da4886b9bc7832335",
       "title": "Организация порядка на складе",
       "type": "articles",
       "order": 11,
@@ -1972,7 +1972,7 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Внешние пользователи",
       "file": "vneshnie-polzovateli.md",
-      "sha": "667df50fd73873da474abd7a85793c0d4fb7c83d",
+      "sha": "f7519eeca41f0e8a1b25bf2759164d4ce064fa29",
       "title": "Внешние пользователи",
       "type": "articles",
       "order": 3,
@@ -1984,7 +1984,7 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Push-сообщения",
       "file": "push-soobscheniya.md",
-      "sha": "841997f1dc90812bb3cef395c5e02371e7ac7e81",
+      "sha": "fb9edeb9804087512eb237138dad70684a20d4d0",
       "title": "Push-сообщения",
       "type": "articles",
       "order": 6,
@@ -1996,7 +1996,7 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Запись на ремонт через 5S LINK",
       "file": "zapis-na-remont-cherez-5s-link.md",
-      "sha": "4ec13b24aa5a41596babf8b49b7d22bd11c22762",
+      "sha": "edeb27400c4940e7953ea8808225fbe7134681ce",
       "title": "Запись на ремонт через 5S LINK",
       "type": "articles",
       "order": 2,
@@ -2008,7 +2008,7 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Интерфейс 5S LINK",
       "file": "interfeys-5s-link.md",
-      "sha": "07d6aadd91b75e297ad3dbc4acaa3224e5e6e4b5",
+      "sha": "105be67f6db838dfeb760847ce41b86e9fac85e5",
       "title": "Интерфейс 5S LINK",
       "type": "articles",
       "order": 1,
@@ -2020,7 +2020,7 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Настройки 5S LINK в Личном кабинете",
       "file": "nastroyki-5s-link-v-lichnom-kabinete.md",
-      "sha": "2875321481966e1b4af038c9e24ef01f32e898d9",
+      "sha": "d1c482d2b87cbbd1f5c53568f25ec3f6ebdeaf46",
       "title": "Настройки 5S LINK в Личном кабинете",
       "type": "articles",
       "order": 5,
@@ -2032,7 +2032,7 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Настройки интеграции программы с 5S LINK",
       "file": "nastroyki-integracii-programmy-s-5s-link.md",
-      "sha": "28f87893254cf6d4e00e69cc4b76125e32d950b8",
+      "sha": "2be51b149b8407f5c8810b09f89e97d02d612b80",
       "title": "Настройки интеграции программы с 5S LINK",
       "type": "articles",
       "order": 4,
@@ -2044,7 +2044,7 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Отзывы в 5S LINK",
       "file": "otzyvy-v-5s-link.md",
-      "sha": "674a1cf95659fb3466a87dcfb5ea26fb523cb0dc",
+      "sha": "8623fc9703959c4cab35c5c8ea9ea6f27c9bb5d4",
       "title": "Отзывы в 5S LINK",
       "type": "articles",
       "order": 3,
@@ -2056,7 +2056,7 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Регистрация и авторизация в 5S LINK",
       "file": "registraciya-i-avtorizaciya-v-5s-link.md",
-      "sha": "c26f112e888d69c0a8ef7545ab9dfba6cec5285b",
+      "sha": "51d19c0cd78da095f9edd4d8476b4ac5a5fbbb54",
       "title": "Регистрация и авторизация в 5S LINK",
       "type": "articles",
       "order": 0,
@@ -2068,7 +2068,7 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Настройка каталога услуг",
       "file": "nastroyka-kataloga-uslug.md",
-      "sha": "8cbe25e20a7df1f7d84d0cb9eefbe0c42d008633",
+      "sha": "8cc6efd49d61a3b77c8e3628c0659a1e1289e4e5",
       "title": "Настройка каталога услуг",
       "type": "articles",
       "order": 1,
@@ -2080,7 +2080,7 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Настройка приложения 5S LINK v2",
       "file": "nastroyka-prilozheniya-5s-link-v2.md",
-      "sha": "804f33a5a6ab11856456d61afb108b8f3d04a3d4",
+      "sha": "6478e7722334abc73951fceb81c4e5b2d4016d55",
       "title": "Настройка приложения 5S LINK v2",
       "type": "articles",
       "order": 0,
@@ -2092,7 +2092,7 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Настройка филиалов компании",
       "file": "nastroyka-filialov-kompanii.md",
-      "sha": "e25ef4941dfaee1f127e712c987264aa97323baf",
+      "sha": "abd2f2a5665968d12efceb5c6cdcddd2e427fb1e",
       "title": "Настройка филиалов компании",
       "type": "articles",
       "order": 2,
@@ -2104,7 +2104,7 @@
     {
       "path": "articles/5S AUTO/Практики/Автоматическое создание договора с контрагентом",
       "file": "avtomaticheskoe-sozdanie-dogovora-s-kontragentom.md",
-      "sha": "31c5734e1bfbee9235956dda9a872dfdfd26551b",
+      "sha": "19a927baf15375ccbfed46654ea2dca36a99a4ff",
       "title": "Автоматическое создание договора с контрагентом",
       "type": "articles",
       "order": 2,
@@ -2116,7 +2116,7 @@
     {
       "path": "articles/5S AUTO/Практики/Анализ и установка цен",
       "file": "analiz-i-ustanovka-cen.md",
-      "sha": "36572d6d3e3847e0bc4aac1cf68b03ad0b02e7ae",
+      "sha": "0b2ceb51a4d47550301d1b4674d30788c00724a2",
       "title": "Анализ и установка цен",
       "type": "articles",
       "order": 10,
@@ -2128,7 +2128,7 @@
     {
       "path": "articles/5S AUTO/Практики/Замена товара услугой при пробитии чека",
       "file": "zamena-tovara-uslugoy-pri-probitii-cheka.md",
-      "sha": "32198386b662bc47bfe84a14ccdb25ec5a4729f4",
+      "sha": "1c22f493154a9dcc659af1c13d1f413730142893",
       "title": "Замена товара услугой при пробитии чека",
       "type": "articles",
       "order": 16,
@@ -2140,7 +2140,7 @@
     {
       "path": "articles/5S AUTO/Практики/Запрос на отзыв довольного клиента об автосервисе",
       "file": "zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise.md",
-      "sha": "856d1058733efed5631f9d3157033893a015ccf8",
+      "sha": "605699700bf9c6f5dce6ae8f3aec575ac0c21e04",
       "title": "Запрос на отзыв довольного клиента об автосервисе",
       "type": "articles",
       "order": 5,
@@ -2152,7 +2152,7 @@
     {
       "path": "articles/5S AUTO/Практики/Особенности настройки для компаний с несколькими подразделениями",
       "file": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami.md",
-      "sha": "01abec834c927fab37fd226686c719c913d28e14",
+      "sha": "ced64f6feb250834954f69ea63b78f340aaa6810",
       "title": "Особенности настройки для компаний с несколькими подразделениями",
       "type": "articles",
       "order": 6,
@@ -2164,7 +2164,7 @@
     {
       "path": "articles/5S AUTO/Практики/Особенности реализации подакцизных товаров",
       "file": "osobennosti-realizacii-podakciznykh-tovarov.md",
-      "sha": "ada1488679a22247d1a624226fe8ecb083c03dc9",
+      "sha": "265f4cee42a1b7f6a35a718dde5847daf89c21d4",
       "title": "Особенности реализации подакцизных товаров",
       "type": "articles",
       "order": 3,
@@ -2176,7 +2176,7 @@
     {
       "path": "articles/5S AUTO/Практики/Пакетные предложения",
       "file": "paketnye-predlozheniya.md",
-      "sha": "c72dcefad8fd7cc2b27a7fcef5867d7de01ced8d",
+      "sha": "5e9bbe76c94f4844b2cb33a6208dc4d7f1309207",
       "title": "Пакетные предложения",
       "type": "articles",
       "order": 8,
@@ -2188,7 +2188,7 @@
     {
       "path": "articles/5S AUTO/Практики/Применение НДС при УСН",
       "file": "primenenie-nds-pri-usn.md",
-      "sha": "2e19ac9d1dfdaef1c2b24a64e62bc28a11d1ab03",
+      "sha": "46472cdd50a0d9daed7f3e4231c8164d20d560ae",
       "title": "Применение НДС при УСН",
       "type": "articles",
       "order": 14,
@@ -2200,7 +2200,7 @@
     {
       "path": "articles/5S AUTO/Практики/Разделение чеков ККМ",
       "file": "razdelenie-chekov-kkm.md",
-      "sha": "ecf72b0ef256556b0c5102a231cc75679d053252",
+      "sha": "543b137a5530b1b89de2a86341ee79da0da05187",
       "title": "Разделение чеков ККМ",
       "type": "articles",
       "order": 15,
@@ -2212,7 +2212,7 @@
     {
       "path": "articles/5S AUTO/Практики/Уведомление покупателю о поступлении заказа",
       "file": "uvedomlenie-pokupatelyu-o-postuplenii-zakaza.md",
-      "sha": "755db0d086fcd54bdf24b0bddb46a2b5179fd04c",
+      "sha": "97828867622b689a6469bfdcc20ac344640a807f",
       "title": "Уведомление покупателю о поступлении заказа",
       "type": "articles",
       "order": 12,
@@ -2224,7 +2224,7 @@
     {
       "path": "articles/5S AUTO/Практики/Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
       "file": "uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu.md",
-      "sha": "87b0310027925b7fed720bf389ca139a0827802f",
+      "sha": "02d1955851083ebefddd0eaca09a164efbdd7f16",
       "title": "Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
       "type": "articles",
       "order": 0,
@@ -2236,7 +2236,7 @@
     {
       "path": "articles/5S AUTO/Практики/Учет выработки специалистов по запчастям в Заказ-нарядах",
       "file": "uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh.md",
-      "sha": "e24091058f1f6f486f21180f6dd158dab03159a6",
+      "sha": "b34fa21ff204cde47fe5a871f337461bdc78200f",
       "title": "Учет выработки специалистов по запчастям в Заказ-нарядах",
       "type": "articles",
       "order": 1,
@@ -2248,7 +2248,7 @@
     {
       "path": "articles/5S AUTO/Телефония/Настройка внутренних телефонов сотрудников",
       "file": "nastroyka-vnutrennikh-telefonov-sotrudnikov.md",
-      "sha": "9af70300665c6330bceb5fdf05519d4d722a8e89",
+      "sha": "df3b8cfa20d7185ede3a6e3ee39f3aa64b1b27f0",
       "title": "Настройка внутренних телефонов сотрудников",
       "type": "articles",
       "order": 3,
@@ -2260,7 +2260,7 @@
     {
       "path": "articles/5S AUTO/Телефония/Настройка интеграции с телефонией MANGO OFFICE",
       "file": "nastroyka-integracii-s-telefoniey-mango-office.md",
-      "sha": "7f713b52a11573e354390816d605e15184d61dac",
+      "sha": "20ac9a5e29366656da1b2e88da34837827b720d7",
       "title": "Настройка интеграции с телефонией MANGO OFFICE",
       "type": "articles",
       "order": 1,
@@ -2278,7 +2278,7 @@
     {
       "path": "articles/5S AUTO/Телефония/Настройка интеграции с телефонией Novofon",
       "file": "nastroyka-integracii-s-telefoniey-novofon.md",
-      "sha": "34c16247e83dba2b25618e8663f77340cb764cec",
+      "sha": "b07d322d27f1da0bd2863f02f3f58001ef4b97e6",
       "title": "Настройка интеграции с телефонией Novofon",
       "type": "articles",
       "order": 2,
@@ -2296,7 +2296,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Настройка терминалов Сбербанка/Настройка подключения терминала эквайринга Сбербанка по сети",
       "file": "nastroyka-podklyucheniya-terminala-ekvayringa-sberbanka-po-seti.md",
-      "sha": "0199eca7ddf4be24241a6c1c6481004d7b1c7be0",
+      "sha": "f594ac4ea8cb4bd8c5bfce9e8019188b4c763a9f",
       "title": "Настройка подключения терминала эквайринга Сбербанка по сети",
       "type": "articles",
       "order": 2,
@@ -2308,7 +2308,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Настройка терминалов Сбербанка/Настройка терминала по com-порту",
       "file": "nastroyka-terminala-podklyuchennogo-po-com-portu-k-pk-polzovatelya.md",
-      "sha": "ad22751dd39a7258413c0ed30c591206e293ffa1",
+      "sha": "416ea1cc3eab1154d58e22dda2dc971d87370e44",
       "title": "Настройка терминала, подключенного по com-порту к ПК пользователя",
       "type": "articles",
       "order": 1,
@@ -2320,7 +2320,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Настройка терминалов Сбербанка/Установка универсального драйвера Сбербанка",
       "file": "ustanovka-universalnogo-drayvera-sberbanka.md",
-      "sha": "9877f84b0ddd40ec1404b296ba65ff012e1275c5",
+      "sha": "75f7c0e13cb23323e159d99447b2066ea49e3ec3",
       "title": "Установка универсального драйвера Сбербанка",
       "type": "articles",
       "order": 0,
@@ -2332,7 +2332,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Подключение банковского терминала",
       "file": "podklyuchenie-bankovskogo-terminala.md",
-      "sha": "706805ad082bb2058ac411861a5b394b0adc6e47",
+      "sha": "6e6ab9111a1fd4fc53fda72a94cd50f7c2bd5bbd",
       "title": "Подключение банковского терминала",
       "type": "articles",
       "order": 6,
@@ -2344,7 +2344,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Подключение кассы ККМ",
       "file": "podklyuchenie-kassy-kkm.md",
-      "sha": "c0c9dff8963a0b025ce1d448046dbb8c53391e3b",
+      "sha": "33993ddedecfcb8868b5a14edef9d6859c2ea0c4",
       "title": "Подключение кассы ККМ",
       "type": "articles",
       "order": 0,
@@ -2356,7 +2356,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Рабочие места",
       "file": "rabochie-mesta.md",
-      "sha": "4c770c1fa2c62ce43d30c8e4825d02be6182a8a7",
+      "sha": "dccc0d0d91a2cd66598a87b84085ab3f5f514121",
       "title": "Рабочие места",
       "type": "articles",
       "order": 2,
@@ -2368,7 +2368,7 @@
     {
       "path": "articles/5S AUTO/Маркировка/Инвентаризация кодов маркировки",
       "file": "inventarizaciya-kodov-markirovki.md",
-      "sha": "75b2759b590aaec398d50c428c5fa22f85e60489",
+      "sha": "f0437f6ed186a7ed7fe8c5ab42b58facfcc1ddf9",
       "title": "Инвентаризация кодов маркировки",
       "type": "articles",
       "order": 3,
@@ -2380,7 +2380,7 @@
     {
       "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
       "file": "markirovka-tovarov.md",
-      "sha": "b4d30f6fb65a64d37ec96c983efb7c5c2871b727",
+      "sha": "893b71b030b60cf7b318a7624d6401a721c7f6df",
       "title": "Маркировка товаров",
       "type": "articles",
       "order": 0,
@@ -2392,7 +2392,7 @@
     {
       "path": "articles/5S AUTO/Маркировка/Настройка интеграции с Честным знаком",
       "file": "nastroyka-integracii-s-chestnym-znakom.md",
-      "sha": "68ee7bcbe28d01bbe7d06dd447708a5d4ece1d7c",
+      "sha": "264a27a669458f4da2d2b358d6361f2c1d08f77e",
       "title": "Настройка интеграции с Честным знаком",
       "type": "articles",
       "order": 5,
@@ -2404,7 +2404,7 @@
     {
       "path": "articles/5S AUTO/Маркировка/Операции с кодами маркировки",
       "file": "operacii-s-kodami-markirovki.md",
-      "sha": "c549cb58420250926270e14899e8898ddfa0d008",
+      "sha": "92d5b86695184431e549f84e55cf5e6cdf06de13",
       "title": "Операции с кодами маркировки",
       "type": "articles",
       "order": 1,
@@ -2416,7 +2416,7 @@
     {
       "path": "articles/5S AUTO/Маркировка/Получение токена доступа к API Честного знака",
       "file": "poluchenie-tokena-dostupa-k-api-chestnogo-znaka.md",
-      "sha": "8c69bc63c0c4a4ca45a658e332f97476a6850a86",
+      "sha": "2561830188ea62fe498320043e9cf14814572fb3",
       "title": "Получение токена доступа к API Честного знака",
       "type": "articles",
       "order": 6,
@@ -2428,7 +2428,7 @@
     {
       "path": "articles/5S AUTO/Маркировка/Регистрация в системе Честный знак",
       "file": "registraciya-v-sisteme-chestnyy-znak.md",
-      "sha": "ad8e1e3f4f5fa0fd6f2a584df163729316380aed",
+      "sha": "1f9dfde52df0ca1d929e1fb1833f0643de7551c0",
       "title": "Регистрация в системе Честный знак",
       "type": "articles",
       "order": 4,
@@ -2440,7 +2440,7 @@
     {
       "path": "articles/5S AUTO/Маркировка/Частичное выбытие маркированного товара",
       "file": "chastichnoe-vybytie-markirovannogo-tovara.md",
-      "sha": "a30b29fcaf57a69c06a9bc09798ae0808355aca0",
+      "sha": "a774f1f32836b64261824a764ceaee0a4339d245",
       "title": "Частичное выбытие маркированного товара",
       "type": "articles",
       "order": 8,
@@ -2452,7 +2452,7 @@
     {
       "path": "articles/5S AUTO/Отчеты/Настройка отчетов на СКД",
       "file": "nastroyka-otchetov-na-skd.md",
-      "sha": "7310a3f467ba013c7d0da13c7f0fd0409163f3ac",
+      "sha": "a9e7ca763528bead0a5ce06a2b9d5001cafd3ffe",
       "title": "Настройка отчетов на СКД",
       "type": "articles",
       "order": 0,
@@ -2464,7 +2464,7 @@
     {
       "path": "articles/5S AUTO/Отчеты/Отчет ROMI рекламных каналов",
       "file": "otchet-romi-reklamnykh-kanalov.md",
-      "sha": "467b894063367fd965b28debd888499123020a9b",
+      "sha": "23ac67828a276aad43f4b8d7bcc1991e899cb522",
       "title": "Отчет \"ROMI рекламных каналов\"",
       "type": "articles",
       "order": 10,
@@ -2476,7 +2476,7 @@
     {
       "path": "articles/5S AUTO/Отчеты/Отчет Воронка продаж по закрытым сделкам",
       "file": "otchet-voronka-prodazh-po-zakrytym-sdelkam.md",
-      "sha": "f02e423e1d664d1cedd1ff6ea68a858785197109",
+      "sha": "92634529f886fd720aa72fe4ece9c542b9f1a80d",
       "title": "Отчет \"Воронка продаж по закрытым сделкам\"",
       "type": "articles",
       "order": 3,
@@ -2488,7 +2488,7 @@
     {
       "path": "articles/5S AUTO/Отчеты/Отчет Операционная воронка продаж",
       "file": "otchet-operacionnaya-voronka-prodazh.md",
-      "sha": "9a7803f0813c94ab8afe22fd2d294a840022d16a",
+      "sha": "156964b3336a675737c6e32cb41a5563b5ec0548",
       "title": "Отчет «Операционная воронка продаж»",
       "type": "articles",
       "order": 4,
@@ -2500,7 +2500,7 @@
     {
       "path": "articles/5S AUTO/Отчеты/Отчет Остатки и обороты активов",
       "file": "otchet-ostatki-i-oboroty-aktivov.md",
-      "sha": "5e2c46d5d1a44c79e2febc99fb310e71c3b56639",
+      "sha": "42ef75c93c30e03fa71ccbbbb38eec7b271e949f",
       "title": "Отчет “Остатки и обороты активов”",
       "type": "articles",
       "order": 9,
@@ -2512,7 +2512,7 @@
     {
       "path": "articles/5S AUTO/Отчеты/Отчет Отбор по контрагентам",
       "file": "otchet-otbor-po-kontragentam.md",
-      "sha": "8893960a3234a280b66e3e9a4c13563a5e8fa374",
+      "sha": "0fffa26fb0e8e38d59cf1fe2bf5d3948c90dee3f",
       "title": "Отчет \"Отбор по контрагентам\"",
       "type": "articles",
       "order": 7,
@@ -2524,7 +2524,7 @@
     {
       "path": "articles/5S AUTO/Отчеты/Отчет Продажи СОЗЧ",
       "file": "otchet-prodazhi-sozch.md",
-      "sha": "4126fdc12e9e0c63dbb1afb0eb444f0b152a4b23",
+      "sha": "2d84f589cd8b1742365a95f1a16c5944f51096fe",
       "title": "Отчет \"Продажи СОЗЧ\"",
       "type": "articles",
       "order": 5,
@@ -2536,7 +2536,7 @@
     {
       "path": "articles/5S AUTO/Отчеты/Отчет Регистрация внешних пользователей",
       "file": "otchet-registraciya-vneshnikh-polzovateley.md",
-      "sha": "0ed639d8bc7f99eb2ae71485ae2d4a6cd77b4dc9",
+      "sha": "b58582f74e1660fe9e9a42c231dc8e6523ab9ede",
       "title": "Отчет “Регистрация внешних пользователей”",
       "type": "articles",
       "order": 11,
@@ -2548,7 +2548,7 @@
     {
       "path": "articles/5S AUTO/Отчеты/Отчет Статистика по обращениям",
       "file": "otchet-statistika-po-obrascheniyam-zaezdam.md",
-      "sha": "1120e196f13ace2741af57fbfbc347a3396b54d0",
+      "sha": "b114a52a7209dd36e16e6b2e3e4d9e0d14566189",
       "title": "Отчет \"Статистика по обращениям\"",
       "type": "articles",
       "order": 1,
@@ -2560,7 +2560,7 @@
     {
       "path": "articles/5S AUTO/Отчеты/Отчет Эффективность мастеров",
       "file": "otchet-effektivnost-masterov.md",
-      "sha": "a5681b4f245b1ae83fb1f3d08fb128528a570fcf",
+      "sha": "a74ce8dcefac82ec1415f323d7e8465bc6c1e9f6",
       "title": "Отчет \"Эффективность мастеров\"",
       "type": "articles",
       "order": 2,
@@ -2572,7 +2572,7 @@
     {
       "path": "articles/5S AUTO/Отчеты/Отчеты по складскому учету",
       "file": "otchety-po-skladskomu-uchetu.md",
-      "sha": "8bbb44f3784cac8125049d4168bfe8614d475a61",
+      "sha": "1c075fb5303c205a392d1ddca4b092892c9e8eeb",
       "title": "Отчеты по складскому учету",
       "type": "articles",
       "order": 6,
@@ -2584,7 +2584,7 @@
     {
       "path": "articles/5S AUTO/Пользователи и права/Мастер быстрого ввода пользователей и сотрудников",
       "file": "master-bystrogo-vvoda-polzovateley-i-sotrudnikov.md",
-      "sha": "b3b73ca91e482b480339fe2cc6a4c86466faaf9f",
+      "sha": "ad85a35a555129622634b4a6aa642b0f7936e186",
       "title": "Мастер быстрого ввода пользователей и сотрудников",
       "type": "articles",
       "order": 1,
@@ -2596,7 +2596,7 @@
     {
       "path": "articles/5S AUTO/Пользователи и права/Пользователи",
       "file": "polzovateli.md",
-      "sha": "8b0ff9c9bdcc0644dd308720d7f187e9814e6f5d",
+      "sha": "09b441dba1deeb0833efb35f252c1412ef3a98df",
       "title": "Пользователи",
       "type": "articles",
       "order": 0,
@@ -2608,7 +2608,7 @@
     {
       "path": "articles/5S AUTO/Пользователи и права/Роли пользователей",
       "file": "roli-polzovateley.md",
-      "sha": "8acf69fd5f6e2e1064ea155f2d3207cbf26c0779",
+      "sha": "6408fdd51562c42897f5799544019cdbf434168c",
       "title": "Роли пользователей",
       "type": "articles",
       "order": 3,
@@ -2620,7 +2620,7 @@
     {
       "path": "articles/5S AUTO/Пользователи и права/Установка прав и настроек пользователя",
       "file": "ustanovka-prav-i-nastroek-polzovatelya.md",
-      "sha": "2f6ab23be809459bed498e39dabd198a3b385368",
+      "sha": "f7e7e31788a34e16c5fbaaef8165c34d9a5c1868",
       "title": "Установка прав и настроек пользователя",
       "type": "articles",
       "order": 2,
@@ -2632,7 +2632,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/API 5S AUTO",
       "file": "api-5s-auto.md",
-      "sha": "644b6a7c41941830564959975ef6e90abdf2933d",
+      "sha": "e9bdf87161d795d88f77fa948454d384db80ce70",
       "title": "API 5S AUTO",
       "type": "articles",
       "order": 16,
@@ -2644,7 +2644,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Библиотека картинок",
       "file": "biblioteka-kartinok.md",
-      "sha": "b5f4c6d8cdd105114b8af1a380c53a11d120e051",
+      "sha": "ee15f425d5614dbf5caac6c56f9885857e3db0f6",
       "title": "Библиотека картинок",
       "type": "articles",
       "order": 13,
@@ -2656,7 +2656,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Версионирование",
       "file": "versionirovanie.md",
-      "sha": "df99adbf64d3ef294fd10b1287909c72ac31a1db",
+      "sha": "966d573b3a29cd3a331f979d41a998da7542fe7d",
       "title": "Версионирование",
       "type": "articles",
       "order": 15,
@@ -2668,7 +2668,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Восстановление последовательностей документов",
       "file": "vosstanovlenie-posledovatelnostey-dokumentov.md",
-      "sha": "5b85283123c73af50618d243c6eeaa4ab7569ef3",
+      "sha": "35a27bf4170cda5624d94058b50adaa44e9f18f1",
       "title": "Восстановление последовательностей документов",
       "type": "articles",
       "order": 6,
@@ -2680,7 +2680,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Доступ к данным по подразделениям (RLS)",
       "file": "dostup-k-dannym-po-podrazdeleniyam-rls.md",
-      "sha": "b1d9bafd8da5f8c0b8a1f309a6a3933ee3fe34dc",
+      "sha": "cbc98a8adda3bd95d6023907a73f3f5786b2f8b6",
       "title": "Доступ к данным по подразделениям (RLS)",
       "type": "articles",
       "order": 9,
@@ -2692,7 +2692,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Загрузка адресного классификатора",
       "file": "zagruzka-adresnogo-klassifikatora.md",
-      "sha": "7b63a6eac2ffd6d3de3479d8e05e20f15ab1d54a",
+      "sha": "a8ddb621bb8240b106d51d128f775a78a38809ac",
       "title": "Загрузка адресного классификатора",
       "type": "articles",
       "order": 23,
@@ -2704,7 +2704,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Запуск произвольных обработок в регламентном задании",
       "file": "zapusk-proizvolnykh-obrabotok-v-reglamentnom-zadanii.md",
-      "sha": "3dfa82f17560809af5ff37fc038bbe0d1f438370",
+      "sha": "40846ebee79cea08cf8e64b28261a48bb6db8828",
       "title": "Запуск произвольных обработок в регламентном задании",
       "type": "articles",
       "order": 11,
@@ -2716,7 +2716,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Мастер настройки системы",
       "file": "master-nastroyki-sistemy.md",
-      "sha": "bc0827a177d4ec5e35ee04581f1abb5d50dfeea1",
+      "sha": "de655fbe5b04bdb27af095608e52ee6dc1420035",
       "title": "Мастер настройки системы",
       "type": "articles",
       "order": 19,
@@ -2728,7 +2728,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Настройка видимости складов",
       "file": "nastroyka-vidimosti-skladov.md",
-      "sha": "cb5353567b790cd1102fbcfc037103b1e7f8e775",
+      "sha": "32bc9035862820d2f40f9a5e4da4ce71392e3668",
       "title": "Настройка видимости складов",
       "type": "articles",
       "order": 10,
@@ -2740,7 +2740,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Настройка полнотекстового поиска",
       "file": "nastroyka-polnotekstovogo-poiska.md",
-      "sha": "06ff6e207690e806e07d506b636eaca2409ed483",
+      "sha": "7a8f9ccc45b7524144c70f79e56087409e62b41d",
       "title": "Настройка полнотекстового поиска",
       "type": "articles",
       "order": 14,
@@ -2752,7 +2752,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Настройка рабочего стола",
       "file": "nastroyka-rabochego-stola.md",
-      "sha": "82ee76a60b36a3ffcf50bf691e7d6bd2c70b5e8a",
+      "sha": "269d904c471f80fa65cb549b9f70ec865bf4e8b2",
       "title": "Настройка рабочего стола",
       "type": "articles",
       "order": 0,
@@ -2764,7 +2764,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Настройка цветового оформления статусов и состояний",
       "file": "nastroyka-cvetovogo-oformleniya-statusov-i-sostoyaniy.md",
-      "sha": "be6b5a967179171d4ebad590fcdc672a622f0516",
+      "sha": "ee77fd64e9aac3fdc1ae393dafc7f982dce7b7c6",
       "title": "Настройка цветового оформления статусов и состояний",
       "type": "articles",
       "order": 2,
@@ -2776,7 +2776,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Настройки Помощника автосервиса",
       "file": "nastroyki-pomoschnika-avtoservisa.md",
-      "sha": "828951ea1f844532b9f99a353e79d3c0edf5f799",
+      "sha": "c76dea7228c132ae29af888ff55f00c3cf3725ca",
       "title": "Настройки Помощника автосервиса",
       "type": "articles",
       "order": 20,
@@ -2788,7 +2788,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Обработка исправления ошибок в складском учете",
       "file": "obrabotka-ispravleniya-oshibok-v-skladskom-uchete.md",
-      "sha": "30cfff677742502a2e7f97a393fb46c9d24ddc72",
+      "sha": "98b1d22ed90956080ca6881ce07eb106a9b63f17",
       "title": "Обработка исправления ошибок в складском учете",
       "type": "articles",
       "order": 8,
@@ -2800,7 +2800,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Перенос данных",
       "file": "perenos-dannykh.md",
-      "sha": "dc31954353f54180ee70a0e1aa97be1b7f475cbb",
+      "sha": "db2f6f8bca627ae0e350ece7b2d4a900bbfac556",
       "title": "Перенос данных",
       "type": "articles",
       "order": 21,
@@ -2812,7 +2812,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Подключение внешних печатных форм/Печать диагностической анкеты",
       "file": "podklyuchenie-vneshney-pechatnoy-formy-pechat-diagnosticheskoy-ankety.md",
-      "sha": "30dc29ead627e726261fe0b8a02d8c1009e61b95",
+      "sha": "d8bc4c857edb51fa638ae22dab15df08e4ab35c5",
       "title": "Подключение внешней печатной формы \"Печать диагностической анкеты\"",
       "type": "articles",
       "order": 1,
@@ -2824,7 +2824,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Подключение внешних печатных форм/Печать корзины",
       "file": "podklyuchenie-vneshney-pechatnoy-formy-pechat-korziny.md",
-      "sha": "73b41eb5573c6e6542511d6dcaf6836584c6a016",
+      "sha": "262074ad2176684526058f4e18aef42109489d36",
       "title": "Подключение внешней печатной формы \"Печать корзины\"",
       "type": "articles",
       "order": 0,
@@ -2836,7 +2836,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Поиск и замена дублирующихся записей",
       "file": "poisk-i-zamena-dubliruyuschikhsya-zapisey.md",
-      "sha": "c03f59945f0898aae1cbfe0e586c54be23eb3114",
+      "sha": "e4957deab9502288534eb34028a94168bbdcae41",
       "title": "Поиск и замена дублирующихся записей",
       "type": "articles",
       "order": 7,
@@ -2848,7 +2848,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Права на редактирование документов",
       "file": "prava-na-redaktirovanie-dokumentov.md",
-      "sha": "1e923813bdffa1a95b4ba8c57342d6e0cd7aee10",
+      "sha": "643714e5b4f8e8b1801ac949338ee7937fc6b2b2",
       "title": "Права на редактирование документов",
       "type": "articles",
       "order": 4,
@@ -2870,7 +2870,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Создание второй службы",
       "file": "sozdanie-vtoroy-sluzhby.md",
-      "sha": "92bbd3dfa3f820a8d37b3e5f479cc7f98824730b",
+      "sha": "05a2349e0718cacdf213a3ad4e2e2a2b7fd5a370",
       "title": "Создание второй службы",
       "type": "articles",
       "order": 22,
@@ -2882,7 +2882,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Создание и редактирование пользователей 5S Cloud",
       "file": "sozdanie-i-redaktirovanie-polzovateley-5s-cloud.md",
-      "sha": "9f7b33acba9c785bfcc0e291be40f0172edb50e9",
+      "sha": "28073652390df6d1c0253917a9b9eaff58d46822",
       "title": "Создание и редактирование пользователей 5S Cloud",
       "type": "articles",
       "order": 17,
@@ -2900,7 +2900,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Создание типовой анкеты",
       "file": "sozdanie-tipovoy-ankety.md",
-      "sha": "aa65640e9fd1c9182844b07f7cf3d379f1411321",
+      "sha": "b58fc5f4aa89439251adf769e1e67057873dc413",
       "title": "Создание типовой анкеты",
       "type": "articles",
       "order": 3,
@@ -2912,7 +2912,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Часовые пояса",
       "file": "chasovye-poyasa.md",
-      "sha": "96699c3ef5a5408f8c2a334c9705f92d6033ec50",
+      "sha": "2777972cdd222252b1bcc66da7ad58962eea51c0",
       "title": "Часовые пояса",
       "type": "articles",
       "order": 1,
@@ -2924,7 +2924,7 @@
     {
       "path": "articles/5S AUTO/Структура компании/Справочник Организации",
       "file": "spravochnik-organizacii.md",
-      "sha": "2acef23e877641852b0564d1f523c50a302d3be0",
+      "sha": "ebd0554dc9a42d373172bfd4e5387125f96c1d8f",
       "title": "Справочник \"Организации\"",
       "type": "articles",
       "order": 1,
@@ -2936,7 +2936,7 @@
     {
       "path": "articles/5S AUTO/Структура компании/Справочник Подразделения компании",
       "file": "spravochnik-podrazdeleniya-kompanii.md",
-      "sha": "6c82d5f04bfbc3d3da3a273fe0ad2a9f5b942b52",
+      "sha": "61b4535394742033a2fb3edbebddb90c8502f668",
       "title": "Справочник \"Подразделения компании\"",
       "type": "articles",
       "order": 0,
@@ -2948,7 +2948,7 @@
     {
       "path": "articles/5S AUTO/Управление качеством обслуживания/Обработка жалоб от клиентов",
       "file": "obrabotka-zhalob-ot-klientov.md",
-      "sha": "fcad315e72de4e5aab1f9c7f9b34eac04661770e",
+      "sha": "94e2a9e98073bbbf18c6bb1151b03aee68b15906",
       "title": "Обработка жалоб от клиентов",
       "type": "articles",
       "order": 1,
@@ -2960,7 +2960,7 @@
     {
       "path": "articles/5S AUTO/Управление качеством обслуживания/Опрос клиента о качестве обслуживания",
       "file": "opros-klienta-o-kachestve-obsluzhivaniya.md",
-      "sha": "384de67ca5fc021891db23d1c38cd4f412a509c2",
+      "sha": "fa19fc6804b8e8b8e10c6cbb09486b275bdf834c",
       "title": "Опрос клиента о качестве обслуживания",
       "type": "articles",
       "order": 0,
@@ -2972,7 +2972,7 @@
     {
       "path": "lessons/Краткий курс для Автосалона/Выбор автомобиля",
       "file": "vybor-avtomobilya.md",
-      "sha": "af05f16f9a79b6f6912a726347f859064ede57f9",
+      "sha": "7a85f0455e51025dd6d257fb23297e5cf3e9687b",
       "title": "Выбор автомобиля",
       "type": "lessons",
       "order": 1,
@@ -2984,7 +2984,7 @@
     {
       "path": "lessons/Краткий курс для Автосалона/Регистрация обращения",
       "file": "registraciya-obrascheniya.md",
-      "sha": "3764bc67166baf08cb21a58436981d048da28f19",
+      "sha": "1c27c979b276eba70a7429065192fa3dbdc13341",
       "title": "Регистрация обращения",
       "type": "lessons",
       "order": 0,
@@ -2996,7 +2996,7 @@
     {
       "path": "articles/5S AUTO/Персонал и мотивация/Выявление и разбор нарушений",
       "file": "vyyavlenie-i-razbor-narusheniy.md",
-      "sha": "9a0b657796c0540e6eb771ce7b741dad00228ba0",
+      "sha": "b7c25d84f792c166a9034ea8a9d57715a9b326dd",
       "title": "Выявление и разбор нарушений",
       "type": "articles",
       "order": 0,
@@ -3008,7 +3008,7 @@
     {
       "path": "articles/5S AUTO/Персонал и мотивация/Настройка системы мотивации",
       "file": "nastroyka-sistemy-motivacii.md",
-      "sha": "a4f3926865f0caa641141548a78926aa397e55e9",
+      "sha": "f4b0df1b1ce5c7fad92584caf4e575a74783dbaa",
       "title": "Настройка системы мотивации",
       "type": "articles",
       "order": 3,
@@ -3020,7 +3020,7 @@
     {
       "path": "articles/5S AUTO/Персонал и мотивация/Описание возможностей системы мотивации",
       "file": "opisanie-vozmozhnostey-sistemy-motivacii.md",
-      "sha": "86a2df7fb5c9ac57de585c6a27d6912ce91aa096",
+      "sha": "e3214c8b3793d73b39de215ed49854219314d93d",
       "title": "Описание возможностей системы мотивации",
       "type": "articles",
       "order": 2,
@@ -3032,7 +3032,7 @@
     {
       "path": "articles/5S AUTO/Персонал и мотивация/Табель учета рабочего времени",
       "file": "tabel-ucheta-rabochego-vremeni.md",
-      "sha": "daebb8bc499bbe2b294a0ed104ebe810b1321a17",
+      "sha": "31ef34b236e1235527b0e59ddcf5a2383f3cfbe9",
       "title": "Табель учета рабочего времени",
       "type": "articles",
       "order": 1,
@@ -3044,7 +3044,7 @@
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Автоматическая загрузка банковских выписок",
       "file": "avtomaticheskaya-zagruzka-bankovskikh-vypisok.md",
-      "sha": "a9b5c1e9b366be65f3123e2ee68087b31b63cfeb",
+      "sha": "c5d9b3067c80deafba1256269af32492284d1e29",
       "title": "Автоматическая загрузка банковских выписок",
       "type": "articles",
       "order": 1,
@@ -3056,7 +3056,7 @@
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Настройка API Сбербанка для загрузки выписок",
       "file": "nastroyka-api-sberbanka-dlya-zagruzki-vypisok.md",
-      "sha": "1969ae3afa04e496e7a1bb78f722b07bb684fb78",
+      "sha": "d7f2073b5522ebc2236c3bd454e763e8c9afe161",
       "title": "Настройка API Сбербанка для загрузки выписок",
       "type": "articles",
       "order": 2,
@@ -3068,7 +3068,7 @@
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Обработка для загрузки банковских выписок",
       "file": "obrabotka-dlya-zagruzki-bankovskikh-vypisok.md",
-      "sha": "c79746af43037afcab78af5e84715e45145986fc",
+      "sha": "6d29620fb51cb6f940db17fdc5e4289bf89a086f",
       "title": "Обработка для загрузки банковских выписок",
       "type": "articles",
       "order": 0,
@@ -3080,7 +3080,7 @@
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Альфа-Банка",
       "file": "podklyuchenie-zagruzki-vypisok-alfa-banka.md",
-      "sha": "118c75be679d68e834dce2d7675028f6a0662fb9",
+      "sha": "99aa30efda32ded5c84cf99692f0e43f18cd19fa",
       "title": "Подключение загрузки выписок Альфа-Банка",
       "type": "articles",
       "order": 4,
@@ -3092,7 +3092,7 @@
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Т-Банка",
       "file": "podklyuchenie-zagruzki-vypisok-t-banka.md",
-      "sha": "7b0125fd8101549c7992bffbb2635a1729d5be82",
+      "sha": "4c19b515694d5d9752cce6086331f0317130834f",
       "title": "Подключение загрузки выписок Т-Банка",
       "type": "articles",
       "order": 3,
@@ -3104,7 +3104,7 @@
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Печать QR-кода для оплаты",
       "file": "pechat-qr-koda-dlya-oplaty.md",
-      "sha": "3751e2fa7d02047a4b8c115f6b65e0f17b656cfe",
+      "sha": "6ac461534e6ffdc508086374bcd4d7da8844a056",
       "title": "Печать QR-кода для оплаты",
       "type": "articles",
       "order": 5,
@@ -3116,7 +3116,7 @@
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение SberPay QR",
       "file": "podklyuchenie-sberpay-qr.md",
-      "sha": "b336e056730bcec91bd42e7c5136a5e89d0e8810",
+      "sha": "dde91e10ad612c88e03851ee5cc4efc1d3b52f67",
       "title": "Подключение SberPay QR",
       "type": "articles",
       "order": 1,
@@ -3128,7 +3128,7 @@
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП T-Банка",
       "file": "podklyuchenie-sbp-t-banka.md",
-      "sha": "ca965416fc1a94adaa467de7c6af1dcb962d7f4b",
+      "sha": "b196398bd8b3956baea88c9e710d27a388d0bc09",
       "title": "Подключение СБП T-Банка",
       "type": "articles",
       "order": 2,
@@ -3140,7 +3140,7 @@
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Альфа-Банка",
       "file": "podklyuchenie-sbp-alfa-banka.md",
-      "sha": "a07c0180bc18c2373c3168cee7371d3e95d71e4b",
+      "sha": "d8e948578cff87c382f9d78b777b3a75ddf22f54",
       "title": "Подключение СБП Альфа-Банка",
       "type": "articles",
       "order": 3,
@@ -3152,7 +3152,7 @@
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Работа с СБП",
       "file": "rabota-s-sbp.md",
-      "sha": "7111b3d361339174a9325e4381b52ffc07dbdc1f",
+      "sha": "b4de4b0e226e155b2a90db2bada8fe3639034960",
       "title": "Работа с СБП",
       "type": "articles",
       "order": 0,
@@ -3164,7 +3164,7 @@
     {
       "path": "articles/5S AUTO/Касса/Интеграция с Webkassa.KZ",
       "file": "integraciya-s-webkassakz.md",
-      "sha": "cbe7b26f045f8781c9603935a504fb951438cc4d",
+      "sha": "afbaa6960569e4597ebc3f29f4b89e3b32b09ce5",
       "title": "Интеграция с Webkassa.KZ",
       "type": "articles",
       "order": 9,
@@ -3176,7 +3176,7 @@
     {
       "path": "articles/5S AUTO/Касса/Использование Чека коррекции",
       "file": "ispolzovanie-cheka-korrekcii.md",
-      "sha": "78b1ee7708c642e4107d1b42cd1eef47a849bfed",
+      "sha": "c5abb277c62d59491e7eac5a3390e140cf286a17",
       "title": "Использование Чека коррекции",
       "type": "articles",
       "order": 7,
@@ -3188,7 +3188,7 @@
     {
       "path": "articles/5S AUTO/Касса/Настройка имени кассира для чека ККМ",
       "file": "nastroyka-imeni-kassira-dlya-cheka-kkm.md",
-      "sha": "1ca1835f8bfc56954b59e3864408d6de03b9cef6",
+      "sha": "c71ccf3015963ab10f8097b191be9f5972d6a6b3",
       "title": "Настройка имени кассира для чека ККМ",
       "type": "articles",
       "order": 1,
@@ -3200,7 +3200,7 @@
     {
       "path": "articles/5S AUTO/Касса/Настройка приложения 5S Pay",
       "file": "nastroyka-prilozheniya-5s-pay.md",
-      "sha": "3daf0e1d064e58907031eaf6c54bc01104880a98",
+      "sha": "1168f8185bc83024927319d62afe684601e3d5f3",
       "title": "Настройка приложения 5S Pay",
       "type": "articles",
       "order": 8,
@@ -3222,7 +3222,7 @@
     {
       "path": "articles/5S AUTO/Касса/Обработка Закрытие кассовой смены",
       "file": "obrabotka-zakrytie-kassovoy-smeny.md",
-      "sha": "6c0e3f4e71e761ed4c3558a54892eccd51caf6a2",
+      "sha": "14308550c3308c559b2aff31402e9433253237a6",
       "title": "Обработка Закрытие кассовой смены",
       "type": "articles",
       "order": 3,
@@ -3234,7 +3234,7 @@
     {
       "path": "articles/5S AUTO/Касса/Отражение оплаты через СБП",
       "file": "otrazhenie-oplaty-cherez-sbp.md",
-      "sha": "b65f719f060f3da423d470653bdb024aa6211d16",
+      "sha": "db3331b4eb9d9012585dcca8ff1fdf6b3cf8f2ae",
       "title": "Отражение оплаты через СБП",
       "type": "articles",
       "order": 4,
@@ -3252,7 +3252,7 @@
     {
       "path": "articles/5S AUTO/Касса/Порядок работы с кассами ККМ",
       "file": "poryadok-raboty-s-kassami-kkm.md",
-      "sha": "4573854c9b3bf27bf503bdeaeb902c314ca474f0",
+      "sha": "f2513012f366a7f0f440af1a8e22334e548131ec",
       "title": "Порядок работы с кассами ККМ",
       "type": "articles",
       "order": 0,
@@ -3264,7 +3264,7 @@
     {
       "path": "articles/5S AUTO/Касса/Режимы печати чеков",
       "file": "rezhimy-pechati-chekov.md",
-      "sha": "e0df4bca0e2ce63febabbcf836d30029ef3a8c61",
+      "sha": "a4da14574866209f130519a29102bee76610af0c",
       "title": "Режимы печати чеков",
       "type": "articles",
       "order": 5,
@@ -3276,7 +3276,7 @@
     {
       "path": "articles/5S AUTO/Касса/Упрощенный Фронт кассира",
       "file": "uproschennyy-front-kassira.md",
-      "sha": "bccc63d2e2a6c89308b43207536b11546af53d6d",
+      "sha": "cbfc2c8ff0a0a2057073e2303e458a2472a598c3",
       "title": "Упрощенный Фронт кассира",
       "type": "articles",
       "order": 2,
@@ -3288,7 +3288,7 @@
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Автозакрытие сделок и ручная привязка",
       "file": "avtozakrytie-sdelok-i-ruchnaya-privyazka.md",
-      "sha": "d316a73773b727e80d2e5b9f66f0c45efe410fdf",
+      "sha": "a490f3d034a497bf41fd91c4a24816573b2e0c4c",
       "title": "Автозакрытие сделок и ручная привязка",
       "type": "articles",
       "order": 2,
@@ -3300,7 +3300,7 @@
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Акт сверки взаиморасчетов",
       "file": "akt-sverki-vzaimoraschetov.md",
-      "sha": "5d1e42e808105b396b898bf3bcb21355baede30c",
+      "sha": "8be9f4b03ab8e827e4c24af8835231f06fe86bcd",
       "title": "Акт сверки взаиморасчетов",
       "type": "articles",
       "order": 4,
@@ -3312,7 +3312,7 @@
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Взаиморасчеты с контрагентами",
       "file": "vzaimoraschety-s-kontragentami.md",
-      "sha": "f968ea4e13c6b9e70e956df319550147c5a26de3",
+      "sha": "aeb6fceceb0ae1fcb7979dc14a3334cacc9b5938",
       "title": "Взаиморасчеты с контрагентами",
       "type": "articles",
       "order": 0,
@@ -3324,7 +3324,7 @@
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Запрет отгрузки без оплаты",
       "file": "zapret-otgruzki-bez-oplaty.md",
-      "sha": "fc45cb6fd77a769ca220138a2c75a22ca583db39",
+      "sha": "5f4f4a370e94a150f6694ed10809fe51563e0007",
       "title": "Запрет отгрузки без оплаты",
       "type": "articles",
       "order": 6,
@@ -3336,7 +3336,7 @@
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Контроль дебиторской задолженности юр. лиц",
       "file": "kontrol-debitorskoy-zadolzhennosti-yur-lic.md",
-      "sha": "2387e12ad86579a5e592b9c3f773edc12eae0c36",
+      "sha": "4051a0706680aa2a2bfa63d531c6b43bffb793c9",
       "title": "Контроль дебиторской задолженности юр. лиц",
       "type": "articles",
       "order": 7,
@@ -3348,7 +3348,7 @@
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Корректировка остатков взаиморасчетов",
       "file": "korrektirovka-ostatkov-vzaimoraschetov.md",
-      "sha": "d363d136a417ee51d62b3d69af2c782c8cc3c1d4",
+      "sha": "b28bd3e3318c6982c4cb964c8cdb584222d93418",
       "title": "Корректировка остатков взаиморасчетов",
       "type": "articles",
       "order": 5,
@@ -3360,7 +3360,7 @@
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Отчет Взаиморасчеты с контрагентами",
       "file": "otchet-vzaimoraschety-s-kontragentami.md",
-      "sha": "c862c6ca3d09074816c2e9f187ac4a8eb3070d2c",
+      "sha": "dae65c8f767b5c551e3d44bf9b7b0adfd32e0a64",
       "title": "Отчет “Взаиморасчеты с контрагентами”",
       "type": "articles",
       "order": 1,
@@ -3372,7 +3372,7 @@
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Отчет Возраст задолженности",
       "file": "otchet-vozrast-zadolzhennosti.md",
-      "sha": "e8addc780872d2b987c43a52bcd58df95067b7c7",
+      "sha": "0f9f0c03755b7761898f8d8396e8499e2b0e2902",
       "title": "Отчет “Возраст задолженности”",
       "type": "articles",
       "order": 3,
@@ -3384,7 +3384,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с ABCP",
       "file": "integraciya-s-abcp.md",
-      "sha": "a86ae60a80f0d5ec1d7f2c61a01394585f946ee6",
+      "sha": "e091d8ff5cdf840e2ffa6f27383560ad58049c30",
       "title": "Интеграция с ABCP",
       "type": "articles",
       "order": 10,
@@ -3396,7 +3396,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с BioTime",
       "file": "integraciya-s-biotime.md",
-      "sha": "0f86762ff84e57477ae88f132abfa1f7f73320cd",
+      "sha": "ca180ab5257f873abbe0b12a5317cdc392751e97",
       "title": "Интеграция с BioTime",
       "type": "articles",
       "order": 5,
@@ -3414,7 +3414,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с MotorData",
       "file": "integraciya-s-motordata.md",
-      "sha": "837e09af78c5ba336dd643cb931e5d0f1b2defcd",
+      "sha": "fab49d1086c43bd1290545edf3bdab12c836e0e1",
       "title": "Интеграция с MotorData",
       "type": "articles",
       "order": 17,
@@ -3426,7 +3426,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с TecDoc",
       "file": "integraciya-s-tecdoc.md",
-      "sha": "7249e9dda1a2334f452a7c323bad64ec96e369e5",
+      "sha": "9cbfa556cca909c5bcf4d54032a1d6dd97fcac36",
       "title": "Интеграция с TecDoc",
       "type": "articles",
       "order": 3,
@@ -3438,7 +3438,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с ЭДО",
       "file": "integraciya-s-edo.md",
-      "sha": "50cd5478029a58a4ab63b05aa20db238d6279100",
+      "sha": "af1b2306e06e065b10eed3d5b7b022818c3bab61",
       "title": "Интеграция с ЭДО",
       "type": "articles",
       "order": 12,
@@ -3450,7 +3450,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с сервисом Безбумажный офис F.Doc",
       "file": "integraciya-s-servisom-bezbumazhnyy-ofis-fdoc.md",
-      "sha": "677dce015b662b656637edd6f03664674b6c0c22",
+      "sha": "96ea590ce8a46d0f1c70279056c11edb8dbb5468",
       "title": "Интеграция с сервисом \"Безбумажный офис F.Doc\"",
       "type": "articles",
       "order": 15,
@@ -3462,7 +3462,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией/Длительность звонков из телефонии",
       "file": "import-i-otobrazhenie-dlitelnosti-zvonkov-iz-telefonii.md",
-      "sha": "290653d643c2c77a8a8a63f2494b5634ae01066f",
+      "sha": "bdef798cf0690275f4ca515ac02b4ff44a8e5b31",
       "title": "Импорт и отображение длительности звонков из телефонии",
       "type": "articles",
       "order": 2,
@@ -3480,7 +3480,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией/Настройка интеграции с телефонией",
       "file": "nastroyka-integracii-s-telefoniey.md",
-      "sha": "8f5456da639cd1b8e5d6559196042fdbd5744b7d",
+      "sha": "e219fade2c98afefc68922d63d9ac8d51f8914aa",
       "title": "Настройка интеграции с телефонией",
       "type": "articles",
       "order": 0,
@@ -3492,7 +3492,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией/Проверка интеграции с телефонией",
       "file": "reglament-proverki-korrektnosti-raboty-integracii-s-telefoniey.md",
-      "sha": "61e1e1b61b35019c6f670159ce1c2f998eebe099",
+      "sha": "162f63cd977082dba61d84f1a30898017c402ad1",
       "title": "Регламент проверки корректности работы интеграции с телефонией",
       "type": "articles",
       "order": 1,
@@ -3504,7 +3504,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Настройка интеграции с SMS Центр",
       "file": "nastroyka-integracii-s-sms-centr.md",
-      "sha": "0a483e4fcf3c784623db3f473854a7aa79139ce8",
+      "sha": "06b95f11acfbab9d7f2cef4b4b2ac4f3b17bc3c0",
       "title": "Настройка интеграции с SMS Центр",
       "type": "articles",
       "order": 1,
@@ -3522,7 +3522,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Настройка интеграции с каталогами Laximo",
       "file": "nastroyka-integracii-s-katalogami-laximo.md",
-      "sha": "cd007a04afe8d87313915bd74e645c7682557a2e",
+      "sha": "47e8c1148d91b9c567977f07052061f3b59cedfe",
       "title": "Настройка интеграции с каталогами Laximo",
       "type": "articles",
       "order": 2,
@@ -3534,7 +3534,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Фотофиксации",
       "file": "fotofiksacii.md",
-      "sha": "3bf9ae0c1580088a8f0b91043c794d9f8cfcdedb",
+      "sha": "40df6b9cf638f91f21a622d6583c58b9c6281f97",
       "title": "Фотофиксации",
       "type": "articles",
       "order": 6,
@@ -3546,7 +3546,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Электронная почта",
       "file": "elektronnaya-pochta.md",
-      "sha": "42399a6f8089afded3585c0bdb395e1ab40cb2cf",
+      "sha": "fc93ab46568d32ef127a27f743854f064d519618",
       "title": "Электронная почта",
       "type": "articles",
       "order": 4,
@@ -3558,7 +3558,7 @@
     {
       "path": "articles/5S AUTO/Телефония/Работа с пропущенными звонками",
       "file": "rabota-s-propuschennymi-zvonkami.md",
-      "sha": "3cb838b7363293a8538ecfc6c7b2b8edbbf32462",
+      "sha": "aaa33bd4e31d8e8f9d78f13e08143e5709606cd3",
       "title": "Работа с пропущенными звонками",
       "type": "articles",
       "order": 5,
@@ -3580,7 +3580,7 @@
     {
       "path": "articles/5S AUTO/Задачи/Адресация задач в CRM по исполнителям",
       "file": "adresaciya-zadach-v-crm-po-ispolnitelyam.md",
-      "sha": "8d0d407e2085c7533b0cf56ebedfbda72b8d7808",
+      "sha": "1ff809cc54389f826be6df15888e23923bb81a8d",
       "title": "Адресация задач в CRM по исполнителям",
       "type": "articles",
       "order": 0,
@@ -3592,7 +3592,7 @@
     {
       "path": "articles/5S AUTO/Задачи/Тонкая настройка адресации задач в CRM",
       "file": "tonkaya-nastroyka-adresacii-zadach-v-crm.md",
-      "sha": "86c531e4733a17ef20b586608dff93ad99db73cb",
+      "sha": "4cfcf6da3282f184fb9ff33b2e46f8d01b233af5",
       "title": "Тонкая настройка адресации задач в CRM",
       "type": "articles",
       "order": 1,
@@ -3604,7 +3604,7 @@
     {
       "path": "articles/5S AUTO/Бонусная система/Настройка бонусной системы",
       "file": "nastroyka-bonusnoy-sistemy.md",
-      "sha": "da921d973544a37a7c875cb8f391c26bea0dc74c",
+      "sha": "afc3806ca4c937d76c803091b77219e4375344e8",
       "title": "Настройка бонусной системы",
       "type": "articles",
       "order": 2,
@@ -3616,7 +3616,7 @@
     {
       "path": "articles/5S AUTO/Бонусная система/Подтверждение списания бонусов",
       "file": "podtverzhdenie-spisaniya-bonusov.md",
-      "sha": "456bd86cd37070cb5e95480fbb3acafee858ce11",
+      "sha": "e2b662de8a9d79dcf310a2c8c6f0386f76240dbc",
       "title": "Подтверждение списания бонусов",
       "type": "articles",
       "order": 1,
@@ -3628,7 +3628,7 @@
     {
       "path": "articles/5S AUTO/Бонусная система/Работа с бонусами клиентов",
       "file": "rabota-s-bonusami-klientov.md",
-      "sha": "dbd633cbc09c60d1ba7551e9fca36dd98e6ee8dd",
+      "sha": "efb58688a4eab6320f9046c4bca8711708a9f563",
       "title": "Работа с бонусами клиентов",
       "type": "articles",
       "order": 0,
@@ -3640,7 +3640,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Возможности бота WhatsApp Business API",
       "file": "vozmozhnosti-bota-whatsapp-business-api.md",
-      "sha": "937aa5fc345914be791ec735205bed6b8d3d8d42",
+      "sha": "9c5f68257e5db1ade6e7f7818ade96cc1fbbde50",
       "title": "Возможности бота WhatsApp Business API",
       "type": "articles",
       "order": 0,
@@ -3658,7 +3658,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Возможные проблемы с WABA и их устранение",
       "file": "vozmozhnye-problemy-s-waba-i-ikh-ustranenie.md",
-      "sha": "b76486feb6c09fef7a6bd679572bac1a7bf01f95",
+      "sha": "496adf50a9acf9ef4776a3f53b5d7c1ef802a68c",
       "title": "Возможные проблемы с WABA и их устранение",
       "type": "articles",
       "order": 6,
@@ -3676,7 +3676,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка интеграции с WhatsApp",
       "file": "nastroyka-integracii-s-whatsapp.md",
-      "sha": "fc5690b9de39eb1770b30b0f33f0add9a2d2b00f",
+      "sha": "843cdcc20897e09e3bbec9aa81f90475e030e78d",
       "title": "Настройка интеграции с WhatsApp",
       "type": "articles",
       "order": 8,
@@ -3698,7 +3698,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка интеграции с WhatsApp Business API (WABA)",
       "file": "nastroyki-integracii-s-whatsapp-business-api.md",
-      "sha": "f76353692fe10f34fef9d700861950509c0dd55a",
+      "sha": "de5bd1714ebf9772cf8c0d5796db1912156da05f",
       "title": "Настройки интеграции с WhatsApp Business API",
       "type": "articles",
       "order": 3,
@@ -3716,7 +3716,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Оформление аккаунта WhatsApp Business API",
       "file": "oformlenie-akkaunta-whatsapp-business-api.md",
-      "sha": "6db3beed6e6184ce7668cf89be06891e109ac1bb",
+      "sha": "3dc50d44fb2fdaf2972ddc8593236c898980239a",
       "title": "Оформление аккаунта WhatsApp Business API",
       "type": "articles",
       "order": 2,
@@ -3734,7 +3734,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Пример индивидуальной настройки WABA",
       "file": "primer-individualnoy-nastroyki-waba.md",
-      "sha": "007de40fbee14d97ade582a1f678ce168259096b",
+      "sha": "8d24bea6503b5af7fd09ea1c2991a3a49e243381",
       "title": "Пример индивидуальной настройки WABA",
       "type": "articles",
       "order": 7,
@@ -3752,7 +3752,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Регистрация компании в Facebook и 360dialog",
       "file": "registraciya-kompanii-v-facebook-i-360dialog.md",
-      "sha": "ff5e9753a41a4abf06c542f8c1b93fa8ee208c50",
+      "sha": "e142250994ae1705c17333f9020f94e5d14c652b",
       "title": "Регистрация компании в Facebook и 360dialog",
       "type": "articles",
       "order": 5,
@@ -3764,7 +3764,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Способы перехода в чат WhatsApp",
       "file": "sposoby-perekhoda-v-chat-whatsapp.md",
-      "sha": "c9478fd8b836a6a524d28cf919c0dbc15460f6bf",
+      "sha": "5c2b2f1331914233825cc1ce34087f07114b1151",
       "title": "Способы перехода в чат WhatsApp",
       "type": "articles",
       "order": 1,
@@ -3776,7 +3776,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Сравнение возможностей WABA и пользовательского WhatsApp",
       "file": "sravnenie-vozmozhnostey-waba-i-polzovatelskogo-whatsapp.md",
-      "sha": "30ed7864816531f6477a2140a8c5ef6ddb775b02",
+      "sha": "751fc7f63f61285699d876cd089f324ca9a54808",
       "title": "Сравнение возможностей WABA и пользовательского WhatsApp",
       "type": "articles",
       "order": 9,
@@ -3788,7 +3788,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/Интеграция с Telegram",
       "file": "integraciya-s-telegram.md",
-      "sha": "8ae3ad59bbd49bd5ccd420153e60f376196c8fab",
+      "sha": "736cd191d753d2af18e383e94e45acd23b28c932",
       "title": "Интеграция с Telegram",
       "type": "articles",
       "order": 11,
@@ -3814,7 +3814,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/Интеграция с мессенджером MAX",
       "file": "integraciya-s-messendzherom-max.md",
-      "sha": "bab5a62d66438de81196f559642236bbe951da19",
+      "sha": "d3a9c0d4d541f6e7a41ab6ea19eeea5f55a9db9d",
       "title": "Интеграция с мессенджером MAX",
       "type": "articles",
       "order": 13,
@@ -3840,7 +3840,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/Интеграция с мессенджером Авито",
       "file": "integraciya-s-messendzherom-avito.md",
-      "sha": "86a4a5d1aedf447761973374bff41311f6364d18",
+      "sha": "5834ef652e7f78d6effc3bcee58aa9a3d55f4181",
       "title": "Интеграция с мессенджером Авито",
       "type": "articles",
       "order": 15,
@@ -3862,7 +3862,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/Интеграция с пользовательским MAX",
       "file": "integraciya-s-polzovatelskim-max.md",
-      "sha": "9ca6f35cd2219499f8c277483c487e877bdb5d25",
+      "sha": "80f1197e51b88594e9ea62427eb5313a74a872c1",
       "title": "Интеграция с пользовательским MAX",
       "type": "articles",
       "order": 14,
@@ -3888,7 +3888,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/Интеграция с сообществом ВКонтакте (VK)",
       "file": "integraciya-s-soobschestvom-vkontakte-vk.md",
-      "sha": "119c76015df7bd9c7d608b56b38b8065eeae0762",
+      "sha": "d5c7b47fa6b506128646676fec110cd9437c2afa",
       "title": "Интеграция с сообществом ВКонтакте (VK)",
       "type": "articles",
       "order": 6,
@@ -3914,7 +3914,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/Контакт-центр 5S Chat",
       "file": "kontakt-centr-5s-chat.md",
-      "sha": "01e601fbd265d6d40a778638ff2c3eb93ce05e47",
+      "sha": "86e384aca97822a902baa91f9f82325420af1c2d",
       "title": "Контакт-центр 5S Chat",
       "type": "articles",
       "order": 16,
@@ -3932,7 +3932,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/Массовая рассылка сообщений по выборке клиентов",
       "file": "massovaya-rassylka-soobscheniy-po-vyborke-klientov.md",
-      "sha": "381964c1048a98d5d78b099e71be98b53893a82e",
+      "sha": "38a0bbea9f1a6b8615a55b062328593bd5c6c0ba",
       "title": "Массовая рассылка сообщений по выборке клиентов",
       "type": "articles",
       "order": 2,
@@ -3944,7 +3944,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/Настройка автоматической отправки сообщений через мессенджеры",
       "file": "nastroyka-avtomaticheskoy-otpravki-soobscheniy-cherez-messendzhery.md",
-      "sha": "17795a8374eb96e61d10a800a18dd79fa4e59635",
+      "sha": "7ca2b27b88bd5a1deaef831d97256cada062e10a",
       "title": "Настройка автоматической отправки сообщений через мессенджеры",
       "type": "articles",
       "order": 12,
@@ -3956,7 +3956,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/Преднастроенные значимые события",
       "file": "prednastroennye-znachimye-sobytiya.md",
-      "sha": "4b698e7d5a643830e42abf72dda54fc0c8d16bf3",
+      "sha": "0d6234a7cc174ba65e0e8410f4b66e01314a2579",
       "title": "Преднастроенные значимые события",
       "type": "articles",
       "order": 1,
@@ -3968,7 +3968,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/Рассылка отчетов через мессенджеры",
       "file": "rassylka-otchetov-cherez-messendzhery.md",
-      "sha": "ebde8fe15d2459e7cea01149e17590493abe3823",
+      "sha": "9a3be29ac673078ec3b0b36087e4789bd77397be",
       "title": "Рассылка отчетов через мессенджеры",
       "type": "articles",
       "order": 0,
@@ -3980,7 +3980,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/Создание приложения компании в VK",
       "file": "sozdanie-prilozheniya-kompanii-v-vk.md",
-      "sha": "849f78ac51309d7a057b02522071fa51e8294221",
+      "sha": "fe1b1cf7807e5fdf7f546434f0a5016e36a92e71",
       "title": "Создание приложения компании в VK",
       "type": "articles",
       "order": 7,
@@ -4002,7 +4002,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/Шаблоны сообщений",
       "file": "shablony-soobscheniy.md",
-      "sha": "11a8298f2871254b7f56a00c619dfed8dbf3c465",
+      "sha": "42d6897f37b4fce527dbed2325d85da18548ddad",
       "title": "Шаблоны сообщений",
       "type": "articles",
       "order": 9,
@@ -4014,7 +4014,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/77Volvo",
       "file": "nastroyka-veb-servisa-77volvo.md",
-      "sha": "0baf1c394ee5b6acd351dc7655c823dbffee8fe1",
+      "sha": "82c2edbfff4d17418391cbeba935469d5c57e3c2",
       "title": "Настройка Веб-сервиса 77Volvo",
       "type": "articles",
       "order": 0,
@@ -4026,7 +4026,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/ADEO.PRO",
       "file": "nastroyka-veb-servisa-adeopro.md",
-      "sha": "0a4003510cd092078a3b56aece755152f371f388",
+      "sha": "9d49edb9e3be57a247dd83288ded3e97f33d2fcd",
       "title": "Настройка Веб-сервиса ADEO.PRO",
       "type": "articles",
       "order": 3,
@@ -4038,7 +4038,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/AbsAuto (Абс-Авто)",
       "file": "nastroyka-veb-servisa-absauto-abs-avto.md",
-      "sha": "5294b638713de97a2412ca825d74a3e9a3ef8da4",
+      "sha": "9fbf357c051f7a53bb2fabb3b85c0183814f6977",
       "title": "Настройка Веб-сервиса AbsAuto (Абс-Авто)",
       "type": "articles",
       "order": 2,
@@ -4050,7 +4050,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Allautoparts (Автостелс)",
       "file": "nastroyka-veb-servisa-allautoparts-avtostels.md",
-      "sha": "6cf9f76888b2935b80df1b9d67e37082ddd232cd",
+      "sha": "7717bca4910a5eee96bceb77bebddc5b1534d028",
       "title": "Настройка Веб-сервиса Allautoparts (Автостелс)",
       "type": "articles",
       "order": 4,
@@ -4062,7 +4062,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Armtek (Армтек)",
       "file": "nastroyka-veb-servisa-armtek-armtek.md",
-      "sha": "929103f27b90ad73ff122916226ced84653db089",
+      "sha": "32ead09db835e1e3218b49f42d49ecbc95c963a8",
       "title": "Настройка Веб-сервиса Armtek (Армтек)",
       "type": "articles",
       "order": 5,
@@ -4074,7 +4074,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Auto-help (Авто-Хэлп)",
       "file": "nastroyka-veb-servisa-auto-help-avto-khelp.md",
-      "sha": "fa995e13a858e6dc5a3192913ddf52d0a4d18697",
+      "sha": "3f5173eb668935222457f2d768b92ca4d455e978",
       "title": "Настройка Веб-сервиса Auto-help (Авто-Хэлп)",
       "type": "articles",
       "order": 6,
@@ -4086,7 +4086,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Auto-sputnik (Автоспутник)",
       "file": "nastroyka-veb-servisa-auto-sputnik-avtosputnik.md",
-      "sha": "59572b200a04617b88f9d63e2835d603fe1277c8",
+      "sha": "3a0a7ed97869d790c453c4a239399d7b76e9b7f4",
       "title": "Настройка Веб-сервиса Auto-sputnik (Автоспутник)",
       "type": "articles",
       "order": 15,
@@ -4098,7 +4098,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Auto1.by (АвтоСпейс)",
       "file": "nastroyka-veb-servisa-auto1by-avtospeys.md",
-      "sha": "2ad73aab7817d1247fb6b1e81f5c4da5a2036e14",
+      "sha": "eca95254a3a7c2099756257c9ceb1dcf0ea1591b",
       "title": "Настройка Веб-сервиса Auto1.by (АвтоСпейс)",
       "type": "articles",
       "order": 7,
@@ -4110,7 +4110,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autobiz (Автобиз)",
       "file": "nastroyka-veb-servisa-autobiz-avtobiz.md",
-      "sha": "3165c59d0affe251bb1da73fe5d1eb3349843e80",
+      "sha": "bdfcc2c8340cabeb345e8de93d77522f8e5c7056",
       "title": "Настройка Веб-сервиса Autobiz (Автобиз)",
       "type": "articles",
       "order": 8,
@@ -4122,7 +4122,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autoeuro (Авто-Евро)",
       "file": "nastroyka-veb-servisa-autoeuro-avto-evro.md",
-      "sha": "4d0215a2ae6bce5318b9184bc5cc3d56fbc587d4",
+      "sha": "4488cf75693cbd8f1b7b049cad26a76f60bd5f8a",
       "title": "Настройка Веб-сервиса Autoeuro (Авто-Евро)",
       "type": "articles",
       "order": 9,
@@ -4134,7 +4134,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autoeuro v1.0 (Авто-Евро)",
       "file": "nastroyka-veb-servisa-autoeuro-v10-avto-evro.md",
-      "sha": "d75138c19790a5adef11f01b025f3c3d8dd8be97",
+      "sha": "420170f1c9ead41fb0a59b0a9ff88bddede257ec",
       "title": "Настройка Веб-сервиса Autoeuro v1.0 (Авто-Евро)",
       "type": "articles",
       "order": 10,
@@ -4146,7 +4146,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autoeuro v2.0 (Авто-Евро)",
       "file": "nastroyka-veb-servisa-autoeuro-v20-avto-evro.md",
-      "sha": "4ee6d22b2bba8cfacb09b276af1a46c222cebbd9",
+      "sha": "d86e55d64ee48eed1cca093fce3533049f225311",
       "title": "Настройка Веб-сервиса Autoeuro v2.0 (Авто-Евро)",
       "type": "articles",
       "order": 11,
@@ -4158,7 +4158,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autokontinent (Автоконтинент)",
       "file": "nastroyka-veb-servisa-autokontinent-avtokontinent.md",
-      "sha": "85e757a0b80ba7dcf7345338cbc2f4b9fa5d007d",
+      "sha": "12c843faf339c1aa0a2293de795544a10641fe6a",
       "title": "Настройка Веб-сервиса Autokontinent (Автоконтинент)",
       "type": "articles",
       "order": 12,
@@ -4170,7 +4170,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autonomia (Автономия PRO)",
       "file": "nastroyka-veb-servisa-autonomia-avtonomiya-pro.md",
-      "sha": "b28e7a9234389a9b21ded69b7ba19a6634704e57",
+      "sha": "2247824543a17e1879814842ef240ba0f3b4c9f8",
       "title": "Настройка Веб-сервиса Autonomia (Автономия PRO)",
       "type": "articles",
       "order": 13,
@@ -4182,7 +4182,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autopiter (Автопитер)",
       "file": "nastroyka-veb-servisa-autopiter-avtopiter.md",
-      "sha": "ed10df921eb18fbc45e5ac7117a1802520d7ccb9",
+      "sha": "074b6e644f14cb24bcd90590b7299240469a6976",
       "title": "Настройка Веб-сервиса Autopiter (Автопитер)",
       "type": "articles",
       "order": 14,
@@ -4194,7 +4194,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autotrade (Автотрейд)",
       "file": "nastroyka-veb-servisa-autotrade-avtotreyd.md",
-      "sha": "526512116a427f8683be5ed6af4f820c006f6f05",
+      "sha": "4e5eb7c3ab5ddefa36302054fd1e161ae897deeb",
       "title": "Настройка Веб-сервиса Autotrade (Автотрейд)",
       "type": "articles",
       "order": 16,
@@ -4206,7 +4206,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autotrade (Автотрейд) v.2",
       "file": "nastroyka-veb-servisa-autotrade-avtotreyd-v2.md",
-      "sha": "b1367ede86c837d78571e5613f89609955cbeb22",
+      "sha": "a2120dbb24de15f8e75326b2f2c75eb098f5b796",
       "title": "Настройка Веб-сервиса Autotrade (Автотрейд) v.2",
       "type": "articles",
       "order": 17,
@@ -4218,7 +4218,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/AvtoTO (АвтоТО)",
       "file": "nastroyka-veb-servisa-avtoto.md",
-      "sha": "ee033e5605bc5f58dd9a9dcb650123ffa8f45a9f",
+      "sha": "0b060668a412712760a75705ed260ff8ff692f5f",
       "title": "Настройка Веб-сервиса AvtoTO",
       "type": "articles",
       "order": 20,
@@ -4230,7 +4230,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Avtogut (АвтоGüT)",
       "file": "nastroyka-veb-servisa-avtogut-avtogut.md",
-      "sha": "45040834278cb2d46d88122b9b4c7c92c4e8365c",
+      "sha": "1b878f37eb87c9368cc60d9f2206a72cdd9f289d",
       "title": "Настройка Веб-сервиса Avtogut (АвтоGüT)",
       "type": "articles",
       "order": 18,
@@ -4242,7 +4242,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Avtogut 2 (АвтоGüT 2)",
       "file": "nastroyka-veb-servisa-avtogut-2-avtogut-2.md",
-      "sha": "f327292f2b00254dd6c2d392975416d33ce93bf7",
+      "sha": "68457879ae4f5b3d9ca5f1cc20423aee491b6479",
       "title": "Настройка Веб-сервиса Avtogut 2 (АвтоGüT 2)",
       "type": "articles",
       "order": 19,
@@ -4254,7 +4254,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Berg (Берг)",
       "file": "nastroyka-veb-servisa-berg-berg.md",
-      "sha": "6cb04d7ab3a0ed881ee44533bd0fc5a0d5a36014",
+      "sha": "ede3f7665a337b432b9b576831cec04ab3deefda",
       "title": "Настройка Веб-сервиса Berg (Берг)",
       "type": "articles",
       "order": 21,
@@ -4266,7 +4266,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Emex (Эмекс)",
       "file": "nastroyka-veb-servisa-emex-emeks.md",
-      "sha": "afe8df9236199f0bb361ee638d691e9da41fa3ea",
+      "sha": "6ddea47add1b8c947f58f93e83a2de33a681f5e5",
       "title": "Настройка Веб-сервиса Emex (Эмекс)",
       "type": "articles",
       "order": 22,
@@ -4278,7 +4278,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Emex Wdc (MegaPart)",
       "file": "nastroyka-veb-servisa-emex-wdc-megapart.md",
-      "sha": "a13a089a3540b3e486ec0e3cfaf8ea01a5658cb6",
+      "sha": "18054b1d239ec885d716abf1c796bd6d66bce9bd",
       "title": "Настройка Веб-сервиса Emex Wdc (MegaPart)",
       "type": "articles",
       "order": 23,
@@ -4290,7 +4290,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Favorit (Фаворит)",
       "file": "nastroyka-veb-servisa-favorit-favorit.md",
-      "sha": "9d633b5e65855365629c8c839bbc0e036dffd488",
+      "sha": "c7ac13c40224bcec221a88d3fca75ca7a7f1e033",
       "title": "Настройка Веб-сервиса Favorit (Фаворит)",
       "type": "articles",
       "order": 24,
@@ -4302,7 +4302,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Forum-auto (Форум-Авто)",
       "file": "nastroyka-veb-servisa-forum-auto-forum-avto.md",
-      "sha": "77b67367e8efef0a30a070dbd96e11097c6bdba9",
+      "sha": "bb990b9b13dc32da330b4e6c8d75a983f9052c1e",
       "title": "Настройка Веб-сервиса Forum-auto (Форум-Авто)",
       "type": "articles",
       "order": 25,
@@ -4314,7 +4314,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Ixora (Иксора)",
       "file": "nastroyka-veb-servisa-ixora-iksora.md",
-      "sha": "993b2234dce44a96b514b4f296519b98cd2ca9f9",
+      "sha": "348a5ae48f93e8496d989a097c20ff468a3b0963",
       "title": "Настройка Веб-сервиса Ixora (Иксора)",
       "type": "articles",
       "order": 26,
@@ -4326,7 +4326,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MParts (М Партс)",
       "file": "nastroyka-veb-servisa-mparts-m-parts.md",
-      "sha": "e74d2db7ad144251e05bf1d512c0c03f28e56ea5",
+      "sha": "29c99c69f2926e1c946457122986a347ce7d5a0d",
       "title": "Настройка Веб-сервиса MParts (М Партс)",
       "type": "articles",
       "order": 30,
@@ -4338,7 +4338,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MParts (МПартс) v.2",
       "file": "nastroyka-veb-servisa-mparts-mparts-v2.md",
-      "sha": "7f48ba9e17d9483cc271216f26c57841beef81eb",
+      "sha": "90f341e8540eeb11c364786f238752a3c3bb13ea",
       "title": "Настройка Веб-сервиса MParts (МПартс) v.2",
       "type": "articles",
       "order": 31,
@@ -4350,7 +4350,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MSMAuto (МСМ ГРУПП)",
       "file": "nastroyka-veb-servisa-msmauto-msm-grupp.md",
-      "sha": "3894c51e302ae50922a0a6f12811c491d2f4dceb",
+      "sha": "e63708c97cf38278d6706fac01c761d19dad7437",
       "title": "Настройка Веб-сервиса MSMAuto (МСМ ГРУПП)",
       "type": "articles",
       "order": 32,
@@ -4362,7 +4362,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MX group",
       "file": "nastroyka-veb-servisa-mx-group.md",
-      "sha": "46f510932b223cf44a596e09141dc19176ed98b9",
+      "sha": "36558757ecd5a31a33730894c7bde6b44cf6a5c0",
       "title": "Настройка Веб-сервиса MX group",
       "type": "articles",
       "order": 33,
@@ -4374,7 +4374,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Major-auto (Мажор-Авто)",
       "file": "nastroyka-veb-servisa-major-auto-mazhor-avto.md",
-      "sha": "375d20cb76ab16ebf785649931900a4588d0555f",
+      "sha": "904a011c980bed4f793b054bf7c5032bf93d9ce7",
       "title": "Настройка Веб-сервиса Major-auto (Мажор-Авто)",
       "type": "articles",
       "order": 27,
@@ -4386,7 +4386,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Mikado (Микадо)",
       "file": "nastroyka-veb-servisa-mikado-mikado.md",
-      "sha": "4341b63313dfe2ca073b6920cc4e19941d87e9ab",
+      "sha": "caaddc02aa43c32a12fda088d76ac8e61063d6e5",
       "title": "Настройка Веб-сервиса Mikado (Микадо)",
       "type": "articles",
       "order": 28,
@@ -4398,7 +4398,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Moskvorechie (Москворечье)",
       "file": "nastroyka-veb-servisa-moskvorechie-moskvoreche.md",
-      "sha": "ca46516da53fecb83493e682be58a8b3dc1fc63e",
+      "sha": "557e151591bc578d7c1f061fa01e32d9090436ae",
       "title": "Настройка Веб-сервиса Moskvorechie (Москворечье)",
       "type": "articles",
       "order": 29,
@@ -4410,7 +4410,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Next-Auto.pro",
       "file": "nastroyka-veb-servisa-next-autopro.md",
-      "sha": "63816ae19b77f4f4d1a84bc874d07424c810a5f8",
+      "sha": "4c93ce2d80b51f38082ef17a38f2ae18a28b50de",
       "title": "Настройка Веб-сервиса Next-Auto.pro",
       "type": "articles",
       "order": 34,
@@ -4422,7 +4422,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Omega (Омега)",
       "file": "nastroyka-veb-servisa-omega-omega.md",
-      "sha": "023795741ecc1059b004830c0980afd7bc41fd62",
+      "sha": "6fb7ba78ffbd88fad8b64f08dd4e0b8c0e23caa6",
       "title": "Настройка Веб-сервиса Omega (Омега)",
       "type": "articles",
       "order": 35,
@@ -4434,7 +4434,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/PartKom (ПартКом)",
       "file": "nastroyka-veb-servisa-partkom-partkom.md",
-      "sha": "cd86c8ad215586e0301f4df622adf9ab9c52ae40",
+      "sha": "38a3136e79fb10acdd2a7b6fa5dd718a0c41784b",
       "title": "Настройка Веб-сервиса PartKom (ПартКом)",
       "type": "articles",
       "order": 36,
@@ -4446,7 +4446,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/PartKom (ПартКом) v.2",
       "file": "nastroyka-veb-servisa-partkom-partkom-v2.md",
-      "sha": "4364cab2f2c7ed5939dda609157e90ce9c75cafd",
+      "sha": "c5f254d1e5fea08da9223df583462a99699673aa",
       "title": "Настройка Веб-сервиса PartKom (ПартКом) v.2",
       "type": "articles",
       "order": 37,
@@ -4458,7 +4458,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Phaeton.kz (Фаэтон КЗ)",
       "file": "nastroyka-veb-servisa-phaetonkz-faeton-kz.md",
-      "sha": "414a5a40db6170463b661b3fec7fed14085eeee3",
+      "sha": "ff6691d567634b5040fdfdc034261f430cd1105e",
       "title": "Настройка Веб-сервиса Phaeton.kz (Фаэтон КЗ)",
       "type": "articles",
       "order": 38,
@@ -4470,7 +4470,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Planeta Avto (Планета Авто)",
       "file": "nastroyka-veb-servisa-planetavto-planeta-avto.md",
-      "sha": "664c1b530dd071e03ea32883136aea9871fe294a",
+      "sha": "ca6d14e9c11126f0a7c40ffb502b7881646dc13d",
       "title": "Настройка Веб-сервиса Planetavto (Планета Авто)",
       "type": "articles",
       "order": 39,
@@ -4482,7 +4482,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Plofit Liga (Профит Лига)",
       "file": "nastroyka-veb-servisa-profit-liga-profit-liga.md",
-      "sha": "176bc85c620f3f1bafd10fc08243c53e6587d894",
+      "sha": "d21f7468ee9dd709034d8639e80f6d2b8775f64b",
       "title": "Настройка Веб-сервиса Profit Liga (Профит Лига)",
       "type": "articles",
       "order": 40,
@@ -4494,7 +4494,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/RmsAuto",
       "file": "nastroyka-veb-servisa-rmsauto.md",
-      "sha": "332a8e47dd63b443a8d21c103a5b8cc2952a7e4d",
+      "sha": "434e1e9b498d119f1f5779c713e625c38e7df0a0",
       "title": "Настройка Веб-сервиса RmsAuto",
       "type": "articles",
       "order": 41,
@@ -4506,7 +4506,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Rolf (РОЛЬФ)",
       "file": "nastroyka-veb-servisa-rolf-rolf.md",
-      "sha": "a7171981f37665de8656810fecbae59035b6fef2",
+      "sha": "dc50251e93085fcb6c9ca2e57fc254098e0f9e23",
       "title": "Настройка Веб-сервиса Rolf (РОЛЬФ)",
       "type": "articles",
       "order": 42,
@@ -4518,7 +4518,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Rossko (Росско)",
       "file": "nastroyka-veb-servisa-rossko-rossko-v21.md",
-      "sha": "11a5f59b795191d742558316f1e6954c39f295f8",
+      "sha": "e0c3c2717e93346ab523cbc35d59c24dfb3e3d8e",
       "title": "Настройка Веб-сервиса Rossko (Росско) v.2.1",
       "type": "articles",
       "order": 43,
@@ -4530,7 +4530,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Rossko (Росско) v.2",
       "file": "nastroyka-veb-servisa-rossko-rossko-v2.md",
-      "sha": "cc37d396dc2d45fff278d6f8a788cfc7194b4a46",
+      "sha": "d8fd8af8bac3a874a6e8a35c8a865357bd6b92c4",
       "title": "Настройка Веб-сервиса Rossko (Росско) v.2",
       "type": "articles",
       "order": 44,
@@ -4542,7 +4542,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Sate-m (Шате-М)",
       "file": "nastroyka-veb-servisa-sate-m-shate-m.md",
-      "sha": "d8e88d06b782bf20e481f338a5c6b565c1020055",
+      "sha": "839bd340867a65cce4340701f7c997aff002426e",
       "title": "Настройка Веб-сервиса Sate-m (Шате-М)",
       "type": "articles",
       "order": 45,
@@ -4554,7 +4554,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/TISS (ТИСС)",
       "file": "nastroyka-veb-servisa-tiss-tiss.md",
-      "sha": "4d126368020c0efdd58e8a0af14575a6af34676b",
+      "sha": "929fcaac1f1063818fe0dcf00e43f8400468fdeb",
       "title": "Настройка Веб-сервиса TISS (ТИСС)",
       "type": "articles",
       "order": 46,
@@ -4566,7 +4566,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Tmparts (ТИСС)",
       "file": "nastroyka-veb-servisa-tmparts-tiss.md",
-      "sha": "71d2818ac41599782860fcd2bfdd7881c00f6a11",
+      "sha": "80deb92fe0b696f7f33216c18fe665d35dc7edbd",
       "title": "Настройка Веб-сервиса Tmparts (ТИСС)",
       "type": "articles",
       "order": 47,
@@ -4578,7 +4578,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Tradesoft",
       "file": "nastroyka-veb-servisa-tradesoft.md",
-      "sha": "76bf7952b29aa5dc9fe4ac8e665360c83812a4fb",
+      "sha": "d2442b38b0745bee77d0f1aab5a529e42d7fed5a",
       "title": "Настройка Веб-сервиса Tradesoft",
       "type": "articles",
       "order": 48,
@@ -4590,7 +4590,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Tradesoft (ТрэйдСофт) v.2",
       "file": "nastroyka-veb-servisa-tradesoft-treydsoft-v2.md",
-      "sha": "4bf52128ef4f8a6b528ea1e48dc944ae63e85a10",
+      "sha": "24cce28a067d94bc109139403ed0ba36f29b31c0",
       "title": "Настройка Веб-сервиса Tradesoft (ТрэйдСофт) v.2",
       "type": "articles",
       "order": 49,
@@ -4602,7 +4602,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Trinity-parts",
       "file": "nastroyka-veb-servisa-trinity-parts.md",
-      "sha": "76d5675aa88a5b9ac39de260b5a2806ea96cc750",
+      "sha": "2ed83b08d40315f983aa37e6dd5e78c51b594042",
       "title": "Настройка Веб-сервиса Trinity-parts",
       "type": "articles",
       "order": 50,
@@ -4614,7 +4614,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Uniqom (Юником)",
       "file": "nastroyka-veb-servisa-uniqom-yunikom.md",
-      "sha": "a21c270e7cd64e8b5a1712cc847d783285553b65",
+      "sha": "9a59a755f85b8a32ab1abd19a50992c22138bc75",
       "title": "Настройка Веб-сервиса Uniqom (Юником)",
       "type": "articles",
       "order": 51,
@@ -4626,7 +4626,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Vetro",
       "file": "nastroyka-veb-servisa-vetro.md",
-      "sha": "2ef7f75e764c5372f39373a5dd4ce6b9812d765a",
+      "sha": "1763b7d73c60e13df9569b2fc032d194f7a14f6f",
       "title": "Настройка Веб-сервиса Vetro",
       "type": "articles",
       "order": 52,
@@ -4638,7 +4638,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/ZZAP (Зетзап) v.2",
       "file": "nastroyka-veb-servisa-zzap-zetzap-v2.md",
-      "sha": "aa2e03b897f608252768b7aa1d8aab2caefec146",
+      "sha": "6c0e51ad6d207a6690c42567fbf63faa9de01b1d",
       "title": "Настройка Веб-сервиса ZZAP (Зетзап) v.2",
       "type": "articles",
       "order": 54,
@@ -4650,7 +4650,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Zzap",
       "file": "nastroyka-veb-servisa-zzap.md",
-      "sha": "241a23c1fee1707b64746c5a68fe7dfe3887180d",
+      "sha": "a0dac6734a76fdf47d13a89ac85183c303c41608",
       "title": "Настройка Веб-сервиса Zzap",
       "type": "articles",
       "order": 53,
@@ -4662,7 +4662,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/abcp",
       "file": "nastroyka-veb-servisa-abcp.md",
-      "sha": "b8669b47163d2f682da0b78e6cd13690493c07d2",
+      "sha": "0d48042e71a11470933295b88ea7995aa7ba96fa",
       "title": "Настройка Веб-сервиса abcp",
       "type": "articles",
       "order": 1,
@@ -4674,7 +4674,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Автосоюз",
       "file": "nastroyka-veb-servisa-avtosoyuz.md",
-      "sha": "c38e3b8d25ca088cc8d77465fe79e0c18a7261b8",
+      "sha": "c9508ba9a0df63eba1d230b20ee280481896594a",
       "title": "Настройка Веб-сервиса Автосоюз",
       "type": "articles",
       "order": 55,
@@ -4686,7 +4686,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Восход-Авто",
       "file": "nastroyka-veb-servisa-voskhod-avto.md",
-      "sha": "f0afd2f7b6eadfa38a1e7897f1cf7db857fa127b",
+      "sha": "e8359fa35455851899561cda267397f757a86f42",
       "title": "Настройка Веб-сервиса Восход-Авто",
       "type": "articles",
       "order": 56,
@@ -4698,7 +4698,7 @@
     {
       "path": "articles/5S AUTO/Ценообразование/Настройка скидок",
       "file": "nastroyka-skidok.md",
-      "sha": "a0a0827baee4fe495e184f021a8b4d45dbf4f15b",
+      "sha": "7237fd4a3e181396535609f5058a183147776f88",
       "title": "Настройка скидок",
       "type": "articles",
       "order": 2,
@@ -4710,7 +4710,7 @@
     {
       "path": "articles/5S AUTO/Ценообразование/Настройка ценообразования для работ",
       "file": "nastroyka-cenoobrazovaniya-dlya-rabot.md",
-      "sha": "fc0d16f9e1d7e1fbb4a3a08b8686fe8836ba32f3",
+      "sha": "8b68d9633ea94e393ac9e0c79f38810d7c1a2474",
       "title": "Настройка ценообразования для работ",
       "type": "articles",
       "order": 1,
@@ -4722,7 +4722,7 @@
     {
       "path": "articles/5S AUTO/Ценообразование/Настройка ценообразования для товаров",
       "file": "nastroyka-cenoobrazovaniya-dlya-tovarov.md",
-      "sha": "aafc67a7906ad7fee7f48caad9e93565bbe24a7b",
+      "sha": "89bf573b53472160c63c15e7985f4fb9a31a28b0",
       "title": "Настройка ценообразования для товаров",
       "type": "articles",
       "order": 0,
@@ -4734,7 +4734,7 @@
     {
       "path": "articles/5S AUTO/Работа с заказами/Распределение поступлений по заказам",
       "file": "raspredelenie-postupleniy-po-zakazam.md",
-      "sha": "bcc0065d9f980e5020f15257414c74e6401a6e18",
+      "sha": "4132279f2141269619dff444cb25b1f0a8152aeb",
       "title": "Распределение поступлений по заказам",
       "type": "articles",
       "order": 3,
@@ -4746,7 +4746,7 @@
     {
       "path": "articles/5S AUTO/Работа с заказами/Работа с заказами поставщикам",
       "file": "rabota-s-zakazami-postavschikam.md",
-      "sha": "f462337c71c1c388f0acd8540f82c135dafb6ad6",
+      "sha": "9dfa94970150d2107997a6f3314702123cc38912",
       "title": "Работа с заказами поставщикам",
       "type": "articles",
       "order": 2,
@@ -4758,7 +4758,7 @@
     {
       "path": "articles/5S AUTO/Работа с заказами/Помощник оформления заказа покупателя",
       "file": "pomoschnik-oformleniya-zakaza-pokupatelya.md",
-      "sha": "e3072220df01dd6b49e0b1e309361c0ae26d9b44",
+      "sha": "1a7845b9f4ff6b2c8c6a188ad4daba27902a82b3",
       "title": "Помощник оформления заказа покупателя",
       "type": "articles",
       "order": 1,
@@ -4770,7 +4770,7 @@
     {
       "path": "articles/5S AUTO/Работа с заказами/Работа с заказами покупателя",
       "file": "rabota-s-zakazami-pokupatelya.md",
-      "sha": "357ae9684617ada318884708972c1c0968d41966",
+      "sha": "fa6d5d75daafcde81c163439cdff0059bf8f554e",
       "title": "Работа с заказами покупателя",
       "type": "articles",
       "order": 0,
@@ -4782,7 +4782,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Шинный отель",
       "file": "shinnyy-otel.md",
-      "sha": "05975e13e42c1aea874851dc294a3737e991c7c8",
+      "sha": "e03a898756db13294c5450baa20fb9030e5ad899",
       "title": "Шинный отель",
       "type": "articles",
       "order": 22,
@@ -4794,7 +4794,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Загрузка накладных поставщиков",
       "file": "zagruzka-nakladnykh-postavschikov.md",
-      "sha": "d6ff44ddf1435a2e82af1a1f5a4d43eb6ca7c217",
+      "sha": "0de5c5556c2a10f46d0e305f89610c9082498ecd",
       "title": "Загрузка накладных поставщиков",
       "type": "articles",
       "order": 21,
@@ -4806,7 +4806,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Признаки номенклатуры",
       "file": "priznaki-nomenklatury.md",
-      "sha": "f77bbc2b8aaef06381d5175869057e3f47903876",
+      "sha": "859260736cc8220fb9e4ec6d6ed7abd0934df5f9",
       "title": "Признаки номенклатуры",
       "type": "articles",
       "order": 20,
@@ -4824,7 +4824,7 @@
     {
       "path": "articles/5S AUTO/Работа с заказами/Автоматическое снятие резервов",
       "file": "avtomaticheskoe-snyatie-rezervov.md",
-      "sha": "65f9663dc6dcb7929c099805ff6e32922421158a",
+      "sha": "afcd0fc1f7363826b3e62ccb8cb57dc9f60a5a1e",
       "title": "Автоматическое снятие резервов",
       "type": "articles",
       "order": 7,
@@ -4842,7 +4842,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Работа с приложением 5S TSD",
       "file": "rabota-s-prilozheniem-5s-tsd.md",
-      "sha": "999f3b70eaf3b585af41f27e49466ea44c07daca",
+      "sha": "fc4823d15f73868086bb54adb21fc0c073d4a34b",
       "title": "Работа с приложением 5S TSD",
       "type": "articles",
       "order": 18,
@@ -4868,7 +4868,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Интерфейс для ТСД",
       "file": "interfeys-dlya-tsd.md",
-      "sha": "b9c50c77e6cd62ddeb429225d7ec167b1f699b1f",
+      "sha": "1d4304ad28ccc134e500e02f505f636678aaf250",
       "title": "Интерфейс для ТСД",
       "type": "articles",
       "order": 17,
@@ -4886,7 +4886,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Автозаполнение применяемости из заказ-наряда",
       "file": "avtozapolnenie-primenyaemosti-iz-zakaz-naryada.md",
-      "sha": "799dda8c8d5afedd63aa28e95d2d3d6a6fa78784",
+      "sha": "f6f0c000c2f0eaf4c8c240f7b8f2e89ec6210c66",
       "title": "Автозаполнение применяемости из заказ-наряда",
       "type": "articles",
       "order": 2,
@@ -4898,7 +4898,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Автоматическая публикация объявлений на Авито",
       "file": "avtomaticheskaya-publikaciya-obyavleniy-na-avito.md",
-      "sha": "0502eb34ff5c7c7c85d1bd5df8f88b95de8318a3",
+      "sha": "5aed7614ecca6ea3ff2fd4f5cc8fdd9b94ca1b2f",
       "title": "Автоматическая публикация объявлений на Авито",
       "type": "articles",
       "order": 16,
@@ -4916,7 +4916,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Применяемость по типу двигателя и типу КПП",
       "file": "primenyaemost-po-tipu-dvigatelya-i-tipu-kpp.md",
-      "sha": "b1c6049a94ca325dec4c15c0eba7a36176af842a",
+      "sha": "2d42986574e2c88e40425658a55eb43fcd5f6651",
       "title": "Применяемость по типу двигателя и типу КПП",
       "type": "articles",
       "order": 1,
@@ -4928,7 +4928,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Приобретение товаров (в пути)",
       "file": "priobretenie-tovarov-v-puti.md",
-      "sha": "701ad8dcfd9d35abfc86b61df3c45a5de2f6ca06",
+      "sha": "06e7577ac2f3bf886c3f2537f66955e8f2785dc3",
       "title": "Приобретение товаров (в пути)",
       "type": "articles",
       "order": 15,
@@ -4946,7 +4946,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Перемещение товаров между филиалами",
       "file": "peremeschenie-tovarov-mezhdu-filialami.md",
-      "sha": "9c613a47c7904b0c4bbd3c9e95591eac7ac539c9",
+      "sha": "a3ff93d06e0f0ba8f8acf10de8bf15e4fb5c9838",
       "title": "Перемещение товаров между филиалами",
       "type": "articles",
       "order": 14,
@@ -4964,7 +4964,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Межфирменные продажи",
       "file": "mezhfirmennye-prodazhi.md",
-      "sha": "1334a6983931a28a6effce33eb02c53305ff5e01",
+      "sha": "9d26e0326afc50b85c71c087d7bd57d5d877d654",
       "title": "Межфирменные продажи",
       "type": "articles",
       "order": 13,
@@ -4976,7 +4976,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Задача на подбор запчастей",
       "file": "zadacha-na-podbor-zapchastey.md",
-      "sha": "588638e331939b783a991b9a1ff8118552f7ef92",
+      "sha": "b78755cc0b159ddf575d3fe06cddf36e1b8ba7f8",
       "title": "Задача на подбор запчастей",
       "type": "articles",
       "order": 12,
@@ -4988,7 +4988,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Печать этикеток",
       "file": "pechat-etiketok.md",
-      "sha": "805dbfd884415afc6b967f487d19bccc12b203b5",
+      "sha": "c4e416bd2a9a0b11bdc0bbf8f9282a60cfa993bf",
       "title": "Печать этикеток",
       "type": "articles",
       "order": 11,
@@ -5000,7 +5000,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Назначение штрихкодов товарам",
       "file": "naznachenie-shtrikhkodov-tovaram.md",
-      "sha": "bf35e60c56467ae9e5283a3863de1daf726b04f6",
+      "sha": "8d4a1dd088975f746fcac1d24e87c3989814fd64",
       "title": "Назначение штрихкодов товарам",
       "type": "articles",
       "order": 2,
@@ -5012,7 +5012,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Подключение сканера штрихкодов",
       "file": "podklyuchenie-skanera-shtrikhkodov.md",
-      "sha": "964371c1a2b6e660ef47caafc051e9ef86a3240b",
+      "sha": "e5b800c2794d27545a61223f3af538a509c4a35f",
       "title": "Подключение сканера штрихкодов",
       "type": "articles",
       "order": 5,
@@ -5030,7 +5030,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Сканирование штрихкодов",
       "file": "skanirovanie-shtrikhkodov-tovarov.md",
-      "sha": "9a21a91d019dcee170ba8ae24a25a53e767be852",
+      "sha": "f575836140ff0072119ec62bbe64036e09478862",
       "title": "Сканирование штрихкодов товаров",
       "type": "articles",
       "order": 0,
@@ -5042,7 +5042,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Инвентаризация",
       "file": "inventarizaciya.md",
-      "sha": "2b935fde01fb8b67194f3f459e52e7b8ecc15027",
+      "sha": "1bed469c84f847de3793ea5eba01a937d2feafc0",
       "title": "Инвентаризация",
       "type": "articles",
       "order": 9,
@@ -5054,7 +5054,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Виды склада",
       "file": "vidy-sklada.md",
-      "sha": "4a9edf3d679cb1c8db627a0ce6eea4407f5dd51d",
+      "sha": "63d24a2f82bb81da0d1a4fbe326eaa51a8d28fa9",
       "title": "Виды склада",
       "type": "articles",
       "order": 8,
@@ -5066,7 +5066,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Пополнение складских запасов",
       "file": "popolnenie-skladskikh-zapasov.md",
-      "sha": "91b7498df618acdf6eb5f1383cfff27181b25776",
+      "sha": "af94dfa75a377f66a87ec181fc857f428cfa2701",
       "title": "Пополнение складских запасов",
       "type": "articles",
       "order": 7,
@@ -5078,7 +5078,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Выгрузка прайс-листов",
       "file": "vygruzka-prays-listov.md",
-      "sha": "787fc054ffdd44905c9f3df52ba550bd2e249a13",
+      "sha": "73c7a7561b3da84c23863c519120f7f207e3a246",
       "title": "Выгрузка прайс-листов",
       "type": "articles",
       "order": 6,
@@ -5090,7 +5090,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Доступные Веб-сервисы поставщиков",
       "file": "dostupnye-veb-servisy-postavschikov.md",
-      "sha": "a15c7ca78365c9e179f0531b6a93bd798c364631",
+      "sha": "de3e97be0c80799f3a045ebdecc20a566d2498c6",
       "title": "Доступные Веб-сервисы поставщиков",
       "type": "articles",
       "order": 5,
@@ -5102,7 +5102,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка Веб прайс-листа",
       "file": "sozdanie-i-nastroyka-veb-prays-lista.md",
-      "sha": "d360a92be848067b026d4bf2349920d2db97271e",
+      "sha": "2e68deeb64b954590c5bfcd63a3aac59d200233b",
       "title": "Создание и настройка Веб прайс-листа",
       "type": "articles",
       "order": 4,
@@ -5114,7 +5114,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка прайс-листа контрагента",
       "file": "sozdanie-i-nastroyka-prays-lista-kontragenta.md",
-      "sha": "c542d2a66558f535ddf814423ddf43eaf5df3809",
+      "sha": "46f973b18add9ecc7f44959ffbc3a61863800b90",
       "title": "Создание и настройка прайс-листа контрагента",
       "type": "articles",
       "order": 3,
@@ -5126,7 +5126,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Работа с применяемостью",
       "file": "rabota-s-primenyaemostyu.md",
-      "sha": "ff0f9a5db1d336440a0d3faaba375a873b94b0e3",
+      "sha": "21cab3a6a1bd9eae9f500dd2c9c2c8ac108b40d0",
       "title": "Работа с применяемостью",
       "type": "articles",
       "order": 0,
@@ -5138,7 +5138,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Номенклатура",
       "file": "nomenklatura.md",
-      "sha": "72cb351f424867bd9b52f22003b2560859d22daa",
+      "sha": "d84c988a4a4e88e19503b8de6f30df79dc8aaa56",
       "title": "Номенклатура",
       "type": "articles",
       "order": 0,
@@ -5150,7 +5150,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Ремонт собственных агрегатов",
       "file": "remont-sobstvennykh-agregatov.md",
-      "sha": "9c83a51bfb56a191baf70aa02239eb4f0e35d645",
+      "sha": "ca14645af092cb0c34563b7a2bdefb1adbc56cbb",
       "title": "Ремонт собственных агрегатов",
       "type": "articles",
       "order": 4,
@@ -5162,7 +5162,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Диагностические анкеты для агрегатов",
       "file": "diagnosticheskie-ankety-dlya-agregatov.md",
-      "sha": "97e1ee5d2eb4c82f2dd99bbac6e97ac736c4d837",
+      "sha": "b013e3914f79f3d254e4828b8cf16b0344202770",
       "title": "Диагностические анкеты для агрегатов",
       "type": "articles",
       "order": 3,
@@ -5174,7 +5174,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Учет серийных номеров агрегатов",
       "file": "uchet-seriynykh-nomerov-agregatov.md",
-      "sha": "856e8714a4ff8a9e9d292341a1b063e929aa56e8",
+      "sha": "318ddb37109177d052d2f10de7cb2440c39cc574",
       "title": "Учет серийных номеров агрегатов",
       "type": "articles",
       "order": 2,
@@ -5186,7 +5186,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Применяемость для агрегатов",
       "file": "primenyaemost-dlya-agregatov.md",
-      "sha": "d553e1e8c6a204bdea4644551123aae891fe2b6e",
+      "sha": "a1a10522b0f63bf535bf6d4500df22aae55967c9",
       "title": "Применяемость для агрегатов",
       "type": "articles",
       "order": 1,
@@ -5204,7 +5204,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Учет агрегатного ремонта",
       "file": "uchet-agregatnogo-remonta.md",
-      "sha": "cb612d6c654ee3f244f46cd4bc6ad280aef7b5b8",
+      "sha": "124bf83b6011841f4c381946ba129eaaad187e19",
       "title": "Учет агрегатного ремонта",
       "type": "articles",
       "order": 0,
@@ -5216,7 +5216,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Корректировка пробега автомобиля",
       "file": "korrektirovka-probega-avtomobilya.md",
-      "sha": "a60cf2203c338f65c5ee4858faafbb3cdcdd0cec",
+      "sha": "24d0671da8b81c61e5df95c84c976e4d987537fa",
       "title": "Корректировка пробега автомобиля",
       "type": "articles",
       "order": 20,
@@ -5228,7 +5228,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Установка норм времени по моделям двигателей и КПП",
       "file": "ustanovka-norm-vremeni-po-modelyam-dvigateley-i-kpp.md",
-      "sha": "3aa8e233e7cd012d3543dc52c3489cc3f958d299",
+      "sha": "cc2a942f13c90889072380ec56bea47160c4358b",
       "title": "Установка норм времени по моделям двигателей и КПП",
       "type": "articles",
       "order": 19,
@@ -5240,7 +5240,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Модели двигателей и КПП",
       "file": "modeli-dvigateley-i-kpp.md",
-      "sha": "ace0ab5f9336e51871bbc5a3be90b3c9717680e6",
+      "sha": "5ae0c49cdc1df6cafcb92c9cedd93debfccdcc4d",
       "title": "Модели двигателей и КПП",
       "type": "articles",
       "order": 18,
@@ -5252,7 +5252,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Сводный акт",
       "file": "svodnyy-akt.md",
-      "sha": "25902ecb804d9b898920520d5a00f308413c2f20",
+      "sha": "175ccdc540a95555c1edb347d99e9599dba8bf00",
       "title": "Сводный акт",
       "type": "articles",
       "order": 17,
@@ -5264,7 +5264,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Передача смен",
       "file": "peredacha-smen.md",
-      "sha": "c11218612d9a654531b809f2ca8a3a2cf09c6d7a",
+      "sha": "3aad37a42cb9107ff5e116b75b9331ab5641c3bd",
       "title": "Передача смен",
       "type": "articles",
       "order": 16,
@@ -5276,7 +5276,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Пакетная печать",
       "file": "paketnaya-pechat.md",
-      "sha": "a33eb10fe200d8bf0c44be0b6e8c33f9ebe4040f",
+      "sha": "41b04263c7ebaf0d97d43aa624954567bc39d0a3",
       "title": "Пакетная печать",
       "type": "articles",
       "order": 15,
@@ -5288,7 +5288,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Работа с заметками",
       "file": "rabota-s-zametkami.md",
-      "sha": "fa802635a78b2691418cc5ef9de6debae0ac3101",
+      "sha": "cbb3d8d9220728bcec8d364306b28ef4a71e930d",
       "title": "Работа с заметками",
       "type": "articles",
       "order": 14,
@@ -5300,7 +5300,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Печать документов с факсимиле и логотипом организации",
       "file": "pechat-dokumentov-s-faksimile-i-logotipom-organizacii.md",
-      "sha": "9371b5f1f68cb12d470c9c2c7009c1b77b308d6d",
+      "sha": "5ae18e9e5f464cc5289c57cfb9d346ab3ed50ce2",
       "title": "Печать документов с факсимиле и логотипом организации",
       "type": "articles",
       "order": 13,
@@ -5312,7 +5312,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Интеграция с базой ГИБДД",
       "file": "integraciya-s-bazoy-gibdd.md",
-      "sha": "7b69038dd343941390c96b016d39906e0ee0772f",
+      "sha": "34a78b301bf85edf082b209a7d1c81e886508b8a",
       "title": "Интеграция с базой ГИБДД",
       "type": "articles",
       "order": 12,
@@ -5330,7 +5330,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Прикрепление файлов к заказ-наряду",
       "file": "prikreplenie-faylov-k-zakaz-naryadu.md",
-      "sha": "53576bdb700220996454981472936bf5226d0707",
+      "sha": "f6a89b5f2bdfdb9585f8b39cbfb4acfa272b0540",
       "title": "Прикрепление файлов к заказ-наряду",
       "type": "articles",
       "order": 3,
@@ -5342,7 +5342,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Состояние Отказ Заказ-наряда",
       "file": "sostoyanie-otkaz-zakaz-naryada.md",
-      "sha": "d8b3d4ab660df87b4176c420660d98d40f758ee7",
+      "sha": "a7fc394306f73c81403a2501684d9ec1f1960b51",
       "title": "Состояние «Отказ» Заказ-наряда",
       "type": "articles",
       "order": 2,
@@ -5354,7 +5354,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Состояния Заказ-наряда",
       "file": "sostoyaniya-zakaz-naryada.md",
-      "sha": "9ffb15c533b553e24bacf9274fe443d8a7e7bd0b",
+      "sha": "a1be3caac41fca6e586b23aacd24082b797f9c3e",
       "title": "Состояния Заказ-наряда",
       "type": "articles",
       "order": 1,
@@ -5366,7 +5366,7 @@
     {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Как добавить детали в Заказ-наряд",
       "file": "kak-dobavit-detali-v-zakaz-naryad.md",
-      "sha": "92193aa3c62acd795012cd71555463470039375d",
+      "sha": "3b21f8bc769b0b21058305c8a1830737e30ec6f0",
       "title": "Как добавить детали в Заказ-наряд",
       "type": "lessons",
       "order": 3,
@@ -5378,7 +5378,7 @@
     {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Как добавить работы в Заказ-наряд",
       "file": "kak-dobavit-raboty-v-zakaz-naryad.md",
-      "sha": "597b67bf8372216cea645f68a644ae445bbfe01b",
+      "sha": "d92bde0c41df2bd23a3f1cfb58a02248af7a3396",
       "title": "Как добавить работы в Заказ-наряд",
       "type": "lessons",
       "order": 2,
@@ -5390,7 +5390,7 @@
     {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Как закрыть Заказ-наряд",
       "file": "kak-zakryt-zakaz-naryad.md",
-      "sha": "12b6ce81fc9e142ea266a65ad9cbef6b6d3902a5",
+      "sha": "53285742cdc19a18692a13aa349ad53f51400911",
       "title": "Как закрыть Заказ-наряд",
       "type": "lessons",
       "order": 5,
@@ -5402,7 +5402,7 @@
     {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Как принять оплату по Заказ-наряду",
       "file": "kak-prinyat-oplatu-po-zakaz-naryadu.md",
-      "sha": "7fae6455976a1063a263413f951a2b3d344f2f68",
+      "sha": "3f97889b223e090c131d54475a5d6383ad0f9a5f",
       "title": "Как принять оплату по Заказ-наряду",
       "type": "lessons",
       "order": 4,
@@ -5414,7 +5414,7 @@
     {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Как работать с реестром Заказ-нарядов",
       "file": "kak-rabotat-s-reestrom-zakaz-naryadov.md",
-      "sha": "ff6a093a3e376170f74f355f92d17530e4a2d256",
+      "sha": "cf127d594f5738c451ad09641176847cdc4d28a2",
       "title": "Как работать с реестром Заказ-нарядов",
       "type": "lessons",
       "order": 7,
@@ -5426,7 +5426,7 @@
     {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Как распечатать Заказ-наряд",
       "file": "kak-raspechatat-zakaz-naryad.md",
-      "sha": "766de9886fda52a850c5d0e82fa36d462b5e7763",
+      "sha": "348e0cb681e62b477cfb397ce0df963d83a8541d",
       "title": "Как распечатать Заказ-наряд",
       "type": "lessons",
       "order": 6,
@@ -5438,7 +5438,7 @@
     {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Как создать Заказ-наряд",
       "file": "kak-sozdat-zakaz-naryad.md",
-      "sha": "e9ae29a8038a58eb50998f9bd0787763d377aeb3",
+      "sha": "36abf517747d5ebf80c3a3804f2a4f451f1168ab",
       "title": "Как создать Заказ-наряд",
       "type": "lessons",
       "order": 1,
@@ -5450,7 +5450,7 @@
     {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Обзор интерфейса Заказ-наряда",
       "file": "obzor-interfeysa-zakaz-naryada.md",
-      "sha": "db05f37d94a370c1bee8cb9853fbd873bae03cef",
+      "sha": "bfe10ecd5c2d3b7753550fda0ce4c348eab08d9e",
       "title": "Обзор интерфейса Заказ-наряда",
       "type": "lessons",
       "order": 0,
@@ -5462,7 +5462,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Заказ-наряды",
       "file": "zakaz-naryady.md",
-      "sha": "2f0aa6c05d74b6773b156064b81a3a7f9d5164e2",
+      "sha": "c10d3c6b9cfde2cbe4f1121bb2572f0de80dfecc",
       "title": "Заказ-наряды",
       "type": "articles",
       "order": 0,
@@ -5474,7 +5474,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Гарантийная политика",
       "file": "garantiynaya-politika.md",
-      "sha": "5847b89a53deea5ca2bba3677ef9ec08409e223f",
+      "sha": "edce967f6a20ff135dd16a767ecbd1dd4f9dea88",
       "title": "Гарантийная политика",
       "type": "articles",
       "order": 10,
@@ -5486,7 +5486,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Работа с субподрядами",
       "file": "rabota-s-subpodryadami.md",
-      "sha": "589a6b25d21541364692ba2896918b15e02e9412",
+      "sha": "7979f5800a48e86c0011351998c065b30aae2400",
       "title": "Работа с субподрядами",
       "type": "articles",
       "order": 9,
@@ -5498,7 +5498,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Работа с расходными материалами",
       "file": "rabota-s-raskhodnymi-materialami.md",
-      "sha": "1711f06951ce25909b305c84d0e7064139ae0af7",
+      "sha": "cd7e76c01d64c62316b4f5e537d77cf9b0568b2c",
       "title": "Работа с расходными материалами",
       "type": "articles",
       "order": 8,
@@ -5510,7 +5510,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Подключение внешней печатной формы Печать рекомендаций",
       "file": "podklyuchenie-vneshney-pechatnoy-formy-pechat-rekomendaciy.md",
-      "sha": "2ded3506eb8075a54fc837c66326f4f31b9d93d4",
+      "sha": "5d52711efb0f4e52a2530b3e3d2a7e31ad9f7f66",
       "title": "Подключение внешней печатной формы «Печать рекомендаций»",
       "type": "articles",
       "order": 6,
@@ -5528,7 +5528,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Работа с рекомендациями",
       "file": "rabota-s-rekomendaciyami.md",
-      "sha": "6ca10d21e6fc06971c031f8d0557150a8a375dcf",
+      "sha": "6f367b93a64c84125db09c4ac3b1bd584c5f833e",
       "title": "Работа с рекомендациями",
       "type": "articles",
       "order": 5,
@@ -5540,7 +5540,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Виды ремонта",
       "file": "vidy-remonta.md",
-      "sha": "2a7ccc4c74c71c8ce8681faa0d5d53347c98544b",
+      "sha": "e57bac51d5c6bc16ba6f31edbfc85c8e0679acbc",
       "title": "Виды ремонта",
       "type": "articles",
       "order": 4,
@@ -5552,7 +5552,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Автоработы",
       "file": "avtoraboty.md",
-      "sha": "8588c5a7c8e3ad2757730f422297cf68d6230dea",
+      "sha": "8fd61cd4c4af65e81f4630e7aa7b816f7225b7a4",
       "title": "Автоработы",
       "type": "articles",
       "order": 3,
@@ -5564,7 +5564,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Расшифровка автомобиля по VIN",
       "file": "rasshifrovka-avtomobilya-po-vin.md",
-      "sha": "f33f391b76eff335a46201f7618397d6f74d5824",
+      "sha": "ae2db94e99e0b5dc0320ab703f6deb25d044bde9",
       "title": "Расшифровка автомобиля по VIN",
       "type": "articles",
       "order": 2,
@@ -5576,7 +5576,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Модели автомобилей и другие справочники",
       "file": "modeli-avtomobiley-i-drugie-spravochniki.md",
-      "sha": "57683fbd8b37c0c3fb9ba8246a0238dbde8a1c74",
+      "sha": "d9c2abaa66f5629baf32c9338c495869c6f0e376",
       "title": "Модели автомобилей и другие справочники",
       "type": "articles",
       "order": 1,
@@ -5588,7 +5588,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Автомобили",
       "file": "avtomobili.md",
-      "sha": "8ce68ea244d42f6a2b93e70ef0693863bede5456",
+      "sha": "3244911068a38c467f61cd13fa9bb9ce1f967c8e",
       "title": "Автомобили",
       "type": "articles",
       "order": 0,
@@ -5600,7 +5600,7 @@
     {
       "path": "articles/5S AUTO/Запись на ремонт/Сохранение настроек АРМ Запись на ремонт",
       "file": "sokhranenie-nastroek-arm-zapis-na-remont.md",
-      "sha": "cf09a012ecc05f3368d4435b67999458e94ab115",
+      "sha": "89e628cbf90e9e3f62ea6c4a7c0c693e2e1d1bda",
       "title": "Сохранение настроек АРМ «Запись на ремонт»",
       "type": "articles",
       "order": 4,
@@ -5612,7 +5612,7 @@
     {
       "path": "articles/5S AUTO/Запись на ремонт/Цветовое оформление планировщика",
       "file": "cvetovoe-oformlenie-planirovschika.md",
-      "sha": "e21bd3b8b51d0f8befaf02c6475d9499d2433d64",
+      "sha": "c21f0c4591db5100ce2d59f74b09f052008037c5",
       "title": "Цветовое оформление планировщика",
       "type": "articles",
       "order": 3,
@@ -5624,7 +5624,7 @@
     {
       "path": "articles/5S AUTO/Запись на ремонт/Планирование работ и подготовка к заезду",
       "file": "planirovanie-rabot-i-podgotovka-k-zaezdu.md",
-      "sha": "087eb38a9288d1f46c1437ae7e5234fdb79b928d",
+      "sha": "923a803e89345e64a445f10280aedc80d3e1311d",
       "title": "Планирование работ и подготовка к заезду",
       "type": "articles",
       "order": 2,
@@ -5636,7 +5636,7 @@
     {
       "path": "lessons/Урок 8. Запись на ремонт/Настройки АРМ Запись на ремонт",
       "file": "nastroyki-arm-zapis-na-remont.md",
-      "sha": "0bb1e8e18796716c33e03ebd1555dc7ef20d877b",
+      "sha": "d5897dff6adb91df90fbe30e6d34052bbb959103",
       "title": "Настройки АРМ Запись на ремонт",
       "type": "lessons",
       "order": 5,
@@ -5648,7 +5648,7 @@
     {
       "path": "lessons/Урок 8. Запись на ремонт/Как редактировать запись на ремонт",
       "file": "kak-redaktirovat-zapis-na-remont.md",
-      "sha": "17f1ca4d443ae75138799f5da51143d8057d3493",
+      "sha": "5d49fda24ba5e4962f01ee303b53af9988a70a79",
       "title": "Как редактировать запись на ремонт",
       "type": "lessons",
       "order": 4,
@@ -5660,7 +5660,7 @@
     {
       "path": "lessons/Урок 8. Запись на ремонт/Как подобрать автоработы из АРМ Запись на ремонт",
       "file": "kak-podobrat-avtoraboty-iz-arm-zapis-na-remont.md",
-      "sha": "95a22979bf4e533cf97576df543139af3aca7c02",
+      "sha": "10dcf01142eeeec1a6b21eb3e04dc874b57c6360",
       "title": "Как подобрать автоработы из АРМ Запись на ремонт",
       "type": "lessons",
       "order": 3,
@@ -5672,7 +5672,7 @@
     {
       "path": "lessons/Урок 8. Запись на ремонт/Как записать клиента из Заказ-наряда",
       "file": "kak-zapisat-klienta-iz-zakaz-naryada.md",
-      "sha": "1ae2364be306531a6cffecc8f4150eee8efaeb39",
+      "sha": "81e9b2a722eb9bdc16ab12f4ee09dc66b5ada73e",
       "title": "Как записать клиента из Заказ-наряда",
       "type": "lessons",
       "order": 2,
@@ -5684,7 +5684,7 @@
     {
       "path": "lessons/Урок 8. Запись на ремонт/Как записать клиента из Корзины",
       "file": "kak-zapisat-klienta-iz-korziny.md",
-      "sha": "890e9576689be2d22700c59818ab09c170995164",
+      "sha": "1331874b965495e772d845e2365e90ef7367e30c",
       "title": "Как записать клиента из Корзины",
       "type": "lessons",
       "order": 1,
@@ -5696,7 +5696,7 @@
     {
       "path": "lessons/Урок 8. Запись на ремонт/Обзор интерфейса АРМ Запись на ремонт",
       "file": "obzor-interfeysa-arm-zapis-na-remont.md",
-      "sha": "1d52f8c537a1fa4b05c302ae027a1e33e0702d90",
+      "sha": "4c8c6f4ef76102e6297bee8a45d402eae6766bbb",
       "title": "Обзор интерфейса АРМ Запись на ремонт",
       "type": "lessons",
       "order": 0,
@@ -5708,7 +5708,7 @@
     {
       "path": "articles/5S AUTO/Запись на ремонт/Календарь для планирования работ",
       "file": "kalendar-dlya-planirovaniya-rabot.md",
-      "sha": "2adcd1d9c4cfec35490dd0ce77a9e64fcf121aa6",
+      "sha": "6d852df6f30310b0b60ea0e13d5cc96647b3cc8f",
       "title": "Календарь для планирования работ",
       "type": "articles",
       "order": 1,
@@ -5720,7 +5720,7 @@
     {
       "path": "articles/5S AUTO/Запись на ремонт/Начальные настройки для работы в АРМ Запись на ремонт",
       "file": "nachalnye-nastroyki-dlya-raboty-v-arm-zapis-na-remont.md",
-      "sha": "1cea3cd2121a31a02578c2a4c922a332ecef1758",
+      "sha": "10322d95d2e730310212589c5c9923d041449059",
       "title": "Начальные настройки для работы в АРМ «Запись на ремонт»",
       "type": "articles",
       "order": 0,
@@ -5732,7 +5732,7 @@
     {
       "path": "lessons/Урок 9. Работа с Поиском цен/Как изменить параметры Поиска цен",
       "file": "kak-izmenit-parametry-poiska-cen.md",
-      "sha": "b74da2916d57885a05cedbb810ec7c46db6d54ba",
+      "sha": "e129e05e917c8f10b4bb65a8ded6d2dc8b7af7af",
       "title": "Как изменить параметры Поиска цен",
       "type": "lessons",
       "order": 8,
@@ -5744,7 +5744,7 @@
     {
       "path": "lessons/Урок 9. Работа с Поиском цен/Как работать с аналогами в Поиске цен",
       "file": "kak-rabotat-s-analogami-v-poiske-cen.md",
-      "sha": "e3aca6ff6f34e5608cfcc30b84c8bde4d6a29f2f",
+      "sha": "0f5d89a4f50e4ae38caa09467dbf19f49cf2ce6d",
       "title": "Как работать с аналогами в Поиске цен",
       "type": "lessons",
       "order": 7,
@@ -5756,7 +5756,7 @@
     {
       "path": "lessons/Урок 9. Работа с Поиском цен/Как работает фильтрация и сортировка в Поиске цен",
       "file": "kak-rabotaet-filtraciya-i-sortirovka-v-poiske-cen.md",
-      "sha": "2cb009a768985e72e6fce2fcb47eba1ce3288d54",
+      "sha": "02cba2875e422206df4803e729586bdb08c940a9",
       "title": "Как работает фильтрация и сортировка в Поиске цен",
       "type": "lessons",
       "order": 6,
@@ -5768,7 +5768,7 @@
     {
       "path": "lessons/Урок 9. Работа с Поиском цен/Как проценить деталь по артикулу",
       "file": "kak-procenit-detal-po-artikulu.md",
-      "sha": "637cc5200d78afc09fd08f1b7451142ce064515a",
+      "sha": "208c6e6f0f69499a80c7991193f92473ba437300",
       "title": "Как проценить деталь по артикулу",
       "type": "lessons",
       "order": 5,
@@ -5780,7 +5780,7 @@
     {
       "path": "lessons/Урок 9. Работа с Поиском цен/Как перейти в Поиск цен",
       "file": "kak-pereyti-v-poisk-cen.md",
-      "sha": "681a3e5db33421fa833194983982045daab181f5",
+      "sha": "1581155916298b487ded3ab9e1f0bc29a13c08e8",
       "title": "Как перейти в Поиск цен",
       "type": "lessons",
       "order": 4,
@@ -5792,7 +5792,7 @@
     {
       "path": "lessons/Урок 9. Работа с Поиском цен/Что отображается в предложениях поставщиков",
       "file": "chto-otobrazhaetsya-v-predlozheniyakh-postavschikov.md",
-      "sha": "8597c6b780babb57546cb293cc03a088f8562061",
+      "sha": "bf8a69246362802b6d66b470d53cb2792f2fc372",
       "title": "Что отображается в предложениях поставщиков",
       "type": "lessons",
       "order": 3,
@@ -5804,7 +5804,7 @@
     {
       "path": "lessons/Урок 9. Работа с Поиском цен/Назначение и интерфейс Поиска цен",
       "file": "naznachenie-i-interfeys-poiska-cen.md",
-      "sha": "13e2851ef75cad0a94a244f81097a43da7881149",
+      "sha": "3642204d3b1e35b72d9b517a094d7ab24e89be04",
       "title": "Назначение и интерфейс Поиска цен",
       "type": "lessons",
       "order": 2,
@@ -5816,7 +5816,7 @@
     {
       "path": "lessons/Урок 6. Подбор запчастей и работ/Помощник оформления Заказа покупателя в АРМ Корзина",
       "file": "pomoschnik-oformleniya-zakaza-pokupatelya-v-arm-korzina.md",
-      "sha": "32ca437f7fef1775e65724cc5c204041004704f4",
+      "sha": "fb57e8b4baef15a992a3b84a175db3a129f74344",
       "title": "Помощник оформления Заказа покупателя в АРМ Корзина",
       "type": "lessons",
       "order": 9,
@@ -5828,7 +5828,7 @@
     {
       "path": "lessons/Урок 6. Подбор запчастей и работ/Как создать документы на основании Корзины",
       "file": "kak-sozdat-dokumenty-na-osnovanii-korziny.md",
-      "sha": "013c10761cb6aaf598c7ced3968b2c9dd02a325b",
+      "sha": "55450bec9530452fe821a06527318a22f0cee059",
       "title": "Как создать документы на основании Корзины",
       "type": "lessons",
       "order": 8,
@@ -5840,7 +5840,7 @@
     {
       "path": "lessons/Урок 6. Подбор запчастей и работ/Как выгрузить Корзину в другие АРМ",
       "file": "kak-vygruzit-korzinu-v-drugie-arm.md",
-      "sha": "36bc997834127cc13c9fb22a65efe11f154e8079",
+      "sha": "ea786960ff034c882632ebd31457c492d5942819",
       "title": "Как выгрузить Корзину в другие АРМ",
       "type": "lessons",
       "order": 7,
@@ -5852,7 +5852,7 @@
     {
       "path": "lessons/Урок 6. Подбор запчастей и работ/Как распечатать Корзину или отправить в мессенджер",
       "file": "kak-raspechatat-korzinu-ili-otpravit-v-messendzher.md",
-      "sha": "39ed11743418b9ac368705518e3e2945ab7230d3",
+      "sha": "ad71a6c9f40b06d904011ba9ff0e74a11f7c150e",
       "title": "Как распечатать Корзину или отправить в мессенджер",
       "type": "lessons",
       "order": 6,
@@ -5864,7 +5864,7 @@
     {
       "path": "lessons/Урок 6. Подбор запчастей и работ/Как создать автомобиль в Корзине",
       "file": "kak-sozdat-avtomobil-v-korzine.md",
-      "sha": "8a2aac05d9d4ce01f3a4bd6b596f1bd878a33014",
+      "sha": "77d4918a1885939c3fa57eae00806e3e48f8b1e0",
       "title": "Как создать автомобиль в Корзине",
       "type": "lessons",
       "order": 5,
@@ -5876,7 +5876,7 @@
     {
       "path": "lessons/Урок 6. Подбор запчастей и работ/Как подбирать автоработы в АРМ Корзина",
       "file": "kak-podbirat-avtoraboty-v-arm-korzina.md",
-      "sha": "ba0eea7cb23ab5c36477a11152c9592bf27be4e5",
+      "sha": "d80b583d6bd988ce448d11a8d6a9ca9303bc786c",
       "title": "Как подбирать автоработы в АРМ Корзина",
       "type": "lessons",
       "order": 4,
@@ -5888,7 +5888,7 @@
     {
       "path": "lessons/Урок 6. Подбор запчастей и работ/Информационные вкладки Корзины",
       "file": "informacionnye-vkladki-korziny.md",
-      "sha": "309a57175d6d3418e8e6b509201024ef86c16a11",
+      "sha": "0462fddb257f3e51f9ddd5d7b6f4bd28f02a21d3",
       "title": "Информационные вкладки Корзины",
       "type": "lessons",
       "order": 3,
@@ -5900,7 +5900,7 @@
     {
       "path": "lessons/Урок 6. Подбор запчастей и работ/Как добавить варианты поставки в Корзину",
       "file": "kak-dobavit-varianty-postavki-v-korzinu.md",
-      "sha": "bd8d1a6eba7ceafc11ab695cebd352e16de027e8",
+      "sha": "ee01710809834fa7cd808ec7fcab7aa6782f4b6c",
       "title": "Как добавить варианты поставки в Корзину",
       "type": "lessons",
       "order": 2,
@@ -5912,7 +5912,7 @@
     {
       "path": "lessons/Урок 6. Подбор запчастей и работ/Как подбирать запасные части в АРМ Корзина",
       "file": "kak-podbirat-zapasnye-chasti-v-arm-korzina.md",
-      "sha": "d56f10f11f9cce6d6cafa3d117e861f86cf488a3",
+      "sha": "8c6588fc9e5fc6558c246f5dc8f3387fd47e6936",
       "title": "Как подбирать запасные части в АРМ Корзина",
       "type": "lessons",
       "order": 1,
@@ -5924,7 +5924,7 @@
     {
       "path": "lessons/Урок 6. Подбор запчастей и работ/Назначение и интерфейс АРМ Корзина",
       "file": "naznachenie-i-interfeys-arm-korzina.md",
-      "sha": "d326eba99c27241f4bb3f3aed3c81fb010a5478c",
+      "sha": "8856c1090fe99dabc323e199ae300ad92f58f7dd",
       "title": "Назначение и интерфейс АРМ Корзина",
       "type": "lessons",
       "order": 0,
@@ -5936,7 +5936,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Диагностические анкеты",
       "file": "diagnosticheskie-ankety.md",
-      "sha": "8790813134eeefa104a6128712f2c6b11084515c",
+      "sha": "3801fd0cf5633f69518056224bdf0bb4e0c6c769",
       "title": "Диагностические анкеты",
       "type": "articles",
       "order": 7,
@@ -5954,7 +5954,7 @@
     {
       "path": "lessons/Урок 7. Онлайн-каталог запчастей/Действия с подобранными деталями в Онлайн-каталоге",
       "file": "deystviya-s-podobrannymi-detalyami-v-onlayn-kataloge.md",
-      "sha": "f27ae8d5df0adcd9173bf8ae8b0615cbef9fe712",
+      "sha": "8df90544c38d0cb771251ac29e3078181536b02e",
       "title": "Действия с подобранными деталями в Онлайн-каталоге",
       "type": "lessons",
       "order": 5,
@@ -5966,7 +5966,7 @@
     {
       "path": "lessons/Урок 7. Онлайн-каталог запчастей/Как найти деталь в Онлайн-каталоге",
       "file": "kak-nayti-detal-v-onlayn-kataloge.md",
-      "sha": "e5820a560acc86bad62be0d225fb01fcf0065888",
+      "sha": "23ecc17f0401591fad503b483600028b02125391",
       "title": "Как найти деталь в Онлайн-каталоге",
       "type": "lessons",
       "order": 4,
@@ -5978,7 +5978,7 @@
     {
       "path": "lessons/Урок 7. Онлайн-каталог запчастей/Как идентифицировать автомобиль в Онлайн-каталоге",
       "file": "kak-identificirovat-avtomobil-v-onlayn-kataloge.md",
-      "sha": "65f6b0de05c7746711983d90ea373eb5867bf320",
+      "sha": "13b3f67a8d4fcf447e475d24512cfa0cc1662dbe",
       "title": "Как идентифицировать автомобиль в Онлайн-каталоге",
       "type": "lessons",
       "order": 3,
@@ -5990,7 +5990,7 @@
     {
       "path": "lessons/Урок 7. Онлайн-каталог запчастей/Как перейти в Онлайн-каталог",
       "file": "kak-pereyti-v-onlayn-katalog.md",
-      "sha": "70fcfd59cb19bece37bbc8094efc58a41bbbaa51",
+      "sha": "426d7eb829912a3cd974390bf1c76fb9f68905c2",
       "title": "Как перейти в Онлайн-каталог",
       "type": "lessons",
       "order": 2,
@@ -6002,7 +6002,7 @@
     {
       "path": "lessons/Урок 7. Онлайн-каталог запчастей/Обзор интерфейса Онлайн-каталога",
       "file": "obzor-interfeysa-onlayn-kataloga.md",
-      "sha": "8bc3ef75f03df77756be8c1dd0aef39e8d8ec527",
+      "sha": "676e861ebaece5c0f71196d3b1ea06b95bb25bf4",
       "title": "Обзор интерфейса Онлайн-каталога",
       "type": "lessons",
       "order": 1,
@@ -6014,7 +6014,7 @@
     {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Работа с онлайн-каталогом запчастей",
       "file": "rabota-s-onlayn-katalogom-zapchastey.md",
-      "sha": "455f3e73e006cf8456b1e835830ee484b4005f1b",
+      "sha": "9b1e6acc26c88c329a8d5a73553fc06181f0a17d",
       "title": "Работа с онлайн-каталогом запчастей",
       "type": "articles",
       "order": 2,
@@ -6026,7 +6026,7 @@
     {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Поиск цен",
       "file": "poisk-cen.md",
-      "sha": "9f8d38a81cc4e9edfcca7cffe7455eb5b21eac3a",
+      "sha": "d1f50077e98e6e01644d7ff888814c757bcfb3ef",
       "title": "Поиск цен",
       "type": "articles",
       "order": 1,
@@ -6044,7 +6044,7 @@
     {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Работа в АРМ Корзина",
       "file": "rabota-v-arm-korzina.md",
-      "sha": "08a91337b169af788eaa91e7d639650ccf72dee7",
+      "sha": "2ff6c4538098c3f59d70e64b0d2cd8b36c75a173",
       "title": "Работа в АРМ Корзина",
       "type": "articles",
       "order": 0,
@@ -6056,7 +6056,7 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Информирование клиента о состоянии заказа покупателя",
       "file": "informirovanie-klienta-o-sostoyanii-zakaza-pokupatelya.md",
-      "sha": "d1003517acecc8014f92b7829e740c9f1fb4ce6e",
+      "sha": "5b05749d48241446f61df8e54a210c6cdf6f8ff3",
       "title": "Информирование клиента о состоянии заказа покупателя",
       "type": "articles",
       "order": 8,
@@ -6074,7 +6074,7 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Лента событий",
       "file": "lenta-sobytiy.md",
-      "sha": "5cf36e438ab238547f32044aa29518965d3f8778",
+      "sha": "69960ef0d5457c9faeede77730807647215160e3",
       "title": "Лента событий",
       "type": "articles",
       "order": 7,
@@ -6086,7 +6086,7 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Умная маршрутизация входящего звонка",
       "file": "umnaya-marshrutizaciya-vkhodyaschego-zvonka.md",
-      "sha": "6aa19fcc76881cf22753c9a969a91c948727eb43",
+      "sha": "fe6be7e426bdb6936cd3e2e27b68aa7700f074bd",
       "title": "Умная маршрутизация входящего звонка",
       "type": "articles",
       "order": 6,
@@ -6098,7 +6098,7 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Напоминания по задачам",
       "file": "napominaniya-po-zadacham.md",
-      "sha": "94bc6071acd681a107d9c5f48186380d7abd4562",
+      "sha": "79133935e32bb01ed0a77a40a3a55f29cc92a910",
       "title": "Напоминания по задачам",
       "type": "articles",
       "order": 5,
@@ -6110,7 +6110,7 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Работа в АРМ Клиенты и автомобили",
       "file": "rabota-v-arm-klienty-i-avtomobili.md",
-      "sha": "4eddd6714f0593e745e928b32e9cea46f993c4c5",
+      "sha": "e4b399fdc97c7039722934c60392bb10464c9899",
       "title": "Работа в АРМ Клиенты и автомобили",
       "type": "articles",
       "order": 4,
@@ -6122,7 +6122,7 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Идентификация клиента на форме Сделки",
       "file": "identifikaciya-klienta-na-forme-sdelki.md",
-      "sha": "0c45e63758719a0b2fb23f879dc2589e6fcb3f84",
+      "sha": "79416471cde139b39201b0b2fef02d431af2385b",
       "title": "Идентификация клиента на форме Сделки",
       "type": "articles",
       "order": 3,
@@ -6134,7 +6134,7 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Расшифровка контрагентов по ИНН",
       "file": "rasshifrovka-kontragentov-po-inn.md",
-      "sha": "191bbc20b4bebf1ac994faafb0e43500d49a2c38",
+      "sha": "1f23bc3c7bcf5651ede2fbd072cec93dc360836c",
       "title": "Расшифровка контрагентов по ИНН",
       "type": "articles",
       "order": 2,
@@ -6146,7 +6146,7 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Контактные лица",
       "file": "kontaktnye-lica.md",
-      "sha": "d413c11ee32c7e5e6bbc2af5c28bc1b72ada3f09",
+      "sha": "a3c7fa06e934e3b2cdad978fa34f89c7afbb8e39",
       "title": "Контактные лица",
       "type": "articles",
       "order": 1,
@@ -6158,7 +6158,7 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Контрагенты и контакты",
       "file": "kontragenty-i-kontakty.md",
-      "sha": "57fa2b87cdd5d60b880cf834789f1cb1e9581345",
+      "sha": "c74ca0116d25df03bcdaa483492e37b32269da2a",
       "title": "Контрагенты и контакты",
       "type": "articles",
       "order": 0,
@@ -6170,7 +6170,7 @@
     {
       "path": "articles/5S AUTO/CRM/Работа в АРМ Коммуникатор",
       "file": "rabota-v-arm-kommunikator.md",
-      "sha": "3b6ab9a3f8a21cb5360a1da05b60a9cbe8586f71",
+      "sha": "cf72662b3c8a897ba5a32a67af1b08d3548af36f",
       "title": "Работа в АРМ Коммуникатор",
       "type": "articles",
       "order": 22,
@@ -6182,7 +6182,7 @@
     {
       "path": "articles/5S AUTO/CRM/Приглашения на ТО",
       "file": "priglasheniya-na-to.md",
-      "sha": "7845c7d6a231b6aaa8b270bedfb60b0302c44dba",
+      "sha": "cd4ed87a450a5da9e94c846f2acd7a961b17176e",
       "title": "Приглашения на ТО",
       "type": "articles",
       "order": 21,
@@ -6194,7 +6194,7 @@
     {
       "path": "articles/5S AUTO/CRM/Работа с полнотекстовым поиском",
       "file": "rabota-s-polnotekstovym-poiskom.md",
-      "sha": "9ee98d179575fac38b7a47ffc831b8ffe98eb87a",
+      "sha": "87752e4f98f4e3e655a5a25c7ae198cd7cb94b23",
       "title": "Работа с полнотекстовым поиском",
       "type": "articles",
       "order": 20,
@@ -6206,7 +6206,7 @@
     {
       "path": "articles/5S AUTO/CRM/Структура интерфейса 5S AUTO",
       "file": "struktura-interfeysa-5s-auto.md",
-      "sha": "3c63401292ae6e58f9f57ab6cd4d8d69961d57c1",
+      "sha": "55b75a69015387b52847f8d3e03e37ba0d12847a",
       "title": "Структура интерфейса 5S AUTO",
       "type": "articles",
       "order": 19,
@@ -6218,7 +6218,7 @@
     {
       "path": "articles/5S AUTO/CRM/Типы задач",
       "file": "tipy-zadach.md",
-      "sha": "6adb46cd106a67fffb3628b6cfd4d225a46c6f21",
+      "sha": "39274888e3521c3f6ac54202bbddcf6ebef274ce",
       "title": "Типы задач",
       "type": "articles",
       "order": 18,
@@ -6236,7 +6236,7 @@
     {
       "path": "articles/5S AUTO/CRM/Приглашение в Telegram",
       "file": "priglashenie-v-telegram.md",
-      "sha": "d354b8cded3f1343752117495ae49e833642ca5f",
+      "sha": "edc159853e4b4449ee720256bf19af9eb6325ea3",
       "title": "Приглашение в Telegram",
       "type": "articles",
       "order": 17,
@@ -6254,7 +6254,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка шаблонов WhatsApp Business API",
       "file": "nastroyka-shablonov-whatsapp-business-api.md",
-      "sha": "dff7206fbbeece99030cf2bbeb77f6577c6a4dd0",
+      "sha": "283e74ffffefc5a407c86d07d014319d5a235f00",
       "title": "Настройка шаблонов WhatsApp Business API",
       "type": "articles",
       "order": 4,
@@ -6276,7 +6276,7 @@
     {
       "path": "articles/5S AUTO/CRM/Настройка параметров уведомлений",
       "file": "nastroyka-parametrov-uvedomleniy.md",
-      "sha": "db3b13ec60ec20d49fa48b27e7877ff3b2d1a104",
+      "sha": "b66d616035eeed2dbb0fdd445e61298b31247ef3",
       "title": "Настройка параметров уведомлений",
       "type": "articles",
       "order": 15,
@@ -6288,7 +6288,7 @@
     {
       "path": "articles/5S AUTO/CRM/Редактирование и удаление сделок",
       "file": "redaktirovanie-i-udalenie-sdelok.md",
-      "sha": "422f7a9f8ca55a6bf57679e59ec05b1c94d5e72f",
+      "sha": "5e66f227829080a2c716acdce3f7807a8a0b7b53",
       "title": "Редактирование и удаление сделок",
       "type": "articles",
       "order": 14,
@@ -6300,7 +6300,7 @@
     {
       "path": "articles/5S AUTO/CRM/Настройки воронки продаж",
       "file": "nastroyki-voronki-prodazh.md",
-      "sha": "a001892aad6c62594cab4850980abf76f17f769e",
+      "sha": "e45ab556edc7903e009900d5e7c002137a8b82c6",
       "title": "Настройки воронки продаж",
       "type": "articles",
       "order": 13,
@@ -6312,7 +6312,7 @@
     {
       "path": "articles/5S AUTO/CRM/Режимы работы CRM",
       "file": "rezhimy-raboty-crm.md",
-      "sha": "beecf603cc2c37dfce3d9f3d6893c8f2e33dbc6b",
+      "sha": "b065530390c9e5c06135f71705481acfaa4d1bbf",
       "title": "Режимы работы CRM",
       "type": "articles",
       "order": 12,
@@ -6324,7 +6324,7 @@
     {
       "path": "articles/5S AUTO/CRM/Сохранение настроек просмотра сделок",
       "file": "sohranenie-nastroek-prosmotra-sdelok.md",
-      "sha": "a9a8953977bb8ec52bcf7e2de6887694eacc73c9",
+      "sha": "459ee9e5ff9ba2cb1980d5b4bf613b2b2d51bf3f",
       "title": "Сохранение настроек просмотра сделок",
       "type": "articles",
       "order": 11,
@@ -6336,7 +6336,7 @@
     {
       "path": "articles/5S AUTO/CRM/Групповые действия со сделками",
       "file": "gruppovye-deystviya-so-sdelkami.md",
-      "sha": "654a4d717112a0dfcc5aba227c07528db0071459",
+      "sha": "3a986854c0937d14aad975c7fcc915158acabfd9",
       "title": "Групповые действия со сделками",
       "type": "articles",
       "order": 10,
@@ -6348,7 +6348,7 @@
     {
       "path": "articles/5S AUTO/CRM/Чаты клиента",
       "file": "chaty-klienta.md",
-      "sha": "df7cd758c3e027759715751ca00c99bf4e6bd4da",
+      "sha": "df901180a54f381669938dcadee842d377e5b9ae",
       "title": "Чаты клиента",
       "type": "articles",
       "order": 8,
@@ -6366,7 +6366,7 @@
     {
       "path": "articles/5S AUTO/CRM/Работа с уведомлениями",
       "file": "rabota-s-uvedomleniyami.md",
-      "sha": "a1b082dcadf8dbd0eb31237c5e6560defee5ff91",
+      "sha": "87ac35c9b2d62f2a81d4209e568f3aa9c7c6b459",
       "title": "Работа с уведомлениями",
       "type": "articles",
       "order": 7,
@@ -6378,7 +6378,7 @@
     {
       "path": "articles/5S AUTO/CRM/Объединение сделок",
       "file": "obedinenie-sdelok.md",
-      "sha": "ba9df4b8ec80b75bacc7f3cd0d77bbccadba90e3",
+      "sha": "6f663e6ad06865ef5f768df3890c210a672a011c",
       "title": "Объединение сделок",
       "type": "articles",
       "order": 6,
@@ -6390,7 +6390,7 @@
     {
       "path": "articles/5S AUTO/CRM/Отложенные сделки",
       "file": "otlozhennye-sdelki.md",
-      "sha": "c996bd80b00c16c6fbb5aa46e0576d39bb54dd6a",
+      "sha": "f79a21f03dc51ae0b4162cec39a1945993362e4a",
       "title": "Отложенные сделки",
       "type": "articles",
       "order": 5,
@@ -6402,7 +6402,7 @@
     {
       "path": "articles/5S AUTO/CRM/Заголовок сделки",
       "file": "zagolovok-sdelki.md",
-      "sha": "52a5b7799a2dce01a7083c3390aa28e1715d32f6",
+      "sha": "fa52f952fbb87546a95a2037c52c458274b0c714",
       "title": "Заголовок сделки",
       "type": "articles",
       "order": 4,
@@ -6414,7 +6414,7 @@
     {
       "path": "articles/5S AUTO/CRM/События сделки",
       "file": "sobytiya-sdelki.md",
-      "sha": "53e0cdc972c827eee220823228ebcfaca1caefa5",
+      "sha": "b5656b6fc7284e451c735542afb135b4313799a0",
       "title": "События сделки",
       "type": "articles",
       "order": 3,
@@ -6426,7 +6426,7 @@
     {
       "path": "articles/5S AUTO/CRM/Работа со сделкой",
       "file": "rabota-so-sdelkoy.md",
-      "sha": "46e886b88ba35efd5b6f3f27a3d33b175653cb07",
+      "sha": "ff4c9124263cb325ab49620d1001ecd4569cbe56",
       "title": "Работа со сделкой",
       "type": "articles",
       "order": 2,
@@ -6438,7 +6438,7 @@
     {
       "path": "articles/5S AUTO/CRM/Список сделок",
       "file": "spisok-sdelok.md",
-      "sha": "4bbf56f999f833d2a73349244ac2cd90228bab0d",
+      "sha": "3308235bc3fad6de57b136ce92062734aa43d863",
       "title": "Список сделок",
       "type": "articles",
       "order": 1,
@@ -6450,7 +6450,7 @@
     {
       "path": "articles/5S AUTO/CRM/Канбан сделок",
       "file": "kanban-sdelok.md",
-      "sha": "3cb2d113ef154e866e23ead37db07bc867f751bf",
+      "sha": "3fc84fd68b1b2751fff0ca1d2898262bc2701f00",
       "title": "Канбан сделок",
       "type": "articles",
       "order": 0,
@@ -6462,7 +6462,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "file": "spravochnik-oborudovanie.md",
-      "sha": "a0d48c4b0984dbdf97b498be1880bef9b90c24ce",
+      "sha": "82b05f75c52587b618332c02a053056e775b6f57",
       "title": "Справочник «Оборудование»",
       "type": "articles",
       "order": 1,
@@ -6518,7 +6518,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
       "file": "integraciya-s-audatex.md",
-      "sha": "6b5e3081e42041a0d273df6d3d360869390adb5c",
+      "sha": "3dd316b5d41d7e2df6cb56d88f989e04e0308c2f",
       "title": "Интеграция с Audatex (AudaPad Web)",
       "type": "articles",
       "order": 19,
@@ -6673,7 +6673,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
       "file": "udalenie-starykh-dannykh.md",
-      "sha": "afe152b92cd9ad7e5c2ef385b32233cf2ef2efbc",
+      "sha": "37ae4fa5de627fa8424bdca3e982dedf1540f5a8",
       "title": "Удаление старых данных программы",
       "type": "articles",
       "order": 24,
@@ -6817,7 +6817,7 @@
     {
       "path": "tips/Техподдержка/Как обратиться в техническую поддержку",
       "file": "kak-obratitsya-v-tekhnicheskuyu-podderzhku.md",
-      "sha": "06ffa8c86503a04f8c69c6776f602dd4cb5594ff",
+      "sha": "2c112f098c54418c9bbc3a3215cda9ffc12296a8",
       "title": "Как обратиться в техническую поддержку",
       "type": "tips",
       "order": 0,
@@ -6872,7 +6872,7 @@
     {
       "path": "articles/5S AUTO/Маркировка/Интеграция с ТС ПИоТ/Настройка интеграции с ТС ПИоТ",
       "file": "nastroyka-integracii-s-ts-piot.md",
-      "sha": "0733572050bb731a52fce3245925764743a7728d",
+      "sha": "37d408e8fc52dd0bd3a0a1f6fd709201acea43e9",
       "title": "Настройка интеграции с ТС ПИоТ",
       "type": "articles",
       "order": 0,
@@ -6890,7 +6890,7 @@
     {
       "path": "articles/5S AUTO/Маркировка/Интеграция с ТС ПИоТ/Установка Единого Сервисного Модуля (ЕСМ)",
       "file": "ustanovka-edinogo-servisnogo-modulya-esm.md",
-      "sha": "a7beb0c7c25e33673bf92f31130b2a055f04bd00",
+      "sha": "a258ed2192a6fa7b029628ed34c102e91dc137a7",
       "title": "Установка Единого Сервисного Модуля (ЕСМ)",
       "type": "articles",
       "order": 1,
@@ -6902,7 +6902,7 @@
     {
       "path": "articles/5S AUTO/Маркировка/Интеграция с ТС ПИоТ/Установка Локального модуля Честного знака",
       "file": "ustanovka-lokalnogo-modulya-chestnogo-znaka.md",
-      "sha": "03c6e5195f4a08fcfbeb54a5f4eba573137a30ea",
+      "sha": "2815fa8a8e7986f77f79baf8bb091658b9bdcbb7",
       "title": "Установка Локального модуля Честного знака",
       "type": "articles",
       "order": 2,
@@ -6914,7 +6914,7 @@
     {
       "path": "tips/5S AUTO/CRM/Как посмотреть количество уникальных клиентов, обратившихся за период",
       "file": "kak-posmotret-kolichestvo-unikalnyh-klientov.md",
-      "sha": "f458b9d9933206a76d4730a6427d73d8cb5bb54f",
+      "sha": "04bfc082894c788a7633660e77a51e5d056999ee",
       "title": "Как посмотреть количество уникальных клиентов, обратившихся за период",
       "type": "tips",
       "order": 0,
@@ -6925,7 +6925,7 @@
     {
       "path": "tips/Оборудование/Кассы ККМ/Ошибки включения кассы",
       "file": "oshibki-vklyucheniya-kassy.md",
-      "sha": "3e619eef7f7d11f9dcd2f4d4e219c8b99fe1ec36",
+      "sha": "315971c747e81e89e7e3cb06dec6238a8c5d6382",
       "title": "Ошибки включения кассы",
       "type": "tips",
       "order": 0,
@@ -6936,7 +6936,7 @@
     {
       "path": "tips/Оборудование/Банковские терминалы/Ошибка авторизации эквайринга 1001",
       "file": "oshibka-avtorizacii-ekvayringa-1001.md",
-      "sha": "bb3b978461e9e9d7337eb0b4eed8ef30dd77a3e1",
+      "sha": "299ff3f1797826360692f320e2fb9697cd9ab73b",
       "title": "Ошибка авторизации эквайринга 1001",
       "type": "tips",
       "order": 0,
@@ -6969,7 +6969,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Лицензирование 5S AUTO",
       "file": "ARTICLE.md",
-      "sha": "f520ded58d291403640f1b94349441391cc278d7",
+      "sha": "bba448047fd2054e334d03e73ed53673b6066d28",
       "title": "Лицензирование 5S AUTO",
       "type": "articles",
       "order": 12,
@@ -6981,7 +6981,7 @@
     {
       "path": "articles/5S AUTO/Отчеты/Отчет Обращение клиентов в автосервис",
       "file": "ARTICLE.md",
-      "sha": "1ef6094d852d5e778a8abe7df5c110b6aa893539",
+      "sha": "195e997761132bf89836fc098a7a8d468ff2ac31",
       "title": "Отчет “Обращения клиентов в автосервис”",
       "type": "articles",
       "order": 8,
@@ -7142,7 +7142,7 @@
     {
       "path": "articles/5S AUTO/Маркировка/Вывод кодов маркировки из оборота",
       "file": "vyvod-kodov-markirovki-iz-oborota.md",
-      "sha": "2a13e1cf12a0d976d6558bc88dbf51278c489b48",
+      "sha": "ccdd176adfc89f99a8311dc2c2301905ab06d5b5",
       "title": "Вывод кодов маркировки из оборота",
       "type": "articles",
       "order": 2,
