@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:04:04+03:00",
+  "generated_at": "2026-09-11T16:06:09+03:00",
   "count": 524,
   "sections": {
     "tips": [
@@ -597,6 +597,30 @@
   },
   "materials": [
     {
+      "path": "lessons/Урок 8. Запись на ремонт/Как настроить график работы цеха",
+      "file": "kak-nastroit-grafik-raboty-cekha.md",
+      "sha": "d40117c170cebb12953d59fb3276da97c5b2fda5",
+      "title": "Как настроить график работы цеха",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2026-06-19",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T16:03:43+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "lessons/Урок 8. Запись на ремонт/Практическое задание по теме «Запись на Ремонт»",
+      "file": "prakticheskoe-zadanie-po-teme-zapis-na-remont.md",
+      "sha": "1b81ced264211c54fa982655d1ce2705e6b68c54",
+      "title": "Практическое задание по теме \"Запись на Ремонт\"",
+      "type": "lessons",
+      "order": 7,
+      "updated_at": "2022-07-08",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T16:03:43+03:00",
+      "reading_time": 1
+    },
+    {
       "path": "lessons/Урок 7. Онлайн-каталог запчастей/Как подключить онлайн-каталог",
       "file": "kak-podklyuchit-onlayn-katalog.md",
       "sha": "2ffd34d4960c81187fca3d8ad363b63c2977588b",
@@ -1023,6 +1047,18 @@
       "title": "Тестирование по курсу \"Работа с онлайн-каталогом запчастей\"",
       "type": "lessons",
       "order": 7,
+      "updated_at": "2022-07-08",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T11:46:07+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 8. Запись на ремонт/Тестирование по курсу «Запись клиентов на ремонт»",
+      "file": "testirovanie-po-kursu-zapis-klientov-na-remont.md",
+      "sha": "ecb27c4332fc686bad306de282b7088f1e3e9263",
+      "title": "Тестирование по курсу \"Запись клиентов на ремонт\"",
+      "type": "lessons",
+      "order": 8,
       "updated_at": "2022-07-08",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:46:07+03:00",
@@ -1675,42 +1711,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-11T08:57:43+03:00",
       "reading_time": 8
-    },
-    {
-      "path": "lessons/Урок 8. Запись на ремонт/Как настроить график работы цеха",
-      "file": "kak-nastroit-grafik-raboty-cekha.md",
-      "sha": "1df4252f7e72c5869c68b521caac41c00e8176ba",
-      "title": "Как настроить график работы цеха",
-      "type": "lessons",
-      "order": 6,
-      "updated_at": "2026-09-11",
-      "date_kind": "updated",
-      "added_at": "2026-09-11",
-      "reading_time": 8
-    },
-    {
-      "path": "lessons/Урок 8. Запись на ремонт/Практическое задание по теме «Запись на Ремонт»",
-      "file": "prakticheskoe-zadanie-po-teme-zapis-na-remont.md",
-      "sha": "b6a865cb3a877b20d50269a0fe0fa5dedd4d5699",
-      "title": "Практическое задание по теме \"Запись на Ремонт\"",
-      "type": "lessons",
-      "order": 7,
-      "updated_at": "2026-09-11",
-      "date_kind": "updated",
-      "added_at": "2026-09-11",
-      "reading_time": 1
-    },
-    {
-      "path": "lessons/Урок 8. Запись на ремонт/Тестирование по курсу «Запись клиентов на ремонт»",
-      "file": "testirovanie-po-kursu-zapis-klientov-na-remont.md",
-      "sha": "b18677ec60a1e929bdecbfb7f24dbf816f19d5ad",
-      "title": "Тестирование по курсу \"Запись клиентов на ремонт\"",
-      "type": "lessons",
-      "order": 8,
-      "updated_at": "2026-09-11",
-      "date_kind": "updated",
-      "added_at": "2026-09-11",
-      "reading_time": 1
     },
     {
       "path": "articles/5S AUTO/Автосервис/Монитор мастеров",
