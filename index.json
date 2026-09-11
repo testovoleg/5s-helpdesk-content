@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:34:25+03:00",
+  "generated_at": "2026-09-11T11:39:52+03:00",
   "count": 485,
   "sections": {
     "tips": [
@@ -596,6 +596,76 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Урок 2. Структура компании/Как добавить кассу",
+      "title": "Как добавить кассу",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2023-02-15",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T11:34:07+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 2. Структура компании/Как добавить логотип компании",
+      "title": "Как добавить логотип компании",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2022-10-10",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T11:34:07+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 2. Структура компании/Как добавить организацию",
+      "title": "Как добавить организацию",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2025-03-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T11:34:07+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 2. Структура компании/Как добавить подразделение",
+      "title": "Как добавить подразделение",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2025-03-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T11:34:07+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 2. Структура компании/Как добавить пост-цех",
+      "title": "Как добавить пост/цех",
+      "type": "lessons",
+      "order": 5,
+      "updated_at": "2022-09-15",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T11:34:07+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "lessons/Урок 2. Структура компании/Как добавить р-счет организации",
+      "title": "Как добавить р/счет организации",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2022-07-08",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T11:34:07+03:00",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 2. Структура компании/Как настроить систему налогообложения",
+      "title": "Как настроить систему налогообложения",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2025-12-23",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T11:34:07+03:00",
+      "reading_time": 6
+    },
     {
       "path": "lessons/Урок 1. CRM/В чем разница между Лидами и Сделками",
       "title": "В чем разница между Лидами и Сделками",
@@ -5653,76 +5723,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "lessons/Урок 2. Структура компании/Как настроить систему налогообложения",
-      "title": "Как настроить систему налогообложения",
-      "type": "lessons",
-      "order": 2,
-      "updated_at": "2025-12-23",
-      "date_kind": "updated",
-      "added_at": "2025-12-23",
-      "reading_time": 6
-    },
-    {
-      "path": "lessons/Урок 2. Структура компании/Как добавить организацию",
-      "title": "Как добавить организацию",
-      "type": "lessons",
-      "order": 0,
-      "updated_at": "2025-03-31",
-      "date_kind": "updated",
-      "added_at": "2025-03-31",
-      "reading_time": 1
-    },
-    {
-      "path": "lessons/Урок 2. Структура компании/Как добавить подразделение",
-      "title": "Как добавить подразделение",
-      "type": "lessons",
-      "order": 1,
-      "updated_at": "2025-03-31",
-      "date_kind": "updated",
-      "added_at": "2025-03-31",
-      "reading_time": 1
-    },
-    {
-      "path": "lessons/Урок 2. Структура компании/Как добавить кассу",
-      "title": "Как добавить кассу",
-      "type": "lessons",
-      "order": 3,
-      "updated_at": "2023-02-15",
-      "date_kind": "updated",
-      "added_at": "2023-02-15",
-      "reading_time": 4
-    },
-    {
-      "path": "lessons/Урок 2. Структура компании/Как добавить логотип компании",
-      "title": "Как добавить логотип компании",
-      "type": "lessons",
-      "order": 6,
-      "updated_at": "2022-10-10",
-      "date_kind": "updated",
-      "added_at": "2022-10-10",
-      "reading_time": 1
-    },
-    {
-      "path": "lessons/Урок 2. Структура компании/Как добавить пост-цех",
-      "title": "Как добавить пост/цех",
-      "type": "lessons",
-      "order": 5,
-      "updated_at": "2022-09-15",
-      "date_kind": "updated",
-      "added_at": "2022-09-15",
-      "reading_time": 6
-    },
-    {
-      "path": "lessons/Урок 2. Структура компании/Как добавить р-счет организации",
-      "title": "Как добавить р/счет организации",
-      "type": "lessons",
-      "order": 4,
-      "updated_at": "2022-07-08",
-      "date_kind": "updated",
-      "added_at": "2022-07-08",
-      "reading_time": 3
     }
   ]
 }
