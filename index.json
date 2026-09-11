@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:25:42+03:00",
+  "generated_at": "2026-09-11T17:30:38+03:00",
   "count": 535,
   "sections": {
     "tips": [
@@ -596,6 +596,42 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
+      "file": "kak-rasshifrovat-avtomobil-po-vin.md",
+      "sha": "a797dbed40fba4454d84460624afa38e25be0ef7",
+      "title": "Как расшифровать автомобиль по VIN",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2025-10-30",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T17:25:22+03:00",
+      "reading_time": 10
+    },
+    {
+      "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по гос. номеру",
+      "file": "kak-rasshifrovat-avtomobil-po-gos-nomeru.md",
+      "sha": "967fe5fe16d9a6384ec5128e4bfcc66f9358952f",
+      "title": "Как расшифровать автомобиль по гос. номеру",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2026-07-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T17:25:22+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Практическое задание",
+      "file": "prakticheskoe-zadanie-0.md",
+      "sha": "50a6d34c5a45a6f16e8764563de2ad52e64f6296",
+      "title": "Практическое задание",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T17:25:22+03:00",
+      "reading_time": 1
+    },
     {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Как оформить гарантийный заказ-наряд",
       "file": "kak-oformit-garantiynyy-zakaz-naryad.md",
@@ -1807,18 +1843,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-11T08:57:43+03:00",
       "reading_time": 8
-    },
-    {
-      "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Практическое задание",
-      "file": "prakticheskoe-zadanie-0.md",
-      "sha": "98c1fd706509dca949f6c822701d2b34b34820d1",
-      "title": "Практическое задание",
-      "type": "lessons",
-      "order": 2,
-      "updated_at": "2026-09-11",
-      "date_kind": "updated",
-      "added_at": "2026-09-11",
-      "reading_time": 1
     },
     {
       "path": "articles/5S AUTO/Автосервис/Монитор мастеров",
@@ -7269,30 +7293,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по гос. номеру",
-      "file": "kak-rasshifrovat-avtomobil-po-gos-nomeru.md",
-      "sha": "967fe5fe16d9a6384ec5128e4bfcc66f9358952f",
-      "title": "Как расшифровать автомобиль по гос. номеру",
-      "type": "lessons",
-      "order": 0,
-      "updated_at": "2026-07-29",
-      "date_kind": "updated",
-      "added_at": "2026-07-29",
-      "reading_time": 4
-    },
-    {
-      "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
-      "file": "kak-rasshifrovat-avtomobil-po-vin.md",
-      "sha": "a797dbed40fba4454d84460624afa38e25be0ef7",
-      "title": "Как расшифровать автомобиль по VIN",
-      "type": "lessons",
-      "order": 1,
-      "updated_at": "2025-10-30",
-      "date_kind": "updated",
-      "added_at": "2025-10-30",
-      "reading_time": 10
     }
   ]
 }
