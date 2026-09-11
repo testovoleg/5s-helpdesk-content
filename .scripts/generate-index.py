@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import hashlib
 import json
 import os
 import re
@@ -117,6 +118,16 @@ def sort_ts(value: str | None) -> datetime:
     # Даты из статей идут без времени и часового пояса, из git — с ними:
     # без общего знаменателя сравнение падает
     return dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
+
+
+def blob_sha(path: Path) -> str:
+    """git blob hash файла — тот же, что у GitHub в дереве репозитория и у
+    `git hash-object`. Сайт использует его как ключ кэша статьи: меняется при
+    любой правке файла, даже если дату в шапке не тронули."""
+    # в репозитории файлы хранятся с LF (core.autocrlf=true отдаёт в рабочую
+    # копию CRLF): считаем хэш от того, что лежит в git
+    data = path.read_bytes().replace(b"\r\n", b"\n")
+    return hashlib.sha1(b"blob %d" % len(data) + b"\0" + data).hexdigest()
 
 
 def pick_main_file(article_mds: list[str]) -> str:
@@ -362,6 +373,13 @@ def collect_materials() -> list[dict]:
 
             material = {
                 "path": rel,
+                # Имя md-файла статьи и его blob hash — чтобы сайт обходился
+                # одним index.json и не ходил за деревом репозитория в GitHub
+                # API (пожелание разработчика, 11.09.2026). Из имени файла без
+                # .md сайт делает адрес страницы, поэтому здесь тот же файл,
+                # из которого взят title
+                "file": main_file,
+                "sha": blob_sha(md_path),
                 "title": title,
                 "type": root,
                 "order": order,
