@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:43:52+03:00",
-  "count": 458,
+  "generated_at": "2026-09-11T10:54:54+03:00",
+  "count": 462,
   "sections": {
     "tips": [
       {
@@ -596,6 +596,46 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Интерфейс программы/Как зайти в программу",
+      "title": "Как зайти в программу",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2024-03-12",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T10:51:41+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Интерфейс программы/Как подключиться к 5S AUTO с компьютера Mac",
+      "title": "Как подключиться к 5S AUTO с компьютера Mac",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2026-02-05",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T10:51:41+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "lessons/Интерфейс программы/Как работать с интерфейсом 5S AUTO",
+      "title": "Как работать с интерфейсом 5S AUTO",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2025-10-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T10:51:41+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "lessons/Интерфейс программы/Как работать с поиском",
+      "title": "Как работать с поиском",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2025-10-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T10:51:41+03:00",
+      "reading_time": 7
+    },
     {
       "path": "lessons/Краткий курс для Автосалона/Встреча",
       "title": "Встреча",
