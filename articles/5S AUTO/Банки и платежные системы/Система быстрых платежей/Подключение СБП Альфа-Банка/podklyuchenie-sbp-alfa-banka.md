@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Подключение СБП Альфа-Банка
 
 <table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 07.02.2025</td></tr></table>
@@ -245,5 +243,3 @@ openssl pkcs12 -password pass:PASSWORD -export -certpbe PBE-SHA1-3DES -keypbe PB
 ---
 
 **Теги:** платежные системы, сбп, альфа-банк, подключение, интеграция
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

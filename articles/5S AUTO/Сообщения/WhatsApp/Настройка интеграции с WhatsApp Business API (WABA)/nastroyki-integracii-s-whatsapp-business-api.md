@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Настройки интеграции с WhatsApp Business API
 
 <table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 14.05.2025</td></tr></table>
@@ -140,5 +138,3 @@
 ---
 
 **Теги:** WhatsApp, WABA, интеграция, настройка, 360dialog, токен
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

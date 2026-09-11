@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Пример индивидуальной настройки WABA
 
 <table><tr><td><b>Время чтения:</b> 24 мин.</td><td><b>Обновлено:</b> 06.07.2023</td></tr></table>
@@ -212,5 +210,3 @@
 ---
 
 **Теги:** WhatsApp, WABA, индивидуальная настройка, пример, шаблоны
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

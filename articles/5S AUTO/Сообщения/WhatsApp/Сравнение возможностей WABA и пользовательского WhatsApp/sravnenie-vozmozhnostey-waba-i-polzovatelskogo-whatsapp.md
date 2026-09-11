@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Сравнение возможностей WABA и пользовательского WhatsApp
 
 <table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 21.05.2025</td></tr></table>
@@ -33,5 +31,3 @@
 ---
 
 **Теги:** WhatsApp, WABA, сравнение, возможности, пользовательский аккаунт
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

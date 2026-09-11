@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Интеграция с TecDoc
 
 <table><tr><td><b>Время чтения:</b> 2 мин.</td><td><b>Обновлено:</b> 23.06.2022</td></tr></table>
@@ -15,5 +13,3 @@
 ---
 
 **Теги:** TecDoc, каталог, интеграция, подбор запчастей, кроссы
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

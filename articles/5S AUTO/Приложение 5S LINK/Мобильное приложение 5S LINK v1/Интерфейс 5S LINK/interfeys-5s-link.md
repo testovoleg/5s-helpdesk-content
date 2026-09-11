@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Интерфейс 5S LINK
 
 <table><tr><td><b>Время чтения:</b> 14 мин.</td><td><b>Обновлено:</b> 10.05.2023</td></tr></table>
@@ -224,5 +222,3 @@
 ---
 
 **Теги:** 5s link, интерфейс, главный экран, автомобиль, акции, бонусы
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

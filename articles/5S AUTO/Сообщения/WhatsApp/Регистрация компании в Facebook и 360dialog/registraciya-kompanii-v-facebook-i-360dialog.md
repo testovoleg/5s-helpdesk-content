@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Регистрация компании в Facebook и 360dialog
 
 <table><tr><td><b>Время чтения:</b> 27 мин.</td><td><b>Обновлено:</b> 25.01.2023</td></tr></table>
@@ -326,5 +324,3 @@ Facebook присваивает аккаунтам WhatsApp Business *уровн
 ---
 
 **Теги:** WhatsApp, WABA, Facebook, 360dialog, регистрация, бизнес-аккаунт
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

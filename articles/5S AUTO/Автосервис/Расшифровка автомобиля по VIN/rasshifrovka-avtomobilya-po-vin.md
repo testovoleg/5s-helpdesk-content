@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Расшифровка автомобиля по VIN
 
 <table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 31.10.2025</td></tr></table>
@@ -211,5 +209,3 @@
 ---
 
 **Теги:** VIN, расшифровка автомобиля, TecDoc, AutoData, OEM, Laximo, идентификация автомобиля
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

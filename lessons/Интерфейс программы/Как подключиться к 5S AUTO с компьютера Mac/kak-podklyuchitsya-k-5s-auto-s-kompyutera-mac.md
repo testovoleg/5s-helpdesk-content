@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Как подключиться к 5S AUTO с компьютера Mac
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 05.02.2026</td></tr></table>
@@ -86,5 +84,3 @@
 ---
 
 **Теги:** интерфейс программы, Mac, Windows App, удаленное подключение, подключение к программе
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

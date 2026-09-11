@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Как отложить Сделку
 
 <table><tr><td><b>Время чтения:</b> 1 мин.</td><td><b>Обновлено:</b> 17.09.2025</td></tr></table>
@@ -18,5 +16,3 @@
 ---
 
 **Теги:** CRM, сделка, отложенные сделки, ожидание
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

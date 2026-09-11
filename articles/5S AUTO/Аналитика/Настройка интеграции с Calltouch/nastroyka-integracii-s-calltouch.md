@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Настройка интеграции с Calltouch
 
 <table><tr><td><b>Время чтения:</b> 21 мин.</td><td><b>Обновлено:</b> 15.03.2024</td></tr></table>
@@ -218,5 +216,3 @@
 ---
 
 **Теги:** аналитика, calltouch, интеграция, телефония, заявки с сайта, метки, отчеты
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Подключение SberPay QR
 
 <table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 07.05.2026</td></tr></table>
@@ -157,5 +155,3 @@ https://api.5systems.ru/payment/v1/sber/notify
 ---
 
 **Теги:** платежные системы, sberpay qr, сбербанк, сбп, подключение
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Бот техподдержки в Max
 
 <table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 24.06.2026</td></tr></table>
@@ -141,5 +139,3 @@
 ---
 
 **Теги:** прочее, техподдержка, max, бот, заявки, база знаний
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

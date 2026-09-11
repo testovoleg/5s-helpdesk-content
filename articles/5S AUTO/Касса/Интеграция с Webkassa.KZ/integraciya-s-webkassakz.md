@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Интеграция с Webkassa.KZ
 
 <table><tr><td><b>Время чтения:</b> 14 мин.</td><td><b>Обновлено:</b> 14.05.2025</td></tr></table>
@@ -228,5 +226,3 @@ Webkassa работает с любого стационарного ПК, но�
 ---
 
 **Теги:** прием оплаты, webkassa, облачная касса, казахстан, интеграция
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>

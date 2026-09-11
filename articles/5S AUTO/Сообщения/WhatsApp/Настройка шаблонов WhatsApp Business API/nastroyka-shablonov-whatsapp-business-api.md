@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Настройка шаблонов WhatsApp Business API
 
 <table><tr><td><b>Время чтения:</b> 29 мин.</td><td><b>Обновлено:</b> 19.09.2025</td></tr></table>
@@ -328,5 +326,3 @@
 ---
 
 **Теги:** WhatsApp, Чаты, WABA, WhatsApp Business API, шаблоны сообщений, диалоговая система, категории шаблонов, модерация шаблонов, значимые события, тарификация, 360dialog
-
-<a href="#top"><img align="right" src="attachments/up.png" alt="Наверх" width="100" height="38" /></a>
