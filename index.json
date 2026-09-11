@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:41:57+03:00",
+  "generated_at": "2026-09-11T16:43:50+03:00",
   "count": 532,
   "sections": {
     "tips": [
@@ -597,6 +597,42 @@
   },
   "materials": [
     {
+      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Как оформить гарантийный заказ-наряд",
+      "file": "kak-oformit-garantiynyy-zakaz-naryad.md",
+      "sha": "ed8e3b4504407f0ddbb579fa004623825c39ddd6",
+      "title": "Как оформить гарантийный заказ-наряд",
+      "type": "lessons",
+      "order": 8,
+      "updated_at": "2022-05-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T16:41:42+03:00",
+      "reading_time": 6
+    },
+    {
+      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Методический материал по теме «Работа с Заказ-нарядами»",
+      "file": "metodicheskiy-material-po-teme-rabota-s-zakaz-naryadami.md",
+      "sha": "3f2c49ec880e9b1230ba0731cf354e36232e948b",
+      "title": "Методический материал по теме: \"Работа с Заказ-нарядами\"",
+      "type": "lessons",
+      "order": 9,
+      "updated_at": "2026-09-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T16:41:42+03:00",
+      "reading_time": 10
+    },
+    {
+      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Практическое задание по теме «Работа с Заказ-нарядами»",
+      "file": "prakticheskoe-zadanie-po-teme-rabota-s-zakaz-naryadami.md",
+      "sha": "0e93b7a1a8ae050a0f27543133c5ee83985914b4",
+      "title": "Практическое задание по теме: \"Работа с Заказ-нарядами\"",
+      "type": "lessons",
+      "order": 10,
+      "updated_at": "2026-09-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T16:41:42+03:00",
+      "reading_time": 2
+    },
+    {
       "path": "lessons/Урок 9. Работа с Поиском цен/Как подключить веб-сервис поставщика",
       "file": "kak-podklyuchit-veb-servis-postavschika.md",
       "sha": "cd6e341506890f548bbb7744a97fbcf53da10d7c",
@@ -623,7 +659,7 @@
     {
       "path": "lessons/Урок 9. Работа с Поиском цен/Примеры подключения поставщиков Armtek, Rossko, Berg, Mikado",
       "file": "primery-podklyucheniya-postavschikov-armtek-rossko-berg-mikado.md",
-      "sha": "19dfca8b671145bc18e3798940fe65b2fd608369",
+      "sha": "f387fa664fdd4cb0df3bbb4617391db33122936e",
       "title": "Примеры подключения поставщиков Armtek, Rossko, Berg, Mikado",
       "type": "lessons",
       "order": 1,
@@ -907,6 +943,18 @@
       "date_kind": "updated",
       "added_at": "2026-09-11T12:01:42+03:00",
       "reading_time": 20
+    },
+    {
+      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Тестирование по курсу «Работа с Заказ-нарядами»",
+      "file": "testirovanie-po-kursu-rabota-s-zakaz-naryadami.md",
+      "sha": "fa94ecbd7afb00b3e425328306564167d96f80af",
+      "title": "Тестирование по курсу \"Работа с Заказ-нарядами\"",
+      "type": "lessons",
+      "order": 11,
+      "updated_at": "2026-09-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T11:46:07+03:00",
+      "reading_time": 1
     },
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Вкладки АРМ Клиенты и автомобили",
@@ -1759,42 +1807,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-11T08:57:43+03:00",
       "reading_time": 8
-    },
-    {
-      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Методический материал по теме «Работа с Заказ-нарядами»",
-      "file": "metodicheskiy-material-po-teme-rabota-s-zakaz-naryadami.md",
-      "sha": "3f2c49ec880e9b1230ba0731cf354e36232e948b",
-      "title": "Методический материал по теме: \"Работа с Заказ-нарядами\"",
-      "type": "lessons",
-      "order": 9,
-      "updated_at": "2026-09-11",
-      "date_kind": "updated",
-      "added_at": "2026-09-11",
-      "reading_time": 10
-    },
-    {
-      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Практическое задание по теме «Работа с Заказ-нарядами»",
-      "file": "prakticheskoe-zadanie-po-teme-rabota-s-zakaz-naryadami.md",
-      "sha": "0e93b7a1a8ae050a0f27543133c5ee83985914b4",
-      "title": "Практическое задание по теме: \"Работа с Заказ-нарядами\"",
-      "type": "lessons",
-      "order": 10,
-      "updated_at": "2026-09-11",
-      "date_kind": "updated",
-      "added_at": "2026-09-11",
-      "reading_time": 2
-    },
-    {
-      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Тестирование по курсу «Работа с Заказ-нарядами»",
-      "file": "testirovanie-po-kursu-rabota-s-zakaz-naryadami.md",
-      "sha": "fa94ecbd7afb00b3e425328306564167d96f80af",
-      "title": "Тестирование по курсу \"Работа с Заказ-нарядами\"",
-      "type": "lessons",
-      "order": 11,
-      "updated_at": "2026-09-11",
-      "date_kind": "updated",
-      "added_at": "2026-09-11",
-      "reading_time": 1
     },
     {
       "path": "articles/5S AUTO/Автосервис/Монитор мастеров",
@@ -7245,18 +7257,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Как оформить гарантийный заказ-наряд",
-      "file": "kak-oformit-garantiynyy-zakaz-naryad.md",
-      "sha": "ed8e3b4504407f0ddbb579fa004623825c39ddd6",
-      "title": "Как оформить гарантийный заказ-наряд",
-      "type": "lessons",
-      "order": 8,
-      "updated_at": "2022-05-27",
-      "date_kind": "updated",
-      "added_at": "2022-05-27",
-      "reading_time": 6
     }
   ]
 }
