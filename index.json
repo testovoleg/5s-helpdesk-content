@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:52:44+03:00",
+  "generated_at": "2026-09-11T11:56:21+03:00",
   "count": 499,
   "sections": {
     "tips": [
@@ -601,7 +601,7 @@
       "title": "Вкладки АРМ Клиенты и автомобили",
       "type": "lessons",
       "order": 9,
-      "updated_at": "2026-09-11",
+      "updated_at": "2024-09-12",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:46:07+03:00",
       "reading_time": 1
@@ -611,7 +611,7 @@
       "title": "Дополнительные критерии поиска в АРМ Клиенты и автомобили",
       "type": "lessons",
       "order": 8,
-      "updated_at": "2026-09-11",
+      "updated_at": "2024-09-12",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:46:07+03:00",
       "reading_time": 1
@@ -621,7 +621,7 @@
       "title": "Интерфейс АРМ Клиенты и автомобили",
       "type": "lessons",
       "order": 4,
-      "updated_at": "2026-09-11",
+      "updated_at": "2024-09-12",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:46:07+03:00",
       "reading_time": 1
@@ -631,7 +631,7 @@
       "title": "Как добавить нового клиента",
       "type": "lessons",
       "order": 6,
-      "updated_at": "2026-09-11",
+      "updated_at": "2022-07-08",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:46:07+03:00",
       "reading_time": 1
@@ -641,7 +641,7 @@
       "title": "Как добавить новый автомобиль",
       "type": "lessons",
       "order": 7,
-      "updated_at": "2026-09-11",
+      "updated_at": "2022-07-08",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:46:07+03:00",
       "reading_time": 1
@@ -651,7 +651,7 @@
       "title": "Как найти клиента в АРМ Клиенты и автомобили",
       "type": "lessons",
       "order": 5,
-      "updated_at": "2026-09-11",
+      "updated_at": "2024-09-12",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:46:07+03:00",
       "reading_time": 1
@@ -661,10 +661,40 @@
       "title": "Как перейти в другие АРМ из Клиенты и автомобили",
       "type": "lessons",
       "order": 11,
-      "updated_at": "2026-09-11",
+      "updated_at": "2024-09-12",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:46:07+03:00",
       "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 3. Клиенты и автомобили/Как работать со справочником «Автомобили»",
+      "title": "Как работать со справочником «Автомобили»",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2024-12-20",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T11:46:07+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "lessons/Урок 3. Клиенты и автомобили/Как работать со справочником «Контрагенты и контакты»",
+      "title": "Как работать со справочником «Контрагенты и контакты»",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2025-01-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T11:46:07+03:00",
+      "reading_time": 13
+    },
+    {
+      "path": "lessons/Урок 3. Клиенты и автомобили/Как работать со справочником «Модели автомобилей»",
+      "title": "Как работать со справочником «Модели автомобилей»",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2025-02-05",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T11:46:07+03:00",
+      "reading_time": 6
     },
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Как создать контрагента по ИНН",
@@ -681,7 +711,7 @@
       "title": "Как создать обращение в АРМ Клиенты и автомобили",
       "type": "lessons",
       "order": 10,
-      "updated_at": "2026-09-11",
+      "updated_at": "2024-09-12",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:46:07+03:00",
       "reading_time": 1
@@ -691,7 +721,7 @@
       "title": "Практическое задание по теме \"АРМ Клиенты и Автомобили\"",
       "type": "lessons",
       "order": 12,
-      "updated_at": "2026-09-11",
+      "updated_at": "2022-07-08",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:46:07+03:00",
       "reading_time": 1
@@ -701,7 +731,7 @@
       "title": "Тестирование по курсу \"Работа в АРМ Клиенты и автомобили\"",
       "type": "lessons",
       "order": 13,
-      "updated_at": "2026-09-11",
+      "updated_at": "2022-07-08",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:46:07+03:00",
       "reading_time": 1
@@ -5833,36 +5863,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "lessons/Урок 3. Клиенты и автомобили/Как работать со справочником «Модели автомобилей»",
-      "title": "Как работать со справочником «Модели автомобилей»",
-      "type": "lessons",
-      "order": 3,
-      "updated_at": "2025-02-05",
-      "date_kind": "updated",
-      "added_at": "2025-02-05",
-      "reading_time": 6
-    },
-    {
-      "path": "lessons/Урок 3. Клиенты и автомобили/Как работать со справочником «Контрагенты и контакты»",
-      "title": "Как работать со справочником «Контрагенты и контакты»",
-      "type": "lessons",
-      "order": 0,
-      "updated_at": "2025-01-29",
-      "date_kind": "updated",
-      "added_at": "2025-01-29",
-      "reading_time": 13
-    },
-    {
-      "path": "lessons/Урок 3. Клиенты и автомобили/Как работать со справочником «Автомобили»",
-      "title": "Как работать со справочником «Автомобили»",
-      "type": "lessons",
-      "order": 2,
-      "updated_at": "2024-12-20",
-      "date_kind": "updated",
-      "added_at": "2024-12-20",
-      "reading_time": 8
     }
   ]
 }
