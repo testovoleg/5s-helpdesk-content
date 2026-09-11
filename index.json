@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T17:49:23+03:00",
-  "count": 431,
+  "generated_at": "2026-09-11T09:05:26+03:00",
+  "count": 444,
   "sections": {
     "tips": [
       {
@@ -596,6 +596,136 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Краткий курс для Автосервиса/В работе",
+      "title": "В работе",
+      "type": "lessons",
+      "order": 5,
+      "updated_at": "2023-12-12",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T08:57:43+03:00",
+      "reading_time": 8
+    },
+    {
+      "path": "lessons/Краткий курс для Автосервиса/Видеоурок «Калькуляция и запись на ремонт»",
+      "title": "Видеоурок \"Калькуляция и запись на ремонт\"",
+      "type": "lessons",
+      "order": 11,
+      "updated_at": "2024-09-12",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T08:57:43+03:00",
+      "reading_time": 14
+    },
+    {
+      "path": "lessons/Краткий курс для Автосервиса/Видеоурок «Оформление заказ-наряда и прием оплаты»",
+      "title": "Видеоурок \"Оформление заказ-наряда и прием оплаты\"",
+      "type": "lessons",
+      "order": 12,
+      "updated_at": "2024-09-12",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T08:57:43+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "lessons/Краткий курс для Автосервиса/Видеоурок «Регистрация обращения»",
+      "title": "Видеоурок \"Регистрация обращения\"",
+      "type": "lessons",
+      "order": 10,
+      "updated_at": "2024-09-12",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T08:57:43+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "lessons/Краткий курс для Автосервиса/Выполнен",
+      "title": "Выполнен",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2023-12-12",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T08:57:43+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "lessons/Краткий курс для Автосервиса/Заказ запчастей",
+      "title": "Заказ запчастей",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2023-12-12",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T08:57:43+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "lessons/Краткий курс для Автосервиса/Записан",
+      "title": "Записан",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2023-12-12",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T08:57:43+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "lessons/Краткий курс для Автосервиса/Заявка",
+      "title": "Заявка",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2023-12-12",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T08:57:43+03:00",
+      "reading_time": 9
+    },
+    {
+      "path": "lessons/Краткий курс для Автосервиса/Обращение первичного клиента",
+      "title": "Обращение первичного клиента",
+      "type": "lessons",
+      "order": 7,
+      "updated_at": "2023-12-13",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T08:57:43+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "lessons/Краткий курс для Автосервиса/Практическое задание",
+      "title": "Практическое задание",
+      "type": "lessons",
+      "order": 9,
+      "updated_at": "2023-12-13",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T08:57:43+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Краткий курс для Автосервиса/Согласование",
+      "title": "Согласование",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2023-12-12",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T08:57:43+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Краткий курс для Автосервиса/Создание карточки автомобиля",
+      "title": "Создание карточки автомобиля",
+      "type": "lessons",
+      "order": 8,
+      "updated_at": "2023-12-13",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T08:57:43+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "lessons/Краткий курс для Автосервиса/Создание сделки",
+      "title": "Создание сделки",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2023-12-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T08:57:43+03:00",
+      "reading_time": 8
+    },
     {
       "path": "articles/5S AUTO/Автосервис/Монитор мастеров",
       "title": "Монитор мастеров",
