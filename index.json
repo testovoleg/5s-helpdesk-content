@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T10:55:16+03:00",
-  "count": 569,
+  "generated_at": "2026-09-14T10:59:51+03:00",
+  "count": 575,
   "sections": {
     "tips": [
       {
@@ -1005,6 +1005,42 @@
       "date_kind": "updated",
       "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 18. Доходы и расходы/Как добавить статью дохода-расхода",
+      "file": "kak-dobavit-statyu-dokhodaraskhoda.md",
+      "sha": "a72edfd5fdd61a5a0bc6b03aa3e0d8df6ca2f482",
+      "title": "Как добавить статью дохода/расхода",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 18. Доходы и расходы/Как создать карточку услуги",
+      "file": "kak-sozdat-kartochku-uslugi.md",
+      "sha": "575d3231f80f8f822fe5079e91c4b79b828b5971",
+      "title": "Как создать карточку услуги",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 18. Доходы и расходы/Как увидеть наценку по проданным товарам",
+      "file": "kak-uvidet-nacenku-po-prodannym-tovaram.md",
+      "sha": "21a946de1bbf76c340072007990978dbff398c10",
+      "title": "Как увидеть наценку по проданным товарам",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 4
     },
     {
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
@@ -2348,7 +2384,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "5724661849473c44e9faf8792a93a7535a7994f5",
+      "sha": "35e1da6ae1ba058fe95432b160f2cba04c9869b5",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -7326,7 +7362,7 @@
     {
       "path": "tips/5S AUTO/CRM/Как посмотреть продажи за период по производителю",
       "file": "kak-posmotret-prodazhi-za-period-po-proizvoditelyu.md",
-      "sha": "16fd2494d6819ed2dae1bd487273a61ae8b8f4c5",
+      "sha": "54091d397f5f295e3b4bae52706cc983c9ca82f1",
       "title": "Как посмотреть информацию по продажам за определенный период по производителю?",
       "type": "tips",
       "order": 0,
@@ -7703,6 +7739,42 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "lessons/Урок 18. Доходы и расходы/Как отразить оказание услуг субподряда",
+      "file": "kak-otrazit-okazanie-uslug-subpodryada.md",
+      "sha": "f82c4a63906d3789315eac060f7ab99fd150f8e3",
+      "title": "Как отразить оказание услуг субподряда",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2025-10-31",
+      "date_kind": "updated",
+      "added_at": "2025-10-31",
+      "reading_time": 6
+    },
+    {
+      "path": "lessons/Урок 18. Доходы и расходы/Как отразить расходы компании (аренда, электроэнергия, и т.д.)",
+      "file": "kak-otrazit-raskhody-kompanii-arenda-elektroenergiya-i-td.md",
+      "sha": "7d4e066cb298764edd61834b9e2dc473ae612b6d",
+      "title": "Как отразить расходы компании (аренда, электроэнергия, и т.д.)",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2025-10-31",
+      "date_kind": "updated",
+      "added_at": "2025-10-31",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 18. Доходы и расходы/Как рассчитать доход компании",
+      "file": "kak-rasschitat-dokhod-kompanii.md",
+      "sha": "da2618dabd6c639db5bc1f961b9cf72b06dd13cb",
+      "title": "Как рассчитать доход компании",
+      "type": "lessons",
+      "order": 5,
+      "updated_at": "2024-06-28",
+      "date_kind": "updated",
+      "added_at": "2024-06-28",
+      "reading_time": 7
     }
   ]
 }
