@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:13:39+03:00",
+  "generated_at": "2026-09-14T10:22:17+03:00",
   "count": 564,
   "sections": {
     "tips": [
@@ -597,6 +597,102 @@
   },
   "materials": [
     {
+      "path": "lessons/Урок 16. Учет денежных средств/Как ввести начальные остатки по кассе и банку",
+      "file": "kak-vvesti-nachalnye-ostatki-po-kasse-i-banku.md",
+      "sha": "77a570c36424e48295859f44bc4fa79368b21e51",
+      "title": "Как ввести начальные остатки по кассе и банку",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2025-10-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как добавить статью ДДС",
+      "file": "kak-dobavit-statyu-dds.md",
+      "sha": "af756227659e1c85ed3bb0689d80745e568c0d45",
+      "title": "Как добавить статью ДДС",
+      "type": "lessons",
+      "order": 5,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как отразить выдачу денег в подотчет сотруднику",
+      "file": "kak-otrazit-vydachu-deneg-v-podotchet-sotrudniku.md",
+      "sha": "3aab6cb82581be36c59b0ee1f3a35bc4c1e4f3bd",
+      "title": "Как отразить выдачу денег в подотчет сотруднику",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как отразить операции по банковскому счету",
+      "file": "kak-otrazit-operacii-po-bankovskomu-schetu.md",
+      "sha": "8d9ffb6374cac147faca57475f28d2c042dc15a5",
+      "title": "Как отразить операции по банковскому счету",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2025-02-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как отразить оплату поставщику из кассы",
+      "file": "kak-otrazit-oplatu-postavschiku-iz-kassy.md",
+      "sha": "aac7b0ecb480b0c849df499ee57991141df78850",
+      "title": "Как отразить оплату поставщику из кассы",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как отразить перевод денег с расчетного счета в кассу",
+      "file": "kak-otrazit-perevod-deneg-s-raschetnogo-scheta-v-kassu.md",
+      "sha": "c2973c951439b020da5c4a53b98db6be7dec9ac6",
+      "title": "Как отразить перевод денег с расчетного счета в кассу",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как сформировать отчет по движению денег компании",
+      "file": "kak-sformirovat-otchet-po-dvizheniyu-deneg-kompanii.md",
+      "sha": "2b4678a2483fbc42fb10999c643fe976feec2a26",
+      "title": "Как сформировать отчет по движению денег компании",
+      "type": "lessons",
+      "order": 7,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Учет кассовой выручки",
+      "file": "uchet-kassovoy-vyruchki.md",
+      "sha": "a19444715970e37302c3100ac84d2b874463eb05",
+      "title": "Учет кассовой выручки",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 5
+    },
+    {
       "path": "lessons/Урок 15. Работа с кассой ККМ/Как закрыть смену",
       "file": "kak-zakryt-smenu.md",
       "sha": "5d7faed313058ef0b8d5509521b180bccd8546d8",
@@ -849,90 +945,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 1
-    },
-    {
-      "path": "lessons/Урок 16. Учет денежных средств/Как добавить статью ДДС",
-      "file": "kak-dobavit-statyu-dds.md",
-      "sha": "945d3d8d9b46e77d42bddd86e8c9cb4a8b72879f",
-      "title": "Как добавить статью ДДС",
-      "type": "lessons",
-      "order": 5,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 4
-    },
-    {
-      "path": "lessons/Урок 16. Учет денежных средств/Как отразить выдачу денег в подотчет сотруднику",
-      "file": "kak-otrazit-vydachu-deneg-v-podotchet-sotrudniku.md",
-      "sha": "f97a238c4aa62419319f1f5cfe82460be73eef2e",
-      "title": "Как отразить выдачу денег в подотчет сотруднику",
-      "type": "lessons",
-      "order": 2,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 3
-    },
-    {
-      "path": "lessons/Урок 16. Учет денежных средств/Как отразить операции по банковскому счету",
-      "file": "kak-otrazit-operacii-po-bankovskomu-schetu.md",
-      "sha": "3fa2994e8667cb13997331e362657c884b4458a7",
-      "title": "Как отразить операции по банковскому счету",
-      "type": "lessons",
-      "order": 0,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 5
-    },
-    {
-      "path": "lessons/Урок 16. Учет денежных средств/Как отразить оплату поставщику из кассы",
-      "file": "kak-otrazit-oplatu-postavschiku-iz-kassy.md",
-      "sha": "298c77d2ddcc69d4daf1816da989657c67c46827",
-      "title": "Как отразить оплату поставщику из кассы",
-      "type": "lessons",
-      "order": 1,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 2
-    },
-    {
-      "path": "lessons/Урок 16. Учет денежных средств/Как отразить перевод денег с расчетного счета в кассу",
-      "file": "kak-otrazit-perevod-deneg-s-raschetnogo-scheta-v-kassu.md",
-      "sha": "d8520ec8da0ed76d27862fb86915f1e24ab1b36b",
-      "title": "Как отразить перевод денег с расчетного счета в кассу",
-      "type": "lessons",
-      "order": 3,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 1
-    },
-    {
-      "path": "lessons/Урок 16. Учет денежных средств/Как сформировать отчет по движению денег компании",
-      "file": "kak-sformirovat-otchet-po-dvizheniyu-deneg-kompanii.md",
-      "sha": "d6a21746dfb2ec88998bba6b255cffcd7f54368a",
-      "title": "Как сформировать отчет по движению денег компании",
-      "type": "lessons",
-      "order": 7,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 2
-    },
-    {
-      "path": "lessons/Урок 16. Учет денежных средств/Учет кассовой выручки",
-      "file": "uchet-kassovoy-vyruchki.md",
-      "sha": "76e8777f22d1598848edb8af55d72977f9fb59fd",
-      "title": "Учет кассовой выручки",
-      "type": "lessons",
-      "order": 4,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 5
     },
     {
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
@@ -7631,18 +7643,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "lessons/Урок 16. Учет денежных средств/Как ввести начальные остатки по кассе и банку",
-      "file": "kak-vvesti-nachalnye-ostatki-po-kasse-i-banku.md",
-      "sha": "77a570c36424e48295859f44bc4fa79368b21e51",
-      "title": "Как ввести начальные остатки по кассе и банку",
-      "type": "lessons",
-      "order": 6,
-      "updated_at": "2025-10-31",
-      "date_kind": "updated",
-      "added_at": "2025-10-31",
-      "reading_time": 4
     }
   ]
 }
