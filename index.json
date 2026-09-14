@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T09:10:55+03:00",
+  "generated_at": "2026-09-14T09:13:26+03:00",
   "count": 552,
   "sections": {
     "tips": [
@@ -671,7 +671,7 @@
     {
       "path": "lessons/Урок 14. Скидки и бонусы/Как создать скидку на документ",
       "file": "kak-sozdat-skidku-na-dokument.md",
-      "sha": "fcbeb7bdd178f95dcaad904d4c9551a70be83c96",
+      "sha": "a57a9cf81cfe60c6d0056c56af631b4e6717c478",
       "title": "Как создать скидку на документ",
       "type": "lessons",
       "order": 3,
