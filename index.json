@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T08:58:06+03:00",
-  "count": 544,
+  "generated_at": "2026-09-14T09:04:49+03:00",
+  "count": 552,
   "sections": {
     "tips": [
       {
@@ -705,6 +705,78 @@
       "date_kind": "updated",
       "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как настроить бонусную систему",
+      "file": "kak-nastroit-bonusnuyu-sistemu.md",
+      "sha": "7ebe65ddab0cc8d1b19af97b6eeae3931cfaff00",
+      "title": "Как настроить бонусную систему",
+      "type": "lessons",
+      "order": 5,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 12
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как начислить бонусы клиенту",
+      "file": "kak-nachislit-bonusy-klientu.md",
+      "sha": "40bef933a2b210f2a9acdbfd9d5cde80f7a09b1e",
+      "title": "Как начислить бонусы клиенту",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как объединить бонусные счета клиентов",
+      "file": "kak-obedinit-bonusnye-scheta-klientov.md",
+      "sha": "4b29a2e5fa17650306423b08a2d9286a3f77d093",
+      "title": "Как объединить бонусные счета клиентов",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как оплатить бонусами",
+      "file": "kak-oplatit-bonusami.md",
+      "sha": "ba216cb9663f8ce9fa6f6628d632e3d49da98df5",
+      "title": "Как оплатить бонусами",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как посмотреть бонусы клиента",
+      "file": "kak-posmotret-bonusy-klienta.md",
+      "sha": "7da5a20f7b60de56316b56962a9144da7aaba315",
+      "title": "Как посмотреть бонусы клиента",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как создать скидку на строку",
+      "file": "kak-sozdat-skidku-na-stroku.md",
+      "sha": "67aba5ccbc5d11af663a2be566856fb5dc7a9bfd",
+      "title": "Как создать скидку на строку",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 5
     },
     {
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
@@ -2048,7 +2120,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "84c243c3f545453ce4cafa4d1d9c0df06ccf2711",
+      "sha": "7ad2e0dda0d4e81eb457ecda105e09dcac3430fc",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -7015,7 +7087,7 @@
     {
       "path": "tips/5S AUTO/CRM/Что делать, если не срабатывает скидка на строку",
       "file": "chto-delat-esli-ne-srabatyvaet-skidka-na-stroku.md",
-      "sha": "eabebfe23d460c0b598a59ceb783f76230bd5aca",
+      "sha": "7508634b8b7d7aec07202e03f3c4813ad198711e",
       "title": "Что делать, если не срабатывает скидка на строку",
       "type": "tips",
       "order": 0,
@@ -7403,6 +7475,30 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как создать скидку на документ",
+      "file": "kak-sozdat-skidku-na-dokument.md",
+      "sha": "fcbeb7bdd178f95dcaad904d4c9551a70be83c96",
+      "title": "Как создать скидку на документ",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2025-10-31",
+      "date_kind": "updated",
+      "added_at": "2025-10-31",
+      "reading_time": 7
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как создать бесплатную автоработу",
+      "file": "kak-sozdat-besplatnuyu-avtorabotu.md",
+      "sha": "86290f8cd924fb36706f343c44a1ca405887748f",
+      "title": "Как создать бесплатную автоработу",
+      "type": "lessons",
+      "order": 7,
+      "updated_at": "2022-09-21",
+      "date_kind": "updated",
+      "added_at": "2022-09-21",
+      "reading_time": 7
     }
   ]
 }
