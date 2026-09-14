@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:01:08+03:00",
+  "generated_at": "2026-09-14T11:08:05+03:00",
   "count": 575,
   "sections": {
     "tips": [
@@ -659,7 +659,7 @@
     {
       "path": "lessons/Урок 18. Доходы и расходы/Как увидеть наценку по проданным товарам",
       "file": "kak-uvidet-nacenku-po-prodannym-tovaram.md",
-      "sha": "52432b780fa94afea6e41328f6b74ea2cc0cbe3e",
+      "sha": "e8bda1a8a0f2159b178dccde494f063b6735b15d",
       "title": "Как увидеть наценку по проданным товарам",
       "type": "lessons",
       "order": 4,
