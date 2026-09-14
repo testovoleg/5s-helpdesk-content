@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T12:02:13+03:00",
-  "count": 593,
+  "generated_at": "2026-09-14T12:05:28+03:00",
+  "count": 594,
   "sections": {
     "tips": [
       {
@@ -599,7 +599,7 @@
     {
       "path": "lessons/Урок 21. Гарантийная политика/Как настроить виды гарантий",
       "file": "kak-nastroit-vidy-garantiy.md",
-      "sha": "4770accf0db2b78d814fad0bcc16ac6eac2668fe",
+      "sha": "769e378eaea58eda6ca9ef0bf9466f4d28d1e90a",
       "title": "Как настроить виды гарантий",
       "type": "lessons",
       "order": 1,
@@ -1293,6 +1293,19 @@
       "date_kind": "updated",
       "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Печать Заказ-наряда",
+      "file": "pechat-zakaz-naryada.md",
+      "sha": "d67020a884b4e54f4f3b3d1159ddeff78c809934",
+      "title": "Печать Заказ-наряда",
+      "type": "lessons",
+      "order": 12,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 2,
+      "hidden": true
     },
     {
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
