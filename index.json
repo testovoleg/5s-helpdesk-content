@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T17:09:36+03:00",
-  "count": 532,
+  "generated_at": "2026-09-11T17:30:38+03:00",
+  "count": 535,
   "sections": {
     "tips": [
       {
@@ -597,6 +597,42 @@
   },
   "materials": [
     {
+      "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
+      "file": "kak-rasshifrovat-avtomobil-po-vin.md",
+      "sha": "a797dbed40fba4454d84460624afa38e25be0ef7",
+      "title": "Как расшифровать автомобиль по VIN",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2025-10-30",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T17:25:22+03:00",
+      "reading_time": 10
+    },
+    {
+      "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по гос. номеру",
+      "file": "kak-rasshifrovat-avtomobil-po-gos-nomeru.md",
+      "sha": "967fe5fe16d9a6384ec5128e4bfcc66f9358952f",
+      "title": "Как расшифровать автомобиль по гос. номеру",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2026-07-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T17:25:22+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Практическое задание",
+      "file": "prakticheskoe-zadanie-0.md",
+      "sha": "50a6d34c5a45a6f16e8764563de2ad52e64f6296",
+      "title": "Практическое задание",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-11T17:25:22+03:00",
+      "reading_time": 1
+    },
+    {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Как оформить гарантийный заказ-наряд",
       "file": "kak-oformit-garantiynyy-zakaz-naryad.md",
       "sha": "ed8e3b4504407f0ddbb579fa004623825c39ddd6",
@@ -1043,7 +1079,7 @@
     {
       "path": "lessons/Урок 3. Клиенты и автомобили/Как работать со справочником «Автомобили»",
       "file": "avtomobili.md",
-      "sha": "8eea09ed4bdc5cea12ae3fd67c41f011c8f18e1c",
+      "sha": "de1eb85982544234a853dcee734ba176ef86deec",
       "title": "Как работать со справочником «Автомобили»",
       "type": "lessons",
       "order": 2,
@@ -1787,7 +1823,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Создание карточки автомобиля",
       "file": "sozdanie-kartochki-avtomobilya.md",
-      "sha": "32b8644bd058f6e404f462a74acff957b725f35a",
+      "sha": "36b8232e5cc30b8a28ab9d321dabff53b6bce4da",
       "title": "Создание карточки автомобиля",
       "type": "lessons",
       "order": 8,
@@ -1824,7 +1860,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Перечень используемых Вебхуков (Webhooks)",
       "file": "perechen-ispolzuemykh-vebkhukov-webhooks-neaktualnyy-material.md",
-      "sha": "ce87c7f4b27329c1fdbbc80db3e674211bdb0b88",
+      "sha": "3950e7d966c6285e21305afad7b9ea3a049fbe79",
       "title": "Перечень используемых Вебхуков (Webhooks) (неактуальный материал)",
       "type": "articles",
       "order": 25,
@@ -1837,7 +1873,7 @@
     {
       "path": "articles/5S AUTO/Задачи/Работа с задачами",
       "file": "rabota-s-zadachami.md",
-      "sha": "d425fbe58140e660ae0d55afc77e117cea4bf192",
+      "sha": "765af75461c9781bc4ae223a41f371dfa6743ad4",
       "title": "Работа с задачами",
       "type": "articles",
       "order": 3,
@@ -1902,7 +1938,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "c81439616a04a92f839f67ffa79140d214d17aeb",
+      "sha": "84c243c3f545453ce4cafa4d1d9c0df06ccf2711",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -3522,7 +3558,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с TecDoc",
       "file": "integraciya-s-tecdoc.md",
-      "sha": "9cbfa556cca909c5bcf4d54032a1d6dd97fcac36",
+      "sha": "910ad367625215926b54daa370c673bca47c280b",
       "title": "Интеграция с TecDoc",
       "type": "articles",
       "order": 3,
@@ -5660,7 +5696,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Расшифровка автомобиля по VIN",
       "file": "rasshifrovka-avtomobilya-po-vin.md",
-      "sha": "ae2db94e99e0b5dc0320ab703f6deb25d044bde9",
+      "sha": "cd11e701cf2ed14b496ed342098defb61d39dba6",
       "title": "Расшифровка автомобиля по VIN",
       "type": "articles",
       "order": 2,
@@ -6558,7 +6594,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "file": "spravochnik-oborudovanie.md",
-      "sha": "d0413a823aeb53538c7537d34fcd8103f2ea168f",
+      "sha": "82b05f75c52587b618332c02a053056e775b6f57",
       "title": "Справочник «Оборудование»",
       "type": "articles",
       "order": 1,
@@ -6581,7 +6617,7 @@
     {
       "path": "tips/5S AUTO/CRM/Как пополнить баланс для расшифровки авто в ГИБДД",
       "file": "kak-popolnit-balans-dlya-rasshifrovki-avto.md",
-      "sha": "795a504fdca152c3096f6194e900daa3a6ed484d",
+      "sha": "7304a04d07fea08dea8bcea5561c5c94c423dd8f",
       "title": "Как пополнить баланс для расшифровки авто в ГИБДД?",
       "type": "tips",
       "order": 0,
@@ -6614,7 +6650,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
       "file": "integraciya-s-audatex.md",
-      "sha": "f8430023b742e21a344822aa98072862c5aaa0d2",
+      "sha": "3dd316b5d41d7e2df6cb56d88f989e04e0308c2f",
       "title": "Интеграция с Audatex (AudaPad Web)",
       "type": "articles",
       "order": 19,
@@ -6703,7 +6739,7 @@
     {
       "path": "tips/Техподдержка/Проблема с подключением к серверу — ошибка приложения",
       "file": "problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya.md",
-      "sha": "109aaf6abdb1ae0101880d1f5f4ca3fbfaa5f79c",
+      "sha": "75f07af7177465a3eedc73bd572b778f2542d1ac",
       "title": "Проблема с подключением к серверу — ошибка приложения",
       "type": "tips",
       "order": 0,
@@ -6769,7 +6805,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
       "file": "udalenie-starykh-dannykh.md",
-      "sha": "bb28531ed0a24baa6423bdbc8a5aaab5916e7b09",
+      "sha": "37ae4fa5de627fa8424bdca3e982dedf1540f5a8",
       "title": "Удаление старых данных программы",
       "type": "articles",
       "order": 24,
