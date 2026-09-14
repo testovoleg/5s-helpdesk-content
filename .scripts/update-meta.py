@@ -287,6 +287,10 @@ def main() -> int:
         for path in sorted((ROOT / root).rglob("*.md")):
             if path.name == "README.md":
                 continue
+            # Папка с файлом .nometa — материалы без строки «Время чтения /
+            # Обновлено» (тесты на проверку знаний; Катя, 14.09.2026)
+            if any((parent / ".nometa").exists() for parent in path.parents):
+                continue
             line = apply(path, today, keep_dates, from_git)
             if line:
                 touched.append(line)
