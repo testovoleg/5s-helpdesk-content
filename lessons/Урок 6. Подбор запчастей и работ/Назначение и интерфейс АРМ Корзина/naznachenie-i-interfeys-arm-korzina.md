@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 02.02.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/naznachenie-i-interfeys-arm-korzina</sub>
-
 Время просмотра — 2:55 мин.
 
 [![Назначение и интерфейс АРМ «Корзина»](attachments/video-1-naznachenie_i_interfeys.png)](https://edu.5systems.ru/video/Korzina/Korzina-1_Naznachenie_i_interfeys.mp4)

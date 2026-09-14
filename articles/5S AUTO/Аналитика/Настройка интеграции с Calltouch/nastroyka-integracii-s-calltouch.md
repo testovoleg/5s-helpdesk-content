@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 21 мин.</td><td><b>Обновлено:</b> 15.03.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/nastroyka-integracii-s-calltouch</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.7.1**.*
 
 ## Содержание

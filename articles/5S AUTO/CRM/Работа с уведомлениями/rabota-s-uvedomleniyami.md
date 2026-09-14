@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 21 мин.</td><td><b>Обновлено:</b> 18.10.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/rabota-s-uvedomleniyami</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.001.001**.*
 
 ## Содержание

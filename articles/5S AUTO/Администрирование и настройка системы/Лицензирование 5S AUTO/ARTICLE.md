@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 17.08.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/sistema-licenzirovaniya-5s-auto</sub>
-
 ## Оглавление
 
 - [Введение](#введение)

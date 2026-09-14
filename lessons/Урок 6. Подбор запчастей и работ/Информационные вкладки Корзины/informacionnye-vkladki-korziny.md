@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 02.02.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/informacionnye-vkladki-korziny</sub>
-
 Время просмотра — 1:41 мин.
 
 [![Информационные вкладки Корзины](attachments/video-4-vkladki.png)](https://edu.5systems.ru/video/Korzina/Korzina-4_Vkladki.mp4)

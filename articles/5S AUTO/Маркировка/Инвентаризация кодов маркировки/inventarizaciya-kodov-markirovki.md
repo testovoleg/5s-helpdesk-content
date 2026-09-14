@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 21.05.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/inventarizaciya-kodov-markirovki</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3.50**.*
 
 ## Содержание

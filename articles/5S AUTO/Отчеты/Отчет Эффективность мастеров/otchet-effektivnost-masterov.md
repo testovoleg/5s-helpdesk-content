@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 09.08.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/otchet-effektivnost-masterov</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

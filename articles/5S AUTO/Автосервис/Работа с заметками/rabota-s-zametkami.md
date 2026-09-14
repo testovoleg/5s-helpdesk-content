@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 20.12.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/rabota-s-zametkami</sub>
-
 ## Содержание
 
 - [Введение](#введение)

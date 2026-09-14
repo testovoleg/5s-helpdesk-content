@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 19.06.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-nastroit-grafik-raboty-cekha</sub>
-
 ## Содержание
 
 1. [Справочник "Графики работы"](#справочник-графики-работы)

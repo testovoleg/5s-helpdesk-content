@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 25.11.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/nastroyka-terminala-podklyuchennogo-po-com-portu-k-pk-polzovatelya</sub>
-
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **Статья для опытных пользователей!**
 
 ## Содержание

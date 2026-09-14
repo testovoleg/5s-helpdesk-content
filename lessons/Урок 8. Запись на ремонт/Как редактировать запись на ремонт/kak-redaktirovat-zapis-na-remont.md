@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 01.09.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-redaktirovat-zapis-na-remont</sub>
-
 Время просмотра — 1:04 мин.
 
 [![Как редактировать запись на ремонт](attachments/video-5-redaktirovanie_zapisi.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-5_Redaktirovanie_zapisi.mp4)

@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 16.08.2023</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-dobavit-polzovatelya</sub>
-
 Пользователи в программе находятся в отдельном справочнике: *Администрирование → Сервис → Пользователи и права → Пользователи*.
 
 ![Создание пользователя - Расположение](attachments/01-sozdanie-polzovatelya-raspolozhenie.png)

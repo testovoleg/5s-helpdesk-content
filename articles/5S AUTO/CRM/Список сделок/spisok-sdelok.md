@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 16.10.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/spisok-sdelok</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.5.2.1**.*
 
 ## Содержание

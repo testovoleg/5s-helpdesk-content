@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy</sub>
-
 ## Проблема
 
 При печати чека с маркированным товаром выходит ошибка.

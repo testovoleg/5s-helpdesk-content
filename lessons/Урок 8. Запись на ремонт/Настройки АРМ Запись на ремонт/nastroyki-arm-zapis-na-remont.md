@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 01.09.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/nastroyki-arm-zapis-na-remont</sub>
-
 Время просмотра — 1:55 мин.
 
 [![Настройки АРМ Запись на ремонт](attachments/video-6-nastrojki.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-6_Nastroyki.mp4)

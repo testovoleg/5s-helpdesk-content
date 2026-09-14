@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 02.02.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/pomoschnik-oformleniya-zakaza-pokupatelya-v-arm-korzina</sub>
-
 Время просмотра — 1:18 мин.
 
 [![Помощник оформления Заказа покупателя в АРМ Корзина](attachments/video-10-pomoshchnik_oformleniya_zakaza_pokupatelya.png)](https://edu.5systems.ru/video/Korzina/Korzina-10_Pomoshchnik_oformleniya_Zakaza_pokupatelya.mp4)

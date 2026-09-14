@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 6 мин.</td><td><b>Обновлено:</b> 23.12.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-nastroit-sistemu-nalogooblozheniya</sub>
-
 ## Содержание
 
 1. [Настройка по организации](#настройка-по-организации)

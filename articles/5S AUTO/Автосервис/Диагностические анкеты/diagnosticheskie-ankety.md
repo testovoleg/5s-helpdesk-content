@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 15 мин.</td><td><b>Обновлено:</b> 16.06.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/diagnosticheskie-ankety</sub>
-
 ## Содержание
 
 - [Введение](#введение)

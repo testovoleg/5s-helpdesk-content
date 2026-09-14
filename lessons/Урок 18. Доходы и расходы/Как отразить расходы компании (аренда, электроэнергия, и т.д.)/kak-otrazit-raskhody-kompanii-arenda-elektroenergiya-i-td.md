@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 31.10.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-otrazit-raskhody-kompanii-arenda-elektroenergiya-i-td</sub>
-
 Для того, чтобы отразить в программе расходы компании, требуется оформить документ *“Поступление товаров”* с видом хозяйственной операции *“Услуги сторонних организаций”*:
 
 ![Расходы компании - Расположение](attachments/01-rashody-kompanii-raspolozhenie.png)

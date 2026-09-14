@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 10 мин.</td><td><b>Обновлено:</b> 07.09.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/rabota-s-onlayn-katalogom-zapchastey</sub>
-
 **1. [Обзор интерфейса онлайн-каталога](../../../../lessons/Урок%207.%20Онлайн-каталог%20запчастей/Обзор%20интерфейса%20Онлайн-каталога/obzor-interfeysa-onlayn-kataloga.md):**
 
 [![Обзор интерфейса онлайн-каталога](attachments/video-1-obzor-interfeysa.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-1_Obzor_interfeysa.mp4)

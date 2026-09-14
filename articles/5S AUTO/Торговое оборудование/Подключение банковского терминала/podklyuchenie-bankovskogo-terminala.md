@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 30.01.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/podklyuchenie-bankovskogo-terminala</sub>
-
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **Статья для опытных пользователей!**
 
 ## Содержание

@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 18.02.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/rabota-s-prilozheniem-5s-tsd</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3**.*
 
 ## Содержание

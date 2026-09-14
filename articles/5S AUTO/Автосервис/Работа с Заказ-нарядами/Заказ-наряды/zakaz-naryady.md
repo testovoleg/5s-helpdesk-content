@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 25 мин.</td><td><b>Обновлено:</b> 06.02.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/zakaz-naryady</sub>
-
 ## Содержание
 
 - [Введение](#введение)

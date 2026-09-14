@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 02.02.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-raspechatat-korzinu-ili-otpravit-v-messendzher</sub>
-
 Время просмотра — 1:23 мин.
 
 [![Как распечатать Корзину или отправить в мессенджер](attachments/video-7-pechat_i_otpravka_v_messendjer.png)](https://edu.5systems.ru/video/Korzina/Korzina-7_Pechat_ili_otpravka_v_messendjer.mp4)

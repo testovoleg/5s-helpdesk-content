@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 14.06.2023</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/nastroyki-processa-kontrolya-nelikvidov</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

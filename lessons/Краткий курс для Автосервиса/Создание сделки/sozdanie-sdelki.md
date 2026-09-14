@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 11.12.2023</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/sozdanie-sdelki</sub>
-
 ## Содержание
 
 1. [Создание сделки](#создание-сделки)

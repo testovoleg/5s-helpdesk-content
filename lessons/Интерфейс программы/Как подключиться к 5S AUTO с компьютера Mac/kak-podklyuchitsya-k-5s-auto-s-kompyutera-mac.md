@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 05.02.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-podklyuchitsya-k-5s-auto-s-kompyutera-mac</sub>
-
 ## Содержание
 
 - [Введение](#введение)

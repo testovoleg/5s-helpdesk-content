@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 6 мин.</td><td><b>Обновлено:</b> 24.11.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/registraciya-v-sisteme-chestnyy-znak</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3**.*
 
 ## Содержание

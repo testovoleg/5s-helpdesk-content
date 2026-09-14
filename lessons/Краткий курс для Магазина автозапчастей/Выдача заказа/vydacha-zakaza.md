@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 6 мин.</td><td><b>Обновлено:</b> 30.09.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/vydacha-zakaza</sub>
-
 ## Содержание
 
 1. [Отгрузка товара](#отгрузка-товара)

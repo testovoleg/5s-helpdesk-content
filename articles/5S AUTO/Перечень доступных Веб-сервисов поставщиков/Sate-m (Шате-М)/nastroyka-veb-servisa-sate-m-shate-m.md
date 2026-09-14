@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 23.07.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/nastroyka-veb-servisa-sate-m-shate-m</sub>
-
 ## Содержание
 
 1. [Описание](#описание)

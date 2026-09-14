@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 18 мин.</td><td><b>Обновлено:</b> 22.11.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/ustanovka-prav-i-nastroek-polzovatelya</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

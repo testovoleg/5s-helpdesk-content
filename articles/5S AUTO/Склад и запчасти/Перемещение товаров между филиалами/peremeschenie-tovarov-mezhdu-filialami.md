@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 14.09.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/peremeschenie-tovarov-mezhdu-filialami</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.2.7.2**.*
 
 ## Содержание

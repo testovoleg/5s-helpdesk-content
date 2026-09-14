@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 12.12.2023</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/zakaz-zapchastey</sub>
-
 **Создание "Заказа покупателя"** производится из Корзины нажатием на кнопку "Создать":
 
 ![Заказ на запчасти - Создание](attachments/01-zakaz-na-zapchasti-sozdanie.png)

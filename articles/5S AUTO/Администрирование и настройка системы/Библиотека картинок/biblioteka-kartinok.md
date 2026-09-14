@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 6 мин.</td><td><b>Обновлено:</b> 14.01.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/biblioteka-kartinok</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.001.001**.*
 
 ## Содержание

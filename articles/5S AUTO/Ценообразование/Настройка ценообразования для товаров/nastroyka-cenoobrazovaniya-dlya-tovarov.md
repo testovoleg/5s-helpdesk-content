@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 21 мин.</td><td><b>Обновлено:</b> 13.05.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/nastroyka-cenoobrazovaniya-dlya-tovarov</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

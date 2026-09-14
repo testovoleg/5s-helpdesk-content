@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 16 мин.</td><td><b>Обновлено:</b> 08.06.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/nastroyka-integracii-s-chestnym-znakom</sub>
-
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **<u>Статья для опытных пользователей</u>!**
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3.1**, обновление формы дополнительных настроек – начиная с релиза **2.8.3.42**.*

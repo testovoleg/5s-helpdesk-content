@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 18 мин.</td><td><b>Обновлено:</b> 19.05.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/rabota-s-zakazami-postavschikam</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

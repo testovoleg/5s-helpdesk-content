@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 05.02.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/podklyuchenie-skanera-shtrikhkodov</sub>
-
 ## Содержание
 
 - [Введение](#введение)

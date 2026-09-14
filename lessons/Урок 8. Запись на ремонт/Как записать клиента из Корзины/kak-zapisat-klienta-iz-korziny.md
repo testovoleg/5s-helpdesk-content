@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 01.09.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-zapisat-klienta-iz-korziny</sub>
-
 Время просмотра — 1:05 мин.
 
 [![Как записать клиента из Корзины](attachments/video-2-zapis_iz_korziny.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-2_Zapis_iz_Korziny.mp4)

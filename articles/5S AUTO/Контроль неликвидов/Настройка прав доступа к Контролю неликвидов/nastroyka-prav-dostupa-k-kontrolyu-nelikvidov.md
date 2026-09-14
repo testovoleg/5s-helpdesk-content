@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 14 мин.</td><td><b>Обновлено:</b> 14.06.2023</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/nastroyka-prav-dostupa-k-kontrolyu-nelikvidov</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

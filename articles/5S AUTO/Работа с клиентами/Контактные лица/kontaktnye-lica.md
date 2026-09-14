@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 14.07.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kontaktnye-lica</sub>
-
 ## Содержание
 
 - [Введение](#введение)

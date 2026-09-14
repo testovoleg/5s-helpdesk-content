@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 17.12.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/podtverzhdenie-spisaniya-bonusov</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.8.1**.*
 
 ## Содержание

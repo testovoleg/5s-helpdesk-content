@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 14 мин.</td><td><b>Обновлено:</b> 14.05.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/integraciya-s-webkassakz</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.8.2.1**.*
 
 ## Содержание

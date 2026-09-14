@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 26.12.2023</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/otchet-prodazhi-sozch</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 2 мин.</td><td><b>Обновлено:</b> 21.11.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-ukazat-garantii-v-zakaz-naryade</sub>
-
 При [*включении расширенной гарантийной политики*](../Как%20настроить%20виды%20гарантий/kak-nastroit-vidy-garantiy.md) в табличной части "Работы" и "Товары" Заказ-наряда появляется колонка "Вид гарантии":
 
 ![Гарантии в Заказ-наряде](attachments/01-garantii-v-zakaz-naryade.png)

@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 1 мин.</td><td><b>Обновлено:</b> 08.07.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/prakticheskoe-zadanie-po-teme-arm-klienty-i-avtomobili</sub>
-
 Самостоятельное практическое задание предназначено для закрепления материала, описанного в обучающих видеороликах.
 
 ## Описание задания

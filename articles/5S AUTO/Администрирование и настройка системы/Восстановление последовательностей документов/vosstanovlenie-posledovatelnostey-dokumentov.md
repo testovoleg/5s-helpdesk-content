@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 18.06.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/vosstanovlenie-posledovatelnostey-dokumentov</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

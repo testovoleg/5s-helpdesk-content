@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 2 мин.</td><td><b>Обновлено:</b> 08.11.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/v-chem-raznica-mezhdu-lidami-i-sdelkami</sub>
-
 ## Содержание
 
 1. [Лиды и сделки](#лиды-и-сделки)

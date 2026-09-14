@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 22 мин.</td><td><b>Обновлено:</b> 29.02.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/zagruzka-nakladnykh-postavschikov</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.7.1**.*
 
 ## Содержание

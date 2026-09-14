@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 23.06.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/nastroyka-integracii-s-sms-centr</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

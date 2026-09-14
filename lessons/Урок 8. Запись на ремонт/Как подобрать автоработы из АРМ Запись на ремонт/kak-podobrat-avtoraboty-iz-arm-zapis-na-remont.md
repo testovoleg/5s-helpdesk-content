@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 01.09.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-podobrat-avtoraboty-iz-arm-zapis-na-remont</sub>
-
 Время просмотра — 0:46 мин.
 
 [![Как подобрать автоработы из АРМ Запись на ремонт](attachments/video-4-podbor_avtorabot.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-4_Podbor_rabot_iz_Zapisi_na_remont.mp4)

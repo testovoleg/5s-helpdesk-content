@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 16 мин.</td><td><b>Обновлено:</b> 29.10.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/skanirovanie-shtrikhkodov-tovarov</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.8.1**.*
 
 ## Содержание

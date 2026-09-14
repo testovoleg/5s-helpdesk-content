@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 07.09.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-pereyti-v-onlayn-katalog</sub>
-
 Время просмотра — 1:19 мин.
 
 [![Как перейти в Онлайн-каталог](attachments/video-2-perehod-v-katalog.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-2_Varianty_perehoda.mp4)

@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 15.07.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-prinyat-oplatu</sub>
-
 ## Содержание
 
 1. [Оплата наличными](#оплата-наличными)

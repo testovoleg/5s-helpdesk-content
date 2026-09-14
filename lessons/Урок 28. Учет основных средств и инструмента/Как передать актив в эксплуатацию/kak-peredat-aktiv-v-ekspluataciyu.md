@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 09.09.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-peredat-aktiv-v-ekspluataciyu</sub>
-
 **Общая схема документооборота прочих активов:**
 
 ![Учет основных средств](attachments/01-uchet-osnovnyh-sredstv.png)

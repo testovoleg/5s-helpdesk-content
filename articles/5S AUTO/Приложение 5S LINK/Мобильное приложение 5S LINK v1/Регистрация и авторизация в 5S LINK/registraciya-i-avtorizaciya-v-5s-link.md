@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 10.05.2023</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/registraciya-i-avtorizaciya-v-5s-link</sub>
-
 > *Актуально для 5S LINK версии* ***v1***.
 
 ## Содержание

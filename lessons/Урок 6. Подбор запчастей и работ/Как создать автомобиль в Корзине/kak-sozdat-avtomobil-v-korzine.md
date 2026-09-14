@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 02.02.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-sozdat-avtomobil-v-korzine</sub>
-
 Время просмотра — 1:15 мин.
 
 [![Как создать автомобиль в Корзине](attachments/video-6-sozdanie_avtomobilya.png)](https://edu.5systems.ru/video/Korzina/Korzina-6_Sozdanie_avtomobilya.mp4)

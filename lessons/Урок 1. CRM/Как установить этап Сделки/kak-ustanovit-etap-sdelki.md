@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 2 мин.</td><td><b>Обновлено:</b> 23.07.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-ustanovit-etap-sdelki</sub>
-
 ## Содержание
 
 1. [Этапы сделки](#этапы-сделки)

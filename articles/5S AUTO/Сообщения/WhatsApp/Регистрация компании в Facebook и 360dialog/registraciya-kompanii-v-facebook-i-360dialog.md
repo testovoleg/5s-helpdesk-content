@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 27 мин.</td><td><b>Обновлено:</b> 25.01.2023</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/registraciya-kompanii-v-facebook-i-360dialog</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

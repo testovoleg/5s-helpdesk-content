@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 31.08.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/otchet-operacionnaya-voronka-prodazh</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

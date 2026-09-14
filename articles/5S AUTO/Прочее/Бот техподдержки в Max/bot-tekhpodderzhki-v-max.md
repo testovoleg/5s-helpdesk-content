@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 24.06.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/bot-tekhpodderzhki-v-max</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.8.4**.*
 
 ## Содержание

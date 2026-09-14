@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 08.10.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/popolnenie-skladskikh-zapasov</sub>
-
 ## Содержание
 
 - [Введение](#введение)

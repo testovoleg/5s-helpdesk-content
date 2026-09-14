@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 10 мин.</td><td><b>Обновлено:</b> 15.06.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/vidy-remonta</sub>
-
 ## Содержание
 
 - [Введение](#введение)

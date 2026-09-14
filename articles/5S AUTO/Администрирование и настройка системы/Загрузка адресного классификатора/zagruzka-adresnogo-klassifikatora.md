@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 15.06.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/zagruzka-adresnogo-klassifikatora</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

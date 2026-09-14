@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 15.01.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-zagruzit-dannye-klientov</sub>
-
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **Статья для опытных пользователей!**
 
 ## Описание

@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 35 мин.</td><td><b>Обновлено:</b> 30.07.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/integraciya-s-abcp</sub>
-
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **Статья для опытных пользователей!**
 
 ## Содержание

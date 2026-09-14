@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 17.01.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/vneshnie-polzovateli</sub>
-
 ## Содержание
 
 1. [Справочник](#справочник)

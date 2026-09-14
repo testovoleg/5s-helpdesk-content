@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy</sub>
-
 ## Проблема
 
 При проблемах с подключением кассы программа выдаёт сообщение об ошибке «Нет связи», например:

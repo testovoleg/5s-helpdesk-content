@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 14.01.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/nastroyka-polnotekstovogo-poiska</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.001.001**.*
 
 ## Содержание

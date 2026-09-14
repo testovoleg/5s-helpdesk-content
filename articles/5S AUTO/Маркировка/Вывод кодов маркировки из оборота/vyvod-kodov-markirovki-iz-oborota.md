@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 09.09.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/vyvod-kodov-markirovki-iz-oborota</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3.42**.*
 
 ## Содержание

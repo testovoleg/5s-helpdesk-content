@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Обновлено:</b> 10.09.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/poslednie-dobavlennye-stati</sub>
-
 ## Август 2026
 
 1. [Справочник «Оборудование»](../../Торговое%20оборудование/Справочник%20Оборудование/spravochnik-oborudovanie.md) *Новая статья*

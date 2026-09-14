@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 16.06.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

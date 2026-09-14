@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 08.07.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-podklyuchit-veb-servis-postavschika</sub>
-
 ## Содержание
 
 1. [Создание Веб прайс-листа](#создание-веб-прайс-листа)

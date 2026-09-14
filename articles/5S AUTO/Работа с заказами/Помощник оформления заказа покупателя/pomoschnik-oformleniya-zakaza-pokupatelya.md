@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 06.05.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/pomoschnik-oformleniya-zakaza-pokupatelya</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

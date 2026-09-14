@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 07.09.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/obzor-interfeysa-onlayn-kataloga</sub>
-
 Время просмотра — 1:12 мин.
 
 [![Обзор интерфейса Онлайн-каталога](attachments/video-1-obzor-interfeysa.png)](https://edu.5systems.ru/video/Online_katalog/Online_katalog-1_Obzor_interfeysa.mp4)

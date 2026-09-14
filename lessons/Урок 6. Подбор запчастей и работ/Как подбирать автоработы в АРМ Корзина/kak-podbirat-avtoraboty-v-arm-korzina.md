@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 02.02.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-podbirat-avtoraboty-v-arm-korzina</sub>
-
 Время просмотра — 1:55 мин.
 
 [![Как подбирать автоработы в АРМ Корзина](attachments/video-5-podbor_avtorabot.png)](https://edu.5systems.ru/video/Korzina/Korzina-5_Podbor_avtorabot.mp4)

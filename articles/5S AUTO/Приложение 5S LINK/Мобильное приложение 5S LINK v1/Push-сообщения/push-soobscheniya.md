@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 09.12.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/push-soobscheniya</sub>
-
 > *Актуально для 5S LINK версии* ***v1***.
 
 ## Содержание

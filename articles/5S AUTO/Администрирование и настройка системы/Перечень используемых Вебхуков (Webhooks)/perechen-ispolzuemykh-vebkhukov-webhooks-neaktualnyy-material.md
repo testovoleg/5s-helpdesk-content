@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 18 мин.</td><td><b>Обновлено:</b> 17.06.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/perechen-ispolzuemykh-vebkhukov-webhooks-neaktualnyy-material</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

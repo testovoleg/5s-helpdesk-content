@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 04.04.2023</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/nastroyka-veb-servisa-euroauto-evroavto</sub>
-
 ## Содержание
 
 1. [Описание](#описание)

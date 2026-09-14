@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 10 мин.</td><td><b>Обновлено:</b> 09.09.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/podklyuchenie-ts-piot</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3.58**.*
 
 ## Содержание

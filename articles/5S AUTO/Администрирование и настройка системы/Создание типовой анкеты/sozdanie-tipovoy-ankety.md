@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 16 мин.</td><td><b>Обновлено:</b> 15.06.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/sozdanie-tipovoy-ankety</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

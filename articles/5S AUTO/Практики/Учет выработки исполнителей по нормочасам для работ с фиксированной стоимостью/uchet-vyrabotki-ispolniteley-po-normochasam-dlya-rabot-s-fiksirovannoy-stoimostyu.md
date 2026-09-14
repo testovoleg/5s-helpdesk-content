@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 23.07.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

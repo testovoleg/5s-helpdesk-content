@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 28.02.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/roli-polzovateley</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

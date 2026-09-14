@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 22 мин.</td><td><b>Обновлено:</b> 19.11.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/analiz-i-ustanovka-cen</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

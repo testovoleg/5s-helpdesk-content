@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 03.04.2023</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/raspredelenie-postupleniy-po-zakazam</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

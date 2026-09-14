@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 23.06.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/dostupnye-veb-servisy-postavschikov</sub>
-
 О создании и настройке веб прайс-листа см. *[статью](../Создание%20и%20настройка%20Веб%20прайс-листа/sozdanie-i-nastroyka-veb-prays-lista.md)*.
 
 - [77Volvo](../../Перечень%20доступных%20Веб-сервисов%20поставщиков/77Volvo/nastroyka-veb-servisa-77volvo.md)

@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 08.07.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/akt-sverki-vzaimoraschetov</sub>
-
 ## Содержание
 
 1. [Назначение](#назначение)

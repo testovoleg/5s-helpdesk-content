@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 21.09.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/priobretenie-tovarov-v-puti</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.2.7.2**.*
 
 ## Содержание

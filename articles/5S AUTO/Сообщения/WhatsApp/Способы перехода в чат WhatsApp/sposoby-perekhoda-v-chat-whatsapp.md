@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 14.05.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/sposoby-perekhoda-v-chat-whatsapp</sub>
-
 ## Содержание
 
 1. [Введение](#введение)

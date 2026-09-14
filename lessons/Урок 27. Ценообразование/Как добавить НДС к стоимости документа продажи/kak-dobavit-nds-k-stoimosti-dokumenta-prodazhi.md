@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 19.12.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-dobavit-nds-k-stoimosti-dokumenta-prodazhi</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3.12**.*
 
 ## Содержание

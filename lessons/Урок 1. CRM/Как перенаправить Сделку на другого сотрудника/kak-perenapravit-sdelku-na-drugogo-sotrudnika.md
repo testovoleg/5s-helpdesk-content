@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 1 мин.</td><td><b>Обновлено:</b> 17.09.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-perenapravit-sdelku-na-drugogo-sotrudnika</sub>
-
 Чтобы перенаправить сделку на другого сотрудника, нужно нажать кнопку *Перевод звонка* на верхней панели сделки и выбрать нужного пользователя:
 
 ![Сделка - Перевод звонка](attachments/01-sdelka-perevod-zvonka.png)

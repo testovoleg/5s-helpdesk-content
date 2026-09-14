@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 27.11.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/nastroyka-podklyucheniya-terminala-ekvayringa-sberbanka-po-seti</sub>
-
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **Статья для опытных пользователей!**
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.1**.*

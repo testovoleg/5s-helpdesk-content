@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 15 мин.</td><td><b>Обновлено:</b> 04.04.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/sozdanie-i-redaktirovanie-polzovateley-5s-cloud</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.8.2**.*
 
 ## Содержание

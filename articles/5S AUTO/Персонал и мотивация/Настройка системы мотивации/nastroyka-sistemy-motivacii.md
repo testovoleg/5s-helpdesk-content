@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 14.06.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/nastroyka-sistemy-motivacii</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.001.001**.*
 
 ## Содержание

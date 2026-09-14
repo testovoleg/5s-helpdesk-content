@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 12.09.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/videourok-oformlenie-zakaz-naryada-i-priem-oplaty</sub>
-
 ## Содержание
 
 1. [Работа с Заказ-нарядом](#работа-с-заказ-нарядом)

@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 1 мин.</td><td><b>Обновлено:</b> 11.07.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-nastroit-sbor-otzyvov-na-vneshnikh-resursakh</sub>
-
 *статья в разработке*
 
 ---

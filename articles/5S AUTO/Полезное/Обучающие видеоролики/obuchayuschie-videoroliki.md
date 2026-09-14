@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 10 мин.</td><td><b>Обновлено:</b> 17.09.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/obuchayuschie-videoroliki</sub>
-
 ## Содержание
 
 1. [Работа в Корзине](#работа-в-корзине)

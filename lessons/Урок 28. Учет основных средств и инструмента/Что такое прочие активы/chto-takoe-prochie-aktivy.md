@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 6 мин.</td><td><b>Обновлено:</b> 09.09.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/chto-takoe-prochie-aktivy</sub>
-
 ## Содержание
 
 1. [Что такое “прочие активы”](#что-такое-прочие-активы)

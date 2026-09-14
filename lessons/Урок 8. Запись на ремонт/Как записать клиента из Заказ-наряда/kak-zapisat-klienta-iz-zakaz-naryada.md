@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 01.09.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-zapisat-klienta-iz-zakaz-naryada</sub>
-
 Время просмотра — 0:44 мин.
 
 [![Как записать клиента из Заказ-наряда](attachments/video-3-zapis_iz_zakaz_naryada.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-3_Zapis_iz_Zakaz-naryada.mp4)

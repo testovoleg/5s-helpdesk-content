@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 14 мин.</td><td><b>Обновлено:</b> 03.06.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/master-bystrogo-vvoda-polzovateley-i-sotrudnikov</sub>
-
 ## Содержание
 
 1. [Создание нового пользователя](#создание-нового-пользователя)

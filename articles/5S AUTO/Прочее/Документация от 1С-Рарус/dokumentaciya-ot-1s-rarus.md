@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 20.06.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/dokumentaciya-ot-1s-rarus</sub>
-
 - [Методическое пособие](attachments/metodicheskoe-posobie.pdf)
 - [Описание функционала дисконтных карт](attachments/opisanie-funkcionala-diskontnyh-kart.docx)
 - [Работа с дисконтными картами](attachments/rabota-s-diskontnymi-kartami.docx)

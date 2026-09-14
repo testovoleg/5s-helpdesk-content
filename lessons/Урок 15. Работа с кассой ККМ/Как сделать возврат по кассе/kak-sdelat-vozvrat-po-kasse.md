@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 30.01.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-sdelat-vozvrat-po-kasse</sub>
-
 ## Содержание
 
 - [1. Возврат предоплаты](#1-возврат-предоплаты)

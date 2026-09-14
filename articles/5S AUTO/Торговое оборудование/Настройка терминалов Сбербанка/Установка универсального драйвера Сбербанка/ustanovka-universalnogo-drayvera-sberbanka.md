@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 25.11.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/ustanovka-universalnogo-drayvera-sberbanka</sub>
-
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **Статья для опытных пользователей!**
 
 Также см. статьи: *[Подключение банковского терминала](../../Подключение%20банковского%20терминала/podklyuchenie-bankovskogo-terminala.md), [Настройка терминала, подключенного по com-порту к ПК пользователя](../Настройка%20терминала%20по%20com-порту/nastroyka-terminala-podklyuchennogo-po-com-portu-k-pk-polzovatelya.md)* и *[Настройка подключения терминала эквайринга Сбербанка по сети](../Настройка%20подключения%20терминала%20эквайринга%20Сбербанка%20по%20сети/nastroyka-podklyucheniya-terminala-ekvayringa-sberbanka-po-seti.md).*

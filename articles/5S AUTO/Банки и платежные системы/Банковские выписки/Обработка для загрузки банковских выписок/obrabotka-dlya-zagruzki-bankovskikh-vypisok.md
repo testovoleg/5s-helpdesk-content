@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 20.03.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/obrabotka-dlya-zagruzki-bankovskikh-vypisok</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.002.007**, загрузка через API банка – с релиза **2.8.2**.*
 
 ## Содержание

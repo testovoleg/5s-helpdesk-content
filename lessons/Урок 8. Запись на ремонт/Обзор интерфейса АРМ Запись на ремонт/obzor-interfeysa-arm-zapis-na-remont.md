@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 31.08.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/obzor-interfeysa-arm-zapis-na-remont</sub>
-
 Время просмотра — 1:58 мин.
 
 [![Обзор интерфейса АРМ Запись на ремонт](attachments/video-1-naznachenie_i_interfeys.png)](https://edu.5systems.ru/video/Zapis_na_remont/Zapis_na_remont-1_Naznachenie_i_interfeys.mp4)

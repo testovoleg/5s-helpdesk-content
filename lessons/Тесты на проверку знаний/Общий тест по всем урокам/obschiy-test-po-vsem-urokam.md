@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время прохождения:</b> не ограничено</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/obschiy-test-po-vsem-urokam</sub>
-
 Перед прохождением тестирования изучите [все уроки](../../) по работе с системой "5S AUTO".
 
 Ссылка для прохождения теста по всему курсу уроков: [https://edu.5systems.ru/tests/test_for_all_lessons](https://edu.5systems.ru/tests/test_for_all_lessons).

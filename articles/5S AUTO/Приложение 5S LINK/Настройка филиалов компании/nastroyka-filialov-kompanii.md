@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 22.01.2025</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/nastroyka-filialov-kompanii</sub>
-
 > *Актуально для 5S LINK версии* ***v2***.  *Доступно начиная с версии релиза 2.8.1.*
 
 ## Содержание

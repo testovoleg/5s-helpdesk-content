@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 1 мин.</td><td><b>Обновлено:</b> 11.07.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-raspechatat-rezultaty-diagnostiki</sub>
-
 Чтобы распечатать результаты диагностики, следует перейти в режим заполнения анкеты из Заказ-наряда двойным кликом мыши по анкете и нажать кнопку *Печать → Результат проверки:*
 
 ![Диагностические анкеты - Распечатать результаты](attachments/01-diagnosticheskie-ankety-raspechatat-rezultaty.png)

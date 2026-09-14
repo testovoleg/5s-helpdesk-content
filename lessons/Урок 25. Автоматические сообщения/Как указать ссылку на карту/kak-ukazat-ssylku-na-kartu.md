@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 28.07.2023</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-ukazat-ssylku-na-kartu</sub>
-
 В программе предусмотрена возможность отправлять клиенту ссылку на местоположение автосервиса:
 
 ![Ссылка на карту - Сообщение](attachments/01-ssylka-na-kartu-soobschenie.png)

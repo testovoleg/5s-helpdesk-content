@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 11.07.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/kak-nastroit-anketu-dlya-postservisnogo-obzvona</sub>
-
 ## Содержание
 
 1. [Пример создания анкеты](#пример-создания-анкеты)

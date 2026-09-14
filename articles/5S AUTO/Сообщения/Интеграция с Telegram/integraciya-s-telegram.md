@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Время чтения:</b> 25 мин.</td><td><b>Обновлено:</b> 03.09.2024</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/integraciya-s-telegram</sub>
-
 > *Актуально начиная с версии релиза 5S AUTO **2.8.1** в рамках [отдельной подписки совместно с приложением 5S LINK](https://www.5systems.ru/services/prilozhenie-5s-link) либо в рамках [комплексной подписки "Контакт-центр 5S Chat"](https://www.5systems.ru/services/kontakt-centr-5s-chat) (актуальные тарифы см. в [Каталоге услуг](https://www.5systems.ru/services?field_tags_target_id%5B21%5D=21&sort_by=created&sort_order=ASC)).*
 
 ## Содержание
