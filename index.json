@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:47:29+03:00",
+  "generated_at": "2026-09-14T11:59:59+03:00",
   "count": 593,
   "sections": {
     "tips": [
@@ -596,6 +596,42 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Урок 21. Гарантийная политика/Как настроить виды гарантий",
+      "file": "kak-nastroit-vidy-garantiy.md",
+      "sha": "3359398f15f92b419cc6b21dbb650975718c7ef6",
+      "title": "Как настроить виды гарантий",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T11:47:02+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 21. Гарантийная политика/Как указать гарантии в заказ-наряде",
+      "file": "kak-ukazat-garantii-v-zakaz-naryade.md",
+      "sha": "3f46e219b00cd3290fde7c7341f33d3c6825d072",
+      "title": "Как указать гарантии в заказ-наряде",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2022-11-21",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T11:47:02+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 21. Гарантийная политика/Как установить гарантии по умолчанию",
+      "file": "kak-ustanovit-garantii-po-umolchaniyu.md",
+      "sha": "97b19fe647647aea226d3f15dcd2299cd77ae3d5",
+      "title": "Как установить гарантии по умолчанию",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T11:47:02+03:00",
+      "reading_time": 4
+    },
     {
       "path": "lessons/Урок 20. Диагностические анкеты/Как заполнить результаты диагностики",
       "file": "kak-zapolnit-rezultaty-diagnostiki.md",
@@ -7955,42 +7991,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "lessons/Урок 21. Гарантийная политика/Как указать гарантии в заказ-наряде",
-      "file": "kak-ukazat-garantii-v-zakaz-naryade.md",
-      "sha": "3f46e219b00cd3290fde7c7341f33d3c6825d072",
-      "title": "Как указать гарантии в заказ-наряде",
-      "type": "lessons",
-      "order": 0,
-      "updated_at": "2022-11-21",
-      "date_kind": "updated",
-      "added_at": "2022-11-21",
-      "reading_time": 2
-    },
-    {
-      "path": "lessons/Урок 21. Гарантийная политика/Как настроить виды гарантий",
-      "file": "kak-nastroit-vidy-garantiy.md",
-      "sha": "f1e397492e280300def7a087b89450edf4b2462b",
-      "title": "Как настроить виды гарантий",
-      "type": "lessons",
-      "order": 1,
-      "updated_at": "2022-07-11",
-      "date_kind": "updated",
-      "added_at": "2022-07-11",
-      "reading_time": 2
-    },
-    {
-      "path": "lessons/Урок 21. Гарантийная политика/Как установить гарантии по умолчанию",
-      "file": "kak-ustanovit-garantii-po-umolchaniyu.md",
-      "sha": "97b19fe647647aea226d3f15dcd2299cd77ae3d5",
-      "title": "Как установить гарантии по умолчанию",
-      "type": "lessons",
-      "order": 2,
-      "updated_at": "2022-07-11",
-      "date_kind": "updated",
-      "added_at": "2022-07-11",
-      "reading_time": 4
     }
   ]
 }
