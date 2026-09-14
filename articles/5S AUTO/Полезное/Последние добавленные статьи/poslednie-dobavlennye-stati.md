@@ -640,7 +640,7 @@
 5. [Настройка WhatsApp Business API](https://5systems.ru/help/nastroyka-whatsapp-business-api) *Новая статья*
 6. [Как загрузить данные клиентов](https://5systems.ru/help/kak-zagruzit-dannye-klientov) *Новый урок*
 7. [Как отразить операции по банковскому счету](../../../../lessons/Урок%2016.%20Учет%20денежных%20средств/Как%20отразить%20операции%20по%20банковскому%20счету/kak-otrazit-operacii-po-bankovskomu-schetu.md) *Новый урок*
-8. [Как изменить пароль пользователю](https://5systems.ru/help/kak-izmenit-parol-polzovatelyu) *Новая статья*
+8. [Как изменить пароль пользователю](../../../../lessons/Урок%2022.%20Пользователи%20и%20права/Как%20изменить%20пароль%20пользователю/kak-izmenit-parol-polzovatelyu.md) *Новая статья*
 9. [Интеграция с ABCP](../../Интеграция%20с%20внешними%20сервисами/Интеграция%20с%20ABCP/integraciya-s-abcp.md) *Новая статья*
 
 ## Июль 2022
