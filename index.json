@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T16:27:32+03:00",
-  "count": 625,
+  "generated_at": "2026-09-14T16:30:18+03:00",
+  "count": 623,
   "sections": {
     "tips": [
       {
@@ -8019,32 +8019,10 @@
       "added_at": "2026-08-07T14:13:18+03:00"
     },
     {
-      "path": "tips/Техподдержка/Как быстро найти нужную статью на Базе знаний",
-      "file": "kak-bystro-nayti-nuzhnuyu-statyu-na-baze-znaniy.md",
-      "sha": "d2212f67eaac9f6d9b58cc650263d0259ea7b459",
-      "title": "Как быстро найти нужную статью на Базе знаний",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-08-24",
-      "date_kind": "updated",
-      "added_at": "2026-08-07T14:13:18+03:00"
-    },
-    {
       "path": "tips/Техподдержка/Как обратиться в техническую поддержку",
       "file": "kak-obratitsya-v-tekhnicheskuyu-podderzhku.md",
       "sha": "08da451f29c525517af23a6b1b0105f6eeee4691",
       "title": "Как обратиться в техническую поддержку",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-08-24",
-      "date_kind": "updated",
-      "added_at": "2026-08-07T14:13:18+03:00"
-    },
-    {
-      "path": "tips/Техподдержка/Как перейти в Базу знаний",
-      "file": "kak-pereyti-v-bazu-znaniy.md",
-      "sha": "fbb836c5c4c82c69578fc7319f6b5aa5ccbe39bb",
-      "title": "Как перейти в Базу знаний",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-08-24",
