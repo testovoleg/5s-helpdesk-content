@@ -184,7 +184,7 @@
 
    ![Регистрация обращения](attachments/19-registraciya-obrashcheniya.png)
 
-См. [Процесс работы с визитом клиента](https://www.5systems.ru/help/process-raboty-s-vizitom-klienta).
+См. Процесс работы с визитом клиента.
 
 ## Видеоинструкции по работе с АРМ Клиенты и автомобили
 
