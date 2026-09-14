@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T09:15:31+03:00",
+  "generated_at": "2026-09-14T09:19:02+03:00",
   "count": 552,
   "sections": {
     "tips": [
@@ -599,7 +599,7 @@
     {
       "path": "lessons/Урок 14. Скидки и бонусы/Как настроить бонусную систему",
       "file": "kak-nastroit-bonusnuyu-sistemu.md",
-      "sha": "2cb71493fd8f7c55413b314d20ecd6b53340e62d",
+      "sha": "e8ed83c0e4ac8bdfd2944dd9fe282aabb1edb2d0",
       "title": "Как настроить бонусную систему",
       "type": "lessons",
       "order": 5,
