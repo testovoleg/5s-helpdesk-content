@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:26:13+03:00",
+  "generated_at": "2026-09-14T10:29:28+03:00",
   "count": 564,
   "sections": {
     "tips": [
@@ -683,7 +683,7 @@
     {
       "path": "lessons/Урок 16. Учет денежных средств/Учет кассовой выручки",
       "file": "uchet-kassovoy-vyruchki.md",
-      "sha": "a19444715970e37302c3100ac84d2b874463eb05",
+      "sha": "cc172ac54486ec054043944a1e7315b351072b26",
       "title": "Учет кассовой выручки",
       "type": "lessons",
       "order": 4,
