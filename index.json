@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:14:26+03:00",
+  "generated_at": "2026-09-14T11:15:54+03:00",
   "count": 583,
   "sections": {
     "tips": [
@@ -597,6 +597,102 @@
   },
   "materials": [
     {
+      "path": "lessons/Урок 19. Работа с рекомендациями/Как добавить рекомендации к автомобилю",
+      "file": "kak-dobavit-rekomendacii-k-avtomobilyu.md",
+      "sha": "2f0d0186739aa420f3c63038916f7b76f5cbebbf",
+      "title": "Как добавить рекомендации к автомобилю",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2025-06-06",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T11:13:59+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 19. Работа с рекомендациями/Как отправить рекомендации клиенту",
+      "file": "kak-otpravit-rekomendacii-klientu.md",
+      "sha": "d9ea806254449302d7097699a374621d9a14775c",
+      "title": "Как отправить рекомендации клиенту",
+      "type": "lessons",
+      "order": 5,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T11:13:59+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 19. Работа с рекомендациями/Как перейти к подбору рекомендаций",
+      "file": "kak-pereyti-k-podboru-rekomendaciy.md",
+      "sha": "c29e4ceeb5b5fed861ab8f65066f6397a3d1b992",
+      "title": "Как перейти к подбору рекомендаций",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2025-04-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T11:13:59+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 19. Работа с рекомендациями/Как перенести рекомендации в Корзину",
+      "file": "kak-perenesti-rekomendacii-v-korzinu.md",
+      "sha": "70555e420c0457fb9c8dc40b0535c6ea92dc9b3a",
+      "title": "Как перенести рекомендации в Корзину",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T11:13:59+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 19. Работа с рекомендациями/Как перенести рекомендации в заказ-наряд",
+      "file": "kak-perenesti-rekomendacii-v-zakaz-naryad.md",
+      "sha": "85ea57a224128cd0dc67ad3a32d9f17df11342bf",
+      "title": "Как перенести рекомендации в заказ-наряд",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2025-06-06",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T11:13:59+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 19. Работа с рекомендациями/Как распечатать рекомендации",
+      "file": "kak-raspechatat-rekomendacii.md",
+      "sha": "ce378bf5fd2ef3257801973de65c36817860ff7a",
+      "title": "Как распечатать рекомендации",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2025-06-06",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T11:13:59+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 19. Работа с рекомендациями/Как удалить рекомендации",
+      "file": "kak-udalit-rekomendacii.md",
+      "sha": "70aed880d54c84ff15254430a720bfb3ab06e134",
+      "title": "Как удалить рекомендации",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2025-10-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T11:13:59+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 19. Работа с рекомендациями/Практическое задание",
+      "file": "prakticheskoe-zadanie-1.md",
+      "sha": "64d2b7f1134bc0639a9ef02ab90004edc31e4eca",
+      "title": "Практическое задание",
+      "type": "lessons",
+      "order": 7,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T11:13:59+03:00",
+      "reading_time": 2
+    },
+    {
       "path": "lessons/Урок 18. Доходы и расходы/Как добавить статью дохода-расхода",
       "file": "kak-dobavit-statyu-dokhodaraskhoda.md",
       "sha": "1fd83154b09316b4409a2527e607d926d92e46b4",
@@ -1077,78 +1173,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 1
-    },
-    {
-      "path": "lessons/Урок 19. Работа с рекомендациями/Как добавить рекомендации к автомобилю",
-      "file": "kak-dobavit-rekomendacii-k-avtomobilyu.md",
-      "sha": "12bf89586294a0c15da52eda7368d9fc70dd5a7b",
-      "title": "Как добавить рекомендации к автомобилю",
-      "type": "lessons",
-      "order": 1,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 4
-    },
-    {
-      "path": "lessons/Урок 19. Работа с рекомендациями/Как отправить рекомендации клиенту",
-      "file": "kak-otpravit-rekomendacii-klientu.md",
-      "sha": "f6fa949e0d778db5f1c5d64bf3de96eb26b9d5cb",
-      "title": "Как отправить рекомендации клиенту",
-      "type": "lessons",
-      "order": 5,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 1
-    },
-    {
-      "path": "lessons/Урок 19. Работа с рекомендациями/Как перенести рекомендации в Корзину",
-      "file": "kak-perenesti-rekomendacii-v-korzinu.md",
-      "sha": "413c48f1b10f1bcd006087c877eb72083aad4ff6",
-      "title": "Как перенести рекомендации в Корзину",
-      "type": "lessons",
-      "order": 3,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 1
-    },
-    {
-      "path": "lessons/Урок 19. Работа с рекомендациями/Как перенести рекомендации в заказ-наряд",
-      "file": "kak-perenesti-rekomendacii-v-zakaz-naryad.md",
-      "sha": "4a0e48683e37d0a43ae5ccc341d0061ea8c9a0fb",
-      "title": "Как перенести рекомендации в заказ-наряд",
-      "type": "lessons",
-      "order": 2,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 2
-    },
-    {
-      "path": "lessons/Урок 19. Работа с рекомендациями/Как распечатать рекомендации",
-      "file": "kak-raspechatat-rekomendacii.md",
-      "sha": "be60108275f9787d27cc32670d52ab7f1fc3e615",
-      "title": "Как распечатать рекомендации",
-      "type": "lessons",
-      "order": 4,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 2
-    },
-    {
-      "path": "lessons/Урок 19. Работа с рекомендациями/Практическое задание",
-      "file": "prakticheskoe-zadanie-1.md",
-      "sha": "780d85aedddfa1309746815380691bf61afd6cd9",
-      "title": "Практическое задание",
-      "type": "lessons",
-      "order": 7,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 2
     },
     {
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
@@ -7847,30 +7871,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "lessons/Урок 19. Работа с рекомендациями/Как удалить рекомендации",
-      "file": "kak-udalit-rekomendacii.md",
-      "sha": "70aed880d54c84ff15254430a720bfb3ab06e134",
-      "title": "Как удалить рекомендации",
-      "type": "lessons",
-      "order": 6,
-      "updated_at": "2025-10-31",
-      "date_kind": "updated",
-      "added_at": "2025-10-31",
-      "reading_time": 2
-    },
-    {
-      "path": "lessons/Урок 19. Работа с рекомендациями/Как перейти к подбору рекомендаций",
-      "file": "kak-pereyti-k-podboru-rekomendaciy.md",
-      "sha": "c29e4ceeb5b5fed861ab8f65066f6397a3d1b992",
-      "title": "Как перейти к подбору рекомендаций",
-      "type": "lessons",
-      "order": 0,
-      "updated_at": "2025-04-28",
-      "date_kind": "updated",
-      "added_at": "2025-04-28",
-      "reading_time": 4
     }
   ]
 }
