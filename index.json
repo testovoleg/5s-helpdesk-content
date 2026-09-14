@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T11:42:02+03:00",
-  "count": 590,
+  "generated_at": "2026-09-14T11:47:29+03:00",
+  "count": 593,
   "sections": {
     "tips": [
       {
@@ -1597,7 +1597,7 @@
     {
       "path": "lessons/Урок 4. Запчасти и автоработы/Как добавить автоработу",
       "file": "kak-dobavit-avtorabotu.md",
-      "sha": "9efdf302a1b346297efa468dbeed4d4befcf01ef",
+      "sha": "3319dc5ac1a86f17c3c18084ba9e72d962a792fc",
       "title": "Как добавить автоработу",
       "type": "lessons",
       "order": 3,
@@ -1621,7 +1621,7 @@
     {
       "path": "lessons/Урок 4. Запчасти и автоработы/Как работать со справочником «Автоработы»",
       "file": "avtoraboty.md",
-      "sha": "d2a1fa4f30232ce6ce43d86d20ec295e6589863b",
+      "sha": "1f76e98a5853055cf5822eec0f55f4b755a40626",
       "title": "Как работать со справочником «Автоработы»",
       "type": "lessons",
       "order": 2,
@@ -7955,6 +7955,42 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "lessons/Урок 21. Гарантийная политика/Как указать гарантии в заказ-наряде",
+      "file": "kak-ukazat-garantii-v-zakaz-naryade.md",
+      "sha": "3f46e219b00cd3290fde7c7341f33d3c6825d072",
+      "title": "Как указать гарантии в заказ-наряде",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2022-11-21",
+      "date_kind": "updated",
+      "added_at": "2022-11-21",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 21. Гарантийная политика/Как настроить виды гарантий",
+      "file": "kak-nastroit-vidy-garantiy.md",
+      "sha": "f1e397492e280300def7a087b89450edf4b2462b",
+      "title": "Как настроить виды гарантий",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2022-07-11",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 21. Гарантийная политика/Как установить гарантии по умолчанию",
+      "file": "kak-ustanovit-garantii-po-umolchaniyu.md",
+      "sha": "97b19fe647647aea226d3f15dcd2299cd77ae3d5",
+      "title": "Как установить гарантии по умолчанию",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2022-07-11",
+      "reading_time": 4
     }
   ]
 }
