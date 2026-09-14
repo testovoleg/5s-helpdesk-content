@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:59:59+03:00",
+  "generated_at": "2026-09-14T12:01:03+03:00",
   "count": 593,
   "sections": {
     "tips": [
@@ -599,7 +599,7 @@
     {
       "path": "lessons/Урок 21. Гарантийная политика/Как настроить виды гарантий",
       "file": "kak-nastroit-vidy-garantiy.md",
-      "sha": "3359398f15f92b419cc6b21dbb650975718c7ef6",
+      "sha": "4b3ebeed50b6d4526a6b56e6fd1a0690e8fdc8a3",
       "title": "Как настроить виды гарантий",
       "type": "lessons",
       "order": 1,
