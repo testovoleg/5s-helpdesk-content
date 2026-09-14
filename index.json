@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T11:30:58+03:00",
-  "count": 583,
+  "generated_at": "2026-09-14T11:37:14+03:00",
+  "count": 590,
   "sections": {
     "tips": [
       {
@@ -1173,6 +1173,78 @@
       "date_kind": "updated",
       "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 20. Диагностические анкеты/Как заполнить результаты диагностики",
+      "file": "kak-zapolnit-rezultaty-diagnostiki.md",
+      "sha": "50d031fe01083cb122198bda78c5200a85eb3ffd",
+      "title": "Как заполнить результаты диагностики",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 20. Диагностические анкеты/Как отправить результаты диагностики клиенту",
+      "file": "kak-otpravit-rezultaty-diagnostiki-klientu.md",
+      "sha": "2cd033494aaf2ae8ec065f477a6254d4efcd7933",
+      "title": "Как отправить результаты диагностики клиенту",
+      "type": "lessons",
+      "order": 5,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 20. Диагностические анкеты/Как распечатать бланк анкеты",
+      "file": "kak-raspechatat-blank-ankety.md",
+      "sha": "c5f45a9ddc4ab0343326a7eb66b53f0832e86083",
+      "title": "Как распечатать бланк анкеты",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 20. Диагностические анкеты/Как распечатать результаты диагностики",
+      "file": "kak-raspechatat-rezultaty-diagnostiki.md",
+      "sha": "ab3b6ad73c20d5659e88528eba7557b1825018c3",
+      "title": "Как распечатать результаты диагностики",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 20. Диагностические анкеты/Как указать анкету в заказ-наряде",
+      "file": "kak-ukazat-anketu-v-zakaz-naryade.md",
+      "sha": "ce26db7dcd87a6698a867f159ec2f6331689154d",
+      "title": "Как указать анкету в заказ-наряде",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 20. Диагностические анкеты/Практическое задание",
+      "file": "prakticheskoe-zadanie-2.md",
+      "sha": "4c04a07c47650e731c34b673df74e371f17c14d7",
+      "title": "Практическое задание",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 2
     },
     {
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
@@ -2516,7 +2588,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "06079d51ec4ed301cc3fc7a5cd598bbfa83c5424",
+      "sha": "1120b1dbd08fa2351e776b921c1dff5ab0e9379a",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -3522,7 +3594,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Подключение внешних печатных форм/Печать диагностической анкеты",
       "file": "podklyuchenie-vneshney-pechatnoy-formy-pechat-diagnosticheskoy-ankety.md",
-      "sha": "d8bc4c857edb51fa638ae22dab15df08e4ab35c5",
+      "sha": "e115dbb2d2c1a505ede1862eb53d473fba2be62a",
       "title": "Подключение внешней печатной формы \"Печать диагностической анкеты\"",
       "type": "articles",
       "order": 1,
@@ -7871,6 +7943,18 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "lessons/Урок 20. Диагностические анкеты/Как сделать калькуляцию по результатам диагностики",
+      "file": "kak-sdelat-kalkulyaciyu-po-rezultatam-diagnostiki.md",
+      "sha": "85b1c97211803ca931a9712c30f069e0575f3af2",
+      "title": "Как сделать калькуляцию по результатам диагностики",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2025-10-31",
+      "date_kind": "updated",
+      "added_at": "2025-10-31",
+      "reading_time": 4
     }
   ]
 }
