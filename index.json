@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T13:59:21+03:00",
-  "count": 601,
+  "generated_at": "2026-09-14T14:06:24+03:00",
+  "count": 602,
   "sections": {
     "tips": [
       {
@@ -2721,7 +2721,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "c646bebdd07f032865146eef26712298bf9d9b24",
+      "sha": "d6b88a6358a154ff150138e59085804fac817504",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -8088,6 +8088,18 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "lessons/Урок 24. Подключение мессенджеров/Как подключить Telegram",
+      "file": "kak-podklyuchit-telegram.md",
+      "sha": "e19f32f1747dc23132a9eda0eb869c342a64b050",
+      "title": "Как подключить Telegram",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2022-05-27",
+      "date_kind": "updated",
+      "added_at": "2022-05-27",
+      "reading_time": 5
     }
   ]
 }
