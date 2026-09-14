@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T08:57:24+03:00",
+  "generated_at": "2026-09-14T08:58:06+03:00",
   "count": 544,
   "sections": {
     "tips": [
@@ -602,7 +602,7 @@
       "sha": "08af83aac1aa5301bb5174650a0a61782852e876",
       "title": "Как зафиксировать жалобу клиента",
       "type": "lessons",
-      "order": 2,
+      "order": 1,
       "updated_at": "2023-02-08",
       "date_kind": "updated",
       "added_at": "2026-09-14T08:49:16+03:00",
@@ -626,11 +626,12 @@
       "sha": "e9806a14031dcc2f2627cdbb97153a9e900d1c42",
       "title": "Как настроить сбор отзывов на внешних ресурсах",
       "type": "lessons",
-      "order": 3,
+      "order": 2,
       "updated_at": "2022-07-11",
       "date_kind": "updated",
       "added_at": "2026-09-14T08:49:16+03:00",
-      "reading_time": 1
+      "reading_time": 1,
+      "hidden": true
     },
     {
       "path": "lessons/Урок 13. Управление качеством/Как настроить чат-бота",
@@ -638,11 +639,12 @@
       "sha": "bd9cddca47423b4747a007556cdd7ad7c1ea00e1",
       "title": "Как настроить чат-бота",
       "type": "lessons",
-      "order": 1,
+      "order": 2,
       "updated_at": "2022-07-11",
       "date_kind": "updated",
       "added_at": "2026-09-14T08:49:16+03:00",
-      "reading_time": 1
+      "reading_time": 1,
+      "hidden": true
     },
     {
       "path": "lessons/Урок 12. Уведомления/Как изменить всплывающее окно уведомлений",
