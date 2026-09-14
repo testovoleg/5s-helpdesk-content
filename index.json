@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T15:31:30+03:00",
+  "generated_at": "2026-09-14T15:49:15+03:00",
   "count": 625,
   "sections": {
     "tips": [
@@ -2906,7 +2906,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Создание сделки",
       "file": "sozdanie-sdelki.md",
-      "sha": "8fd6d890a1bc768f1fd5ebbcce41058d8966b99c",
+      "sha": "0d4dec3966e5ec5706985db4610ec119137d6916",
       "title": "Создание сделки",
       "type": "lessons",
       "order": 0,
@@ -2944,7 +2944,7 @@
     {
       "path": "articles/5S AUTO/Задачи/Работа с задачами",
       "file": "rabota-s-zadachami.md",
-      "sha": "765af75461c9781bc4ae223a41f371dfa6743ad4",
+      "sha": "08133c4938ef2572e889d2b7b73873024f921d31",
       "title": "Работа с задачами",
       "type": "articles",
       "order": 3,
@@ -3009,7 +3009,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "f91f413d9eb1539d3664ca906ee2d7b5b4a4f878",
+      "sha": "8f74c274e65b0f6dae03a6a2836ab0ff18f2817c",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -3151,7 +3151,7 @@
     {
       "path": "articles/5S AUTO/Аналитика/Настройка рекламных каналов",
       "file": "nastroyka-reklamnykh-kanalov.md",
-      "sha": "1b0c15ca3620ba70b01ce0d06cee247b4f5b1118",
+      "sha": "dff1666e322cc6b529af9a57ffe2e3a883da890d",
       "title": "Настройка рекламных каналов",
       "type": "articles",
       "order": 0,
@@ -3331,7 +3331,7 @@
     {
       "path": "articles/5S AUTO/Практики/Замена товара услугой при пробитии чека",
       "file": "zamena-tovara-uslugoy-pri-probitii-cheka.md",
-      "sha": "1c22f493154a9dcc659af1c13d1f413730142893",
+      "sha": "cf03a5b82dbd5b1dacfd9672e8d6b9a27e7ebcf9",
       "title": "Замена товара услугой при пробитии чека",
       "type": "articles",
       "order": 16,
@@ -3355,7 +3355,7 @@
     {
       "path": "articles/5S AUTO/Практики/Особенности настройки для компаний с несколькими подразделениями",
       "file": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami.md",
-      "sha": "ced64f6feb250834954f69ea63b78f340aaa6810",
+      "sha": "97fd16f34ddbad157d52e78b0e4ecf2f49402f42",
       "title": "Особенности настройки для компаний с несколькими подразделениями",
       "type": "articles",
       "order": 6,
@@ -3799,7 +3799,7 @@
     {
       "path": "articles/5S AUTO/Пользователи и права/Пользователи",
       "file": "polzovateli.md",
-      "sha": "09b441dba1deeb0833efb35f252c1412ef3a98df",
+      "sha": "ac04adda8772bbfef744e34136b94e058fe68f49",
       "title": "Пользователи",
       "type": "articles",
       "order": 0,
@@ -3895,7 +3895,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Доступ к данным по подразделениям (RLS)",
       "file": "dostup-k-dannym-po-podrazdeleniyam-rls.md",
-      "sha": "cbc98a8adda3bd95d6023907a73f3f5786b2f8b6",
+      "sha": "43761cdfc7707405e6082350d2e6776ea7506bc6",
       "title": "Доступ к данным по подразделениям (RLS)",
       "type": "articles",
       "order": 9,
@@ -3931,7 +3931,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Мастер настройки системы",
       "file": "master-nastroyki-sistemy.md",
-      "sha": "0c623a6c4f4b9c6942076fb727bdb3fcef467040",
+      "sha": "59eb1999639d6aad666c958723650fb11b169f8f",
       "title": "Мастер настройки системы",
       "type": "articles",
       "order": 19,
@@ -4449,7 +4449,7 @@
     {
       "path": "articles/5S AUTO/Касса/Отражение оплаты через СБП",
       "file": "otrazhenie-oplaty-cherez-sbp.md",
-      "sha": "db3331b4eb9d9012585dcca8ff1fdf6b3cf8f2ae",
+      "sha": "d408e6bc1938481581225d2b72328f174158fea3",
       "title": "Отражение оплаты через СБП",
       "type": "articles",
       "order": 4,
@@ -4629,7 +4629,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с MotorData",
       "file": "integraciya-s-motordata.md",
-      "sha": "fab49d1086c43bd1290545edf3bdab12c836e0e1",
+      "sha": "996c932806861ceff5da68ac8db680833c944f69",
       "title": "Интеграция с MotorData",
       "type": "articles",
       "order": 17,
@@ -5003,7 +5003,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/Интеграция с Telegram",
       "file": "integraciya-s-telegram.md",
-      "sha": "736cd191d753d2af18e383e94e45acd23b28c932",
+      "sha": "1ad7bd35a8d2135ddd5ed67fd2ff9a6f7ef4ec39",
       "title": "Интеграция с Telegram",
       "type": "articles",
       "order": 11,
@@ -6779,7 +6779,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Расшифровка автомобиля по VIN",
       "file": "rasshifrovka-avtomobilya-po-vin.md",
-      "sha": "cd11e701cf2ed14b496ed342098defb61d39dba6",
+      "sha": "715be09efea668fc54b9274c0f9e6b8e6ecb3c06",
       "title": "Расшифровка автомобиля по VIN",
       "type": "articles",
       "order": 2,
@@ -7259,7 +7259,7 @@
     {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Работа в АРМ Корзина",
       "file": "rabota-v-arm-korzina.md",
-      "sha": "2ff6c4538098c3f59d70e64b0d2cd8b36c75a173",
+      "sha": "2f61abaf72589b84b111a2274919fc1c54c10c7b",
       "title": "Работа в АРМ Корзина",
       "type": "articles",
       "order": 0,
@@ -7325,7 +7325,7 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Работа в АРМ Клиенты и автомобили",
       "file": "rabota-v-arm-klienty-i-avtomobili.md",
-      "sha": "e4b399fdc97c7039722934c60392bb10464c9899",
+      "sha": "5a7fad0e8ced05b7e154821fc3a54bbc30697b51",
       "title": "Работа в АРМ Клиенты и автомобили",
       "type": "articles",
       "order": 4,
@@ -7503,7 +7503,7 @@
     {
       "path": "articles/5S AUTO/CRM/Редактирование и удаление сделок",
       "file": "redaktirovanie-i-udalenie-sdelok.md",
-      "sha": "5e66f227829080a2c716acdce3f7807a8a0b7b53",
+      "sha": "e2a07f9b9f0206ce36de24af770aa781cba05669",
       "title": "Редактирование и удаление сделок",
       "type": "articles",
       "order": 14,
@@ -7581,7 +7581,7 @@
     {
       "path": "articles/5S AUTO/CRM/Работа с уведомлениями",
       "file": "rabota-s-uvedomleniyami.md",
-      "sha": "87ac35c9b2d62f2a81d4209e568f3aa9c7c6b459",
+      "sha": "149f9b17e7bb515227a39a4b501b35fed76288ed",
       "title": "Работа с уведомлениями",
       "type": "articles",
       "order": 7,
