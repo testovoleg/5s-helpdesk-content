@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T13:07:07+03:00",
-  "count": 594,
+  "generated_at": "2026-09-14T13:33:08+03:00",
+  "count": 597,
   "sections": {
     "tips": [
       {
@@ -597,9 +597,33 @@
   },
   "materials": [
     {
+      "path": "lessons/Урок 22. Пользователи и права/Как изменить пароль пользователю",
+      "file": "kak-izmenit-parol-polzovatelyu.md",
+      "sha": "ac26671b0545193be1d3b0150997a2b6ff395c36",
+      "title": "Как изменить пароль пользователю",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2022-08-22",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T13:19:49+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 22. Пользователи и права/Как изменить права сотруднику",
+      "file": "kak-izmenit-prava-sotrudniku.md",
+      "sha": "008510d9082d837e65ce9d16f1d47090c2ce4ba6",
+      "title": "Как изменить права сотруднику",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T13:19:49+03:00",
+      "reading_time": 9
+    },
+    {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Печать Заказ-наряда",
       "file": "pechat-zakaz-naryada.md",
-      "sha": "757cf54ba03a0760413278eb25f8653e92b8c53f",
+      "sha": "423aa2f96bc4fccd6023ad998d74d27ba737b441",
       "title": "Печать Заказ-наряда",
       "type": "lessons",
       "order": 12,
@@ -2571,7 +2595,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Перечень используемых Вебхуков (Webhooks)",
       "file": "perechen-ispolzuemykh-vebkhukov-webhooks-neaktualnyy-material.md",
-      "sha": "ce87c7f4b27329c1fdbbc80db3e674211bdb0b88",
+      "sha": "3950e7d966c6285e21305afad7b9ea3a049fbe79",
       "title": "Перечень используемых Вебхуков (Webhooks) (неактуальный материал)",
       "type": "articles",
       "order": 25,
@@ -2584,7 +2608,7 @@
     {
       "path": "articles/5S AUTO/Задачи/Работа с задачами",
       "file": "rabota-s-zadachami.md",
-      "sha": "d425fbe58140e660ae0d55afc77e117cea4bf192",
+      "sha": "765af75461c9781bc4ae223a41f371dfa6743ad4",
       "title": "Работа с задачами",
       "type": "articles",
       "order": 3,
@@ -2649,7 +2673,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "86427efc190ad1360e24919ea036372fafcb8b85",
+      "sha": "c646bebdd07f032865146eef26712298bf9d9b24",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -3471,6 +3495,18 @@
       "date_kind": "updated",
       "added_at": "2026-09-08T17:21:18+03:00",
       "reading_time": 18
+    },
+    {
+      "path": "lessons/Урок 22. Пользователи и права/Как добавить пользователя",
+      "file": "kak-dobavit-polzovatelya.md",
+      "sha": "ccc907f1d3ef0eb49f40b7b498d53f930532b0bc",
+      "title": "Как добавить пользователя",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2023-08-16",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T17:21:18+03:00",
+      "reading_time": 7
     },
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/API 5S AUTO",
@@ -7305,7 +7341,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "file": "spravochnik-oborudovanie.md",
-      "sha": "d0413a823aeb53538c7537d34fcd8103f2ea168f",
+      "sha": "82b05f75c52587b618332c02a053056e775b6f57",
       "title": "Справочник «Оборудование»",
       "type": "articles",
       "order": 1,
@@ -7361,7 +7397,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
       "file": "integraciya-s-audatex.md",
-      "sha": "f8430023b742e21a344822aa98072862c5aaa0d2",
+      "sha": "3dd316b5d41d7e2df6cb56d88f989e04e0308c2f",
       "title": "Интеграция с Audatex (AudaPad Web)",
       "type": "articles",
       "order": 19,
@@ -7450,7 +7486,7 @@
     {
       "path": "tips/Техподдержка/Проблема с подключением к серверу — ошибка приложения",
       "file": "problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya.md",
-      "sha": "109aaf6abdb1ae0101880d1f5f4ca3fbfaa5f79c",
+      "sha": "75f07af7177465a3eedc73bd572b778f2542d1ac",
       "title": "Проблема с подключением к серверу — ошибка приложения",
       "type": "tips",
       "order": 0,
@@ -7516,7 +7552,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
       "file": "udalenie-starykh-dannykh.md",
-      "sha": "bb28531ed0a24baa6423bdbc8a5aaab5916e7b09",
+      "sha": "37ae4fa5de627fa8424bdca3e982dedf1540f5a8",
       "title": "Удаление старых данных программы",
       "type": "articles",
       "order": 24,
