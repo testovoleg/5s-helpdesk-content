@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T08:32:18+03:00",
+  "generated_at": "2026-09-14T08:35:41+03:00",
   "count": 540,
   "sections": {
     "tips": [
@@ -599,61 +599,61 @@
     {
       "path": "lessons/Урок 12. Уведомления/Как изменить всплывающее окно уведомлений",
       "file": "kak-izmenit-vsplyvayuschee-okno-uvedomleniy.md",
-      "sha": "92953f7a139faccd2cf01a3e94f00026b84fc0f3",
+      "sha": "3c339b360e3705a12d9235ac4179d5ecbb915288",
       "title": "Как изменить всплывающее окно уведомлений",
       "type": "lessons",
       "order": 2,
-      "updated_at": "2026-09-14",
+      "updated_at": "2022-07-11",
       "date_kind": "updated",
-      "added_at": "2026-09-14",
+      "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 3
     },
     {
       "path": "lessons/Урок 12. Уведомления/Как настроить уведомления",
       "file": "kak-nastroit-uvedomleniya.md",
-      "sha": "e17c53853c39cd8eaec8efacf3527436415c7e74",
+      "sha": "57ef0a6f85b78cefe4d7efdb7567729afa3854ef",
       "title": "Как настроить уведомления",
       "type": "lessons",
       "order": 0,
-      "updated_at": "2026-09-14",
+      "updated_at": "2022-07-11",
       "date_kind": "updated",
-      "added_at": "2026-09-14",
+      "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 1
     },
     {
       "path": "lessons/Урок 12. Уведомления/Как подписаться на уведомление",
       "file": "kak-podpisatsya-na-uvedomlenie.md",
-      "sha": "e34a3b0ab015f8c00ea43d08b6555fd30493c843",
+      "sha": "3f362d97fb74ddaad5d9641a1168f546917b82ae",
       "title": "Как подписаться на уведомление",
       "type": "lessons",
       "order": 1,
-      "updated_at": "2026-09-14",
+      "updated_at": "2022-07-11",
       "date_kind": "updated",
-      "added_at": "2026-09-14",
+      "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 2
     },
     {
       "path": "lessons/Урок 12. Уведомления/Как получать уведомления в Telegram",
       "file": "kak-poluchat-uvedomleniya-v-telegram.md",
-      "sha": "6f4506a690865e6ba447ce058a32649a8ce2aff8",
+      "sha": "11c981435eb7f86e76f0d48b670d85c52d3d4578",
       "title": "Как получать уведомления в Telegram",
       "type": "lessons",
       "order": 3,
-      "updated_at": "2026-09-14",
+      "updated_at": "2022-11-09",
       "date_kind": "updated",
-      "added_at": "2026-09-14",
+      "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 1
     },
     {
       "path": "lessons/Урок 12. Уведомления/Практическое задание по работе с Уведомлениями",
       "file": "prakticheskoe-zadanie-po-rabote-s-uvedomleniyami.md",
-      "sha": "7656200fe127d35cbfc2e07af3dd4a11048344ae",
+      "sha": "97c51b1ff1f27f6a7e068e10c604d39edb4b0701",
       "title": "Практическое задание по работе с Уведомлениями",
       "type": "lessons",
       "order": 4,
-      "updated_at": "2026-09-14",
+      "updated_at": "2022-07-11",
       "date_kind": "updated",
-      "added_at": "2026-09-14",
+      "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 1
     },
     {
