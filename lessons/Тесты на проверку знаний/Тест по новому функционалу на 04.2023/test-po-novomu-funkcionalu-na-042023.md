@@ -1,5 +1,7 @@
 # Тест по новому функционалу на 04.2023
 
+<table><tr><td><b>Время прохождения:</b> 30 мин.</td></tr></table>
+
 <sub>Источник: https://www.5systems.ru/help/test-po-novomu-funkcionalu-na-042023</sub>
 
 Тест по новому функционалу программы 5S AUTO на 04.2023 (релиз 2.4.1).

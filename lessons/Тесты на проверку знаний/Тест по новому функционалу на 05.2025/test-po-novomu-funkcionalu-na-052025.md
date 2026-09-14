@@ -1,5 +1,7 @@
 # Тест по новому функционалу на 05.2025
 
+<table><tr><td><b>Время прохождения:</b> 30 мин.</td></tr></table>
+
 <sub>Источник: https://www.5systems.ru/help/test-po-novomu-funkcionalu-na-052025</sub>
 
 *Общий тест по новому функционалу* программы 5S AUTO за XII 2024 – V 2025 (релиз 2.8.2)

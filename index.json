@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T15:11:03+03:00",
+  "generated_at": "2026-09-14T15:18:57+03:00",
   "count": 625,
   "sections": {
     "tips": [
@@ -599,77 +599,77 @@
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 04.2023",
       "file": "test-po-novomu-funkcionalu-na-042023.md",
-      "sha": "d80610889899e843fdfe65b039c2db4116aeacc8",
+      "sha": "740a62087c2c6765405f46e9dbef172aa44ac51f",
       "title": "Тест по новому функционалу на 04.2023",
       "type": "lessons",
       "order": 3,
-      "updated_at": "2026-09-14T15:11:03+03:00",
+      "updated_at": "2026-09-14T15:18:57+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 05.2025",
       "file": "test-po-novomu-funkcionalu-na-052025.md",
-      "sha": "61fe70d4bb809324c8886483cdcf901eb1ba76cc",
+      "sha": "27d09495f8c146b28153759e748819943504b6d3",
       "title": "Тест по новому функционалу на 05.2025",
       "type": "lessons",
       "order": 6,
-      "updated_at": "2026-09-14T15:11:03+03:00",
+      "updated_at": "2026-09-14T15:18:57+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 07.2023",
       "file": "test-po-novomu-funkcionalu-na-072023.md",
-      "sha": "16b41556b4065c682b76ef86f0b400a12684eea4",
+      "sha": "6b498eaeedbf3ef4c3d2cedbed09df82152b2bdb",
       "title": "Тест по новому функционалу на 07.2023",
       "type": "lessons",
       "order": 4,
-      "updated_at": "2026-09-14T15:11:03+03:00",
+      "updated_at": "2026-09-14T15:18:57+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 08.2024",
       "file": "test-po-novomu-funkcionalu-na-082024.md",
-      "sha": "2fadc3b6cc79fee0b523672c58286b8e5c5807a5",
+      "sha": "b5e2cca4841afc85a8697b2294df70c12abd3461",
       "title": "Тест по новому функционалу на 08.2024",
       "type": "lessons",
       "order": 5,
-      "updated_at": "2026-09-14T15:11:03+03:00",
+      "updated_at": "2026-09-14T15:18:57+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Базовый тест по теме «CRM»",
       "file": "bazovyy-test-po-teme-crm.md",
-      "sha": "f84d7f03bcabbfaf14c59886c53b6f3e371ffae6",
+      "sha": "d38060d4b772dbce13978bb96a9d52c0a6f94115",
       "title": "Базовый тест по теме \"CRM\"",
       "type": "lessons",
       "order": 1,
-      "updated_at": "2026-09-14T15:11:03+03:00",
+      "updated_at": "2026-09-14T15:18:57+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:13+03:00"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Общий тест по всем урокам",
       "file": "obschiy-test-po-vsem-urokam.md",
-      "sha": "19f932ff492476f5b5c2b1921f139c4820ee7055",
+      "sha": "482a71cb5ab000caa5a78dc0e34f0683b5ad0a48",
       "title": "Общий тест по всем урокам",
       "type": "lessons",
       "order": 0,
-      "updated_at": "2026-09-14T15:11:03+03:00",
+      "updated_at": "2026-09-14T15:18:57+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:13+03:00"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 01.2023",
       "file": "test-po-novomu-funkcionalu-na-012023.md",
-      "sha": "d947dde9ecd5a5d383b7b4bc4e31e5d60c6dad4f",
+      "sha": "12317058d19eec8f883796d85d01c07949472ac1",
       "title": "Тест по новому функционалу на 01.2023",
       "type": "lessons",
       "order": 2,
-      "updated_at": "2026-09-14T15:11:03+03:00",
+      "updated_at": "2026-09-14T15:18:57+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:13+03:00"
     },

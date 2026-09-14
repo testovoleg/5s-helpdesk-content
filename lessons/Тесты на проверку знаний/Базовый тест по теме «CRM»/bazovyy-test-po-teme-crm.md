@@ -1,5 +1,7 @@
 # Базовый тест по теме "CRM"
 
+<table><tr><td><b>Время прохождения:</b> 30 мин.</td></tr></table>
+
 <sub>Источник: https://www.5systems.ru/help/bazovyy-test-po-teme-crm</sub>
 
 Базовый тест на тему "CRM" по функционалу программы 5S AUTO.
