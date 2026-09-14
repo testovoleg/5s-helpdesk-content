@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:18:01+03:00",
+  "generated_at": "2026-09-14T11:19:44+03:00",
   "count": 583,
   "sections": {
     "tips": [
@@ -599,7 +599,7 @@
     {
       "path": "lessons/Урок 19. Работа с рекомендациями/Как добавить рекомендации к автомобилю",
       "file": "kak-dobavit-rekomendacii-k-avtomobilyu.md",
-      "sha": "e5409647a07c36e9d0b84a2bd60c0d8a5878b104",
+      "sha": "47399aee00374d5bb30a0dd8be99a6bee4e896e3",
       "title": "Как добавить рекомендации к автомобилю",
       "type": "lessons",
       "order": 1,
