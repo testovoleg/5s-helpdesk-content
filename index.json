@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:52:52+03:00",
+  "generated_at": "2026-09-14T10:55:16+03:00",
   "count": 569,
   "sections": {
     "tips": [
@@ -647,7 +647,7 @@
     {
       "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как сформировать ведомость по взаиморасчетам",
       "file": "kak-sformirovat-vedomost-po-vzaimoraschetam.md",
-      "sha": "cb415d505222467a52e6fee1b438f66df0ef9ad3",
+      "sha": "5439e937659f1bfdc6fee9a1f99a050c4539f923",
       "title": "Как сформировать ведомость по взаиморасчетам",
       "type": "lessons",
       "order": 4,
