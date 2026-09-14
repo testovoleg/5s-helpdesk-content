@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T14:51:26+03:00",
-  "count": 609,
+  "generated_at": "2026-09-14T14:56:29+03:00",
+  "count": 618,
   "sections": {
     "tips": [
       {
@@ -2739,7 +2739,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Перечень используемых Вебхуков (Webhooks)",
       "file": "perechen-ispolzuemykh-vebkhukov-webhooks-neaktualnyy-material.md",
-      "sha": "ce87c7f4b27329c1fdbbc80db3e674211bdb0b88",
+      "sha": "3950e7d966c6285e21305afad7b9ea3a049fbe79",
       "title": "Перечень используемых Вебхуков (Webhooks) (неактуальный материал)",
       "type": "articles",
       "order": 25,
@@ -2752,7 +2752,7 @@
     {
       "path": "articles/5S AUTO/Задачи/Работа с задачами",
       "file": "rabota-s-zadachami.md",
-      "sha": "d425fbe58140e660ae0d55afc77e117cea4bf192",
+      "sha": "765af75461c9781bc4ae223a41f371dfa6743ad4",
       "title": "Работа с задачами",
       "type": "articles",
       "order": 3,
@@ -2817,7 +2817,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "0563f702555d5e581ce726993f54a686ac4d3d57",
+      "sha": "7b21e822d17c701f3c2edbae884adf6962b0be22",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -7485,7 +7485,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "file": "spravochnik-oborudovanie.md",
-      "sha": "d0413a823aeb53538c7537d34fcd8103f2ea168f",
+      "sha": "82b05f75c52587b618332c02a053056e775b6f57",
       "title": "Справочник «Оборудование»",
       "type": "articles",
       "order": 1,
@@ -7541,7 +7541,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
       "file": "integraciya-s-audatex.md",
-      "sha": "f8430023b742e21a344822aa98072862c5aaa0d2",
+      "sha": "3dd316b5d41d7e2df6cb56d88f989e04e0308c2f",
       "title": "Интеграция с Audatex (AudaPad Web)",
       "type": "articles",
       "order": 19,
@@ -7630,7 +7630,7 @@
     {
       "path": "tips/Техподдержка/Проблема с подключением к серверу — ошибка приложения",
       "file": "problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya.md",
-      "sha": "109aaf6abdb1ae0101880d1f5f4ca3fbfaa5f79c",
+      "sha": "75f07af7177465a3eedc73bd572b778f2542d1ac",
       "title": "Проблема с подключением к серверу — ошибка приложения",
       "type": "tips",
       "order": 0,
@@ -7696,7 +7696,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
       "file": "udalenie-starykh-dannykh.md",
-      "sha": "bb28531ed0a24baa6423bdbc8a5aaab5916e7b09",
+      "sha": "37ae4fa5de627fa8424bdca3e982dedf1540f5a8",
       "title": "Удаление старых данных программы",
       "type": "articles",
       "order": 24,
@@ -8184,6 +8184,114 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как отразить инвентаризацию активов",
+      "file": "kak-otrazit-inventarizaciyu-aktivov.md",
+      "sha": "91f6e44d76fa8e4f1d40b4a0639221ebf18f0404",
+      "title": "Как отразить инвентаризацию активов",
+      "type": "lessons",
+      "order": 7,
+      "updated_at": "2024-09-26",
+      "date_kind": "updated",
+      "added_at": "2024-09-26",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как ввести начальные остатки активов",
+      "file": "kak-vvesti-nachalnye-ostatki-aktivov.md",
+      "sha": "aa73ba10db84528761220468091564d97fb28f75",
+      "title": "Как ввести начальные остатки активов",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как закрепить инструмент за сотрудником",
+      "file": "kak-zakrepit-instrument-za-sotrudnikom.md",
+      "sha": "057dda2aaf02cf419ac1b7df267892c4943e083a",
+      "title": "Как закрепить инструмент за сотрудником",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как начислить амортизацию",
+      "file": "kak-nachislit-amortizaciyu.md",
+      "sha": "ce05bf13eecccb5df22078acbb96256c33da04a0",
+      "title": "Как начислить амортизацию",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как отразить в учете обслуживание актива",
+      "file": "kak-otrazit-v-uchete-obsluzhivanie-aktiva.md",
+      "sha": "882a4e39bc6d96826fc48f24b43cc3b75418671d",
+      "title": "Как отразить в учете обслуживание актива",
+      "type": "lessons",
+      "order": 5,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 5
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как оформить перемещение актива",
+      "file": "kak-oformit-peremeschenie-aktiva.md",
+      "sha": "13aed78fc6fe636ca116db0f2e1a023e5a8f4cda",
+      "title": "Как оформить перемещение актива",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как оформить реализацию и списание активов",
+      "file": "kak-oformit-realizaciyu-i-spisanie-aktivov.md",
+      "sha": "4d5aa59c193421e48df8adabaec146957892e81b",
+      "title": "Как оформить реализацию и списание активов",
+      "type": "lessons",
+      "order": 8,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 6
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как передать актив в эксплуатацию",
+      "file": "kak-peredat-aktiv-v-ekspluataciyu.md",
+      "sha": "f109b229b4a6b1839f560ad84699dc724e1bc9ec",
+      "title": "Как передать актив в эксплуатацию",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 7
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Что такое прочие активы",
+      "file": "chto-takoe-prochie-aktivy.md",
+      "sha": "9bf02957cb820f4e14ab0e320e3bf1038fdd26fe",
+      "title": "Что такое прочие активы",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 6
     }
   ]
 }
