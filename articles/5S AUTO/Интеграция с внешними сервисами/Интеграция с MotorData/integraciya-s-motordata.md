@@ -39,7 +39,7 @@
 
 Механизм интеграции с MotorData позволяет быстро и четко проценить автоработы, что бывает особенно актуально для новых сотрудников автосервиса и непрофильных специалистов.
 
-[![MotorData](attachments/video-01-motordata.png)](https://www.5systems.ru/sites/default/files/2024-03/MotorData.mp4)
+[![MotorData](attachments/video-01-motordata.png)](https://edu.5systems.ru/video/MotorData/MotorData.mp4)
 
 Функционал интеграции с MotorData доступен пользователям программы 5S AUTO, действует начиная с релиза 2.6.1.1.
 

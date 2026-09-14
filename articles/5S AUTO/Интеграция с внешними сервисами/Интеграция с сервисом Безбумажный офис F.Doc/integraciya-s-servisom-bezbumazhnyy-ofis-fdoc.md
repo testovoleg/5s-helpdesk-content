@@ -63,7 +63,7 @@ F.Doc работает с простой электронной подписью
 
 ### Отправка документов
 
-[![Подписание документов через F.Doc в 5S AUTO](attachments/video-01-podpisanie-dokumentov-cherez-f-doc-v-5s-auto.png)](https://www.5systems.ru/sites/default/files/2024-03/%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20F.Doc%20%D0%B2%205S%20AUTO.mp4)
+[![Подписание документов через F.Doc в 5S AUTO](attachments/video-01-podpisanie-dokumentov-cherez-f-doc-v-5s-auto.png)](https://edu.5systems.ru/video/FDoc/Podpisanie_dokumentov_cherez_F_Doc_v_5S_AUTO.mp4)
 
 Интеграция используется для подписания документов Заказ-наряд, Реализация товаров, Заказ покупателя и Заявка на ремонт.
 
