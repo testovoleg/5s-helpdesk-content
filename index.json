@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:24:04+03:00",
+  "generated_at": "2026-09-14T11:30:58+03:00",
   "count": 583,
   "sections": {
     "tips": [
@@ -659,7 +659,7 @@
     {
       "path": "lessons/Урок 19. Работа с рекомендациями/Как распечатать рекомендации",
       "file": "kak-raspechatat-rekomendacii.md",
-      "sha": "ce378bf5fd2ef3257801973de65c36817860ff7a",
+      "sha": "636e64352e617e756cefd4243707c0331dc49256",
       "title": "Как распечатать рекомендации",
       "type": "lessons",
       "order": 4,
