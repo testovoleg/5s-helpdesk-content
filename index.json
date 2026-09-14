@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T13:20:13+03:00",
+  "generated_at": "2026-09-14T13:25:44+03:00",
   "count": 597,
   "sections": {
     "tips": [
@@ -596,6 +596,30 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Урок 22. Пользователи и права/Как изменить пароль пользователю",
+      "file": "kak-izmenit-parol-polzovatelyu.md",
+      "sha": "29542a7c777e03b5780ac5e0f115aad360603b02",
+      "title": "Как изменить пароль пользователю",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2022-08-22",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T13:19:49+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 22. Пользователи и права/Как изменить права сотруднику",
+      "file": "kak-izmenit-prava-sotrudniku.md",
+      "sha": "3e8a3a2e51e295677b42442c2ab377950b9fed3c",
+      "title": "Как изменить права сотруднику",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T13:19:49+03:00",
+      "reading_time": 9
+    },
     {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Печать Заказ-наряда",
       "file": "pechat-zakaz-naryada.md",
@@ -3471,6 +3495,18 @@
       "date_kind": "updated",
       "added_at": "2026-09-08T17:21:18+03:00",
       "reading_time": 18
+    },
+    {
+      "path": "lessons/Урок 22. Пользователи и права/Как добавить пользователя",
+      "file": "kak-dobavit-polzovatelya.md",
+      "sha": "ccc907f1d3ef0eb49f40b7b498d53f930532b0bc",
+      "title": "Как добавить пользователя",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2023-08-16",
+      "date_kind": "updated",
+      "added_at": "2026-09-08T17:21:18+03:00",
+      "reading_time": 7
     },
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/API 5S AUTO",
@@ -8004,42 +8040,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "lessons/Урок 22. Пользователи и права/Как добавить пользователя",
-      "file": "kak-dobavit-polzovatelya.md",
-      "sha": "ccc907f1d3ef0eb49f40b7b498d53f930532b0bc",
-      "title": "Как добавить пользователя",
-      "type": "lessons",
-      "order": 0,
-      "updated_at": "2023-08-16",
-      "date_kind": "updated",
-      "added_at": "2023-08-16",
-      "reading_time": 7
-    },
-    {
-      "path": "lessons/Урок 22. Пользователи и права/Как изменить пароль пользователю",
-      "file": "kak-izmenit-parol-polzovatelyu.md",
-      "sha": "29542a7c777e03b5780ac5e0f115aad360603b02",
-      "title": "Как изменить пароль пользователю",
-      "type": "lessons",
-      "order": 2,
-      "updated_at": "2022-08-22",
-      "date_kind": "updated",
-      "added_at": "2022-08-22",
-      "reading_time": 1
-    },
-    {
-      "path": "lessons/Урок 22. Пользователи и права/Как изменить права сотруднику",
-      "file": "kak-izmenit-prava-sotrudniku.md",
-      "sha": "a832cb5ab39f8907c3f5eb8f5378bd6afaed73fa",
-      "title": "Как изменить права сотруднику",
-      "type": "lessons",
-      "order": 1,
-      "updated_at": "2022-07-11",
-      "date_kind": "updated",
-      "added_at": "2022-07-11",
-      "reading_time": 9
     }
   ]
 }
