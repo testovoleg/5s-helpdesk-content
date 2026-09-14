@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T09:39:25+03:00",
+  "generated_at": "2026-09-14T09:50:34+03:00",
   "count": 552,
   "sections": {
     "tips": [
@@ -623,7 +623,7 @@
     {
       "path": "lessons/Урок 14. Скидки и бонусы/Как объединить бонусные счета клиентов",
       "file": "kak-obedinit-bonusnye-scheta-klientov.md",
-      "sha": "a341ec7bcf0c65a4377168f56e14b6bbace2c8b1",
+      "sha": "d25175b784bb8a17dc6c04be1f3ed4e3e6669372",
       "title": "Как объединить бонусные счета клиентов",
       "type": "lessons",
       "order": 6,
