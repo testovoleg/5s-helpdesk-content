@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:43:35+03:00",
+  "generated_at": "2026-09-14T10:50:21+03:00",
   "count": 569,
   "sections": {
     "tips": [
@@ -611,7 +611,7 @@
     {
       "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как отразить авансовый отчет сотрудника",
       "file": "kak-otrazit-avansovyy-otchet-sotrudnika.md",
-      "sha": "b29029e38de7f5bddce4f9dfaee7ad8bf1ca0927",
+      "sha": "0d551683a7bc42294f9e49b7d7b7c59123a2f884",
       "title": "Как отразить авансовый отчет сотрудника",
       "type": "lessons",
       "order": 2,
