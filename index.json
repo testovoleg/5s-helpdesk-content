@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T09:13:26+03:00",
+  "generated_at": "2026-09-14T09:15:31+03:00",
   "count": 552,
   "sections": {
     "tips": [
@@ -683,7 +683,7 @@
     {
       "path": "lessons/Урок 14. Скидки и бонусы/Как создать скидку на строку",
       "file": "kak-sozdat-skidku-na-stroku.md",
-      "sha": "8f2414d35e5fa7cb3740272b77ddf0d246f75df9",
+      "sha": "a952ddb21a7f203ef1312ea952c45db5587ada5e",
       "title": "Как создать скидку на строку",
       "type": "lessons",
       "order": 4,
