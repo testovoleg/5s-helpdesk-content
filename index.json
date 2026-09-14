@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T13:49:37+03:00",
+  "generated_at": "2026-09-14T13:50:21+03:00",
   "count": 601,
   "sections": {
     "tips": [
@@ -599,7 +599,7 @@
     {
       "path": "lessons/Урок 23. Расчет зарплаты/Как выплатить зарплату",
       "file": "kak-vyplatit-zarplatu.md",
-      "sha": "696ca79f7dd4599c1b4e49e474ccaf488e3a5720",
+      "sha": "ceaf4b88c83672ba54a36a643deb5f19e7e169db",
       "title": "Как выплатить зарплату",
       "type": "lessons",
       "order": 2,
