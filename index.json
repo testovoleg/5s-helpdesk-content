@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T09:50:34+03:00",
-  "count": 552,
+  "generated_at": "2026-09-14T09:56:19+03:00",
+  "count": 556,
   "sections": {
     "tips": [
       {
@@ -803,6 +803,30 @@
       "reading_time": 1
     },
     {
+      "path": "lessons/Урок 15. Работа с кассой ККМ/Как принять оплату",
+      "file": "kak-prinyat-oplatu.md",
+      "sha": "9105c9ef4866532db03af7ece391eac28ed7ae26",
+      "title": "Как принять оплату",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 7
+    },
+    {
+      "path": "lessons/Урок 15. Работа с кассой ККМ/Как сформировать обороты по кассе",
+      "file": "kak-sformirovat-oboroty-po-kasse.md",
+      "sha": "182c67684b22e77a0543af1890a66747ae347707",
+      "title": "Как сформировать обороты по кассе",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 3
+    },
+    {
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
       "file": "kak-rasshifrovat-avtomobil-po-vin.md",
       "sha": "a797dbed40fba4454d84460624afa38e25be0ef7",
@@ -1033,7 +1057,7 @@
     {
       "path": "lessons/Урок 5. Складской учет/Как оформить возврат товаров от покупателя",
       "file": "kak-oformit-vozvrat-tovarov-ot-pokupatelya.md",
-      "sha": "738b4db576c301b5040b1cd13ccd3c483ceeae5c",
+      "sha": "4a57745f3be56236fb3a50a0620f975f5a4d4d90",
       "title": "Как оформить возврат товаров от покупателя",
       "type": "lessons",
       "order": 4,
@@ -1405,7 +1429,7 @@
     {
       "path": "lessons/Урок 2. Структура компании/Как добавить кассу",
       "file": "kak-dobavit-kassu.md",
-      "sha": "224a56249c9e44b0365825efff90a60d9613696c",
+      "sha": "30ec26772c84c8feb3adb1e2e8f34bec90b26845",
       "title": "Как добавить кассу",
       "type": "lessons",
       "order": 3,
@@ -1801,7 +1825,7 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Выдача заказа",
       "file": "vydacha-zakaza.md",
-      "sha": "0ae69d185327b332950111dd40222eefe1a1c24c",
+      "sha": "1ae9bda4fa1fd92ba4e9061abdf604548698a17d",
       "title": "Выдача заказа",
       "type": "lessons",
       "order": 7,
@@ -1921,7 +1945,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Видеоурок «Оформление заказ-наряда и прием оплаты»",
       "file": "videourok-oformlenie-zakaz-naryada-i-priem-oplaty.md",
-      "sha": "b9acf1776e0dca58fcc9a8c3e4ff6d3071981856",
+      "sha": "293b1df9091ada63cd8874f8fa52913531dbb306",
       "title": "Видеоурок \"Оформление заказ-наряда и прием оплаты\"",
       "type": "lessons",
       "order": 12,
@@ -1945,7 +1969,7 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Выполнен",
       "file": "vypolnen.md",
-      "sha": "6a09f855bc7ae3b960dbf8d801424614fe68eecf",
+      "sha": "bb83cea62d29a14032a2377aca3d8c05758178a1",
       "title": "Выполнен",
       "type": "lessons",
       "order": 6,
@@ -2131,7 +2155,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Решение распространенных ошибок при работе с кассой",
       "file": "reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy.md",
-      "sha": "d606a086db5b6458dbb2942251dad035e6b0bae9",
+      "sha": "868e8a4a09ba21dda5210db3d370580bb4453320",
       "title": "Решение распространенных ошибок при работе с кассой",
       "type": "articles",
       "order": 10,
@@ -2144,7 +2168,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "7ad2e0dda0d4e81eb457ecda105e09dcac3430fc",
+      "sha": "fa0ff2d6f780e198881e19bc60b180b552156792",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -7469,7 +7493,7 @@
     {
       "path": "tips/Оборудование/Кассы ККМ/Расхождение сумм",
       "file": "raskhozhdenie-summ.md",
-      "sha": "ff247dc0aeeaf6c354ca0b42e6898b0ab0177258",
+      "sha": "825e81d1cf9aa553752f4ba71dc429cc00849ec8",
       "title": "Расхождение сумм",
       "type": "tips",
       "order": 0,
@@ -7499,6 +7523,30 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "lessons/Урок 15. Работа с кассой ККМ/Как закрыть смену",
+      "file": "kak-zakryt-smenu.md",
+      "sha": "2c628f233dfe94bf5d66ac786444ac171155c190",
+      "title": "Как закрыть смену",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2025-01-30",
+      "date_kind": "updated",
+      "added_at": "2025-01-30",
+      "reading_time": 8
+    },
+    {
+      "path": "lessons/Урок 15. Работа с кассой ККМ/Как сделать возврат по кассе",
+      "file": "kak-sdelat-vozvrat-po-kasse.md",
+      "sha": "8092c3e6b3cadb17b7571a85c35d948d30a4cde3",
+      "title": "Как сделать возврат по кассе",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2025-01-30",
+      "date_kind": "updated",
+      "added_at": "2025-01-30",
+      "reading_time": 8
     }
   ]
 }
