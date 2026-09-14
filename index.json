@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T13:50:21+03:00",
+  "generated_at": "2026-09-14T13:59:21+03:00",
   "count": 601,
   "sections": {
     "tips": [
@@ -611,7 +611,7 @@
     {
       "path": "lessons/Урок 23. Расчет зарплаты/Как добавить начисления сотруднику",
       "file": "kak-dobavit-nachisleniya-sotrudniku.md",
-      "sha": "679a860583cf5cac1081f35d6e98cd07068fbc5a",
+      "sha": "51dfe1c4f8de6a03054a7e9f395809a02e998b45",
       "title": "Как добавить начисления сотруднику",
       "type": "lessons",
       "order": 0,
