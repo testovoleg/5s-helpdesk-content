@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:24:51+03:00",
+  "generated_at": "2026-09-14T16:26:17+03:00",
   "count": 625,
   "sections": {
     "tips": [
@@ -8021,7 +8021,7 @@
     {
       "path": "tips/Техподдержка/Как быстро найти нужную статью на Базе знаний",
       "file": "kak-bystro-nayti-nuzhnuyu-statyu-na-baze-znaniy.md",
-      "sha": "b85614f02d195e9ba5baebb802179e615910ef07",
+      "sha": "926ada48fa02456834ab1939a439ec21cb002afb",
       "title": "Как быстро найти нужную статью на Базе знаний",
       "type": "tips",
       "order": 0,
@@ -8043,7 +8043,7 @@
     {
       "path": "tips/Техподдержка/Как перейти в Базу знаний",
       "file": "kak-pereyti-v-bazu-znaniy.md",
-      "sha": "3e725c0d89d59b428d8334189c51bd9a62ce0f0d",
+      "sha": "94017ea99402b0f9554b962889912a87ab21803b",
       "title": "Как перейти в Базу знаний",
       "type": "tips",
       "order": 0,
