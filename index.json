@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:38:02+03:00",
+  "generated_at": "2026-09-14T10:42:19+03:00",
   "count": 569,
   "sections": {
     "tips": [
@@ -597,6 +597,66 @@
   },
   "materials": [
     {
+      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как ввести начальные остатки взаиморасчетов",
+      "file": "kak-vvesti-nachalnye-ostatki-vzaimoraschetov.md",
+      "sha": "4c403f0ab24c62170543e58aa6699e4472e0c57d",
+      "title": "Как ввести начальные остатки взаиморасчетов",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:37:36+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как отразить авансовый отчет сотрудника",
+      "file": "kak-otrazit-avansovyy-otchet-sotrudnika.md",
+      "sha": "3d7cedd27d8b613b2497083f920d05190fe40bd7",
+      "title": "Как отразить авансовый отчет сотрудника",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:37:36+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как списать долг с контрагента",
+      "file": "kak-spisat-dolg-s-kontragenta.md",
+      "sha": "cabea6a50e297834794ccdbf2b14b05f29d22f48",
+      "title": "Как списать долг с контрагента",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:37:36+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как сформировать акт сверки взаиморасчетов",
+      "file": "kak-sformirovat-akt-sverki-vzaimoraschetov.md",
+      "sha": "f3a29749c053437f1c38f3ca780a0e01ddc49d02",
+      "title": "Как сформировать акт сверки взаиморасчетов",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:37:36+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как сформировать ведомость по взаиморасчетам",
+      "file": "kak-sformirovat-vedomost-po-vzaimoraschetam.md",
+      "sha": "cb415d505222467a52e6fee1b438f66df0ef9ad3",
+      "title": "Как сформировать ведомость по взаиморасчетам",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2025-10-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:37:36+03:00",
+      "reading_time": 4
+    },
+    {
       "path": "lessons/Урок 16. Учет денежных средств/Как ввести начальные остатки по кассе и банку",
       "file": "kak-vvesti-nachalnye-ostatki-po-kasse-i-banku.md",
       "sha": "77a570c36424e48295859f44bc4fa79368b21e51",
@@ -945,54 +1005,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 1
-    },
-    {
-      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как ввести начальные остатки взаиморасчетов",
-      "file": "kak-vvesti-nachalnye-ostatki-vzaimoraschetov.md",
-      "sha": "4c403f0ab24c62170543e58aa6699e4472e0c57d",
-      "title": "Как ввести начальные остатки взаиморасчетов",
-      "type": "lessons",
-      "order": 3,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 2
-    },
-    {
-      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как отразить авансовый отчет сотрудника",
-      "file": "kak-otrazit-avansovyy-otchet-sotrudnika.md",
-      "sha": "3d7cedd27d8b613b2497083f920d05190fe40bd7",
-      "title": "Как отразить авансовый отчет сотрудника",
-      "type": "lessons",
-      "order": 2,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 4
-    },
-    {
-      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как списать долг с контрагента",
-      "file": "kak-spisat-dolg-s-kontragenta.md",
-      "sha": "cabea6a50e297834794ccdbf2b14b05f29d22f48",
-      "title": "Как списать долг с контрагента",
-      "type": "lessons",
-      "order": 1,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 2
-    },
-    {
-      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как сформировать акт сверки взаиморасчетов",
-      "file": "kak-sformirovat-akt-sverki-vzaimoraschetov.md",
-      "sha": "f3a29749c053437f1c38f3ca780a0e01ddc49d02",
-      "title": "Как сформировать акт сверки взаиморасчетов",
-      "type": "lessons",
-      "order": 0,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 2
     },
     {
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
@@ -7691,18 +7703,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как сформировать ведомость по взаиморасчетам",
-      "file": "kak-sformirovat-vedomost-po-vzaimoraschetam.md",
-      "sha": "cb415d505222467a52e6fee1b438f66df0ef9ad3",
-      "title": "Как сформировать ведомость по взаиморасчетам",
-      "type": "lessons",
-      "order": 4,
-      "updated_at": "2025-10-31",
-      "date_kind": "updated",
-      "added_at": "2025-10-31",
-      "reading_time": 4
     }
   ]
 }
