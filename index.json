@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T08:35:41+03:00",
+  "generated_at": "2026-09-14T08:43:53+03:00",
   "count": 540,
   "sections": {
     "tips": [
@@ -599,7 +599,7 @@
     {
       "path": "lessons/Урок 12. Уведомления/Как изменить всплывающее окно уведомлений",
       "file": "kak-izmenit-vsplyvayuschee-okno-uvedomleniy.md",
-      "sha": "3c339b360e3705a12d9235ac4179d5ecbb915288",
+      "sha": "1ed5865f78ae770d5538c65137a3c5fbd2928455",
       "title": "Как изменить всплывающее окно уведомлений",
       "type": "lessons",
       "order": 2,
