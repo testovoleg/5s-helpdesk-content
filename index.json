@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:42:19+03:00",
+  "generated_at": "2026-09-14T10:43:35+03:00",
   "count": 569,
   "sections": {
     "tips": [
@@ -599,11 +599,11 @@
     {
       "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как ввести начальные остатки взаиморасчетов",
       "file": "kak-vvesti-nachalnye-ostatki-vzaimoraschetov.md",
-      "sha": "4c403f0ab24c62170543e58aa6699e4472e0c57d",
+      "sha": "e368f0672c97a645bb62302e81174a18b3ced587",
       "title": "Как ввести начальные остатки взаиморасчетов",
       "type": "lessons",
       "order": 3,
-      "updated_at": "2026-09-14",
+      "updated_at": "2022-07-11",
       "date_kind": "updated",
       "added_at": "2026-09-14T10:37:36+03:00",
       "reading_time": 2
@@ -611,11 +611,11 @@
     {
       "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как отразить авансовый отчет сотрудника",
       "file": "kak-otrazit-avansovyy-otchet-sotrudnika.md",
-      "sha": "3d7cedd27d8b613b2497083f920d05190fe40bd7",
+      "sha": "b29029e38de7f5bddce4f9dfaee7ad8bf1ca0927",
       "title": "Как отразить авансовый отчет сотрудника",
       "type": "lessons",
       "order": 2,
-      "updated_at": "2026-09-14",
+      "updated_at": "2022-07-11",
       "date_kind": "updated",
       "added_at": "2026-09-14T10:37:36+03:00",
       "reading_time": 4
@@ -623,11 +623,11 @@
     {
       "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как списать долг с контрагента",
       "file": "kak-spisat-dolg-s-kontragenta.md",
-      "sha": "cabea6a50e297834794ccdbf2b14b05f29d22f48",
+      "sha": "6ed8f69be2d309c7ded6f0a27aaab662bd089d56",
       "title": "Как списать долг с контрагента",
       "type": "lessons",
       "order": 1,
-      "updated_at": "2026-09-14",
+      "updated_at": "2022-07-11",
       "date_kind": "updated",
       "added_at": "2026-09-14T10:37:36+03:00",
       "reading_time": 2
@@ -635,11 +635,11 @@
     {
       "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как сформировать акт сверки взаиморасчетов",
       "file": "kak-sformirovat-akt-sverki-vzaimoraschetov.md",
-      "sha": "f3a29749c053437f1c38f3ca780a0e01ddc49d02",
+      "sha": "2ab8ed1decf724dee0d785190d5e8e68b9222cfa",
       "title": "Как сформировать акт сверки взаиморасчетов",
       "type": "lessons",
       "order": 0,
-      "updated_at": "2026-09-14",
+      "updated_at": "2026-07-29",
       "date_kind": "updated",
       "added_at": "2026-09-14T10:37:36+03:00",
       "reading_time": 2

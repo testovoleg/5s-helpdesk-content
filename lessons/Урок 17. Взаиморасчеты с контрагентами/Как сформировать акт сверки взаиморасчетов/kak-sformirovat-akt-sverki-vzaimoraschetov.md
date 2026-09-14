@@ -1,6 +1,6 @@
 # Как сформировать акт сверки взаиморасчетов
 
-<table><tr><td><b>Время чтения:</b> 2 мин.</td><td><b>Обновлено:</b> 14.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 2 мин.</td><td><b>Обновлено:</b> 29.07.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/kak-sformirovat-akt-sverki-vzaimoraschetov</sub>
 
@@ -25,6 +25,8 @@
 ![Акт сверки взаиморасчетов - Печать](attachments/04-akt-sverki-vzaimoraschetov-pechat.png)
 
 Открывается печатная форма *Акта сверки взаиморасчетов*:
+
+![Акт сверки взаиморасчетов - Печатная форма](attachments/05-akt-sverki-vzaimoraschetov-pechatnaya-forma.png)
 
 ---
 
