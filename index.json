@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T08:28:32+03:00",
-  "count": 535,
+  "generated_at": "2026-09-14T08:43:53+03:00",
+  "count": 540,
   "sections": {
     "tips": [
       {
@@ -596,6 +596,66 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Урок 12. Уведомления/Как изменить всплывающее окно уведомлений",
+      "file": "kak-izmenit-vsplyvayuschee-okno-uvedomleniy.md",
+      "sha": "1ed5865f78ae770d5538c65137a3c5fbd2928455",
+      "title": "Как изменить всплывающее окно уведомлений",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T08:31:48+03:00",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 12. Уведомления/Как настроить уведомления",
+      "file": "kak-nastroit-uvedomleniya.md",
+      "sha": "57ef0a6f85b78cefe4d7efdb7567729afa3854ef",
+      "title": "Как настроить уведомления",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T08:31:48+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 12. Уведомления/Как подписаться на уведомление",
+      "file": "kak-podpisatsya-na-uvedomlenie.md",
+      "sha": "3f362d97fb74ddaad5d9641a1168f546917b82ae",
+      "title": "Как подписаться на уведомление",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T08:31:48+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 12. Уведомления/Как получать уведомления в Telegram",
+      "file": "kak-poluchat-uvedomleniya-v-telegram.md",
+      "sha": "11c981435eb7f86e76f0d48b670d85c52d3d4578",
+      "title": "Как получать уведомления в Telegram",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2022-11-09",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T08:31:48+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 12. Уведомления/Практическое задание по работе с Уведомлениями",
+      "file": "prakticheskoe-zadanie-po-rabote-s-uvedomleniyami.md",
+      "sha": "97c51b1ff1f27f6a7e068e10c604d39edb4b0701",
+      "title": "Практическое задание по работе с Уведомлениями",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T08:31:48+03:00",
+      "reading_time": 1
+    },
     {
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
       "file": "kak-rasshifrovat-avtomobil-po-vin.md",
@@ -1860,7 +1920,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Перечень используемых Вебхуков (Webhooks)",
       "file": "perechen-ispolzuemykh-vebkhukov-webhooks-neaktualnyy-material.md",
-      "sha": "ce87c7f4b27329c1fdbbc80db3e674211bdb0b88",
+      "sha": "3950e7d966c6285e21305afad7b9ea3a049fbe79",
       "title": "Перечень используемых Вебхуков (Webhooks) (неактуальный материал)",
       "type": "articles",
       "order": 25,
@@ -1873,7 +1933,7 @@
     {
       "path": "articles/5S AUTO/Задачи/Работа с задачами",
       "file": "rabota-s-zadachami.md",
-      "sha": "d425fbe58140e660ae0d55afc77e117cea4bf192",
+      "sha": "765af75461c9781bc4ae223a41f371dfa6743ad4",
       "title": "Работа с задачами",
       "type": "articles",
       "order": 3,
@@ -1938,7 +1998,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "4f93c8691758314b17ffb70e720c3c8bf1fdf258",
+      "sha": "84c243c3f545453ce4cafa4d1d9c0df06ccf2711",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -6594,7 +6654,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "file": "spravochnik-oborudovanie.md",
-      "sha": "d0413a823aeb53538c7537d34fcd8103f2ea168f",
+      "sha": "82b05f75c52587b618332c02a053056e775b6f57",
       "title": "Справочник «Оборудование»",
       "type": "articles",
       "order": 1,
@@ -6650,7 +6710,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
       "file": "integraciya-s-audatex.md",
-      "sha": "f8430023b742e21a344822aa98072862c5aaa0d2",
+      "sha": "3dd316b5d41d7e2df6cb56d88f989e04e0308c2f",
       "title": "Интеграция с Audatex (AudaPad Web)",
       "type": "articles",
       "order": 19,
@@ -6739,7 +6799,7 @@
     {
       "path": "tips/Техподдержка/Проблема с подключением к серверу — ошибка приложения",
       "file": "problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya.md",
-      "sha": "109aaf6abdb1ae0101880d1f5f4ca3fbfaa5f79c",
+      "sha": "75f07af7177465a3eedc73bd572b778f2542d1ac",
       "title": "Проблема с подключением к серверу — ошибка приложения",
       "type": "tips",
       "order": 0,
@@ -6805,7 +6865,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
       "file": "udalenie-starykh-dannykh.md",
-      "sha": "bb28531ed0a24baa6423bdbc8a5aaab5916e7b09",
+      "sha": "37ae4fa5de627fa8424bdca3e982dedf1540f5a8",
       "title": "Удаление старых данных программы",
       "type": "articles",
       "order": 24,
