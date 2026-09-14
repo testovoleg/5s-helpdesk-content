@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:22:17+03:00",
+  "generated_at": "2026-09-14T10:24:16+03:00",
   "count": 564,
   "sections": {
     "tips": [
@@ -635,7 +635,7 @@
     {
       "path": "lessons/Урок 16. Учет денежных средств/Как отразить операции по банковскому счету",
       "file": "kak-otrazit-operacii-po-bankovskomu-schetu.md",
-      "sha": "8d9ffb6374cac147faca57475f28d2c042dc15a5",
+      "sha": "fff89f0797f6b2adb16897b2cd801ee40fbfcfec",
       "title": "Как отразить операции по банковскому счету",
       "type": "lessons",
       "order": 0,
