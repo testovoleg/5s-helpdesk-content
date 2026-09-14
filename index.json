@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:05:28+03:00",
+  "generated_at": "2026-09-14T12:06:44+03:00",
   "count": 594,
   "sections": {
     "tips": [
@@ -597,6 +597,19 @@
   },
   "materials": [
     {
+      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Печать Заказ-наряда",
+      "file": "pechat-zakaz-naryada.md",
+      "sha": "d67020a884b4e54f4f3b3d1159ddeff78c809934",
+      "title": "Печать Заказ-наряда",
+      "type": "lessons",
+      "order": 12,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T12:05:11+03:00",
+      "reading_time": 2,
+      "hidden": true
+    },
+    {
       "path": "lessons/Урок 21. Гарантийная политика/Как настроить виды гарантий",
       "file": "kak-nastroit-vidy-garantiy.md",
       "sha": "769e378eaea58eda6ca9ef0bf9466f4d28d1e90a",
@@ -623,7 +636,7 @@
     {
       "path": "lessons/Урок 21. Гарантийная политика/Как установить гарантии по умолчанию",
       "file": "kak-ustanovit-garantii-po-umolchaniyu.md",
-      "sha": "97b19fe647647aea226d3f15dcd2299cd77ae3d5",
+      "sha": "861b2cce8423a8ef873bcf9171570a20d26996a1",
       "title": "Как установить гарантии по умолчанию",
       "type": "lessons",
       "order": 2,
@@ -1293,19 +1306,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 1
-    },
-    {
-      "path": "lessons/Урок 10. Работа с Заказ-нарядами/Печать Заказ-наряда",
-      "file": "pechat-zakaz-naryada.md",
-      "sha": "d67020a884b4e54f4f3b3d1159ddeff78c809934",
-      "title": "Печать Заказ-наряда",
-      "type": "lessons",
-      "order": 12,
-      "updated_at": "2026-09-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-14",
-      "reading_time": 2,
-      "hidden": true
     },
     {
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
