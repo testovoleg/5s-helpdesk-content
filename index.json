@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T10:33:26+03:00",
-  "count": 564,
+  "generated_at": "2026-09-14T10:55:16+03:00",
+  "count": 569,
   "sections": {
     "tips": [
       {
@@ -596,6 +596,66 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как ввести начальные остатки взаиморасчетов",
+      "file": "kak-vvesti-nachalnye-ostatki-vzaimoraschetov.md",
+      "sha": "e368f0672c97a645bb62302e81174a18b3ced587",
+      "title": "Как ввести начальные остатки взаиморасчетов",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:37:36+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как отразить авансовый отчет сотрудника",
+      "file": "kak-otrazit-avansovyy-otchet-sotrudnika.md",
+      "sha": "116c6329b05e1e1f75b197616fa203b3ed880011",
+      "title": "Как отразить авансовый отчет сотрудника",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:37:36+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как списать долг с контрагента",
+      "file": "kak-spisat-dolg-s-kontragenta.md",
+      "sha": "6ed8f69be2d309c7ded6f0a27aaab662bd089d56",
+      "title": "Как списать долг с контрагента",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:37:36+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как сформировать акт сверки взаиморасчетов",
+      "file": "kak-sformirovat-akt-sverki-vzaimoraschetov.md",
+      "sha": "2ab8ed1decf724dee0d785190d5e8e68b9222cfa",
+      "title": "Как сформировать акт сверки взаиморасчетов",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2026-07-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:37:36+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 17. Взаиморасчеты с контрагентами/Как сформировать ведомость по взаиморасчетам",
+      "file": "kak-sformirovat-vedomost-po-vzaimoraschetam.md",
+      "sha": "5439e937659f1bfdc6fee9a1f99a050c4539f923",
+      "title": "Как сформировать ведомость по взаиморасчетам",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2025-10-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:37:36+03:00",
+      "reading_time": 4
+    },
     {
       "path": "lessons/Урок 16. Учет денежных средств/Как ввести начальные остатки по кассе и банку",
       "file": "kak-vvesti-nachalnye-ostatki-po-kasse-i-banku.md",
@@ -2210,7 +2270,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Перечень используемых Вебхуков (Webhooks)",
       "file": "perechen-ispolzuemykh-vebkhukov-webhooks-neaktualnyy-material.md",
-      "sha": "ce87c7f4b27329c1fdbbc80db3e674211bdb0b88",
+      "sha": "3950e7d966c6285e21305afad7b9ea3a049fbe79",
       "title": "Перечень используемых Вебхуков (Webhooks) (неактуальный материал)",
       "type": "articles",
       "order": 25,
@@ -2223,7 +2283,7 @@
     {
       "path": "articles/5S AUTO/Задачи/Работа с задачами",
       "file": "rabota-s-zadachami.md",
-      "sha": "d425fbe58140e660ae0d55afc77e117cea4bf192",
+      "sha": "765af75461c9781bc4ae223a41f371dfa6743ad4",
       "title": "Работа с задачами",
       "type": "articles",
       "order": 3,
@@ -2288,7 +2348,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "0e5a3c6500cbbc24d2cbcaf1931370a9862659ee",
+      "sha": "5724661849473c44e9faf8792a93a7535a7994f5",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -6944,7 +7004,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "file": "spravochnik-oborudovanie.md",
-      "sha": "d0413a823aeb53538c7537d34fcd8103f2ea168f",
+      "sha": "82b05f75c52587b618332c02a053056e775b6f57",
       "title": "Справочник «Оборудование»",
       "type": "articles",
       "order": 1,
@@ -7000,7 +7060,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
       "file": "integraciya-s-audatex.md",
-      "sha": "f8430023b742e21a344822aa98072862c5aaa0d2",
+      "sha": "3dd316b5d41d7e2df6cb56d88f989e04e0308c2f",
       "title": "Интеграция с Audatex (AudaPad Web)",
       "type": "articles",
       "order": 19,
@@ -7089,7 +7149,7 @@
     {
       "path": "tips/Техподдержка/Проблема с подключением к серверу — ошибка приложения",
       "file": "problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya.md",
-      "sha": "109aaf6abdb1ae0101880d1f5f4ca3fbfaa5f79c",
+      "sha": "75f07af7177465a3eedc73bd572b778f2542d1ac",
       "title": "Проблема с подключением к серверу — ошибка приложения",
       "type": "tips",
       "order": 0,
@@ -7155,7 +7215,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
       "file": "udalenie-starykh-dannykh.md",
-      "sha": "bb28531ed0a24baa6423bdbc8a5aaab5916e7b09",
+      "sha": "37ae4fa5de627fa8424bdca3e982dedf1540f5a8",
       "title": "Удаление старых данных программы",
       "type": "articles",
       "order": 24,
