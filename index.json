@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:06:44+03:00",
+  "generated_at": "2026-09-14T12:07:46+03:00",
   "count": 594,
   "sections": {
     "tips": [
@@ -599,11 +599,11 @@
     {
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Печать Заказ-наряда",
       "file": "pechat-zakaz-naryada.md",
-      "sha": "d67020a884b4e54f4f3b3d1159ddeff78c809934",
+      "sha": "757cf54ba03a0760413278eb25f8653e92b8c53f",
       "title": "Печать Заказ-наряда",
       "type": "lessons",
       "order": 12,
-      "updated_at": "2026-09-14",
+      "updated_at": "2024-09-16",
       "date_kind": "updated",
       "added_at": "2026-09-14T12:05:11+03:00",
       "reading_time": 2,
