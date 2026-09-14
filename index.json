@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:00:11+03:00",
+  "generated_at": "2026-09-14T10:04:59+03:00",
   "count": 556,
   "sections": {
     "tips": [
@@ -599,7 +599,7 @@
     {
       "path": "lessons/Урок 15. Работа с кассой ККМ/Как закрыть смену",
       "file": "kak-zakryt-smenu.md",
-      "sha": "2c628f233dfe94bf5d66ac786444ac171155c190",
+      "sha": "5d7faed313058ef0b8d5509521b180bccd8546d8",
       "title": "Как закрыть смену",
       "type": "lessons",
       "order": 2,
