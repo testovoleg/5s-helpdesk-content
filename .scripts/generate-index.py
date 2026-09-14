@@ -253,6 +253,13 @@ RE_TABLE = re.compile(
 )
 
 
+# У тестов на проверку знаний вместо времени чтения — время прохождения
+# (Катя, 14.09.2026): <b>Время прохождения:</b> 30 мин. | не ограничено
+RE_TEST = re.compile(
+    r"(?m)^<table><tr><td><b>Время прохождения:</b> (.+?)</td></tr></table>"
+)
+
+
 def extract_meta(md_path: Path) -> dict:
     """Служебные строки под заголовком: время чтения и дата обновления.
     Их ведет .scripts/update-meta.py."""
@@ -262,6 +269,12 @@ def extract_meta(md_path: Path) -> dict:
         return {}
 
     meta: dict = {}
+
+    m = RE_TEST.search(text)
+    if m:
+        mins = re.match(r"(\d+) мин", m.group(1))
+        # None — время прохождения не ограничено
+        meta["test_time"] = int(mins.group(1)) if mins else None
 
     one = RE_ONELINE.search(text) or RE_TABLE.search(text)
     if one:
@@ -395,6 +408,9 @@ def collect_materials() -> list[dict]:
             }
             if meta.get("reading_time"):
                 material["reading_time"] = meta["reading_time"]
+            if "test_time" in meta:
+                # тест: минуты на прохождение, null — не ограничено
+                material["test_time"] = meta["test_time"]
             if p.name in read_hidden(p.parent):
                 material["hidden"] = True
             if rel in borrowed:

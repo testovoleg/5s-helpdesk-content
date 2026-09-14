@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T15:29:37+03:00",
+  "generated_at": "2026-09-14T15:31:30+03:00",
   "count": 625,
   "sections": {
     "tips": [
@@ -605,7 +605,8 @@
       "order": 3,
       "updated_at": "2026-09-14T15:19:16+03:00",
       "date_kind": "updated",
-      "added_at": "2026-09-14T15:10:14+03:00"
+      "added_at": "2026-09-14T15:10:14+03:00",
+      "test_time": 30
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 05.2025",
@@ -616,7 +617,8 @@
       "order": 6,
       "updated_at": "2026-09-14T15:19:16+03:00",
       "date_kind": "updated",
-      "added_at": "2026-09-14T15:10:14+03:00"
+      "added_at": "2026-09-14T15:10:14+03:00",
+      "test_time": 30
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 07.2023",
@@ -627,7 +629,8 @@
       "order": 4,
       "updated_at": "2026-09-14T15:19:16+03:00",
       "date_kind": "updated",
-      "added_at": "2026-09-14T15:10:14+03:00"
+      "added_at": "2026-09-14T15:10:14+03:00",
+      "test_time": 30
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 08.2024",
@@ -638,7 +641,8 @@
       "order": 5,
       "updated_at": "2026-09-14T15:19:16+03:00",
       "date_kind": "updated",
-      "added_at": "2026-09-14T15:10:14+03:00"
+      "added_at": "2026-09-14T15:10:14+03:00",
+      "test_time": 30
     },
     {
       "path": "lessons/Тесты на проверку знаний/Базовый тест по теме «CRM»",
@@ -649,7 +653,8 @@
       "order": 1,
       "updated_at": "2026-09-14T15:18:39+03:00",
       "date_kind": "updated",
-      "added_at": "2026-09-14T15:10:13+03:00"
+      "added_at": "2026-09-14T15:10:13+03:00",
+      "test_time": 30
     },
     {
       "path": "lessons/Тесты на проверку знаний/Общий тест по всем урокам",
@@ -660,7 +665,8 @@
       "order": 0,
       "updated_at": "2026-09-14T15:18:39+03:00",
       "date_kind": "updated",
-      "added_at": "2026-09-14T15:10:13+03:00"
+      "added_at": "2026-09-14T15:10:13+03:00",
+      "test_time": null
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 01.2023",
@@ -671,7 +677,8 @@
       "order": 2,
       "updated_at": "2026-09-14T15:19:16+03:00",
       "date_kind": "updated",
-      "added_at": "2026-09-14T15:10:13+03:00"
+      "added_at": "2026-09-14T15:10:13+03:00",
+      "test_time": 30
     },
     {
       "path": "lessons/Урок 28. Учет основных средств и инструмента/Как ввести начальные остатки активов",
@@ -2924,7 +2931,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Перечень используемых Вебхуков (Webhooks)",
       "file": "perechen-ispolzuemykh-vebkhukov-webhooks-neaktualnyy-material.md",
-      "sha": "ce87c7f4b27329c1fdbbc80db3e674211bdb0b88",
+      "sha": "3950e7d966c6285e21305afad7b9ea3a049fbe79",
       "title": "Перечень используемых Вебхуков (Webhooks) (неактуальный материал)",
       "type": "articles",
       "order": 25,
@@ -2937,7 +2944,7 @@
     {
       "path": "articles/5S AUTO/Задачи/Работа с задачами",
       "file": "rabota-s-zadachami.md",
-      "sha": "d425fbe58140e660ae0d55afc77e117cea4bf192",
+      "sha": "765af75461c9781bc4ae223a41f371dfa6743ad4",
       "title": "Работа с задачами",
       "type": "articles",
       "order": 3,
@@ -3002,7 +3009,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "007b835da715ae304d177c7f62b314ca6dc976bd",
+      "sha": "f91f413d9eb1539d3664ca906ee2d7b5b4a4f878",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -7670,7 +7677,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "file": "spravochnik-oborudovanie.md",
-      "sha": "d0413a823aeb53538c7537d34fcd8103f2ea168f",
+      "sha": "82b05f75c52587b618332c02a053056e775b6f57",
       "title": "Справочник «Оборудование»",
       "type": "articles",
       "order": 1,
@@ -7726,7 +7733,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
       "file": "integraciya-s-audatex.md",
-      "sha": "f8430023b742e21a344822aa98072862c5aaa0d2",
+      "sha": "3dd316b5d41d7e2df6cb56d88f989e04e0308c2f",
       "title": "Интеграция с Audatex (AudaPad Web)",
       "type": "articles",
       "order": 19,
@@ -7815,7 +7822,7 @@
     {
       "path": "tips/Техподдержка/Проблема с подключением к серверу — ошибка приложения",
       "file": "problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya.md",
-      "sha": "109aaf6abdb1ae0101880d1f5f4ca3fbfaa5f79c",
+      "sha": "75f07af7177465a3eedc73bd572b778f2542d1ac",
       "title": "Проблема с подключением к серверу — ошибка приложения",
       "type": "tips",
       "order": 0,
@@ -7881,7 +7888,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
       "file": "udalenie-starykh-dannykh.md",
-      "sha": "bb28531ed0a24baa6423bdbc8a5aaab5916e7b09",
+      "sha": "37ae4fa5de627fa8424bdca3e982dedf1540f5a8",
       "title": "Удаление старых данных программы",
       "type": "articles",
       "order": 24,
