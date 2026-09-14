@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T17:30:38+03:00",
-  "count": 535,
+  "generated_at": "2026-09-14T08:32:18+03:00",
+  "count": 540,
   "sections": {
     "tips": [
       {
@@ -596,6 +596,66 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Урок 12. Уведомления/Как изменить всплывающее окно уведомлений",
+      "file": "kak-izmenit-vsplyvayuschee-okno-uvedomleniy.md",
+      "sha": "92953f7a139faccd2cf01a3e94f00026b84fc0f3",
+      "title": "Как изменить всплывающее окно уведомлений",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 12. Уведомления/Как настроить уведомления",
+      "file": "kak-nastroit-uvedomleniya.md",
+      "sha": "e17c53853c39cd8eaec8efacf3527436415c7e74",
+      "title": "Как настроить уведомления",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 12. Уведомления/Как подписаться на уведомление",
+      "file": "kak-podpisatsya-na-uvedomlenie.md",
+      "sha": "e34a3b0ab015f8c00ea43d08b6555fd30493c843",
+      "title": "Как подписаться на уведомление",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 12. Уведомления/Как получать уведомления в Telegram",
+      "file": "kak-poluchat-uvedomleniya-v-telegram.md",
+      "sha": "6f4506a690865e6ba447ce058a32649a8ce2aff8",
+      "title": "Как получать уведомления в Telegram",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 12. Уведомления/Практическое задание по работе с Уведомлениями",
+      "file": "prakticheskoe-zadanie-po-rabote-s-uvedomleniyami.md",
+      "sha": "7656200fe127d35cbfc2e07af3dd4a11048344ae",
+      "title": "Практическое задание по работе с Уведомлениями",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 1
+    },
     {
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
       "file": "kak-rasshifrovat-avtomobil-po-vin.md",
