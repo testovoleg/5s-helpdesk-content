@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T13:33:08+03:00",
-  "count": 597,
+  "generated_at": "2026-09-14T13:41:34+03:00",
+  "count": 601,
   "sections": {
     "tips": [
       {
@@ -1330,6 +1330,54 @@
       "date_kind": "updated",
       "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 23. Расчет зарплаты/Как выплатить зарплату",
+      "file": "kak-vyplatit-zarplatu.md",
+      "sha": "11b8fa1b9aacb3075ba151e86b63118b1adcbd19",
+      "title": "Как выплатить зарплату",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 23. Расчет зарплаты/Как добавить начисления сотруднику",
+      "file": "kak-dobavit-nachisleniya-sotrudniku.md",
+      "sha": "5dab4feb2081aa01b30021411ed5946fb4cc2ba0",
+      "title": "Как добавить начисления сотруднику",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 23. Расчет зарплаты/Как начислить зарплату",
+      "file": "kak-nachislit-zarplatu.md",
+      "sha": "520a2751f98e6ca991d6011140be46e13ec87155",
+      "title": "Как начислить зарплату",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 23. Расчет зарплаты/Как отразить выплату зарплаты",
+      "file": "kak-otrazit-vyplatu-zarplaty.md",
+      "sha": "3a5a2d2d0d11bd722a79dd6d67aa4e61bf763cbf",
+      "title": "Как отразить выплату зарплаты",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 2
     },
     {
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
