@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T13:29:23+03:00",
+  "generated_at": "2026-09-14T13:33:08+03:00",
   "count": 597,
   "sections": {
     "tips": [
@@ -599,7 +599,7 @@
     {
       "path": "lessons/Урок 22. Пользователи и права/Как изменить пароль пользователю",
       "file": "kak-izmenit-parol-polzovatelyu.md",
-      "sha": "29542a7c777e03b5780ac5e0f115aad360603b02",
+      "sha": "ac26671b0545193be1d3b0150997a2b6ff395c36",
       "title": "Как изменить пароль пользователю",
       "type": "lessons",
       "order": 2,
