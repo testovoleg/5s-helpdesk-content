@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T13:25:44+03:00",
+  "generated_at": "2026-09-14T13:29:23+03:00",
   "count": 597,
   "sections": {
     "tips": [
@@ -611,7 +611,7 @@
     {
       "path": "lessons/Урок 22. Пользователи и права/Как изменить права сотруднику",
       "file": "kak-izmenit-prava-sotrudniku.md",
-      "sha": "3e8a3a2e51e295677b42442c2ab377950b9fed3c",
+      "sha": "008510d9082d837e65ce9d16f1d47090c2ce4ba6",
       "title": "Как изменить права сотруднику",
       "type": "lessons",
       "order": 1,
