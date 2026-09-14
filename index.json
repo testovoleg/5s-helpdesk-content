@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:04:59+03:00",
+  "generated_at": "2026-09-14T10:07:34+03:00",
   "count": 556,
   "sections": {
     "tips": [
@@ -635,7 +635,7 @@
     {
       "path": "lessons/Урок 15. Работа с кассой ККМ/Как сформировать обороты по кассе",
       "file": "kak-sformirovat-oboroty-po-kasse.md",
-      "sha": "2619b8b41406c4e69d9e479fb3fce3b0e4b5c05e",
+      "sha": "2cf0c6326d2b6e933ecb275ab3f94d3b5f7930a0",
       "title": "Как сформировать обороты по кассе",
       "type": "lessons",
       "order": 3,
