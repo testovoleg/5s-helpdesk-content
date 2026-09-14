@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T14:38:30+03:00",
+  "generated_at": "2026-09-14T14:49:33+03:00",
   "count": 609,
   "sections": {
     "tips": [
@@ -596,6 +596,66 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Урок 27. Ценообразование/Как добавить НДС к стоимости документа продажи",
+      "file": "kak-dobavit-nds-k-stoimosti-dokumenta-prodazhi.md",
+      "sha": "3c721cfd7d72e99f2f2f7da8d163b9192316df50",
+      "title": "Как добавить НДС к стоимости документа продажи",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2025-12-19",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T14:38:10+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 27. Ценообразование/Как добавить тип цен",
+      "file": "kak-dobavit-tip-cen.md",
+      "sha": "b9f793b5a060791d30c2a9bf1fd914f95bc42621",
+      "title": "Как добавить тип цен",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2025-08-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T14:38:10+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 27. Ценообразование/Как настроить автоматическое формирование цен",
+      "file": "kak-nastroit-avtomaticheskoe-formirovanie-cen.md",
+      "sha": "9020f2e54b84154db5c773fe513263aa42a9e707",
+      "title": "Как настроить автоматическое формирование цен",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2025-09-18",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T14:38:10+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "lessons/Урок 27. Ценообразование/Как применять алгоритмы наценки",
+      "file": "kak-primenyat-algoritmy-nacenki.md",
+      "sha": "624cee009c5b8b1d85ea491a26144b2e95fe602c",
+      "title": "Как применять алгоритмы наценки",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2026-05-13",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T14:38:10+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 27. Ценообразование/Как создать алгоритм наценки",
+      "file": "kak-sozdat-algoritm-nacenki.md",
+      "sha": "c1eae5594bbcdd6627fd90b503a2dc6c0605c2b3",
+      "title": "Как создать алгоритм наценки",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2026-05-13",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T14:38:10+03:00",
+      "reading_time": 5
+    },
     {
       "path": "lessons/Урок 26. Перенос данных/Как загрузить данные клиентов",
       "file": "kak-zagruzit-dannye-klientov.md",
@@ -8124,66 +8184,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "lessons/Урок 27. Ценообразование/Как применять алгоритмы наценки",
-      "file": "kak-primenyat-algoritmy-nacenki.md",
-      "sha": "624cee009c5b8b1d85ea491a26144b2e95fe602c",
-      "title": "Как применять алгоритмы наценки",
-      "type": "lessons",
-      "order": 2,
-      "updated_at": "2026-05-13",
-      "date_kind": "updated",
-      "added_at": "2026-05-13",
-      "reading_time": 4
-    },
-    {
-      "path": "lessons/Урок 27. Ценообразование/Как создать алгоритм наценки",
-      "file": "kak-sozdat-algoritm-nacenki.md",
-      "sha": "c1eae5594bbcdd6627fd90b503a2dc6c0605c2b3",
-      "title": "Как создать алгоритм наценки",
-      "type": "lessons",
-      "order": 1,
-      "updated_at": "2026-05-13",
-      "date_kind": "updated",
-      "added_at": "2026-05-13",
-      "reading_time": 5
-    },
-    {
-      "path": "lessons/Урок 27. Ценообразование/Как добавить НДС к стоимости документа продажи",
-      "file": "kak-dobavit-nds-k-stoimosti-dokumenta-prodazhi.md",
-      "sha": "3c721cfd7d72e99f2f2f7da8d163b9192316df50",
-      "title": "Как добавить НДС к стоимости документа продажи",
-      "type": "lessons",
-      "order": 4,
-      "updated_at": "2025-12-19",
-      "date_kind": "updated",
-      "added_at": "2025-12-19",
-      "reading_time": 4
-    },
-    {
-      "path": "lessons/Урок 27. Ценообразование/Как настроить автоматическое формирование цен",
-      "file": "kak-nastroit-avtomaticheskoe-formirovanie-cen.md",
-      "sha": "577eb79a4ae0258ca1aad3430709088961043903",
-      "title": "Как настроить автоматическое формирование цен",
-      "type": "lessons",
-      "order": 3,
-      "updated_at": "2025-09-18",
-      "date_kind": "updated",
-      "added_at": "2025-09-18",
-      "reading_time": 5
-    },
-    {
-      "path": "lessons/Урок 27. Ценообразование/Как добавить тип цен",
-      "file": "kak-dobavit-tip-cen.md",
-      "sha": "b9f793b5a060791d30c2a9bf1fd914f95bc42621",
-      "title": "Как добавить тип цен",
-      "type": "lessons",
-      "order": 0,
-      "updated_at": "2025-08-29",
-      "date_kind": "updated",
-      "added_at": "2025-08-29",
-      "reading_time": 4
     }
   ]
 }
