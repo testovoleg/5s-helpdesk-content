@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T14:49:33+03:00",
-  "count": 609,
+  "generated_at": "2026-09-14T14:56:29+03:00",
+  "count": 618,
   "sections": {
     "tips": [
       {
@@ -2817,7 +2817,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "e0ba3afcd23b0ceea70fcf5ca908d042eda84772",
+      "sha": "7b21e822d17c701f3c2edbae884adf6962b0be22",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -8184,6 +8184,114 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как отразить инвентаризацию активов",
+      "file": "kak-otrazit-inventarizaciyu-aktivov.md",
+      "sha": "91f6e44d76fa8e4f1d40b4a0639221ebf18f0404",
+      "title": "Как отразить инвентаризацию активов",
+      "type": "lessons",
+      "order": 7,
+      "updated_at": "2024-09-26",
+      "date_kind": "updated",
+      "added_at": "2024-09-26",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как ввести начальные остатки активов",
+      "file": "kak-vvesti-nachalnye-ostatki-aktivov.md",
+      "sha": "aa73ba10db84528761220468091564d97fb28f75",
+      "title": "Как ввести начальные остатки активов",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как закрепить инструмент за сотрудником",
+      "file": "kak-zakrepit-instrument-za-sotrudnikom.md",
+      "sha": "057dda2aaf02cf419ac1b7df267892c4943e083a",
+      "title": "Как закрепить инструмент за сотрудником",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как начислить амортизацию",
+      "file": "kak-nachislit-amortizaciyu.md",
+      "sha": "ce05bf13eecccb5df22078acbb96256c33da04a0",
+      "title": "Как начислить амортизацию",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как отразить в учете обслуживание актива",
+      "file": "kak-otrazit-v-uchete-obsluzhivanie-aktiva.md",
+      "sha": "882a4e39bc6d96826fc48f24b43cc3b75418671d",
+      "title": "Как отразить в учете обслуживание актива",
+      "type": "lessons",
+      "order": 5,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 5
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как оформить перемещение актива",
+      "file": "kak-oformit-peremeschenie-aktiva.md",
+      "sha": "13aed78fc6fe636ca116db0f2e1a023e5a8f4cda",
+      "title": "Как оформить перемещение актива",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как оформить реализацию и списание активов",
+      "file": "kak-oformit-realizaciyu-i-spisanie-aktivov.md",
+      "sha": "4d5aa59c193421e48df8adabaec146957892e81b",
+      "title": "Как оформить реализацию и списание активов",
+      "type": "lessons",
+      "order": 8,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 6
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Как передать актив в эксплуатацию",
+      "file": "kak-peredat-aktiv-v-ekspluataciyu.md",
+      "sha": "f109b229b4a6b1839f560ad84699dc724e1bc9ec",
+      "title": "Как передать актив в эксплуатацию",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 7
+    },
+    {
+      "path": "lessons/Урок 28. Учет основных средств и инструмента/Что такое прочие активы",
+      "file": "chto-takoe-prochie-aktivy.md",
+      "sha": "9bf02957cb820f4e14ab0e320e3bf1038fdd26fe",
+      "title": "Что такое прочие активы",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2024-09-09",
+      "date_kind": "updated",
+      "added_at": "2024-09-09",
+      "reading_time": 6
     }
   ]
 }
