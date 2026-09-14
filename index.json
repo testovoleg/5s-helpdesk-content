@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:29:28+03:00",
+  "generated_at": "2026-09-14T10:31:37+03:00",
   "count": 564,
   "sections": {
     "tips": [
@@ -611,7 +611,7 @@
     {
       "path": "lessons/Урок 16. Учет денежных средств/Как добавить статью ДДС",
       "file": "kak-dobavit-statyu-dds.md",
-      "sha": "af756227659e1c85ed3bb0689d80745e568c0d45",
+      "sha": "adade6278dc089aa091ebb3446c1389f05c69b33",
       "title": "Как добавить статью ДДС",
       "type": "lessons",
       "order": 5,
