@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T14:16:47+03:00",
-  "count": 603,
+  "generated_at": "2026-09-14T14:21:57+03:00",
+  "count": 604,
   "sections": {
     "tips": [
       {
@@ -2745,7 +2745,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "d6b88a6358a154ff150138e59085804fac817504",
+      "sha": "a42a6eb108b82d2b2109d26ffd6b217ef8030fde",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -8112,6 +8112,18 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "lessons/Урок 26. Перенос данных/Как загрузить данные клиентов",
+      "file": "kak-zagruzit-dannye-klientov.md",
+      "sha": "a517c501a588d37a9b5117f492a0871627f54eba",
+      "title": "Как загрузить данные клиентов",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2026-01-15",
+      "date_kind": "updated",
+      "added_at": "2026-01-15",
+      "reading_time": 13
     }
   ]
 }
