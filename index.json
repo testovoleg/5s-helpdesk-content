@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T15:49:15+03:00",
+  "generated_at": "2026-09-14T16:24:31+03:00",
   "count": 625,
   "sections": {
     "tips": [
@@ -4629,7 +4629,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с MotorData",
       "file": "integraciya-s-motordata.md",
-      "sha": "996c932806861ceff5da68ac8db680833c944f69",
+      "sha": "56ef6c3b647ae7b7cf8e42730276766ad35939c5",
       "title": "Интеграция с MotorData",
       "type": "articles",
       "order": 17,
@@ -4665,7 +4665,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с сервисом Безбумажный офис F.Doc",
       "file": "integraciya-s-servisom-bezbumazhnyy-ofis-fdoc.md",
-      "sha": "96ea590ce8a46d0f1c70279056c11edb8dbb5468",
+      "sha": "7720e276a3dd5d94b84a8bfaca713af85525b001",
       "title": "Интеграция с сервисом \"Безбумажный офис F.Doc\"",
       "type": "articles",
       "order": 15,
@@ -5003,7 +5003,7 @@
     {
       "path": "articles/5S AUTO/Сообщения/Интеграция с Telegram",
       "file": "integraciya-s-telegram.md",
-      "sha": "1ad7bd35a8d2135ddd5ed67fd2ff9a6f7ef4ec39",
+      "sha": "7b53365395da98a4767581c87dad692aba8a6276",
       "title": "Интеграция с Telegram",
       "type": "articles",
       "order": 11,
