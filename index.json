@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:38:34+03:00",
+  "generated_at": "2026-09-14T11:42:02+03:00",
   "count": 590,
   "sections": {
     "tips": [
@@ -647,7 +647,7 @@
     {
       "path": "lessons/Урок 20. Диагностические анкеты/Как сделать калькуляцию по результатам диагностики",
       "file": "kak-sdelat-kalkulyaciyu-po-rezultatam-diagnostiki.md",
-      "sha": "85b1c97211803ca931a9712c30f069e0575f3af2",
+      "sha": "3c893c5a124c43ea00c89eb059443dbd0bce6782",
       "title": "Как сделать калькуляцию по результатам диагностики",
       "type": "lessons",
       "order": 3,
