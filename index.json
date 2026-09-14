@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T08:59:42+03:00",
-  "count": 544,
+  "generated_at": "2026-09-14T09:50:34+03:00",
+  "count": 552,
   "sections": {
     "tips": [
       {
@@ -596,6 +596,102 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как настроить бонусную систему",
+      "file": "kak-nastroit-bonusnuyu-sistemu.md",
+      "sha": "8d17e145eff519b082d1ba8d696c48096691d90c",
+      "title": "Как настроить бонусную систему",
+      "type": "lessons",
+      "order": 5,
+      "updated_at": "2026-07-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T09:04:30+03:00",
+      "reading_time": 12
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как начислить бонусы клиенту",
+      "file": "kak-nachislit-bonusy-klientu.md",
+      "sha": "dfb27179de80f2e489abacfaee4ca35ca12e7281",
+      "title": "Как начислить бонусы клиенту",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2025-06-06",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T09:04:30+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как объединить бонусные счета клиентов",
+      "file": "kak-obedinit-bonusnye-scheta-klientov.md",
+      "sha": "d25175b784bb8a17dc6c04be1f3ed4e3e6669372",
+      "title": "Как объединить бонусные счета клиентов",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2022-09-07",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T09:04:30+03:00",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как оплатить бонусами",
+      "file": "kak-oplatit-bonusami.md",
+      "sha": "c666027e88e9560fc6b49250fa57bdea4e1b2bda",
+      "title": "Как оплатить бонусами",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2022-08-29",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T09:04:30+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как посмотреть бонусы клиента",
+      "file": "kak-posmotret-bonusy-klienta.md",
+      "sha": "e010945befaa8b8b62bdc427286ec60bd05d97d7",
+      "title": "Как посмотреть бонусы клиента",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2025-06-06",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T09:04:30+03:00",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как создать бесплатную автоработу",
+      "file": "kak-sozdat-besplatnuyu-avtorabotu.md",
+      "sha": "ff6277b0781d98b68a9e23fff50b0b5cc100390a",
+      "title": "Как создать бесплатную автоработу",
+      "type": "lessons",
+      "order": 7,
+      "updated_at": "2022-09-21",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T09:04:30+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как создать скидку на документ",
+      "file": "kak-sozdat-skidku-na-dokument.md",
+      "sha": "a57a9cf81cfe60c6d0056c56af631b4e6717c478",
+      "title": "Как создать скидку на документ",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2025-10-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T09:04:30+03:00",
+      "reading_time": 7
+    },
+    {
+      "path": "lessons/Урок 14. Скидки и бонусы/Как создать скидку на строку",
+      "file": "kak-sozdat-skidku-na-stroku.md",
+      "sha": "a952ddb21a7f203ef1312ea952c45db5587ada5e",
+      "title": "Как создать скидку на строку",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2026-07-30",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T09:04:30+03:00",
+      "reading_time": 5
+    },
     {
       "path": "lessons/Урок 13. Управление качеством/Как зафиксировать жалобу клиента",
       "file": "kak-zafiksirovat-zhalobu-klienta.md",
@@ -1970,7 +2066,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Перечень используемых Вебхуков (Webhooks)",
       "file": "perechen-ispolzuemykh-vebkhukov-webhooks-neaktualnyy-material.md",
-      "sha": "ce87c7f4b27329c1fdbbc80db3e674211bdb0b88",
+      "sha": "3950e7d966c6285e21305afad7b9ea3a049fbe79",
       "title": "Перечень используемых Вебхуков (Webhooks) (неактуальный материал)",
       "type": "articles",
       "order": 25,
@@ -1983,7 +2079,7 @@
     {
       "path": "articles/5S AUTO/Задачи/Работа с задачами",
       "file": "rabota-s-zadachami.md",
-      "sha": "d425fbe58140e660ae0d55afc77e117cea4bf192",
+      "sha": "765af75461c9781bc4ae223a41f371dfa6743ad4",
       "title": "Работа с задачами",
       "type": "articles",
       "order": 3,
@@ -2048,7 +2144,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "4f93c8691758314b17ffb70e720c3c8bf1fdf258",
+      "sha": "7ad2e0dda0d4e81eb457ecda105e09dcac3430fc",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -2958,7 +3054,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Мастер настройки системы",
       "file": "master-nastroyki-sistemy.md",
-      "sha": "de655fbe5b04bdb27af095608e52ee6dc1420035",
+      "sha": "0c623a6c4f4b9c6942076fb727bdb3fcef467040",
       "title": "Мастер настройки системы",
       "type": "articles",
       "order": 19,
@@ -3202,7 +3298,7 @@
     {
       "path": "articles/5S AUTO/Управление качеством обслуживания/Опрос клиента о качестве обслуживания",
       "file": "opros-klienta-o-kachestve-obsluzhivaniya.md",
-      "sha": "fa19fc6804b8e8b8e10c6cbb09486b275bdf834c",
+      "sha": "69c81404a1d3d67971453a481f44293512a9de13",
       "title": "Опрос клиента о качестве обслуживания",
       "type": "articles",
       "order": 0,
@@ -3626,7 +3722,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с ABCP",
       "file": "integraciya-s-abcp.md",
-      "sha": "e091d8ff5cdf840e2ffa6f27383560ad58049c30",
+      "sha": "71490be0960a61103a75bbfb4d8f4d58c964f5f5",
       "title": "Интеграция с ABCP",
       "type": "articles",
       "order": 10,
@@ -3776,7 +3872,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Фотофиксации",
       "file": "fotofiksacii.md",
-      "sha": "40df6b9cf638f91f21a622d6583c58b9c6281f97",
+      "sha": "9bb40e303edaa4903f08754166dfea656bd644fd",
       "title": "Фотофиксации",
       "type": "articles",
       "order": 6,
@@ -4256,7 +4352,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/77Volvo",
       "file": "nastroyka-veb-servisa-77volvo.md",
-      "sha": "82c2edbfff4d17418391cbeba935469d5c57e3c2",
+      "sha": "e465755d0e5813fbc68974ce4323bfc208c25f86",
       "title": "Настройка Веб-сервиса 77Volvo",
       "type": "articles",
       "order": 0,
@@ -4268,7 +4364,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/ADEO.PRO",
       "file": "nastroyka-veb-servisa-adeopro.md",
-      "sha": "9d49edb9e3be57a247dd83288ded3e97f33d2fcd",
+      "sha": "8268d60f05b84052c44bbd5ec089d2ec72c5625f",
       "title": "Настройка Веб-сервиса ADEO.PRO",
       "type": "articles",
       "order": 3,
@@ -4280,7 +4376,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/AbsAuto (Абс-Авто)",
       "file": "nastroyka-veb-servisa-absauto-abs-avto.md",
-      "sha": "9fbf357c051f7a53bb2fabb3b85c0183814f6977",
+      "sha": "245d2053d922a31a96d3f0e068821963650a34e9",
       "title": "Настройка Веб-сервиса AbsAuto (Абс-Авто)",
       "type": "articles",
       "order": 2,
@@ -4292,7 +4388,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Allautoparts (Автостелс)",
       "file": "nastroyka-veb-servisa-allautoparts-avtostels.md",
-      "sha": "7717bca4910a5eee96bceb77bebddc5b1534d028",
+      "sha": "594366956439930d5280a3da32264eed6a8ddc2f",
       "title": "Настройка Веб-сервиса Allautoparts (Автостелс)",
       "type": "articles",
       "order": 4,
@@ -4304,7 +4400,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Armtek (Армтек)",
       "file": "nastroyka-veb-servisa-armtek-armtek.md",
-      "sha": "32ead09db835e1e3218b49f42d49ecbc95c963a8",
+      "sha": "62f1ab89be57dccb3502c6c9d88fcbb64eefef0b",
       "title": "Настройка Веб-сервиса Armtek (Армтек)",
       "type": "articles",
       "order": 5,
@@ -4328,7 +4424,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Auto-sputnik (Автоспутник)",
       "file": "nastroyka-veb-servisa-auto-sputnik-avtosputnik.md",
-      "sha": "3a0a7ed97869d790c453c4a239399d7b76e9b7f4",
+      "sha": "bceac224760e51e1977af8e78d885928fb9402f2",
       "title": "Настройка Веб-сервиса Auto-sputnik (Автоспутник)",
       "type": "articles",
       "order": 15,
@@ -4340,7 +4436,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Auto1.by (АвтоСпейс)",
       "file": "nastroyka-veb-servisa-auto1by-avtospeys.md",
-      "sha": "eca95254a3a7c2099756257c9ceb1dcf0ea1591b",
+      "sha": "6ecb3af87402de90be0e4ec7734f1b9d6ead62c5",
       "title": "Настройка Веб-сервиса Auto1.by (АвтоСпейс)",
       "type": "articles",
       "order": 7,
@@ -4352,7 +4448,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autobiz (Автобиз)",
       "file": "nastroyka-veb-servisa-autobiz-avtobiz.md",
-      "sha": "bdfcc2c8340cabeb345e8de93d77522f8e5c7056",
+      "sha": "137488f262e14cff0cefa916637f9c5e79098921",
       "title": "Настройка Веб-сервиса Autobiz (Автобиз)",
       "type": "articles",
       "order": 8,
@@ -4364,7 +4460,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autoeuro (Авто-Евро)",
       "file": "nastroyka-veb-servisa-autoeuro-avto-evro.md",
-      "sha": "4488cf75693cbd8f1b7b049cad26a76f60bd5f8a",
+      "sha": "dfdcf0ee3faad0a698ea25c3c2135e7f2c17ee25",
       "title": "Настройка Веб-сервиса Autoeuro (Авто-Евро)",
       "type": "articles",
       "order": 9,
@@ -4400,7 +4496,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autokontinent (Автоконтинент)",
       "file": "nastroyka-veb-servisa-autokontinent-avtokontinent.md",
-      "sha": "12c843faf339c1aa0a2293de795544a10641fe6a",
+      "sha": "bf52b6b85525edb7ce7550922ab430f7fb40bd28",
       "title": "Настройка Веб-сервиса Autokontinent (Автоконтинент)",
       "type": "articles",
       "order": 12,
@@ -4424,7 +4520,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autopiter (Автопитер)",
       "file": "nastroyka-veb-servisa-autopiter-avtopiter.md",
-      "sha": "074b6e644f14cb24bcd90590b7299240469a6976",
+      "sha": "ea6edfc21e67daabc6a4d1d1b2e6cedb30102d3d",
       "title": "Настройка Веб-сервиса Autopiter (Автопитер)",
       "type": "articles",
       "order": 14,
@@ -4436,7 +4532,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Autotrade (Автотрейд)",
       "file": "nastroyka-veb-servisa-autotrade-avtotreyd.md",
-      "sha": "4e5eb7c3ab5ddefa36302054fd1e161ae897deeb",
+      "sha": "920198c2224181c5a6dcaf0a25d165852874ed2c",
       "title": "Настройка Веб-сервиса Autotrade (Автотрейд)",
       "type": "articles",
       "order": 16,
@@ -4460,7 +4556,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/AvtoTO (АвтоТО)",
       "file": "nastroyka-veb-servisa-avtoto.md",
-      "sha": "0b060668a412712760a75705ed260ff8ff692f5f",
+      "sha": "47aab036843eac99e19cffb80864f9a0d4d9b3e3",
       "title": "Настройка Веб-сервиса AvtoTO",
       "type": "articles",
       "order": 20,
@@ -4472,7 +4568,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Avtogut (АвтоGüT)",
       "file": "nastroyka-veb-servisa-avtogut-avtogut.md",
-      "sha": "1b878f37eb87c9368cc60d9f2206a72cdd9f289d",
+      "sha": "9a6a77e7311c772998b07abadda80af34fb32fa7",
       "title": "Настройка Веб-сервиса Avtogut (АвтоGüT)",
       "type": "articles",
       "order": 18,
@@ -4484,7 +4580,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Avtogut 2 (АвтоGüT 2)",
       "file": "nastroyka-veb-servisa-avtogut-2-avtogut-2.md",
-      "sha": "68457879ae4f5b3d9ca5f1cc20423aee491b6479",
+      "sha": "86d6644a446ac4a3f76ee3d924ff6018eca713cb",
       "title": "Настройка Веб-сервиса Avtogut 2 (АвтоGüT 2)",
       "type": "articles",
       "order": 19,
@@ -4496,7 +4592,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Berg (Берг)",
       "file": "nastroyka-veb-servisa-berg-berg.md",
-      "sha": "ede3f7665a337b432b9b576831cec04ab3deefda",
+      "sha": "9ecef398115f5c33c67a3838c977d6fc63e38d44",
       "title": "Настройка Веб-сервиса Berg (Берг)",
       "type": "articles",
       "order": 21,
@@ -4508,7 +4604,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Emex (Эмекс)",
       "file": "nastroyka-veb-servisa-emex-emeks.md",
-      "sha": "6ddea47add1b8c947f58f93e83a2de33a681f5e5",
+      "sha": "792251a42ba44bb262b05c85b57f45433c6dbda4",
       "title": "Настройка Веб-сервиса Emex (Эмекс)",
       "type": "articles",
       "order": 22,
@@ -4520,7 +4616,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Emex Wdc (MegaPart)",
       "file": "nastroyka-veb-servisa-emex-wdc-megapart.md",
-      "sha": "18054b1d239ec885d716abf1c796bd6d66bce9bd",
+      "sha": "af3b46bd85038c2610a0f0f5040ce2385c9456f5",
       "title": "Настройка Веб-сервиса Emex Wdc (MegaPart)",
       "type": "articles",
       "order": 23,
@@ -4532,7 +4628,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Favorit (Фаворит)",
       "file": "nastroyka-veb-servisa-favorit-favorit.md",
-      "sha": "c7ac13c40224bcec221a88d3fca75ca7a7f1e033",
+      "sha": "484d51445eeca54afc29d89f255b011de2e5a13c",
       "title": "Настройка Веб-сервиса Favorit (Фаворит)",
       "type": "articles",
       "order": 24,
@@ -4544,7 +4640,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Forum-auto (Форум-Авто)",
       "file": "nastroyka-veb-servisa-forum-auto-forum-avto.md",
-      "sha": "bb990b9b13dc32da330b4e6c8d75a983f9052c1e",
+      "sha": "323b5545c2c2ba2e762991b0a9e2c50607c3b208",
       "title": "Настройка Веб-сервиса Forum-auto (Форум-Авто)",
       "type": "articles",
       "order": 25,
@@ -4556,7 +4652,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Ixora (Иксора)",
       "file": "nastroyka-veb-servisa-ixora-iksora.md",
-      "sha": "348a5ae48f93e8496d989a097c20ff468a3b0963",
+      "sha": "07dcc264b73ac608d4eb0644ea99d02e4141d8ba",
       "title": "Настройка Веб-сервиса Ixora (Иксора)",
       "type": "articles",
       "order": 26,
@@ -4568,7 +4664,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MParts (М Партс)",
       "file": "nastroyka-veb-servisa-mparts-m-parts.md",
-      "sha": "29c99c69f2926e1c946457122986a347ce7d5a0d",
+      "sha": "7236a365053a252d0c0f7829b4d8288b43b2f248",
       "title": "Настройка Веб-сервиса MParts (М Партс)",
       "type": "articles",
       "order": 30,
@@ -4604,7 +4700,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MX group",
       "file": "nastroyka-veb-servisa-mx-group.md",
-      "sha": "36558757ecd5a31a33730894c7bde6b44cf6a5c0",
+      "sha": "63a10908e0687762e797b31b640c98ad9ccef122",
       "title": "Настройка Веб-сервиса MX group",
       "type": "articles",
       "order": 33,
@@ -4616,7 +4712,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Major-auto (Мажор-Авто)",
       "file": "nastroyka-veb-servisa-major-auto-mazhor-avto.md",
-      "sha": "904a011c980bed4f793b054bf7c5032bf93d9ce7",
+      "sha": "9bcc91a53a437f9f9ee7a477bc5648fe1f1c6c8a",
       "title": "Настройка Веб-сервиса Major-auto (Мажор-Авто)",
       "type": "articles",
       "order": 27,
@@ -4628,7 +4724,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Mikado (Микадо)",
       "file": "nastroyka-veb-servisa-mikado-mikado.md",
-      "sha": "caaddc02aa43c32a12fda088d76ac8e61063d6e5",
+      "sha": "2250a493246afaa66237e3b968aa2025976dd264",
       "title": "Настройка Веб-сервиса Mikado (Микадо)",
       "type": "articles",
       "order": 28,
@@ -4640,7 +4736,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Moskvorechie (Москворечье)",
       "file": "nastroyka-veb-servisa-moskvorechie-moskvoreche.md",
-      "sha": "557e151591bc578d7c1f061fa01e32d9090436ae",
+      "sha": "7867837b81421294b28fc9c659f2af0aaf27cfc7",
       "title": "Настройка Веб-сервиса Moskvorechie (Москворечье)",
       "type": "articles",
       "order": 29,
@@ -4664,7 +4760,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Omega (Омега)",
       "file": "nastroyka-veb-servisa-omega-omega.md",
-      "sha": "6fb7ba78ffbd88fad8b64f08dd4e0b8c0e23caa6",
+      "sha": "1c01cbb90f874e682c2faa957f36a8eb8e6319be",
       "title": "Настройка Веб-сервиса Omega (Омега)",
       "type": "articles",
       "order": 35,
@@ -4676,7 +4772,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/PartKom (ПартКом)",
       "file": "nastroyka-veb-servisa-partkom-partkom.md",
-      "sha": "38a3136e79fb10acdd2a7b6fa5dd718a0c41784b",
+      "sha": "1bcedb854b6f0c820703ff62ad10dc79192e58e1",
       "title": "Настройка Веб-сервиса PartKom (ПартКом)",
       "type": "articles",
       "order": 36,
@@ -4700,7 +4796,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Phaeton.kz (Фаэтон КЗ)",
       "file": "nastroyka-veb-servisa-phaetonkz-faeton-kz.md",
-      "sha": "ff6691d567634b5040fdfdc034261f430cd1105e",
+      "sha": "f3a22bf4b16ab251e3ec052a1dcf037fbf11143a",
       "title": "Настройка Веб-сервиса Phaeton.kz (Фаэтон КЗ)",
       "type": "articles",
       "order": 38,
@@ -4712,7 +4808,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Planeta Avto (Планета Авто)",
       "file": "nastroyka-veb-servisa-planetavto-planeta-avto.md",
-      "sha": "ca6d14e9c11126f0a7c40ffb502b7881646dc13d",
+      "sha": "85c76aaf52a1904b22600b7482d088158d8df6fa",
       "title": "Настройка Веб-сервиса Planetavto (Планета Авто)",
       "type": "articles",
       "order": 39,
@@ -4724,7 +4820,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Plofit Liga (Профит Лига)",
       "file": "nastroyka-veb-servisa-profit-liga-profit-liga.md",
-      "sha": "d21f7468ee9dd709034d8639e80f6d2b8775f64b",
+      "sha": "8296614c146061ff0edeecc36bc7f6cf88c0d2ee",
       "title": "Настройка Веб-сервиса Profit Liga (Профит Лига)",
       "type": "articles",
       "order": 40,
@@ -4760,7 +4856,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Rossko (Росско)",
       "file": "nastroyka-veb-servisa-rossko-rossko-v21.md",
-      "sha": "e0c3c2717e93346ab523cbc35d59c24dfb3e3d8e",
+      "sha": "854a7e52af0ec2f0f1a2bb2f8424e14c8d488dfd",
       "title": "Настройка Веб-сервиса Rossko (Росско) v.2.1",
       "type": "articles",
       "order": 43,
@@ -4808,7 +4904,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Tmparts (ТИСС)",
       "file": "nastroyka-veb-servisa-tmparts-tiss.md",
-      "sha": "80deb92fe0b696f7f33216c18fe665d35dc7edbd",
+      "sha": "74bde444ebee4b1124f71ada50613367232ed4f8",
       "title": "Настройка Веб-сервиса Tmparts (ТИСС)",
       "type": "articles",
       "order": 47,
@@ -4820,7 +4916,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Tradesoft",
       "file": "nastroyka-veb-servisa-tradesoft.md",
-      "sha": "d2442b38b0745bee77d0f1aab5a529e42d7fed5a",
+      "sha": "27241186580b2a07a8882289f30e7edfeb33b2c6",
       "title": "Настройка Веб-сервиса Tradesoft",
       "type": "articles",
       "order": 48,
@@ -4844,7 +4940,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Trinity-parts",
       "file": "nastroyka-veb-servisa-trinity-parts.md",
-      "sha": "2ed83b08d40315f983aa37e6dd5e78c51b594042",
+      "sha": "3e1cad4f211311283288e00f4727cf73aa0cb027",
       "title": "Настройка Веб-сервиса Trinity-parts",
       "type": "articles",
       "order": 50,
@@ -4856,7 +4952,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Uniqom (Юником)",
       "file": "nastroyka-veb-servisa-uniqom-yunikom.md",
-      "sha": "9a59a755f85b8a32ab1abd19a50992c22138bc75",
+      "sha": "ab55860b009e4c8a532cc477554ef83ffb005565",
       "title": "Настройка Веб-сервиса Uniqom (Юником)",
       "type": "articles",
       "order": 51,
@@ -4892,7 +4988,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Zzap",
       "file": "nastroyka-veb-servisa-zzap.md",
-      "sha": "a0dac6734a76fdf47d13a89ac85183c303c41608",
+      "sha": "4f54e230218766742640dc7a43216b1b148721e9",
       "title": "Настройка Веб-сервиса Zzap",
       "type": "articles",
       "order": 53,
@@ -4916,7 +5012,7 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Автосоюз",
       "file": "nastroyka-veb-servisa-avtosoyuz.md",
-      "sha": "c9508ba9a0df63eba1d230b20ee280481896594a",
+      "sha": "1486c26f953b42dcaf12bbd9b3266b5bf3465e83",
       "title": "Настройка Веб-сервиса Автосоюз",
       "type": "articles",
       "order": 55,
@@ -4988,7 +5084,7 @@
     {
       "path": "articles/5S AUTO/Работа с заказами/Работа с заказами поставщикам",
       "file": "rabota-s-zakazami-postavschikam.md",
-      "sha": "9dfa94970150d2107997a6f3314702123cc38912",
+      "sha": "d8313adf1e523a85358aed9a1eea9cf0112ab354",
       "title": "Работа с заказами поставщикам",
       "type": "articles",
       "order": 2,
@@ -5218,7 +5314,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Задача на подбор запчастей",
       "file": "zadacha-na-podbor-zapchastey.md",
-      "sha": "b78755cc0b159ddf575d3fe06cddf36e1b8ba7f8",
+      "sha": "8baa95e5a069e7ba49067a9417dec2c578d24e66",
       "title": "Задача на подбор запчастей",
       "type": "articles",
       "order": 12,
@@ -5284,7 +5380,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Инвентаризация",
       "file": "inventarizaciya.md",
-      "sha": "1bed469c84f847de3793ea5eba01a937d2feafc0",
+      "sha": "dd2758473011e26cdd3041a7383bbef59f2c058b",
       "title": "Инвентаризация",
       "type": "articles",
       "order": 9,
@@ -5308,7 +5404,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Пополнение складских запасов",
       "file": "popolnenie-skladskikh-zapasov.md",
-      "sha": "af94dfa75a377f66a87ec181fc857f428cfa2701",
+      "sha": "277de6a0c2377b1eac7f137ae215c41760147eef",
       "title": "Пополнение складских запасов",
       "type": "articles",
       "order": 7,
@@ -5356,7 +5452,7 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка прайс-листа контрагента",
       "file": "sozdanie-i-nastroyka-prays-lista-kontragenta.md",
-      "sha": "46f973b18add9ecc7f44959ffbc3a61863800b90",
+      "sha": "94f144e0a6365c12b810d380867d3958f251b5a8",
       "title": "Создание и настройка прайс-листа контрагента",
       "type": "articles",
       "order": 3,
@@ -5782,7 +5878,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Виды ремонта",
       "file": "vidy-remonta.md",
-      "sha": "e57bac51d5c6bc16ba6f31edbfc85c8e0679acbc",
+      "sha": "6c6107485828827ea0c9a2bbe03dd5100ea50a46",
       "title": "Виды ремонта",
       "type": "articles",
       "order": 4,
@@ -6704,7 +6800,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "file": "spravochnik-oborudovanie.md",
-      "sha": "d0413a823aeb53538c7537d34fcd8103f2ea168f",
+      "sha": "82b05f75c52587b618332c02a053056e775b6f57",
       "title": "Справочник «Оборудование»",
       "type": "articles",
       "order": 1,
@@ -6760,7 +6856,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
       "file": "integraciya-s-audatex.md",
-      "sha": "f8430023b742e21a344822aa98072862c5aaa0d2",
+      "sha": "3dd316b5d41d7e2df6cb56d88f989e04e0308c2f",
       "title": "Интеграция с Audatex (AudaPad Web)",
       "type": "articles",
       "order": 19,
@@ -6849,7 +6945,7 @@
     {
       "path": "tips/Техподдержка/Проблема с подключением к серверу — ошибка приложения",
       "file": "problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya.md",
-      "sha": "109aaf6abdb1ae0101880d1f5f4ca3fbfaa5f79c",
+      "sha": "75f07af7177465a3eedc73bd572b778f2542d1ac",
       "title": "Проблема с подключением к серверу — ошибка приложения",
       "type": "tips",
       "order": 0,
@@ -6915,7 +7011,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
       "file": "udalenie-starykh-dannykh.md",
-      "sha": "bb28531ed0a24baa6423bdbc8a5aaab5916e7b09",
+      "sha": "37ae4fa5de627fa8424bdca3e982dedf1540f5a8",
       "title": "Удаление старых данных программы",
       "type": "articles",
       "order": 24,
@@ -7015,7 +7111,7 @@
     {
       "path": "tips/5S AUTO/CRM/Что делать, если не срабатывает скидка на строку",
       "file": "chto-delat-esli-ne-srabatyvaet-skidka-na-stroku.md",
-      "sha": "eabebfe23d460c0b598a59ceb783f76230bd5aca",
+      "sha": "7508634b8b7d7aec07202e03f3c4813ad198711e",
       "title": "Что делать, если не срабатывает скидка на строку",
       "type": "tips",
       "order": 0,
@@ -7252,7 +7348,7 @@
     {
       "path": "tips/Оборудование/Кассы ККМ/Закончилась кассовая лента",
       "file": "zakonchilas-kassovaya-lenta.md",
-      "sha": "7b4b9d99cdc2ac8b91830b7b515a37c2f6ebd753",
+      "sha": "0e922f019e725bbf6269ef7446a3cc568e7e097a",
       "title": "Закончилась кассовая лента",
       "type": "tips",
       "order": 0,
@@ -7373,7 +7469,7 @@
     {
       "path": "tips/Оборудование/Кассы ККМ/Расхождение сумм",
       "file": "raskhozhdenie-summ.md",
-      "sha": "af16d6c7167a28aa85bfe1340c8f00ccb5445fac",
+      "sha": "ff247dc0aeeaf6c354ca0b42e6898b0ab0177258",
       "title": "Расхождение сумм",
       "type": "tips",
       "order": 0,
