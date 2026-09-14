@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T10:09:44+03:00",
-  "count": 556,
+  "generated_at": "2026-09-14T10:31:37+03:00",
+  "count": 564,
   "sections": {
     "tips": [
       {
@@ -596,6 +596,102 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как ввести начальные остатки по кассе и банку",
+      "file": "kak-vvesti-nachalnye-ostatki-po-kasse-i-banku.md",
+      "sha": "77a570c36424e48295859f44bc4fa79368b21e51",
+      "title": "Как ввести начальные остатки по кассе и банку",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2025-10-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как добавить статью ДДС",
+      "file": "kak-dobavit-statyu-dds.md",
+      "sha": "adade6278dc089aa091ebb3446c1389f05c69b33",
+      "title": "Как добавить статью ДДС",
+      "type": "lessons",
+      "order": 5,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как отразить выдачу денег в подотчет сотруднику",
+      "file": "kak-otrazit-vydachu-deneg-v-podotchet-sotrudniku.md",
+      "sha": "a7af7a73c872c7eb91ade2f1820bac8cb03414f5",
+      "title": "Как отразить выдачу денег в подотчет сотруднику",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как отразить операции по банковскому счету",
+      "file": "kak-otrazit-operacii-po-bankovskomu-schetu.md",
+      "sha": "fff89f0797f6b2adb16897b2cd801ee40fbfcfec",
+      "title": "Как отразить операции по банковскому счету",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2025-02-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 5
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как отразить оплату поставщику из кассы",
+      "file": "kak-otrazit-oplatu-postavschiku-iz-kassy.md",
+      "sha": "aac7b0ecb480b0c849df499ee57991141df78850",
+      "title": "Как отразить оплату поставщику из кассы",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как отразить перевод денег с расчетного счета в кассу",
+      "file": "kak-otrazit-perevod-deneg-s-raschetnogo-scheta-v-kassu.md",
+      "sha": "c2973c951439b020da5c4a53b98db6be7dec9ac6",
+      "title": "Как отразить перевод денег с расчетного счета в кассу",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как сформировать отчет по движению денег компании",
+      "file": "kak-sformirovat-otchet-po-dvizheniyu-deneg-kompanii.md",
+      "sha": "2b4678a2483fbc42fb10999c643fe976feec2a26",
+      "title": "Как сформировать отчет по движению денег компании",
+      "type": "lessons",
+      "order": 7,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Учет кассовой выручки",
+      "file": "uchet-kassovoy-vyruchki.md",
+      "sha": "cc172ac54486ec054043944a1e7315b351072b26",
+      "title": "Учет кассовой выручки",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2022-07-11",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T10:13:23+03:00",
+      "reading_time": 5
+    },
     {
       "path": "lessons/Урок 15. Работа с кассой ККМ/Как закрыть смену",
       "file": "kak-zakryt-smenu.md",
@@ -2114,7 +2210,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Перечень используемых Вебхуков (Webhooks)",
       "file": "perechen-ispolzuemykh-vebkhukov-webhooks-neaktualnyy-material.md",
-      "sha": "ce87c7f4b27329c1fdbbc80db3e674211bdb0b88",
+      "sha": "3950e7d966c6285e21305afad7b9ea3a049fbe79",
       "title": "Перечень используемых Вебхуков (Webhooks) (неактуальный материал)",
       "type": "articles",
       "order": 25,
@@ -2127,7 +2223,7 @@
     {
       "path": "articles/5S AUTO/Задачи/Работа с задачами",
       "file": "rabota-s-zadachami.md",
-      "sha": "d425fbe58140e660ae0d55afc77e117cea4bf192",
+      "sha": "765af75461c9781bc4ae223a41f371dfa6743ad4",
       "title": "Работа с задачами",
       "type": "articles",
       "order": 3,
@@ -2179,7 +2275,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Решение распространенных ошибок при работе с кассой",
       "file": "reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy.md",
-      "sha": "868e8a4a09ba21dda5210db3d370580bb4453320",
+      "sha": "44f40701738b7ebe3b270757a57055227fa010b6",
       "title": "Решение распространенных ошибок при работе с кассой",
       "type": "articles",
       "order": 10,
@@ -2192,7 +2288,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "64bdd717ff8cdf877c12a73416ed019ca454ccf4",
+      "sha": "5724661849473c44e9faf8792a93a7535a7994f5",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -6848,7 +6944,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "file": "spravochnik-oborudovanie.md",
-      "sha": "d0413a823aeb53538c7537d34fcd8103f2ea168f",
+      "sha": "82b05f75c52587b618332c02a053056e775b6f57",
       "title": "Справочник «Оборудование»",
       "type": "articles",
       "order": 1,
@@ -6904,7 +7000,7 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с Audatex (AudaPad Web)",
       "file": "integraciya-s-audatex.md",
-      "sha": "f8430023b742e21a344822aa98072862c5aaa0d2",
+      "sha": "3dd316b5d41d7e2df6cb56d88f989e04e0308c2f",
       "title": "Интеграция с Audatex (AudaPad Web)",
       "type": "articles",
       "order": 19,
@@ -6993,7 +7089,7 @@
     {
       "path": "tips/Техподдержка/Проблема с подключением к серверу — ошибка приложения",
       "file": "problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya.md",
-      "sha": "109aaf6abdb1ae0101880d1f5f4ca3fbfaa5f79c",
+      "sha": "75f07af7177465a3eedc73bd572b778f2542d1ac",
       "title": "Проблема с подключением к серверу — ошибка приложения",
       "type": "tips",
       "order": 0,
@@ -7059,7 +7155,7 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
       "file": "udalenie-starykh-dannykh.md",
-      "sha": "bb28531ed0a24baa6423bdbc8a5aaab5916e7b09",
+      "sha": "37ae4fa5de627fa8424bdca3e982dedf1540f5a8",
       "title": "Удаление старых данных программы",
       "type": "articles",
       "order": 24,
@@ -7517,7 +7613,7 @@
     {
       "path": "tips/Оборудование/Кассы ККМ/Расхождение сумм",
       "file": "raskhozhdenie-summ.md",
-      "sha": "825e81d1cf9aa553752f4ba71dc429cc00849ec8",
+      "sha": "cbd1b70b60a630305471081d5a7e949f31c95d39",
       "title": "Расхождение сумм",
       "type": "tips",
       "order": 0,
