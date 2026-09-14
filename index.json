@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T08:43:53+03:00",
-  "count": 540,
+  "generated_at": "2026-09-14T08:49:36+03:00",
+  "count": 544,
   "sections": {
     "tips": [
       {
@@ -654,6 +654,54 @@
       "updated_at": "2022-07-11",
       "date_kind": "updated",
       "added_at": "2026-09-14T08:31:48+03:00",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 13. Управление качеством/Как зафиксировать жалобу клиента",
+      "file": "kak-zafiksirovat-zhalobu-klienta.md",
+      "sha": "08ec80f33793fcf77dccea67a58333164329c9ec",
+      "title": "Как зафиксировать жалобу клиента",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 5
+    },
+    {
+      "path": "lessons/Урок 13. Управление качеством/Как настроить анкету для постсервисного обзвона",
+      "file": "kak-nastroit-anketu-dlya-postservisnogo-obzvona.md",
+      "sha": "862b9ad4f3df3ffebba2747af945ee99b78e6c04",
+      "title": "Как настроить анкету для постсервисного обзвона",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 7
+    },
+    {
+      "path": "lessons/Урок 13. Управление качеством/Как настроить сбор отзывов на внешних ресурсах",
+      "file": "kak-nastroit-sbor-otzyvov-na-vneshnikh-resursakh.md",
+      "sha": "6325aa72150bd51e06a3432c4d42e4de9d97c880",
+      "title": "Как настроить сбор отзывов на внешних ресурсах",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 13. Управление качеством/Как настроить чат-бота",
+      "file": "kak-nastroit-chat-bota.md",
+      "sha": "0c0f6bb74f67d868e18beeecfbec8a6b3d6c91dc",
+      "title": "Как настроить чат-бота",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
       "reading_time": 1
     },
     {
@@ -3796,7 +3844,7 @@
     {
       "path": "articles/5S AUTO/Бонусная система/Настройка бонусной системы",
       "file": "nastroyka-bonusnoy-sistemy.md",
-      "sha": "afc3806ca4c937d76c803091b77219e4375344e8",
+      "sha": "1e30e712728cc30177cf0a90963f79f542f4b6c2",
       "title": "Настройка бонусной системы",
       "type": "articles",
       "order": 2,
