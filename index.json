@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T14:06:24+03:00",
-  "count": 602,
+  "generated_at": "2026-09-14T14:13:51+03:00",
+  "count": 603,
   "sections": {
     "tips": [
       {
@@ -596,6 +596,18 @@
     ]
   },
   "materials": [
+    {
+      "path": "lessons/Урок 24. Подключение мессенджеров/Как подключить Telegram",
+      "file": "kak-podklyuchit-telegram.md",
+      "sha": "e19f32f1747dc23132a9eda0eb869c342a64b050",
+      "title": "Как подключить Telegram",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2022-05-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T14:06:03+03:00",
+      "reading_time": 5
+    },
     {
       "path": "lessons/Урок 23. Расчет зарплаты/Как выплатить зарплату",
       "file": "kak-vyplatit-zarplatu.md",
@@ -1378,6 +1390,18 @@
       "date_kind": "updated",
       "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 25. Автоматические сообщения/Как указать ссылку на карту",
+      "file": "kak-ukazat-ssylku-na-kartu.md",
+      "sha": "8d6a68cdb411df6306e0a0b8f26fd0835854fe29",
+      "title": "Как указать ссылку на карту",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 3
     },
     {
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
@@ -8088,18 +8112,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "lessons/Урок 24. Подключение мессенджеров/Как подключить Telegram",
-      "file": "kak-podklyuchit-telegram.md",
-      "sha": "e19f32f1747dc23132a9eda0eb869c342a64b050",
-      "title": "Как подключить Telegram",
-      "type": "lessons",
-      "order": 0,
-      "updated_at": "2022-05-27",
-      "date_kind": "updated",
-      "added_at": "2022-05-27",
-      "reading_time": 5
     }
   ]
 }
