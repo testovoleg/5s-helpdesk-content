@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T08:53:44+03:00",
+  "generated_at": "2026-09-14T08:57:24+03:00",
   "count": 544,
   "sections": {
     "tips": [
@@ -611,7 +611,7 @@
     {
       "path": "lessons/Урок 13. Управление качеством/Как настроить анкету для постсервисного обзвона",
       "file": "kak-nastroit-anketu-dlya-postservisnogo-obzvona.md",
-      "sha": "25f506ebec1c3eba6b42da2045399e3636f566ba",
+      "sha": "68427035d929a5f8b21b32218f090b91999cec3d",
       "title": "Как настроить анкету для постсервисного обзвона",
       "type": "lessons",
       "order": 0,
