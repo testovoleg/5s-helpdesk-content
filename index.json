@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T10:07:34+03:00",
-  "count": 556,
+  "generated_at": "2026-09-14T10:13:39+03:00",
+  "count": 564,
   "sections": {
     "tips": [
       {
@@ -849,6 +849,90 @@
       "date_kind": "updated",
       "added_at": "2026-09-14T08:31:48+03:00",
       "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как добавить статью ДДС",
+      "file": "kak-dobavit-statyu-dds.md",
+      "sha": "945d3d8d9b46e77d42bddd86e8c9cb4a8b72879f",
+      "title": "Как добавить статью ДДС",
+      "type": "lessons",
+      "order": 5,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 4
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как отразить выдачу денег в подотчет сотруднику",
+      "file": "kak-otrazit-vydachu-deneg-v-podotchet-sotrudniku.md",
+      "sha": "f97a238c4aa62419319f1f5cfe82460be73eef2e",
+      "title": "Как отразить выдачу денег в подотчет сотруднику",
+      "type": "lessons",
+      "order": 2,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 3
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как отразить операции по банковскому счету",
+      "file": "kak-otrazit-operacii-po-bankovskomu-schetu.md",
+      "sha": "3fa2994e8667cb13997331e362657c884b4458a7",
+      "title": "Как отразить операции по банковскому счету",
+      "type": "lessons",
+      "order": 0,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 5
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как отразить оплату поставщику из кассы",
+      "file": "kak-otrazit-oplatu-postavschiku-iz-kassy.md",
+      "sha": "298c77d2ddcc69d4daf1816da989657c67c46827",
+      "title": "Как отразить оплату поставщику из кассы",
+      "type": "lessons",
+      "order": 1,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как отразить перевод денег с расчетного счета в кассу",
+      "file": "kak-otrazit-perevod-deneg-s-raschetnogo-scheta-v-kassu.md",
+      "sha": "d8520ec8da0ed76d27862fb86915f1e24ab1b36b",
+      "title": "Как отразить перевод денег с расчетного счета в кассу",
+      "type": "lessons",
+      "order": 3,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 1
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как сформировать отчет по движению денег компании",
+      "file": "kak-sformirovat-otchet-po-dvizheniyu-deneg-kompanii.md",
+      "sha": "d6a21746dfb2ec88998bba6b255cffcd7f54368a",
+      "title": "Как сформировать отчет по движению денег компании",
+      "type": "lessons",
+      "order": 7,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 2
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Учет кассовой выручки",
+      "file": "uchet-kassovoy-vyruchki.md",
+      "sha": "76e8777f22d1598848edb8af55d72977f9fb59fd",
+      "title": "Учет кассовой выручки",
+      "type": "lessons",
+      "order": 4,
+      "updated_at": "2026-09-14",
+      "date_kind": "updated",
+      "added_at": "2026-09-14",
+      "reading_time": 5
     },
     {
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
@@ -2179,7 +2263,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Решение распространенных ошибок при работе с кассой",
       "file": "reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy.md",
-      "sha": "868e8a4a09ba21dda5210db3d370580bb4453320",
+      "sha": "44f40701738b7ebe3b270757a57055227fa010b6",
       "title": "Решение распространенных ошибок при работе с кассой",
       "type": "articles",
       "order": 10,
@@ -2192,7 +2276,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "fa0ff2d6f780e198881e19bc60b180b552156792",
+      "sha": "5724661849473c44e9faf8792a93a7535a7994f5",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -7517,7 +7601,7 @@
     {
       "path": "tips/Оборудование/Кассы ККМ/Расхождение сумм",
       "file": "raskhozhdenie-summ.md",
-      "sha": "825e81d1cf9aa553752f4ba71dc429cc00849ec8",
+      "sha": "cbd1b70b60a630305471081d5a7e949f31c95d39",
       "title": "Расхождение сумм",
       "type": "tips",
       "order": 0,
@@ -7547,6 +7631,18 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "lessons/Урок 16. Учет денежных средств/Как ввести начальные остатки по кассе и банку",
+      "file": "kak-vvesti-nachalnye-ostatki-po-kasse-i-banku.md",
+      "sha": "77a570c36424e48295859f44bc4fa79368b21e51",
+      "title": "Как ввести начальные остатки по кассе и банку",
+      "type": "lessons",
+      "order": 6,
+      "updated_at": "2025-10-31",
+      "date_kind": "updated",
+      "added_at": "2025-10-31",
+      "reading_time": 4
     }
   ]
 }
