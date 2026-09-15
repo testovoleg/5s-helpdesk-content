@@ -1,6 +1,6 @@
 # Уведомление покупателю о поступлении заказа
 
-<table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 29.06.2023</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 21.05.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/uvedomlenie-pokupatelyu-o-postuplenii-zakaza</sub>
 

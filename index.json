@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:58:25+03:00",
+  "generated_at": "2026-09-15T15:51:01+03:00",
   "count": 17,
   "sections": {
     "tips": [],
@@ -288,11 +288,11 @@
     {
       "path": "articles/5S AUTO/Практики/Уведомление покупателю о поступлении заказа",
       "file": "uvedomlenie-pokupatelyu-o-postuplenii-zakaza.md",
-      "sha": "97828867622b689a6469bfdcc20ac344640a807f",
+      "sha": "bc4c52d7135c904b13ecc029eb86f101386ed4ad",
       "title": "Уведомление покупателю о поступлении заказа",
       "type": "articles",
       "order": 0,
-      "updated_at": "2023-06-29",
+      "updated_at": "2025-05-21",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00",
       "reading_time": 13
@@ -300,11 +300,11 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Фотофиксации",
       "file": "fotofiksacii.md",
-      "sha": "9bb40e303edaa4903f08754166dfea656bd644fd",
+      "sha": "796bc0f188ab301c44545de5dd2c8673f2624991",
       "title": "Фотофиксации",
       "type": "articles",
       "order": 0,
-      "updated_at": "2022-06-24",
+      "updated_at": "2024-09-16",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 23
@@ -324,11 +324,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Возможные проблемы с WABA и их устранение",
       "file": "vozmozhnye-problemy-s-waba-i-ikh-ustranenie.md",
-      "sha": "496adf50a9acf9ef4776a3f53b5d7c1ef802a68c",
+      "sha": "c614f84f1b206a3f71967257e6e2dd9961bdce11",
       "title": "Возможные проблемы с WABA и их устранение",
       "type": "articles",
       "order": 6,
-      "updated_at": "2024-04-08",
+      "updated_at": "2025-10-06",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 19
@@ -384,11 +384,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Регистрация компании в Facebook и 360dialog",
       "file": "registraciya-kompanii-v-facebook-i-360dialog.md",
-      "sha": "e142250994ae1705c17333f9020f94e5d14c652b",
+      "sha": "11de9c68c9d7a9c7912e17642a4fae0d85d04a35",
       "title": "Регистрация компании в Facebook и 360dialog",
       "type": "articles",
       "order": 5,
-      "updated_at": "2023-01-25",
+      "updated_at": "2025-10-06",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 27
