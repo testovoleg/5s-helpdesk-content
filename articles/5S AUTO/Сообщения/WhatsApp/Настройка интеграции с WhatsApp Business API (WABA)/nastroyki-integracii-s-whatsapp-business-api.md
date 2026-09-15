@@ -1,6 +1,6 @@
 # Настройки интеграции с WhatsApp Business API
 
-<table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 14.05.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 03.09.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nastroyki-integracii-s-whatsapp-business-api</sub>
 

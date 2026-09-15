@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T15:51:01+03:00",
+  "generated_at": "2026-09-15T16:58:10+03:00",
   "count": 17,
   "sections": {
     "tips": [],
@@ -312,11 +312,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Возможности бота WhatsApp Business API",
       "file": "vozmozhnosti-bota-whatsapp-business-api.md",
-      "sha": "9c5f68257e5db1ade6e7f7818ade96cc1fbbde50",
+      "sha": "7c5f76a10167bb6a57b6740a021b610246ca26c1",
       "title": "Возможности бота WhatsApp Business API",
       "type": "articles",
       "order": 0,
-      "updated_at": "2025-05-13",
+      "updated_at": "2025-08-18",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 5
@@ -336,11 +336,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка интеграции с WhatsApp",
       "file": "nastroyka-integracii-s-whatsapp.md",
-      "sha": "843cdcc20897e09e3bbec9aa81f90475e030e78d",
+      "sha": "822e69e8ca7932bb6bb4a02118f347d80ae8336d",
       "title": "Настройка интеграции с WhatsApp",
       "type": "articles",
       "order": 8,
-      "updated_at": "2025-05-20",
+      "updated_at": "2025-12-29",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 12
@@ -348,11 +348,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка интеграции с WhatsApp Business API (WABA)",
       "file": "nastroyki-integracii-s-whatsapp-business-api.md",
-      "sha": "de5bd1714ebf9772cf8c0d5796db1912156da05f",
+      "sha": "9ef4d66159a4d708ce7b1137fa48de48470b7e82",
       "title": "Настройки интеграции с WhatsApp Business API",
       "type": "articles",
       "order": 3,
-      "updated_at": "2025-05-14",
+      "updated_at": "2026-09-03",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 9
@@ -360,11 +360,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Оформление аккаунта WhatsApp Business API",
       "file": "oformlenie-akkaunta-whatsapp-business-api.md",
-      "sha": "3dc50d44fb2fdaf2972ddc8593236c898980239a",
+      "sha": "1cb28ee4e60b77e446bb11025e309ac3417460a9",
       "title": "Оформление аккаунта WhatsApp Business API",
       "type": "articles",
       "order": 2,
-      "updated_at": "2025-05-14",
+      "updated_at": "2025-08-18",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 5
@@ -396,11 +396,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Способы перехода в чат WhatsApp",
       "file": "sposoby-perekhoda-v-chat-whatsapp.md",
-      "sha": "5c2b2f1331914233825cc1ce34087f07114b1151",
+      "sha": "91425e6c5eb0dda0dd6ce298c4685a3f14f3e053",
       "title": "Способы перехода в чат WhatsApp",
       "type": "articles",
       "order": 1,
-      "updated_at": "2025-05-14",
+      "updated_at": "2025-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 5
@@ -408,11 +408,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Сравнение возможностей WABA и пользовательского WhatsApp",
       "file": "sravnenie-vozmozhnostey-waba-i-polzovatelskogo-whatsapp.md",
-      "sha": "751fc7f63f61285699d876cd089f324ca9a54808",
+      "sha": "6e92bdd05082095b5bf4adb84ad3cda6403be029",
       "title": "Сравнение возможностей WABA и пользовательского WhatsApp",
       "type": "articles",
       "order": 9,
-      "updated_at": "2025-05-21",
+      "updated_at": "2025-12-29",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 8
@@ -432,11 +432,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка шаблонов WhatsApp Business API",
       "file": "nastroyka-shablonov-whatsapp-business-api.md",
-      "sha": "283e74ffffefc5a407c86d07d014319d5a235f00",
+      "sha": "b86aa2c1d35f04afd866ddd495c43040723143ee",
       "title": "Настройка шаблонов WhatsApp Business API",
       "type": "articles",
       "order": 4,
-      "updated_at": "2025-09-19",
+      "updated_at": "2026-09-03",
       "date_kind": "updated",
       "added_at": "2026-08-26T11:14:15+03:00",
       "reading_time": 29

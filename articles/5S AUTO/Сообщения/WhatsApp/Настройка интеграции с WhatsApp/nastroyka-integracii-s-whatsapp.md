@@ -1,6 +1,6 @@
 # Настройка интеграции с WhatsApp
 
-<table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 20.05.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 29.12.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-integracii-s-whatsapp</sub>
 
