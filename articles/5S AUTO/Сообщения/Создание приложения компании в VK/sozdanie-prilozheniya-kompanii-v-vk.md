@@ -1,6 +1,6 @@
 # Создание приложения компании в VK
 
-<table><tr><td><b>Время чтения:</b> 14 мин.</td><td><b>Обновлено:</b> 08.08.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 14 мин.</td><td><b>Обновлено:</b> 30.07.2026</td></tr></table>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3** в рамках **комплексной** **подписки "[Контакт-центр 5S Chat](https://www.5systems.ru/services/kontakt-centr-5s-chat)"** (актуальные тарифы см. в [Каталоге услуг](https://www.5systems.ru/services?field_tags_target_id%5B21%5D=21&sort_by=created&sort_order=ASC)).*
 
