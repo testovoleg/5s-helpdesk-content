@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T10:56:17+03:00",
+  "generated_at": "2026-09-15T11:01:49+03:00",
   "count": 611,
   "sections": {
     "tips": [
@@ -599,7 +599,7 @@
       "title": "Тест по новому функционалу на 05.2025",
       "type": "lessons",
       "order": 6,
-      "updated_at": "2026-09-15T10:56:17+03:00",
+      "updated_at": "2026-09-15T10:55:57+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "test_time": 30
@@ -611,7 +611,7 @@
       "title": "Тест по новому функционалу на 07.2023",
       "type": "lessons",
       "order": 4,
-      "updated_at": "2026-09-15T10:56:17+03:00",
+      "updated_at": "2026-09-15T10:55:57+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "test_time": 30
@@ -623,7 +623,7 @@
       "title": "Тест по новому функционалу на 08.2024",
       "type": "lessons",
       "order": 5,
-      "updated_at": "2026-09-15T10:56:17+03:00",
+      "updated_at": "2026-09-15T10:55:57+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "test_time": 30
@@ -847,11 +847,11 @@
     {
       "path": "lessons/Урок 25. Автоматические сообщения/Как указать ссылку на карту",
       "file": "kak-ukazat-ssylku-na-kartu.md",
-      "sha": "61d0c42fe4e1cf610a72871aeb3dcd56ae45e020",
+      "sha": "2389efece3a9ad6b4ed3d6442d92dd87bf706c79",
       "title": "Как указать ссылку на карту",
       "type": "lessons",
       "order": 0,
-      "updated_at": "2026-09-15",
+      "updated_at": "2023-07-28",
       "date_kind": "updated",
       "added_at": "2026-09-14T14:13:30+03:00",
       "reading_time": 3
@@ -3864,11 +3864,11 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Мастер настройки системы",
       "file": "master-nastroyki-sistemy.md",
-      "sha": "b8e3d6f1e6e5a1b2e7f0340d003f9dfbc78c8d6e",
+      "sha": "bc0730c13e01c76eda11bb755ad8bdd380d2f32f",
       "title": "Мастер настройки системы",
       "type": "articles",
       "order": 19,
-      "updated_at": "2026-09-15",
+      "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
       "reading_time": 36
@@ -4932,11 +4932,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/Массовая рассылка сообщений по выборке клиентов",
       "file": "massovaya-rassylka-soobscheniy-po-vyborke-klientov.md",
-      "sha": "23ee8944dc03bd14927f2fdf6b667c7c17054f69",
+      "sha": "a8c763e11f854ccc5d61917837976f654305cccc",
       "title": "Массовая рассылка сообщений по выборке клиентов",
       "type": "articles",
       "order": 2,
-      "updated_at": "2026-09-15",
+      "updated_at": "2024-01-09",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 13
@@ -5002,11 +5002,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/Шаблоны сообщений",
       "file": "shablony-soobscheniy.md",
-      "sha": "75d69323a67d20fa469cc9cdf957c4970391daed",
+      "sha": "205548a41de6f58c55d253c7de3f4a841ca6511e",
       "title": "Шаблоны сообщений",
       "type": "articles",
       "order": 7,
-      "updated_at": "2026-09-15",
+      "updated_at": "2024-01-18",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 16

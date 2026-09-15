@@ -1,6 +1,6 @@
 # Шаблоны сообщений
 
-<table><tr><td><b>Время чтения:</b> 16 мин.</td><td><b>Обновлено:</b> 15.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 16 мин.</td><td><b>Обновлено:</b> 18.01.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/shablony-soobscheniy</sub>
 

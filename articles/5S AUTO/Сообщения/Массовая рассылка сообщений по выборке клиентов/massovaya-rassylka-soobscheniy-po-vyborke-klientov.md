@@ -1,6 +1,6 @@
 # Массовая рассылка сообщений по выборке клиентов
 
-<table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 15.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 09.01.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/massovaya-rassylka-soobscheniy-po-vyborke-klientov</sub>
 
