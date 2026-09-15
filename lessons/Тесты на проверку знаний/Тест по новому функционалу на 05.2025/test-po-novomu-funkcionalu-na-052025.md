@@ -10,13 +10,13 @@
 
 Перед прохождением тестирования необходимо изучить статьи:
 
-- в разделе [WhatsApp](../../../articles/5S%20AUTO/Сообщения/WhatsApp/):
-  - [Возможности бота WhatsApp Business API](../../../articles/5S%20AUTO/Сообщения/WhatsApp/Возможности%20бота%20WhatsApp%20Business%20API/vozmozhnosti-bota-whatsapp-business-api.md);
-  - [Способы перехода в чат WhatsApp](../../../articles/5S%20AUTO/Сообщения/WhatsApp/Способы%20перехода%20в%20чат%20WhatsApp/sposoby-perekhoda-v-chat-whatsapp.md);
-  - [Настройки интеграции с WhatsApp Business API](../../../articles/5S%20AUTO/Сообщения/WhatsApp/Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md);
-  - [Оформление аккаунта WhatsApp Business API](../../../articles/5S%20AUTO/Сообщения/WhatsApp/Оформление%20аккаунта%20WhatsApp%20Business%20API/oformlenie-akkaunta-whatsapp-business-api.md);
-  - [Настройка интеграции с WhatsApp](../../../articles/5S%20AUTO/Сообщения/WhatsApp/Настройка%20интеграции%20с%20WhatsApp/nastroyka-integracii-s-whatsapp.md);
-  - [Сравнение возможностей WABA и пользовательского WhatsApp](../../../articles/5S%20AUTO/Сообщения/WhatsApp/Сравнение%20возможностей%20WABA%20и%20пользовательского%20WhatsApp/sravnenie-vozmozhnostey-waba-i-polzovatelskogo-whatsapp.md);
+- в разделе [WhatsApp](https://www.5systems.ru/help/whatsapp):
+  - [Возможности бота WhatsApp Business API](https://www.5systems.ru/help/vozmozhnosti-bota-whatsapp-business-api);
+  - [Способы перехода в чат WhatsApp](https://www.5systems.ru/help/sposoby-perekhoda-v-chat-whatsapp);
+  - [Настройки интеграции с WhatsApp Business API](https://www.5systems.ru/help/nastroyki-integracii-s-whatsapp-business-api);
+  - [Оформление аккаунта WhatsApp Business API](https://www.5systems.ru/help/oformlenie-akkaunta-whatsapp-business-api);
+  - [Настройка интеграции с WhatsApp](https://www.5systems.ru/help/nastroyka-integracii-s-whatsapp);
+  - [Сравнение возможностей WABA и пользовательского WhatsApp](https://www.5systems.ru/help/sravnenie-vozmozhnostey-waba-i-polzovatelskogo-whatsapp);
 - [Создание и редактирование пользователей 5S Cloud](../../../articles/5S%20AUTO/Администрирование%20и%20настройка%20системы/Создание%20и%20редактирование%20пользователей%205S%20Cloud/sozdanie-i-redaktirovanie-polzovateley-5s-cloud.md);
 - [Настройка приложения 5S Pay](../../../articles/5S%20AUTO/Касса/Настройка%20приложения%205S%20Pay/nastroyka-prilozheniya-5s-pay.md);
 - в разделе [Банковские выписки](../../../articles/5S%20AUTO/Банки%20и%20платежные%20системы/Банковские%20выписки/):

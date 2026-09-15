@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T08:55:25+03:00",
-  "count": 625,
+  "generated_at": "2026-09-15T10:56:17+03:00",
+  "count": 611,
   "sections": {
     "tips": [
       {
@@ -157,11 +157,6 @@
                 "name": "Настройка интеграции с мессенджерами для рассылки сообщений",
                 "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
                 "order": 4
-              },
-              {
-                "name": "WhatsApp",
-                "path": "articles/5S AUTO/Сообщения/WhatsApp",
-                "order": 5
               }
             ]
           },
@@ -186,15 +181,9 @@
                 "order": 0
               },
               {
-                "name": "WhatsApp",
-                "path": "articles/5S AUTO/Сообщения/WhatsApp",
-                "order": 7,
-                "borrowed": true
-              },
-              {
                 "name": "Интеграция с соцсетью ВКонтакте",
                 "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с соцсетью ВКонтакте",
-                "order": 8
+                "order": 7
               }
             ]
           },
@@ -385,19 +374,14 @@
             "order": 2
           },
           {
-            "name": "WhatsApp",
-            "path": "articles/5S Chat/WhatsApp",
-            "order": 3
-          },
-          {
             "name": "Авито",
             "path": "articles/5S Chat/Авито",
-            "order": 4
+            "order": 3
           },
           {
             "name": "ВКонтакте",
             "path": "articles/5S Chat/ВКонтакте",
-            "order": 5
+            "order": 4
           }
         ]
       },
@@ -611,11 +595,11 @@
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 05.2025",
       "file": "test-po-novomu-funkcionalu-na-052025.md",
-      "sha": "178fef9c2d2bfc195d0d90347bbec12524bde8b6",
+      "sha": "0286ebc4abe2d6f9f7611e62dd809d2d7b6adcbf",
       "title": "Тест по новому функционалу на 05.2025",
       "type": "lessons",
       "order": 6,
-      "updated_at": "2026-09-14T15:19:16+03:00",
+      "updated_at": "2026-09-15T10:56:17+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "test_time": 30
@@ -623,11 +607,11 @@
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 07.2023",
       "file": "test-po-novomu-funkcionalu-na-072023.md",
-      "sha": "f63bd4b10b2b7208d3e1071b3915f35d11829da3",
+      "sha": "bbe38436922fb1e4c37586da7a9c5bd58d44ccbd",
       "title": "Тест по новому функционалу на 07.2023",
       "type": "lessons",
       "order": 4,
-      "updated_at": "2026-09-14T15:19:16+03:00",
+      "updated_at": "2026-09-15T10:56:17+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "test_time": 30
@@ -635,11 +619,11 @@
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 08.2024",
       "file": "test-po-novomu-funkcionalu-na-082024.md",
-      "sha": "7ec78432e2be517b2271a476311ef67d817b960a",
+      "sha": "ed768e428c0d285a65827c0d13de04d800135236",
       "title": "Тест по новому функционалу на 08.2024",
       "type": "lessons",
       "order": 5,
-      "updated_at": "2026-09-14T15:19:16+03:00",
+      "updated_at": "2026-09-15T10:56:17+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "test_time": 30
@@ -863,11 +847,11 @@
     {
       "path": "lessons/Урок 25. Автоматические сообщения/Как указать ссылку на карту",
       "file": "kak-ukazat-ssylku-na-kartu.md",
-      "sha": "03bbc0c88d66c7ebfd710940f13d3c93805c9d96",
+      "sha": "61d0c42fe4e1cf610a72871aeb3dcd56ae45e020",
       "title": "Как указать ссылку на карту",
       "type": "lessons",
       "order": 0,
-      "updated_at": "2023-07-28",
+      "updated_at": "2026-09-15",
       "date_kind": "updated",
       "added_at": "2026-09-14T14:13:30+03:00",
       "reading_time": 3
@@ -2666,7 +2650,7 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Выдача заказа",
       "file": "vydacha-zakaza.md",
-      "sha": "1ae9bda4fa1fd92ba4e9061abdf604548698a17d",
+      "sha": "2976c37514ee0294c7e464382a481e3990127ae6",
       "title": "Выдача заказа",
       "type": "lessons",
       "order": 7,
@@ -2916,45 +2900,6 @@
       "reading_time": 8
     },
     {
-      "path": "articles/5S AUTO/Автосервис/Монитор мастеров",
-      "file": "monitor-masterov.md",
-      "sha": "7b9563d54d88f225395fd55c79147daad138aaa8",
-      "title": "Монитор мастеров",
-      "type": "articles",
-      "order": 22,
-      "updated_at": "2022-06-27",
-      "date_kind": "updated",
-      "added_at": "2026-09-10T16:22:20+03:00",
-      "reading_time": 4,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Перечень используемых Вебхуков (Webhooks)",
-      "file": "perechen-ispolzuemykh-vebkhukov-webhooks-neaktualnyy-material.md",
-      "sha": "3950e7d966c6285e21305afad7b9ea3a049fbe79",
-      "title": "Перечень используемых Вебхуков (Webhooks) (неактуальный материал)",
-      "type": "articles",
-      "order": 25,
-      "updated_at": "2022-06-17",
-      "date_kind": "updated",
-      "added_at": "2026-09-10T16:22:20+03:00",
-      "reading_time": 18,
-      "hidden": true
-    },
-    {
-      "path": "articles/5S AUTO/Задачи/Работа с задачами",
-      "file": "rabota-s-zadachami.md",
-      "sha": "08133c4938ef2572e889d2b7b73873024f921d31",
-      "title": "Работа с задачами",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2026-09-10T16:22:20+03:00",
-      "reading_time": 41,
-      "hidden": true
-    },
-    {
       "path": "articles/5S AUTO/Полезное/Обучающие видеоролики",
       "file": "obuchayuschie-videoroliki.md",
       "sha": "8b6688ca261664e4da39f33bdf6b1bb88fca23a9",
@@ -3009,7 +2954,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "8f74c274e65b0f6dae03a6a2836ab0ff18f2817c",
+      "sha": "f2aa13d739e5da189de9ef09d12f92c807c8c151",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -3166,7 +3111,7 @@
       "sha": "784d7cf035b2e5545f103b0da4886b9bc7832335",
       "title": "Организация порядка на складе",
       "type": "articles",
-      "order": 11,
+      "order": 10,
       "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-09T16:24:16+03:00",
@@ -3322,7 +3267,7 @@
       "sha": "0b2ceb51a4d47550301d1b4674d30788c00724a2",
       "title": "Анализ и установка цен",
       "type": "articles",
-      "order": 10,
+      "order": 9,
       "updated_at": "2024-11-19",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00",
@@ -3334,7 +3279,7 @@
       "sha": "cf03a5b82dbd5b1dacfd9672e8d6b9a27e7ebcf9",
       "title": "Замена товара услугой при пробитии чека",
       "type": "articles",
-      "order": 16,
+      "order": 13,
       "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00",
@@ -3382,7 +3327,7 @@
       "sha": "5e9bbe76c94f4844b2cb33a6208dc4d7f1309207",
       "title": "Пакетные предложения",
       "type": "articles",
-      "order": 8,
+      "order": 7,
       "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00",
@@ -3394,7 +3339,7 @@
       "sha": "46472cdd50a0d9daed7f3e4231c8164d20d560ae",
       "title": "Применение НДС при УСН",
       "type": "articles",
-      "order": 14,
+      "order": 11,
       "updated_at": "2026-01-19",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00",
@@ -3406,23 +3351,11 @@
       "sha": "543b137a5530b1b89de2a86341ee79da0da05187",
       "title": "Разделение чеков ККМ",
       "type": "articles",
-      "order": 15,
+      "order": 12,
       "updated_at": "2024-06-04",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00",
       "reading_time": 24
-    },
-    {
-      "path": "articles/5S AUTO/Практики/Уведомление покупателю о поступлении заказа",
-      "file": "uvedomlenie-pokupatelyu-o-postuplenii-zakaza.md",
-      "sha": "97828867622b689a6469bfdcc20ac344640a807f",
-      "title": "Уведомление покупателю о поступлении заказа",
-      "type": "articles",
-      "order": 12,
-      "updated_at": "2023-06-29",
-      "date_kind": "updated",
-      "added_at": "2026-09-09T15:24:33+03:00",
-      "reading_time": 13
     },
     {
       "path": "articles/5S AUTO/Практики/Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
@@ -3931,11 +3864,11 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Мастер настройки системы",
       "file": "master-nastroyki-sistemy.md",
-      "sha": "59eb1999639d6aad666c958723650fb11b169f8f",
+      "sha": "b8e3d6f1e6e5a1b2e7f0340d003f9dfbc78c8d6e",
       "title": "Мастер настройки системы",
       "type": "articles",
       "order": 19,
-      "updated_at": "2022-06-24",
+      "updated_at": "2026-09-15",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
       "reading_time": 36
@@ -4602,7 +4535,7 @@
       "sha": "71490be0960a61103a75bbfb4d8f4d58c964f5f5",
       "title": "Интеграция с ABCP",
       "type": "articles",
-      "order": 10,
+      "order": 9,
       "updated_at": "2026-07-30",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
@@ -4632,7 +4565,7 @@
       "sha": "56ef6c3b647ae7b7cf8e42730276766ad35939c5",
       "title": "Интеграция с MotorData",
       "type": "articles",
-      "order": 17,
+      "order": 16,
       "updated_at": "2024-03-13",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
@@ -4656,7 +4589,7 @@
       "sha": "af1b2306e06e065b10eed3d5b7b022818c3bab61",
       "title": "Интеграция с ЭДО",
       "type": "articles",
-      "order": 12,
+      "order": 11,
       "updated_at": "2025-04-02",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
@@ -4668,7 +4601,7 @@
       "sha": "7720e276a3dd5d94b84a8bfaca713af85525b001",
       "title": "Интеграция с сервисом \"Безбумажный офис F.Doc\"",
       "type": "articles",
-      "order": 15,
+      "order": 14,
       "updated_at": "2024-03-14",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
@@ -4730,7 +4663,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
-          "order": 5
+          "order": 4
         }
       ]
     },
@@ -4853,160 +4786,12 @@
       "reading_time": 17
     },
     {
-      "path": "articles/5S AUTO/Сообщения/WhatsApp/Возможности бота WhatsApp Business API",
-      "file": "vozmozhnosti-bota-whatsapp-business-api.md",
-      "sha": "9c5f68257e5db1ade6e7f7818ade96cc1fbbde50",
-      "title": "Возможности бота WhatsApp Business API",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2025-05-13",
-      "date_kind": "updated",
-      "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 5,
-      "also_in": [
-        {
-          "path": "articles/5S Chat/WhatsApp",
-          "order": 3
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/WhatsApp/Возможные проблемы с WABA и их устранение",
-      "file": "vozmozhnye-problemy-s-waba-i-ikh-ustranenie.md",
-      "sha": "496adf50a9acf9ef4776a3f53b5d7c1ef802a68c",
-      "title": "Возможные проблемы с WABA и их устранение",
-      "type": "articles",
-      "order": 6,
-      "updated_at": "2024-04-08",
-      "date_kind": "updated",
-      "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 19,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Практики",
-          "order": 7
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка интеграции с WhatsApp",
-      "file": "nastroyka-integracii-s-whatsapp.md",
-      "sha": "843cdcc20897e09e3bbec9aa81f90475e030e78d",
-      "title": "Настройка интеграции с WhatsApp",
-      "type": "articles",
-      "order": 8,
-      "updated_at": "2025-05-20",
-      "date_kind": "updated",
-      "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 12,
-      "also_in": [
-        {
-          "path": "articles/5S Chat/WhatsApp",
-          "order": 0
-        },
-        {
-          "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
-          "order": 4
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка интеграции с WhatsApp Business API (WABA)",
-      "file": "nastroyki-integracii-s-whatsapp-business-api.md",
-      "sha": "de5bd1714ebf9772cf8c0d5796db1912156da05f",
-      "title": "Настройки интеграции с WhatsApp Business API",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2025-05-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 9,
-      "also_in": [
-        {
-          "path": "articles/5S Chat/WhatsApp",
-          "order": 2
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/WhatsApp/Оформление аккаунта WhatsApp Business API",
-      "file": "oformlenie-akkaunta-whatsapp-business-api.md",
-      "sha": "3dc50d44fb2fdaf2972ddc8593236c898980239a",
-      "title": "Оформление аккаунта WhatsApp Business API",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2025-05-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 5,
-      "also_in": [
-        {
-          "path": "articles/5S Chat/WhatsApp",
-          "order": 1
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/WhatsApp/Пример индивидуальной настройки WABA",
-      "file": "primer-individualnoy-nastroyki-waba.md",
-      "sha": "8d24bea6503b5af7fd09ea1c2991a3a49e243381",
-      "title": "Пример индивидуальной настройки WABA",
-      "type": "articles",
-      "order": 7,
-      "updated_at": "2023-07-06",
-      "date_kind": "updated",
-      "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 24,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/Практики",
-          "order": 13
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/WhatsApp/Регистрация компании в Facebook и 360dialog",
-      "file": "registraciya-kompanii-v-facebook-i-360dialog.md",
-      "sha": "e142250994ae1705c17333f9020f94e5d14c652b",
-      "title": "Регистрация компании в Facebook и 360dialog",
-      "type": "articles",
-      "order": 5,
-      "updated_at": "2023-01-25",
-      "date_kind": "updated",
-      "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 27
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/WhatsApp/Способы перехода в чат WhatsApp",
-      "file": "sposoby-perekhoda-v-chat-whatsapp.md",
-      "sha": "5c2b2f1331914233825cc1ce34087f07114b1151",
-      "title": "Способы перехода в чат WhatsApp",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2025-05-14",
-      "date_kind": "updated",
-      "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 5
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/WhatsApp/Сравнение возможностей WABA и пользовательского WhatsApp",
-      "file": "sravnenie-vozmozhnostey-waba-i-polzovatelskogo-whatsapp.md",
-      "sha": "751fc7f63f61285699d876cd089f324ca9a54808",
-      "title": "Сравнение возможностей WABA и пользовательского WhatsApp",
-      "type": "articles",
-      "order": 9,
-      "updated_at": "2025-05-21",
-      "date_kind": "updated",
-      "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 8
-    },
-    {
       "path": "articles/5S AUTO/Сообщения/Интеграция с Telegram",
       "file": "integraciya-s-telegram.md",
       "sha": "7b53365395da98a4767581c87dad692aba8a6276",
       "title": "Интеграция с Telegram",
       "type": "articles",
-      "order": 11,
+      "order": 9,
       "updated_at": "2024-09-03",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -5018,7 +4803,7 @@
         },
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
-          "order": 11
+          "order": 10
         },
         {
           "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
@@ -5032,7 +4817,7 @@
       "sha": "d3a9c0d4d541f6e7a41ab6ea19eeea5f55a9db9d",
       "title": "Интеграция с мессенджером MAX",
       "type": "articles",
-      "order": 13,
+      "order": 11,
       "updated_at": "2026-03-06",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -5044,7 +4829,7 @@
         },
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
-          "order": 13
+          "order": 12
         },
         {
           "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
@@ -5058,7 +4843,7 @@
       "sha": "5834ef652e7f78d6effc3bcee58aa9a3d55f4181",
       "title": "Интеграция с мессенджером Авито",
       "type": "articles",
-      "order": 15,
+      "order": 13,
       "updated_at": "2025-06-26",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -5070,7 +4855,7 @@
         },
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
-          "order": 16
+          "order": 15
         }
       ]
     },
@@ -5080,7 +4865,7 @@
       "sha": "80f1197e51b88594e9ea62427eb5313a74a872c1",
       "title": "Интеграция с пользовательским MAX",
       "type": "articles",
-      "order": 14,
+      "order": 12,
       "updated_at": "2026-07-03",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -5092,7 +4877,7 @@
         },
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
-          "order": 14
+          "order": 13
         },
         {
           "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
@@ -5106,7 +4891,7 @@
       "sha": "d5c7b47fa6b506128646676fec110cd9437c2afa",
       "title": "Интеграция с сообществом ВКонтакте (VK)",
       "type": "articles",
-      "order": 6,
+      "order": 5,
       "updated_at": "2025-12-05",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -5129,10 +4914,10 @@
     {
       "path": "articles/5S AUTO/Сообщения/Контакт-центр 5S Chat",
       "file": "kontakt-centr-5s-chat.md",
-      "sha": "86e384aca97822a902baa91f9f82325420af1c2d",
+      "sha": "10a03a4703f15335a43e45d9cf1171feb34f8b51",
       "title": "Контакт-центр 5S Chat",
       "type": "articles",
-      "order": 16,
+      "order": 14,
       "updated_at": "2026-02-09",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -5147,11 +4932,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/Массовая рассылка сообщений по выборке клиентов",
       "file": "massovaya-rassylka-soobscheniy-po-vyborke-klientov.md",
-      "sha": "38a0bbea9f1a6b8615a55b062328593bd5c6c0ba",
+      "sha": "23ee8944dc03bd14927f2fdf6b667c7c17054f69",
       "title": "Массовая рассылка сообщений по выборке клиентов",
       "type": "articles",
       "order": 2,
-      "updated_at": "2024-01-09",
+      "updated_at": "2026-09-15",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 13
@@ -5162,7 +4947,7 @@
       "sha": "7ca2b27b88bd5a1deaef831d97256cada062e10a",
       "title": "Настройка автоматической отправки сообщений через мессенджеры",
       "type": "articles",
-      "order": 12,
+      "order": 10,
       "updated_at": "2024-01-12",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -5198,7 +4983,7 @@
       "sha": "fe1b1cf7807e5fdf7f546434f0a5016e36a92e71",
       "title": "Создание приложения компании в VK",
       "type": "articles",
-      "order": 7,
+      "order": 6,
       "updated_at": "2025-08-08",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
@@ -5217,11 +5002,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/Шаблоны сообщений",
       "file": "shablony-soobscheniy.md",
-      "sha": "42d6897f37b4fce527dbed2325d85da18548ddad",
+      "sha": "75d69323a67d20fa469cc9cdf957c4970391daed",
       "title": "Шаблоны сообщений",
       "type": "articles",
-      "order": 9,
-      "updated_at": "2024-01-18",
+      "order": 7,
+      "updated_at": "2026-09-15",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 16
@@ -6124,7 +5909,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
-          "order": 18
+          "order": 17
         }
       ]
     },
@@ -6538,7 +6323,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
-          "order": 9
+          "order": 8
         }
       ]
     },
@@ -7388,7 +7173,7 @@
       "sha": "cf72662b3c8a897ba5a32a67af1b08d3548af36f",
       "title": "Работа в АРМ Коммуникатор",
       "type": "articles",
-      "order": 22,
+      "order": 21,
       "updated_at": "2022-06-23",
       "date_kind": "updated",
       "added_at": "2026-08-26T13:45:08+03:00",
@@ -7400,7 +7185,7 @@
       "sha": "cd4ed87a450a5da9e94c846f2acd7a961b17176e",
       "title": "Приглашения на ТО",
       "type": "articles",
-      "order": 21,
+      "order": 20,
       "updated_at": "2024-07-29",
       "date_kind": "updated",
       "added_at": "2026-08-26T13:23:47+03:00",
@@ -7412,7 +7197,7 @@
       "sha": "87752e4f98f4e3e655a5a25c7ae198cd7cb94b23",
       "title": "Работа с полнотекстовым поиском",
       "type": "articles",
-      "order": 20,
+      "order": 19,
       "updated_at": "2025-12-26",
       "date_kind": "updated",
       "added_at": "2026-08-26T12:51:19+03:00",
@@ -7424,7 +7209,7 @@
       "sha": "55b75a69015387b52847f8d3e03e37ba0d12847a",
       "title": "Структура интерфейса 5S AUTO",
       "type": "articles",
-      "order": 19,
+      "order": 18,
       "updated_at": "2024-03-28",
       "date_kind": "updated",
       "added_at": "2026-08-26T12:39:15+03:00",
@@ -7436,7 +7221,7 @@
       "sha": "39274888e3521c3f6ac54202bbddcf6ebef274ce",
       "title": "Типы задач",
       "type": "articles",
-      "order": 18,
+      "order": 17,
       "updated_at": "2023-06-26",
       "date_kind": "updated",
       "added_at": "2026-08-26T11:55:15+03:00",
@@ -7454,34 +7239,12 @@
       "sha": "edc159853e4b4449ee720256bf19af9eb6325ea3",
       "title": "Приглашение в Telegram",
       "type": "articles",
-      "order": 17,
+      "order": 16,
       "updated_at": "2025-12-26",
       "date_kind": "updated",
       "added_at": "2026-08-26T11:36:47+03:00",
       "reading_time": 4,
       "also_in": [
-        {
-          "path": "articles/5S AUTO/Сообщения",
-          "order": 10
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка шаблонов WhatsApp Business API",
-      "file": "nastroyka-shablonov-whatsapp-business-api.md",
-      "sha": "283e74ffffefc5a407c86d07d014319d5a235f00",
-      "title": "Настройка шаблонов WhatsApp Business API",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2025-09-19",
-      "date_kind": "updated",
-      "added_at": "2026-08-26T11:14:15+03:00",
-      "reading_time": 29,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/CRM",
-          "order": 16
-        },
         {
           "path": "articles/5S AUTO/Сообщения",
           "order": 8
@@ -7736,7 +7499,7 @@
       "sha": "3dd316b5d41d7e2df6cb56d88f989e04e0308c2f",
       "title": "Интеграция с Audatex (AudaPad Web)",
       "type": "articles",
-      "order": 19,
+      "order": 18,
       "updated_at": "2026-08-21",
       "date_kind": "updated",
       "added_at": "2026-08-20T16:17:03+03:00",
@@ -8207,7 +7970,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Практики",
-          "order": 9
+          "order": 8
         }
       ]
     },

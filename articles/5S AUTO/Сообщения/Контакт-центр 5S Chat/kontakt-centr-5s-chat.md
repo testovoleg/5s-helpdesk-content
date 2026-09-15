@@ -212,7 +212,7 @@
    Для доступа в приложение потребуется ввести логин и пароль пользователя [5S Cloud](../../Администрирование%20и%20настройка%20системы/Создание%20и%20редактирование%20пользователей%205S%20Cloud/sozdanie-i-redaktirovanie-polzovateley-5s-cloud.md).
 
 3. **Настройка интеграции с каналами связи**<br>
-   Для использования разных каналов связи – [MAX](../Интеграция%20с%20мессенджером%20MAX/integraciya-s-messendzherom-max.md), [пользовательский MAX](../Интеграция%20с%20пользовательским%20MAX/integraciya-s-polzovatelskim-max.md), [ВКонтакте](../Интеграция%20с%20сообществом%20ВКонтакте%20%28VK%29/integraciya-s-soobschestvom-vkontakte-vk.md), [Telegram](../Интеграция%20с%20Telegram/integraciya-s-telegram.md), [WABA](../WhatsApp/Настройка%20интеграции%20с%20WhatsApp%20Business%20API%20%28WABA%29/nastroyki-integracii-s-whatsapp-business-api.md), [WhatsApp](../WhatsApp/Настройка%20интеграции%20с%20WhatsApp/nastroyka-integracii-s-whatsapp.md), [Авито](../Интеграция%20с%20мессенджером%20Авито/integraciya-s-messendzherom-avito.md) и т.д. – требуется предварительно настроить интеграцию с ними.
+   Для использования разных каналов связи – [MAX](../Интеграция%20с%20мессенджером%20MAX/integraciya-s-messendzherom-max.md), [пользовательский MAX](../Интеграция%20с%20пользовательским%20MAX/integraciya-s-polzovatelskim-max.md), [ВКонтакте](../Интеграция%20с%20сообществом%20ВКонтакте%20%28VK%29/integraciya-s-soobschestvom-vkontakte-vk.md), [Telegram](../Интеграция%20с%20Telegram/integraciya-s-telegram.md), WABA, WhatsApp, [Авито](../Интеграция%20с%20мессенджером%20Авито/integraciya-s-messendzherom-avito.md) и т.д. – требуется предварительно настроить интеграцию с ними.
 
 ## Технология Matrix
 

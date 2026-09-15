@@ -10,7 +10,7 @@
 
 Перед прохождением тестирования необходимо изучить статьи:
 
-- [Настройка шаблонов WhatsApp Business API](../../../articles/5S%20AUTO/Сообщения/WhatsApp/Настройка%20шаблонов%20WhatsApp%20Business%20API/nastroyka-shablonov-whatsapp-business-api.md);
+- [Настройка шаблонов WhatsApp Business API](https://5systems.ru/help/nastroyka-shablonov-whatsapp-business-api);
 - раздел "[Настройка заменяемости](../../../articles/5S%20AUTO/Сообщения/Шаблоны%20сообщений/shablony-soobscheniy.md#настройка-заменяемости)" в статье [Шаблоны сообщений](../../../articles/5S%20AUTO/Сообщения/Шаблоны%20сообщений/shablony-soobscheniy.md);
 - [Настройка рекламных каналов](../../../articles/5S%20AUTO/Аналитика/Настройка%20рекламных%20каналов/nastroyka-reklamnykh-kanalov.md);
 - [Работа с пропущенными звонками](../../../articles/5S%20AUTO/Телефония/Работа%20с%20пропущенными%20звонками/rabota-s-propuschennymi-zvonkami.md);

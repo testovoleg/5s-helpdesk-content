@@ -18,7 +18,7 @@
 - [Автоматическое снятие резервов](../../../articles/5S%20AUTO/Работа%20с%20заказами/Автоматическое%20снятие%20резервов/avtomaticheskoe-snyatie-rezervov.md);
 - [Обработка исправления ошибок в складском учете](../../../articles/5S%20AUTO/Администрирование%20и%20настройка%20системы/Обработка%20исправления%20ошибок%20в%20складском%20учете/obrabotka-ispravleniya-oshibok-v-skladskom-uchete.md);
 - [Типы задач](../../../articles/5S%20AUTO/CRM/Типы%20задач/tipy-zadach.md);
-- [Уведомление покупателю о поступлении заказа](../../../articles/5S%20AUTO/Практики/Уведомление%20покупателю%20о%20поступлении%20заказа/uvedomlenie-pokupatelyu-o-postuplenii-zakaza.md);
+- [Уведомление покупателю о поступлении заказа](https://5systems.ru/help/uvedomlenie-pokupatelyu-o-postuplenii-zakaza);
 - раздел "[Вкладка «Сущность»](../../../articles/5S%20AUTO/CRM/Настройки%20воронки%20продаж/nastroyki-voronki-prodazh.md#вкладка-сущность)" в статье [Настройка канбана](../../../articles/5S%20AUTO/CRM/Настройки%20воронки%20продаж/nastroyki-voronki-prodazh.md).
 
 ***Ссылка на тест:*** [https://edu.5systems.ru/tests/test_new_072023](https://edu.5systems.ru/tests/test_new_072023/).
