@@ -1,6 +1,6 @@
 # Как работать со справочником «Контрагенты и контакты»
 
-<table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 29.01.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 24.06.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/kontragenty-i-kontakty</sub>
 

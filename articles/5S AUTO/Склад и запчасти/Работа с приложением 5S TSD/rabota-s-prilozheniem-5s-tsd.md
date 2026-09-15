@@ -1,6 +1,6 @@
 # Работа с приложением 5S TSD
 
-<table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 18.02.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 27.04.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-prilozheniem-5s-tsd</sub>
 

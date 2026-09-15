@@ -1,6 +1,6 @@
 # Контакт-центр 5S Chat
 
-<table><tr><td><b>Время чтения:</b> 14 мин.</td><td><b>Обновлено:</b> 09.02.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 14 мин.</td><td><b>Обновлено:</b> 29.07.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/kontakt-centr-5s-chat</sub>
 

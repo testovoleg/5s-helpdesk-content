@@ -1,6 +1,6 @@
 # Настройка приложения 5S Pay
 
-<table><tr><td><b>Время чтения:</b> 18 мин.</td><td><b>Обновлено:</b> 24.04.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 18 мин.</td><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-prilozheniya-5s-pay</sub>
 

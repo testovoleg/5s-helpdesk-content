@@ -1,6 +1,6 @@
 # Настройка приложения 5S LINK v2
 
-<table><tr><td><b>Время чтения:</b> 18 мин.</td><td><b>Обновлено:</b> 13.05.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 18 мин.</td><td><b>Обновлено:</b> 18.08.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-prilozheniya-5s-link-v2</sub>
 

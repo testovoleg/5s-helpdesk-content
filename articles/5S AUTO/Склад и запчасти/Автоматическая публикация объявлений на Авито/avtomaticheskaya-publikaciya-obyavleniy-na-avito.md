@@ -1,6 +1,6 @@
 # Автоматическая публикация объявлений на Авито
 
-<table><tr><td><b>Время чтения:</b> 23 мин.</td><td><b>Обновлено:</b> 18.09.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 23 мин.</td><td><b>Обновлено:</b> 29.12.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/avtomaticheskaya-publikaciya-obyavleniy-na-avito</sub>
 

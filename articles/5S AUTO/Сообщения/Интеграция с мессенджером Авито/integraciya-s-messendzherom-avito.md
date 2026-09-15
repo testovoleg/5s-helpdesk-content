@@ -1,6 +1,6 @@
 # Интеграция с мессенджером Авито
 
-<table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 26.06.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 29.12.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-messendzherom-avito</sub>
 

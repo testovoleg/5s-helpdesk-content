@@ -1,6 +1,6 @@
 # Контрагенты и контакты
 
-<table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 19.12.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 01.06.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/kontragenty-i-kontakty-0</sub>
 

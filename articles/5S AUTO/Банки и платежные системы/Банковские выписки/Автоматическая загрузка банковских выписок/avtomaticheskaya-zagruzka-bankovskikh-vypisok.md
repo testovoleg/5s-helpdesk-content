@@ -1,6 +1,6 @@
 # Автоматическая загрузка банковских выписок
 
-<table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 18.03.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 24.06.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/avtomaticheskaya-zagruzka-bankovskikh-vypisok</sub>
 
