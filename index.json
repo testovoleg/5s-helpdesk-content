@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T10:53:27+03:00",
-  "count": 15,
+  "generated_at": "2026-09-15T11:51:09+03:00",
+  "count": 16,
   "sections": {
     "tips": [],
     "articles": [
@@ -29,6 +29,11 @@
           {
             "name": "Задачи",
             "path": "articles/5S AUTO/Задачи",
+            "order": 0
+          },
+          {
+            "name": "Интеграция с внешними сервисами",
+            "path": "articles/5S AUTO/Интеграция с внешними сервисами",
             "order": 0
           },
           {
@@ -233,6 +238,18 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Задачи/Категории обращения",
+      "file": "kategorii-obrascheniya.md",
+      "sha": "43586adf1a4792b457a1a97118525aaeeba475fc",
+      "title": "Категории обращения",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-06-27",
+      "date_kind": "updated",
+      "added_at": "2026-09-14T16:24:00+03:00",
+      "reading_time": 15
+    },
+    {
       "path": "articles/5S AUTO/Автосервис/Монитор мастеров",
       "file": "monitor-masterov.md",
       "sha": "7b9563d54d88f225395fd55c79147daad138aaa8",
@@ -279,6 +296,18 @@
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00",
       "reading_time": 13
+    },
+    {
+      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Фотофиксации",
+      "file": "fotofiksacii.md",
+      "sha": "9bb40e303edaa4903f08754166dfea656bd644fd",
+      "title": "Фотофиксации",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-04T14:42:48+03:00",
+      "reading_time": 23
     },
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Возможности бота WhatsApp Business API",
@@ -399,18 +428,6 @@
       "date_kind": "updated",
       "added_at": "2026-08-26T11:14:15+03:00",
       "reading_time": 29
-    },
-    {
-      "path": "articles/5S AUTO/Задачи/Категории обращения",
-      "file": "kategorii-obrascheniya.md",
-      "sha": "43586adf1a4792b457a1a97118525aaeeba475fc",
-      "title": "Категории обращения",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2022-06-27",
-      "date_kind": "updated",
-      "added_at": "2022-06-27",
-      "reading_time": 15
     }
   ]
 }
