@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T11:51:09+03:00",
-  "count": 16,
+  "generated_at": "2026-09-15T11:58:25+03:00",
+  "count": 17,
   "sections": {
     "tips": [],
     "articles": [
@@ -416,6 +416,18 @@
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Расшифровка автомобиля по VIN",
+      "file": "rasshifrovka-avtomobilya-po-vin.md",
+      "sha": "715be09efea668fc54b9274c0f9e6b8e6ecb3c06",
+      "title": "Расшифровка автомобиля по VIN",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-10-31",
+      "date_kind": "updated",
+      "added_at": "2026-09-01T11:00:07+03:00",
+      "reading_time": 12
     },
     {
       "path": "articles/5S AUTO/Сообщения/WhatsApp/Настройка шаблонов WhatsApp Business API",
