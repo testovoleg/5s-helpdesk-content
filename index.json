@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T12:00:11+03:00",
+  "generated_at": "2026-09-15T12:02:02+03:00",
   "count": 610,
   "sections": {
     "tips": [
@@ -6552,7 +6552,7 @@
     {
       "path": "articles/5S AUTO/Автосервис/Расшифровка автомобиля по VIN",
       "file": "rasshifrovka-avtomobilya-po-vin.md",
-      "sha": "715be09efea668fc54b9274c0f9e6b8e6ecb3c06",
+      "sha": "0c8863b02b45b12d6e1f1e7ba8fce5dca7defdcd",
       "title": "Расшифровка автомобиля по VIN",
       "type": "articles",
       "order": 2,
