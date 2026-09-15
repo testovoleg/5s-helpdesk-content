@@ -1,6 +1,6 @@
 # Интеграция с MotorData
 
-<table><tr><td><b>Время чтения:</b> 24 мин.</td><td><b>Обновлено:</b> 13.03.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 24 мин.</td><td><b>Обновлено:</b> 18.08.2025</td></tr></table>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.6.1.1** в рамках [отдельной подписки](https://www.5systems.ru/services/integraciya-s-motordata) (актуальную стоимость см. в [Каталоге услуг](https://www.5systems.ru/services?field_tags_target_id%5B21%5D=21&sort_by=created&sort_order=ASC)).*
 
