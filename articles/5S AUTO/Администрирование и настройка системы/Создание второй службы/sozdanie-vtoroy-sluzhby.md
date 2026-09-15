@@ -1,6 +1,6 @@
 # Создание второй службы
 
-<table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 16.06.2022</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 07.09.2022</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/sozdanie-vtoroy-sluzhby</sub>
 

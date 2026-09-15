@@ -1,6 +1,6 @@
 # Выявление неликвидов
 
-<table><tr><td><b>Время чтения:</b> 22 мин.</td><td><b>Обновлено:</b> 14.06.2023</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 22 мин.</td><td><b>Обновлено:</b> 13.07.2023</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/vyyavlenie-nelikvidov</sub>
 

@@ -1,6 +1,6 @@
 # Порядок работы с кассами ККМ
 
-<table><tr><td><b>Время чтения:</b> 26 мин.</td><td><b>Обновлено:</b> 20.05.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 26 мин.</td><td><b>Обновлено:</b> 14.01.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/poryadok-raboty-s-kassami-kkm</sub>
 

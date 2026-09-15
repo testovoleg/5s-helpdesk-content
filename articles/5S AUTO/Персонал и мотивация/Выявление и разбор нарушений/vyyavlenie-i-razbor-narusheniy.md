@@ -1,6 +1,6 @@
 # Выявление и разбор нарушений
 
-<table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 17.01.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 19.07.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/vyyavlenie-i-razbor-narusheniy</sub>
 

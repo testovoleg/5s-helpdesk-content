@@ -1,6 +1,6 @@
 # Канбан сделок
 
-<table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 16.10.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 07.08.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/kanban-sdelok</sub>
 

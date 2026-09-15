@@ -1,6 +1,6 @@
 # Отражение оплаты через СБП
 
-<table><tr><td><b>Время чтения:</b> 16 мин.</td><td><b>Обновлено:</b> 19.07.2022</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 16 мин.</td><td><b>Обновлено:</b> 08.12.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/otrazhenie-oplaty-cherez-sbp</sub>
 

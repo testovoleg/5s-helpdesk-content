@@ -1,6 +1,6 @@
 # В работе
 
-<table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 12.12.2023</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 19.02.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/v-rabote</sub>
 

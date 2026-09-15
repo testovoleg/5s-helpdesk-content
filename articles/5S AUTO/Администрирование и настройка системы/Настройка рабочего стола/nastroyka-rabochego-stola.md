@@ -1,6 +1,6 @@
 # Настройка рабочего стола
 
-<table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 10.06.2022</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 13.12.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-rabochego-stola</sub>
 

@@ -1,6 +1,6 @@
 # Как создать бесплатную автоработу
 
-<table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 21.09.2022</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 10.02.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/kak-sozdat-besplatnuyu-avtorabotu</sub>
 

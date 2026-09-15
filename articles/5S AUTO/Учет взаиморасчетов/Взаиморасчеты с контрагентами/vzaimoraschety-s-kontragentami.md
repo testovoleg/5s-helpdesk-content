@@ -1,6 +1,6 @@
 # Взаиморасчеты с контрагентами
 
-<table><tr><td><b>Время чтения:</b> 21 мин.</td><td><b>Обновлено:</b> 05.12.2022</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 21 мин.</td><td><b>Обновлено:</b> 26.12.2022</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/vzaimoraschety-s-kontragentami</sub>
 

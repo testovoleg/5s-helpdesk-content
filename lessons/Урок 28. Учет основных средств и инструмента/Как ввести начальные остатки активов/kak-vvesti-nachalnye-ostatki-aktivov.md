@@ -1,6 +1,6 @@
 # Как ввести начальные остатки активов
 
-<table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 09.09.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 16.09.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/kak-vvesti-nachalnye-ostatki-aktivov</sub>
 

@@ -1,6 +1,6 @@
 # Интеграция с сервисом "Безбумажный офис F.Doc"
 
-<table><tr><td><b>Время чтения:</b> 27 мин.</td><td><b>Обновлено:</b> 14.03.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 27 мин.</td><td><b>Обновлено:</b> 30.07.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-servisom-bezbumazhnyy-ofis-fdoc</sub>
 

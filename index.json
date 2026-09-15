@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T12:02:02+03:00",
+  "generated_at": "2026-09-15T15:50:23+03:00",
   "count": 610,
   "sections": {
     "tips": [
@@ -667,11 +667,11 @@
     {
       "path": "lessons/Урок 28. Учет основных средств и инструмента/Как ввести начальные остатки активов",
       "file": "kak-vvesti-nachalnye-ostatki-aktivov.md",
-      "sha": "aa73ba10db84528761220468091564d97fb28f75",
+      "sha": "a05e8abf3348a4068a159bf45f288054028a7a28",
       "title": "Как ввести начальные остатки активов",
       "type": "lessons",
       "order": 2,
-      "updated_at": "2024-09-09",
+      "updated_at": "2024-09-16",
       "date_kind": "updated",
       "added_at": "2026-09-14T14:55:59+03:00",
       "reading_time": 4
@@ -679,11 +679,11 @@
     {
       "path": "lessons/Урок 28. Учет основных средств и инструмента/Как закрепить инструмент за сотрудником",
       "file": "kak-zakrepit-instrument-za-sotrudnikom.md",
-      "sha": "057dda2aaf02cf419ac1b7df267892c4943e083a",
+      "sha": "6fc171973f9f91a48ef7e2da77ab9117f735f78c",
       "title": "Как закрепить инструмент за сотрудником",
       "type": "lessons",
       "order": 3,
-      "updated_at": "2024-09-09",
+      "updated_at": "2024-09-16",
       "date_kind": "updated",
       "added_at": "2026-09-14T14:55:59+03:00",
       "reading_time": 3
@@ -739,11 +739,11 @@
     {
       "path": "lessons/Урок 28. Учет основных средств и инструмента/Как оформить реализацию и списание активов",
       "file": "kak-oformit-realizaciyu-i-spisanie-aktivov.md",
-      "sha": "4d5aa59c193421e48df8adabaec146957892e81b",
+      "sha": "755d7955c20258c4a758f844562c1fa427406aba",
       "title": "Как оформить реализацию и списание активов",
       "type": "lessons",
       "order": 8,
-      "updated_at": "2024-09-09",
+      "updated_at": "2024-09-26",
       "date_kind": "updated",
       "added_at": "2026-09-14T14:55:59+03:00",
       "reading_time": 6
@@ -751,11 +751,11 @@
     {
       "path": "lessons/Урок 28. Учет основных средств и инструмента/Как передать актив в эксплуатацию",
       "file": "kak-peredat-aktiv-v-ekspluataciyu.md",
-      "sha": "f109b229b4a6b1839f560ad84699dc724e1bc9ec",
+      "sha": "101a29616d8cf11b55055ea1e0c4b4833d03befc",
       "title": "Как передать актив в эксплуатацию",
       "type": "lessons",
       "order": 1,
-      "updated_at": "2024-09-09",
+      "updated_at": "2024-09-16",
       "date_kind": "updated",
       "added_at": "2026-09-14T14:55:59+03:00",
       "reading_time": 7
@@ -763,11 +763,11 @@
     {
       "path": "lessons/Урок 28. Учет основных средств и инструмента/Что такое прочие активы",
       "file": "chto-takoe-prochie-aktivy.md",
-      "sha": "9bf02957cb820f4e14ab0e320e3bf1038fdd26fe",
+      "sha": "de1633dc2ca95f0566398525f64784f82a9034e7",
       "title": "Что такое прочие активы",
       "type": "lessons",
       "order": 0,
-      "updated_at": "2024-09-09",
+      "updated_at": "2024-09-18",
       "date_kind": "updated",
       "added_at": "2026-09-14T14:55:59+03:00",
       "reading_time": 6
@@ -859,11 +859,11 @@
     {
       "path": "lessons/Урок 24. Подключение мессенджеров/Как подключить Telegram",
       "file": "kak-podklyuchit-telegram.md",
-      "sha": "e19f32f1747dc23132a9eda0eb869c342a64b050",
+      "sha": "89fa811c6854f9e70812e450c6e0527030ac9f8b",
       "title": "Как подключить Telegram",
       "type": "lessons",
       "order": 0,
-      "updated_at": "2022-05-27",
+      "updated_at": "2022-11-10",
       "date_kind": "updated",
       "added_at": "2026-09-14T14:06:03+03:00",
       "reading_time": 5
@@ -1508,11 +1508,11 @@
     {
       "path": "lessons/Урок 14. Скидки и бонусы/Как создать бесплатную автоработу",
       "file": "kak-sozdat-besplatnuyu-avtorabotu.md",
-      "sha": "ff6277b0781d98b68a9e23fff50b0b5cc100390a",
+      "sha": "f02cab47820925a5876faec99761216e6caaf447",
       "title": "Как создать бесплатную автоработу",
       "type": "lessons",
       "order": 7,
-      "updated_at": "2022-09-21",
+      "updated_at": "2025-02-10",
       "date_kind": "updated",
       "added_at": "2026-09-14T09:04:30+03:00",
       "reading_time": 7
@@ -1798,11 +1798,11 @@
     {
       "path": "lessons/Урок 7. Онлайн-каталог запчастей/Как подключить онлайн-каталог",
       "file": "kak-podklyuchit-onlayn-katalog.md",
-      "sha": "0bf7c8897f3a0b0d7207a7c445e9d2291e95e491",
+      "sha": "e66d67e4712deeeb3d2a1760b262d2792b4d37a8",
       "title": "Как подключить онлайн-каталог",
       "type": "lessons",
       "order": 0,
-      "updated_at": "2022-05-27",
+      "updated_at": "2022-11-01",
       "date_kind": "updated",
       "added_at": "2026-09-11T15:56:38+03:00",
       "reading_time": 4
@@ -2386,11 +2386,11 @@
     {
       "path": "lessons/Урок 1. CRM/Как квалифицировать Лид",
       "file": "kak-kvalificirovat-lid.md",
-      "sha": "4ec6a30ad5bf75e494c966cf45853c29de334a7b",
+      "sha": "3a7f95e5d4680beec2b2fef9a740fb53df791c79",
       "title": "Как квалифицировать Лид",
       "type": "lessons",
       "order": 2,
-      "updated_at": "2025-09-17",
+      "updated_at": "2026-07-30",
       "date_kind": "updated",
       "added_at": "2026-09-11T11:16:08+03:00",
       "reading_time": 5
@@ -2650,11 +2650,11 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Выдача заказа",
       "file": "vydacha-zakaza.md",
-      "sha": "2976c37514ee0294c7e464382a481e3990127ae6",
+      "sha": "2569326a6356b78d918a219c0b718e27d005fd3a",
       "title": "Выдача заказа",
       "type": "lessons",
       "order": 7,
-      "updated_at": "2024-09-30",
+      "updated_at": "2024-10-01",
       "date_kind": "updated",
       "added_at": "2026-09-11T09:13:20+03:00",
       "reading_time": 6
@@ -2662,11 +2662,11 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Доработать",
       "file": "dorabotat.md",
-      "sha": "086043221dc8e8932fe9e1a9c1ad95a922eebdaf",
+      "sha": "fd5a6e1154cca5b0250d973ddbb57a57aa930893",
       "title": "Доработать",
       "type": "lessons",
       "order": 5,
-      "updated_at": "2024-09-30",
+      "updated_at": "2024-10-01",
       "date_kind": "updated",
       "added_at": "2026-09-11T09:13:20+03:00",
       "reading_time": 4
@@ -2686,11 +2686,11 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Оформление заказа",
       "file": "oformlenie-zakaza.md",
-      "sha": "9a5ae38614cf0a99d55bbd5f84cc8fe9d4d032a7",
+      "sha": "2e26c798ce7ded28d315524f5c64bf0941f32172",
       "title": "Оформление заказа",
       "type": "lessons",
       "order": 3,
-      "updated_at": "2024-09-30",
+      "updated_at": "2024-10-01",
       "date_kind": "updated",
       "added_at": "2026-09-11T09:13:20+03:00",
       "reading_time": 7
@@ -2698,11 +2698,11 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Подбор товаров",
       "file": "podbor-tovarov.md",
-      "sha": "4c45fb2832cf6483a99e518483b0d35b55d5ef9f",
+      "sha": "311110485659f17cb9f51825bbcb5320037df50b",
       "title": "Подбор товаров",
       "type": "lessons",
       "order": 1,
-      "updated_at": "2024-09-26",
+      "updated_at": "2024-10-01",
       "date_kind": "updated",
       "added_at": "2026-09-11T09:13:20+03:00",
       "reading_time": 12
@@ -2722,11 +2722,11 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Создание сделки",
       "file": "sozdanie-sdelki-0.md",
-      "sha": "7a67bc5bd2d884976bd5c86200c4ccbaf416eea8",
+      "sha": "32514c7b5fc29aa52cd0213c7c79f1137de1add4",
       "title": "Создание сделки",
       "type": "lessons",
       "order": 0,
-      "updated_at": "2024-09-26",
+      "updated_at": "2024-11-28",
       "date_kind": "updated",
       "added_at": "2026-09-11T09:13:20+03:00",
       "reading_time": 8
@@ -2734,11 +2734,11 @@
     {
       "path": "lessons/Краткий курс для Магазина автозапчастей/Товар в наличии",
       "file": "tovar-v-nalichii.md",
-      "sha": "bb4832b97bbcace550788e2d204492a5b8ecf5de",
+      "sha": "0121cbf9d83428b41560be0301e7016f6fa278dd",
       "title": "Товар в наличии",
       "type": "lessons",
       "order": 2,
-      "updated_at": "2024-09-26",
+      "updated_at": "2024-09-30",
       "date_kind": "updated",
       "added_at": "2026-09-11T09:13:20+03:00",
       "reading_time": 4
@@ -2746,11 +2746,11 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/В работе",
       "file": "v-rabote.md",
-      "sha": "20b19ea56b471ad3681c66e6fe4939df4ec2ca31",
+      "sha": "f95717fbc7d343326437897cf0df676f37cbfe02",
       "title": "В работе",
       "type": "lessons",
       "order": 5,
-      "updated_at": "2023-12-12",
+      "updated_at": "2024-02-19",
       "date_kind": "updated",
       "added_at": "2026-09-11T08:57:43+03:00",
       "reading_time": 8
@@ -2890,11 +2890,11 @@
     {
       "path": "lessons/Краткий курс для Автосервиса/Создание сделки",
       "file": "sozdanie-sdelki.md",
-      "sha": "0d4dec3966e5ec5706985db4610ec119137d6916",
+      "sha": "35fdab403d660925a8f42bbb5b8c8281a83c3812",
       "title": "Создание сделки",
       "type": "lessons",
       "order": 0,
-      "updated_at": "2023-12-11",
+      "updated_at": "2024-10-09",
       "date_kind": "updated",
       "added_at": "2026-09-11T08:57:43+03:00",
       "reading_time": 8
@@ -3024,11 +3024,11 @@
     {
       "path": "articles/5S AUTO/Контроль неликвидов/Выявление неликвидов",
       "file": "vyyavlenie-nelikvidov.md",
-      "sha": "d206de2191ff39fc0da15870ce01ddd4a50d3522",
+      "sha": "200e860aef4f1c7b2f1b03b59ac62b7e0c195df7",
       "title": "Выявление неликвидов",
       "type": "articles",
       "order": 0,
-      "updated_at": "2023-06-14",
+      "updated_at": "2023-07-13",
       "date_kind": "updated",
       "added_at": "2026-09-10T10:35:23+03:00",
       "reading_time": 22
@@ -3036,11 +3036,11 @@
     {
       "path": "articles/5S AUTO/Контроль неликвидов/Настройка прав доступа к Контролю неликвидов",
       "file": "nastroyka-prav-dostupa-k-kontrolyu-nelikvidov.md",
-      "sha": "125efc77627d07dec59d79ea486f04d33e3221cf",
+      "sha": "b15f4e9693c4555e04bfcf14a362629897530206",
       "title": "Настройка прав доступа к Контролю неликвидов",
       "type": "articles",
       "order": 3,
-      "updated_at": "2023-06-14",
+      "updated_at": "2023-08-11",
       "date_kind": "updated",
       "added_at": "2026-09-10T10:35:23+03:00",
       "reading_time": 14
@@ -3048,11 +3048,11 @@
     {
       "path": "articles/5S AUTO/Контроль неликвидов/Настройки процесса Контроля неликвидов",
       "file": "nastroyki-processa-kontrolya-nelikvidov.md",
-      "sha": "473ef2e4a307958140a5617a5bbf4271a37f1a39",
+      "sha": "9ca0d73f49998e94b9fb8a53028aa7d23a6ee6b5",
       "title": "Настройки процесса Контроля неликвидов",
       "type": "articles",
       "order": 2,
-      "updated_at": "2023-06-14",
+      "updated_at": "2026-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-10T10:35:23+03:00",
       "reading_time": 13
@@ -3060,11 +3060,11 @@
     {
       "path": "articles/5S AUTO/Контроль неликвидов/Принятие решения по неликвидам",
       "file": "prinyatie-resheniya-po-nelikvidam.md",
-      "sha": "e0c98345e12db83f3c692378f15949dbdc201928",
+      "sha": "9564ebdbc53dad680c4f7aa770317f5c6db91a69",
       "title": "Принятие решения по неликвидам",
       "type": "articles",
       "order": 1,
-      "updated_at": "2023-06-14",
+      "updated_at": "2023-07-13",
       "date_kind": "updated",
       "added_at": "2026-09-10T10:35:23+03:00",
       "reading_time": 20
@@ -3072,11 +3072,11 @@
     {
       "path": "articles/5S AUTO/Аналитика/Настройка интеграции с Calltouch",
       "file": "nastroyka-integracii-s-calltouch.md",
-      "sha": "584969477207ce425bb887e6032e69219b3e9311",
+      "sha": "4dc2be4cdaf5be945476ded427c31d70844be06c",
       "title": "Настройка интеграции с Calltouch",
       "type": "articles",
       "order": 2,
-      "updated_at": "2024-03-15",
+      "updated_at": "2025-12-08",
       "date_kind": "updated",
       "added_at": "2026-09-10T10:03:28+03:00",
       "reading_time": 21
@@ -3096,11 +3096,11 @@
     {
       "path": "articles/5S AUTO/Аналитика/Настройка рекламных каналов",
       "file": "nastroyka-reklamnykh-kanalov.md",
-      "sha": "dff1666e322cc6b529af9a57ffe2e3a883da890d",
+      "sha": "db0cf4a4d46e1f412be804121c1ae6121f19beb0",
       "title": "Настройка рекламных каналов",
       "type": "articles",
       "order": 0,
-      "updated_at": "2024-11-19",
+      "updated_at": "2026-06-03",
       "date_kind": "updated",
       "added_at": "2026-09-10T10:03:28+03:00",
       "reading_time": 8
@@ -3132,11 +3132,11 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Push-сообщения",
       "file": "push-soobscheniya.md",
-      "sha": "fb9edeb9804087512eb237138dad70684a20d4d0",
+      "sha": "206e0550a90c64e902de4d72a799b0a5220c8128",
       "title": "Push-сообщения",
       "type": "articles",
       "order": 6,
-      "updated_at": "2024-12-09",
+      "updated_at": "2025-01-17",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:38:29+03:00",
       "reading_time": 11
@@ -3144,11 +3144,11 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Запись на ремонт через 5S LINK",
       "file": "zapis-na-remont-cherez-5s-link.md",
-      "sha": "edeb27400c4940e7953ea8808225fbe7134681ce",
+      "sha": "13edb0816e8ca88b02bbcebcdb657c3614fbf307",
       "title": "Запись на ремонт через 5S LINK",
       "type": "articles",
       "order": 2,
-      "updated_at": "2023-05-10",
+      "updated_at": "2025-01-17",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:38:29+03:00",
       "reading_time": 12
@@ -3156,11 +3156,11 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Интерфейс 5S LINK",
       "file": "interfeys-5s-link.md",
-      "sha": "105be67f6db838dfeb760847ce41b86e9fac85e5",
+      "sha": "62446e342eee587a3bcf2f3e0ccf075537ea46b8",
       "title": "Интерфейс 5S LINK",
       "type": "articles",
       "order": 1,
-      "updated_at": "2023-05-10",
+      "updated_at": "2025-01-17",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:38:29+03:00",
       "reading_time": 14
@@ -3168,11 +3168,11 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Настройки 5S LINK в Личном кабинете",
       "file": "nastroyki-5s-link-v-lichnom-kabinete.md",
-      "sha": "d1c482d2b87cbbd1f5c53568f25ec3f6ebdeaf46",
+      "sha": "f8e15ffc303e15213591010e3f0efe4748dcc111",
       "title": "Настройки 5S LINK в Личном кабинете",
       "type": "articles",
       "order": 5,
-      "updated_at": "2023-05-10",
+      "updated_at": "2026-07-30",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:38:29+03:00",
       "reading_time": 19
@@ -3180,11 +3180,11 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Настройки интеграции программы с 5S LINK",
       "file": "nastroyki-integracii-programmy-s-5s-link.md",
-      "sha": "2be51b149b8407f5c8810b09f89e97d02d612b80",
+      "sha": "ddad1cf5875880b1f8b31b881df17e0ab3a69109",
       "title": "Настройки интеграции программы с 5S LINK",
       "type": "articles",
       "order": 4,
-      "updated_at": "2023-05-10",
+      "updated_at": "2025-01-17",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:38:29+03:00",
       "reading_time": 21
@@ -3192,11 +3192,11 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Отзывы в 5S LINK",
       "file": "otzyvy-v-5s-link.md",
-      "sha": "8623fc9703959c4cab35c5c8ea9ea6f27c9bb5d4",
+      "sha": "89a4afa419fcb4d6c41d9d798eccf3d33753b348",
       "title": "Отзывы в 5S LINK",
       "type": "articles",
       "order": 3,
-      "updated_at": "2023-05-10",
+      "updated_at": "2026-07-30",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:38:29+03:00",
       "reading_time": 10
@@ -3204,11 +3204,11 @@
     {
       "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Регистрация и авторизация в 5S LINK",
       "file": "registraciya-i-avtorizaciya-v-5s-link.md",
-      "sha": "51d19c0cd78da095f9edd4d8476b4ac5a5fbbb54",
+      "sha": "160d773070f81d601f062b0fced4a61c91877ad9",
       "title": "Регистрация и авторизация в 5S LINK",
       "type": "articles",
       "order": 0,
-      "updated_at": "2023-05-10",
+      "updated_at": "2025-01-17",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:38:29+03:00",
       "reading_time": 5
@@ -3288,11 +3288,11 @@
     {
       "path": "articles/5S AUTO/Практики/Запрос на отзыв довольного клиента об автосервисе",
       "file": "zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise.md",
-      "sha": "605699700bf9c6f5dce6ae8f3aec575ac0c21e04",
+      "sha": "c6269a39efc835a56878ab104c8edb0adaa116a3",
       "title": "Запрос на отзыв довольного клиента об автосервисе",
       "type": "articles",
       "order": 5,
-      "updated_at": "2024-01-12",
+      "updated_at": "2024-07-19",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00",
       "reading_time": 16
@@ -3348,11 +3348,11 @@
     {
       "path": "articles/5S AUTO/Практики/Разделение чеков ККМ",
       "file": "razdelenie-chekov-kkm.md",
-      "sha": "543b137a5530b1b89de2a86341ee79da0da05187",
+      "sha": "d7b8021ed9a6c91c318d051a12a1b61072c5b384",
       "title": "Разделение чеков ККМ",
       "type": "articles",
       "order": 12,
-      "updated_at": "2024-06-04",
+      "updated_at": "2025-12-10",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00",
       "reading_time": 24
@@ -3480,11 +3480,11 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Подключение кассы ККМ",
       "file": "podklyuchenie-kassy-kkm.md",
-      "sha": "33993ddedecfcb8868b5a14edef9d6859c2ea0c4",
+      "sha": "fe47e6a45b793f8de48464a3d9c6020c1a74ffb3",
       "title": "Подключение кассы ККМ",
       "type": "articles",
       "order": 0,
-      "updated_at": "2025-09-09",
+      "updated_at": "2025-12-22",
       "date_kind": "updated",
       "added_at": "2026-09-09T13:33:30+03:00",
       "reading_time": 25
@@ -3492,11 +3492,11 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Рабочие места",
       "file": "rabochie-mesta.md",
-      "sha": "dccc0d0d91a2cd66598a87b84085ab3f5f514121",
+      "sha": "c6b1fa31b3ec3d8a383e7149c3634555a6a7c23f",
       "title": "Рабочие места",
       "type": "articles",
       "order": 2,
-      "updated_at": "2024-07-11",
+      "updated_at": "2024-11-21",
       "date_kind": "updated",
       "added_at": "2026-09-09T13:33:30+03:00",
       "reading_time": 11
@@ -3600,11 +3600,11 @@
     {
       "path": "articles/5S AUTO/Отчеты/Отчет ROMI рекламных каналов",
       "file": "otchet-romi-reklamnykh-kanalov.md",
-      "sha": "23ac67828a276aad43f4b8d7bcc1991e899cb522",
+      "sha": "96639e85a2a90ce6177423ae621290e437b51128",
       "title": "Отчет \"ROMI рекламных каналов\"",
       "type": "articles",
       "order": 10,
-      "updated_at": "2024-10-30",
+      "updated_at": "2025-06-05",
       "date_kind": "updated",
       "added_at": "2026-09-09T09:25:57+03:00",
       "reading_time": 9
@@ -3732,11 +3732,11 @@
     {
       "path": "articles/5S AUTO/Пользователи и права/Пользователи",
       "file": "polzovateli.md",
-      "sha": "ac04adda8772bbfef744e34136b94e058fe68f49",
+      "sha": "4fb6ca9979c2f2d87acdb5485e021551cd4b06bf",
       "title": "Пользователи",
       "type": "articles",
       "order": 0,
-      "updated_at": "2022-06-14",
+      "updated_at": "2026-08-18",
       "date_kind": "updated",
       "added_at": "2026-09-08T17:21:18+03:00",
       "reading_time": 30
@@ -3756,11 +3756,11 @@
     {
       "path": "articles/5S AUTO/Пользователи и права/Установка прав и настроек пользователя",
       "file": "ustanovka-prav-i-nastroek-polzovatelya.md",
-      "sha": "f7e7e31788a34e16c5fbaaef8165c34d9a5c1868",
+      "sha": "49ce819a6f5fcff5688246889128b77a5e2bbd35",
       "title": "Установка прав и настроек пользователя",
       "type": "articles",
       "order": 2,
-      "updated_at": "2024-11-22",
+      "updated_at": "2025-06-27",
       "date_kind": "updated",
       "added_at": "2026-09-08T17:21:18+03:00",
       "reading_time": 18
@@ -3828,11 +3828,11 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Доступ к данным по подразделениям (RLS)",
       "file": "dostup-k-dannym-po-podrazdeleniyam-rls.md",
-      "sha": "43761cdfc7707405e6082350d2e6776ea7506bc6",
+      "sha": "89c2a70d0710377da8ea13cc07f932cb882470a6",
       "title": "Доступ к данным по подразделениям (RLS)",
       "type": "articles",
       "order": 9,
-      "updated_at": "2025-02-28",
+      "updated_at": "2025-09-08",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
       "reading_time": 22
@@ -3900,11 +3900,11 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Настройка рабочего стола",
       "file": "nastroyka-rabochego-stola.md",
-      "sha": "269d904c471f80fa65cb549b9f70ec865bf4e8b2",
+      "sha": "593568d7c93077218dbdd8d47da9fcc3370038ce",
       "title": "Настройка рабочего стола",
       "type": "articles",
       "order": 0,
-      "updated_at": "2022-06-10",
+      "updated_at": "2024-12-13",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
       "reading_time": 13
@@ -3912,11 +3912,11 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Настройка цветового оформления статусов и состояний",
       "file": "nastroyka-cvetovogo-oformleniya-statusov-i-sostoyaniy.md",
-      "sha": "ee77fd64e9aac3fdc1ae393dafc7f982dce7b7c6",
+      "sha": "01de29840ce728a2b99592502aeec1ca836a17fe",
       "title": "Настройка цветового оформления статусов и состояний",
       "type": "articles",
       "order": 2,
-      "updated_at": "2024-01-24",
+      "updated_at": "2024-07-19",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
       "reading_time": 9
@@ -3936,11 +3936,11 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Обработка исправления ошибок в складском учете",
       "file": "obrabotka-ispravleniya-oshibok-v-skladskom-uchete.md",
-      "sha": "98b1d22ed90956080ca6881ce07eb106a9b63f17",
+      "sha": "a7a3d9b6930fe88e35a68f5db2c6b58ee8023998",
       "title": "Обработка исправления ошибок в складском учете",
       "type": "articles",
       "order": 8,
-      "updated_at": "2023-06-26",
+      "updated_at": "2025-06-05",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
       "reading_time": 17
@@ -4018,11 +4018,11 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Создание второй службы",
       "file": "sozdanie-vtoroy-sluzhby.md",
-      "sha": "05a2349e0718cacdf213a3ad4e2e2a2b7fd5a370",
+      "sha": "0c2dc64353b0de9ae66342a76508bdfe00fdcd03",
       "title": "Создание второй службы",
       "type": "articles",
       "order": 22,
-      "updated_at": "2022-06-16",
+      "updated_at": "2022-09-07",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
       "reading_time": 8
@@ -4060,11 +4060,11 @@
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Часовые пояса",
       "file": "chasovye-poyasa.md",
-      "sha": "2777972cdd222252b1bcc66da7ad58962eea51c0",
+      "sha": "cec8d520f3de6d7ea7852938878e3135b7300610",
       "title": "Часовые пояса",
       "type": "articles",
       "order": 1,
-      "updated_at": "2024-04-22",
+      "updated_at": "2025-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
       "reading_time": 24
@@ -4096,11 +4096,11 @@
     {
       "path": "articles/5S AUTO/Управление качеством обслуживания/Обработка жалоб от клиентов",
       "file": "obrabotka-zhalob-ot-klientov.md",
-      "sha": "94e2a9e98073bbbf18c6bb1151b03aee68b15906",
+      "sha": "7d49f94535f67404b379e6c72df527dd373caa2a",
       "title": "Обработка жалоб от клиентов",
       "type": "articles",
       "order": 1,
-      "updated_at": "2022-06-24",
+      "updated_at": "2023-09-21",
       "date_kind": "updated",
       "added_at": "2026-09-08T10:30:32+03:00",
       "reading_time": 12
@@ -4108,11 +4108,11 @@
     {
       "path": "articles/5S AUTO/Управление качеством обслуживания/Опрос клиента о качестве обслуживания",
       "file": "opros-klienta-o-kachestve-obsluzhivaniya.md",
-      "sha": "69c81404a1d3d67971453a481f44293512a9de13",
+      "sha": "a3fe104e602fd7025670a02065c2fa767935e201",
       "title": "Опрос клиента о качестве обслуживания",
       "type": "articles",
       "order": 0,
-      "updated_at": "2022-06-24",
+      "updated_at": "2023-09-21",
       "date_kind": "updated",
       "added_at": "2026-09-08T10:30:32+03:00",
       "reading_time": 17
@@ -4144,11 +4144,11 @@
     {
       "path": "articles/5S AUTO/Персонал и мотивация/Выявление и разбор нарушений",
       "file": "vyyavlenie-i-razbor-narusheniy.md",
-      "sha": "b7c25d84f792c166a9034ea8a9d57715a9b326dd",
+      "sha": "c4e52827c84daa2a70c4c2396ef07daeccc9c710",
       "title": "Выявление и разбор нарушений",
       "type": "articles",
       "order": 0,
-      "updated_at": "2024-01-17",
+      "updated_at": "2024-07-19",
       "date_kind": "updated",
       "added_at": "2026-09-07T17:26:04+03:00",
       "reading_time": 12
@@ -4180,11 +4180,11 @@
     {
       "path": "articles/5S AUTO/Персонал и мотивация/Табель учета рабочего времени",
       "file": "tabel-ucheta-rabochego-vremeni.md",
-      "sha": "31ef34b236e1235527b0e59ddcf5a2383f3cfbe9",
+      "sha": "ddc1810297b8ba639fb66338a7bcbb954c1f5bb7",
       "title": "Табель учета рабочего времени",
       "type": "articles",
       "order": 1,
-      "updated_at": "2022-06-24",
+      "updated_at": "2022-12-29",
       "date_kind": "updated",
       "added_at": "2026-09-07T17:26:04+03:00",
       "reading_time": 23
@@ -4324,11 +4324,11 @@
     {
       "path": "articles/5S AUTO/Касса/Использование Чека коррекции",
       "file": "ispolzovanie-cheka-korrekcii.md",
-      "sha": "3670398d736405a86da70cd225c3c3d052529cb8",
+      "sha": "66508ec4c1be0b587bfe0412e441cc385f444395",
       "title": "Использование Чека коррекции",
       "type": "articles",
       "order": 7,
-      "updated_at": "2024-10-22",
+      "updated_at": "2025-03-18",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
       "reading_time": 22
@@ -4370,11 +4370,11 @@
     {
       "path": "articles/5S AUTO/Касса/Обработка Закрытие кассовой смены",
       "file": "obrabotka-zakrytie-kassovoy-smeny.md",
-      "sha": "14308550c3308c559b2aff31402e9433253237a6",
+      "sha": "87eb608c47fb3e814b4dabf0d5fe95f1cca6c47e",
       "title": "Обработка Закрытие кассовой смены",
       "type": "articles",
       "order": 3,
-      "updated_at": "2022-11-24",
+      "updated_at": "2025-09-10",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
       "reading_time": 8
@@ -4382,11 +4382,11 @@
     {
       "path": "articles/5S AUTO/Касса/Отражение оплаты через СБП",
       "file": "otrazhenie-oplaty-cherez-sbp.md",
-      "sha": "d408e6bc1938481581225d2b72328f174158fea3",
+      "sha": "b20bbc155115c88a60e5ae4ee88fc43f97224788",
       "title": "Отражение оплаты через СБП",
       "type": "articles",
       "order": 4,
-      "updated_at": "2022-07-19",
+      "updated_at": "2025-12-08",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
       "reading_time": 16,
@@ -4400,11 +4400,11 @@
     {
       "path": "articles/5S AUTO/Касса/Порядок работы с кассами ККМ",
       "file": "poryadok-raboty-s-kassami-kkm.md",
-      "sha": "f2513012f366a7f0f440af1a8e22334e548131ec",
+      "sha": "d3a93705db5b216054c0c16228b25bb9b2af1831",
       "title": "Порядок работы с кассами ККМ",
       "type": "articles",
       "order": 0,
-      "updated_at": "2024-05-20",
+      "updated_at": "2026-01-14",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
       "reading_time": 26
@@ -4424,11 +4424,11 @@
     {
       "path": "articles/5S AUTO/Касса/Упрощенный Фронт кассира",
       "file": "uproschennyy-front-kassira.md",
-      "sha": "cbfc2c8ff0a0a2057073e2303e458a2472a598c3",
+      "sha": "83186d7a3813a0ced3c80b2b88932a4c7ac2133c",
       "title": "Упрощенный Фронт кассира",
       "type": "articles",
       "order": 2,
-      "updated_at": "2023-03-29",
+      "updated_at": "2025-02-25",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
       "reading_time": 26
@@ -4436,11 +4436,11 @@
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Автозакрытие сделок и ручная привязка",
       "file": "avtozakrytie-sdelok-i-ruchnaya-privyazka.md",
-      "sha": "a490f3d034a497bf41fd91c4a24816573b2e0c4c",
+      "sha": "abea19c9bf3ceed3b336853947559d903f285b2c",
       "title": "Автозакрытие сделок и ручная привязка",
       "type": "articles",
       "order": 2,
-      "updated_at": "2022-12-06",
+      "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-07T10:25:19+03:00",
       "reading_time": 14
@@ -4448,11 +4448,11 @@
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Акт сверки взаиморасчетов",
       "file": "akt-sverki-vzaimoraschetov.md",
-      "sha": "8be9f4b03ab8e827e4c24af8835231f06fe86bcd",
+      "sha": "ea4db42bda30bf644bf1b9696e85ea570cceb2f4",
       "title": "Акт сверки взаиморасчетов",
       "type": "articles",
       "order": 4,
-      "updated_at": "2022-07-08",
+      "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-07T10:25:19+03:00",
       "reading_time": 12
@@ -4460,11 +4460,11 @@
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Взаиморасчеты с контрагентами",
       "file": "vzaimoraschety-s-kontragentami.md",
-      "sha": "aeb6fceceb0ae1fcb7979dc14a3334cacc9b5938",
+      "sha": "6dd610cc2dee4c174332e15ef19e25b2f7519150",
       "title": "Взаиморасчеты с контрагентами",
       "type": "articles",
       "order": 0,
-      "updated_at": "2022-12-05",
+      "updated_at": "2022-12-26",
       "date_kind": "updated",
       "added_at": "2026-09-07T10:25:19+03:00",
       "reading_time": 21
@@ -4496,11 +4496,11 @@
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Корректировка остатков взаиморасчетов",
       "file": "korrektirovka-ostatkov-vzaimoraschetov.md",
-      "sha": "b28bd3e3318c6982c4cb964c8cdb584222d93418",
+      "sha": "c6f6853603e28d6af5a029e67537191ba23891cd",
       "title": "Корректировка остатков взаиморасчетов",
       "type": "articles",
       "order": 5,
-      "updated_at": "2022-12-06",
+      "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-07T10:25:19+03:00",
       "reading_time": 10
@@ -4508,11 +4508,11 @@
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Отчет Взаиморасчеты с контрагентами",
       "file": "otchet-vzaimoraschety-s-kontragentami.md",
-      "sha": "dae65c8f767b5c551e3d44bf9b7b0adfd32e0a64",
+      "sha": "0c76a8b780815cda385527ae0fc606ce22ddfa44",
       "title": "Отчет “Взаиморасчеты с контрагентами”",
       "type": "articles",
       "order": 1,
-      "updated_at": "2022-12-05",
+      "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-07T10:25:19+03:00",
       "reading_time": 5
@@ -4520,11 +4520,11 @@
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Отчет Возраст задолженности",
       "file": "otchet-vozrast-zadolzhennosti.md",
-      "sha": "0f9f0c03755b7761898f8d8396e8499e2b0e2902",
+      "sha": "d02430c3658702151f6a6bcf723b0653d7e08b21",
       "title": "Отчет “Возраст задолженности”",
       "type": "articles",
       "order": 3,
-      "updated_at": "2022-12-06",
+      "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-07T10:25:19+03:00",
       "reading_time": 6
@@ -4544,11 +4544,11 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с BioTime",
       "file": "integraciya-s-biotime.md",
-      "sha": "ca180ab5257f873abbe0b12a5317cdc392751e97",
+      "sha": "b2935fa108bb47a6e5597e6ec87ccdbf6ddd600b",
       "title": "Интеграция с BioTime",
       "type": "articles",
       "order": 5,
-      "updated_at": "2022-12-28",
+      "updated_at": "2024-09-16",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 21,
@@ -4562,11 +4562,11 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с MotorData",
       "file": "integraciya-s-motordata.md",
-      "sha": "56ef6c3b647ae7b7cf8e42730276766ad35939c5",
+      "sha": "781c7fba322884d1ebca365894bc442f22f6fb65",
       "title": "Интеграция с MotorData",
       "type": "articles",
       "order": 15,
-      "updated_at": "2024-03-13",
+      "updated_at": "2025-08-18",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 24
@@ -4598,11 +4598,11 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с сервисом Безбумажный офис F.Doc",
       "file": "integraciya-s-servisom-bezbumazhnyy-ofis-fdoc.md",
-      "sha": "7720e276a3dd5d94b84a8bfaca713af85525b001",
+      "sha": "f55230fdb607c4b0440d88e4e5f237a25431b322",
       "title": "Интеграция с сервисом \"Безбумажный офис F.Doc\"",
       "type": "articles",
       "order": 13,
-      "updated_at": "2024-03-14",
+      "updated_at": "2026-07-30",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 27
@@ -4610,11 +4610,11 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией/Длительность звонков из телефонии",
       "file": "import-i-otobrazhenie-dlitelnosti-zvonkov-iz-telefonii.md",
-      "sha": "bdef798cf0690275f4ca515ac02b4ff44a8e5b31",
+      "sha": "94a43f1f40568ce7bb2149dd4a44a1f14436041e",
       "title": "Импорт и отображение длительности звонков из телефонии",
       "type": "articles",
       "order": 2,
-      "updated_at": "2024-01-19",
+      "updated_at": "2024-07-19",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 8,
@@ -4652,11 +4652,11 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Настройка интеграции с SMS Центр",
       "file": "nastroyka-integracii-s-sms-centr.md",
-      "sha": "06b95f11acfbab9d7f2cef4b4b2ac4f3b17bc3c0",
+      "sha": "4bbda5abc291c811f8164b94e25915510e5e0ff9",
       "title": "Настройка интеграции с SMS Центр",
       "type": "articles",
       "order": 1,
-      "updated_at": "2022-06-23",
+      "updated_at": "2025-12-08",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 9,
@@ -4682,11 +4682,11 @@
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Электронная почта",
       "file": "elektronnaya-pochta.md",
-      "sha": "fc93ab46568d32ef127a27f743854f064d519618",
+      "sha": "917e75ed870615c60ee364e96298e4909e7fd692",
       "title": "Электронная почта",
       "type": "articles",
       "order": 4,
-      "updated_at": "2024-02-07",
+      "updated_at": "2024-07-19",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 17
@@ -4694,11 +4694,11 @@
     {
       "path": "articles/5S AUTO/Телефония/Работа с пропущенными звонками",
       "file": "rabota-s-propuschennymi-zvonkami.md",
-      "sha": "aaa33bd4e31d8e8f9d78f13e08143e5709606cd3",
+      "sha": "7a2373ff34b6029fedddbd1d0081fbd48c5c9e7d",
       "title": "Работа с пропущенными звонками",
       "type": "articles",
       "order": 5,
-      "updated_at": "2023-10-31",
+      "updated_at": "2024-03-25",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 12,
@@ -4716,11 +4716,11 @@
     {
       "path": "articles/5S AUTO/Задачи/Адресация задач в CRM по исполнителям",
       "file": "adresaciya-zadach-v-crm-po-ispolnitelyam.md",
-      "sha": "1ff809cc54389f826be6df15888e23923bb81a8d",
+      "sha": "65a0ff9fe1aeaa0fdd577178f0fc3d4e27950cd1",
       "title": "Адресация задач в CRM по исполнителям",
       "type": "articles",
       "order": 0,
-      "updated_at": "2022-06-24",
+      "updated_at": "2024-12-13",
       "date_kind": "updated",
       "added_at": "2026-09-04T13:45:58+03:00",
       "reading_time": 9
@@ -4740,11 +4740,11 @@
     {
       "path": "articles/5S AUTO/Бонусная система/Настройка бонусной системы",
       "file": "nastroyka-bonusnoy-sistemy.md",
-      "sha": "f42a87e97a7f4a760239222cda2b213c0b1bc485",
+      "sha": "b9dbd7178955ca035ca0022ba5741a78cf5dde55",
       "title": "Настройка бонусной системы",
       "type": "articles",
       "order": 2,
-      "updated_at": "2026-06-17",
+      "updated_at": "2026-07-29",
       "date_kind": "updated",
       "added_at": "2026-09-03T16:05:24+03:00",
       "reading_time": 18
@@ -4776,11 +4776,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/Интеграция с Telegram",
       "file": "integraciya-s-telegram.md",
-      "sha": "7b53365395da98a4767581c87dad692aba8a6276",
+      "sha": "919e2731ef0eafd731031ca45025b6d9c6f45a09",
       "title": "Интеграция с Telegram",
       "type": "articles",
       "order": 9,
-      "updated_at": "2024-09-03",
+      "updated_at": "2025-08-18",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 25,
@@ -4920,11 +4920,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/Массовая рассылка сообщений по выборке клиентов",
       "file": "massovaya-rassylka-soobscheniy-po-vyborke-klientov.md",
-      "sha": "a8c763e11f854ccc5d61917837976f654305cccc",
+      "sha": "2db72aa4df94e15ec58c8bfe209495e97257a1a0",
       "title": "Массовая рассылка сообщений по выборке клиентов",
       "type": "articles",
       "order": 2,
-      "updated_at": "2024-01-09",
+      "updated_at": "2024-07-19",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 13
@@ -4932,11 +4932,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/Настройка автоматической отправки сообщений через мессенджеры",
       "file": "nastroyka-avtomaticheskoy-otpravki-soobscheniy-cherez-messendzhery.md",
-      "sha": "7ca2b27b88bd5a1deaef831d97256cada062e10a",
+      "sha": "71cf8fc6c62b1f2e2c891fd2b997495bfeeb27a8",
       "title": "Настройка автоматической отправки сообщений через мессенджеры",
       "type": "articles",
       "order": 10,
-      "updated_at": "2024-01-12",
+      "updated_at": "2024-07-19",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 13
@@ -4944,11 +4944,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/Преднастроенные значимые события",
       "file": "prednastroennye-znachimye-sobytiya.md",
-      "sha": "0d6234a7cc174ba65e0e8410f4b66e01314a2579",
+      "sha": "c01204cdeb262a09537c0194ce0024a5718883cf",
       "title": "Преднастроенные значимые события",
       "type": "articles",
       "order": 1,
-      "updated_at": "2024-04-19",
+      "updated_at": "2025-12-08",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 13
@@ -4956,11 +4956,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/Рассылка отчетов через мессенджеры",
       "file": "rassylka-otchetov-cherez-messendzhery.md",
-      "sha": "9a3be29ac673078ec3b0b36087e4789bd77397be",
+      "sha": "d79930f6a283bfaed066ec78d9258cf47de6384f",
       "title": "Рассылка отчетов через мессенджеры",
       "type": "articles",
       "order": 0,
-      "updated_at": "2022-06-23",
+      "updated_at": "2026-07-29",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 12
@@ -4990,11 +4990,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/Шаблоны сообщений",
       "file": "shablony-soobscheniy.md",
-      "sha": "205548a41de6f58c55d253c7de3f4a841ca6511e",
+      "sha": "d31fc84764f1f0a41d954322ca7eca2fdc8e7d6b",
       "title": "Шаблоны сообщений",
       "type": "articles",
       "order": 7,
-      "updated_at": "2024-01-18",
+      "updated_at": "2024-07-19",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 16
@@ -5722,11 +5722,11 @@
     {
       "path": "articles/5S AUTO/Работа с заказами/Распределение поступлений по заказам",
       "file": "raspredelenie-postupleniy-po-zakazam.md",
-      "sha": "4132279f2141269619dff444cb25b1f0a8152aeb",
+      "sha": "3d91fa90f6a37c9599a0d3eb3aad264c86069b71",
       "title": "Распределение поступлений по заказам",
       "type": "articles",
       "order": 3,
-      "updated_at": "2023-04-03",
+      "updated_at": "2023-06-02",
       "date_kind": "updated",
       "added_at": "2026-09-03T11:35:45+03:00",
       "reading_time": 20
@@ -5770,11 +5770,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Шинный отель",
       "file": "shinnyy-otel.md",
-      "sha": "e03a898756db13294c5450baa20fb9030e5ad899",
+      "sha": "5abae02114ab13b0c0f0f441b1acfd627de4cfd2",
       "title": "Шинный отель",
       "type": "articles",
       "order": 22,
-      "updated_at": "2025-01-09",
+      "updated_at": "2025-01-10",
       "date_kind": "updated",
       "added_at": "2026-09-03T10:39:23+03:00",
       "reading_time": 13
@@ -5782,11 +5782,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Загрузка накладных поставщиков",
       "file": "zagruzka-nakladnykh-postavschikov.md",
-      "sha": "0de5c5556c2a10f46d0e305f89610c9082498ecd",
+      "sha": "7a57163e44aa5a86fafe7ca856ca43d1b3dce37a",
       "title": "Загрузка накладных поставщиков",
       "type": "articles",
       "order": 21,
-      "updated_at": "2024-02-29",
+      "updated_at": "2025-09-04",
       "date_kind": "updated",
       "added_at": "2026-09-03T10:20:57+03:00",
       "reading_time": 22
@@ -5794,11 +5794,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Признаки номенклатуры",
       "file": "priznaki-nomenklatury.md",
-      "sha": "859260736cc8220fb9e4ec6d6ed7abd0934df5f9",
+      "sha": "d8f9eccbb4fbb2520a1db1047adc9c35c41f2b78",
       "title": "Признаки номенклатуры",
       "type": "articles",
       "order": 20,
-      "updated_at": "2024-06-19",
+      "updated_at": "2025-12-08",
       "date_kind": "updated",
       "added_at": "2026-09-03T10:04:11+03:00",
       "reading_time": 20,
@@ -5812,11 +5812,11 @@
     {
       "path": "articles/5S AUTO/Работа с заказами/Автоматическое снятие резервов",
       "file": "avtomaticheskoe-snyatie-rezervov.md",
-      "sha": "afcd0fc1f7363826b3e62ccb8cb57dc9f60a5a1e",
+      "sha": "5eab1cc36cda82029795e059a37be0075864427b",
       "title": "Автоматическое снятие резервов",
       "type": "articles",
       "order": 7,
-      "updated_at": "2023-06-08",
+      "updated_at": "2025-06-05",
       "date_kind": "updated",
       "added_at": "2026-09-03T09:50:36+03:00",
       "reading_time": 7,
@@ -5856,11 +5856,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Интерфейс для ТСД",
       "file": "interfeys-dlya-tsd.md",
-      "sha": "1d4304ad28ccc134e500e02f505f636678aaf250",
+      "sha": "a7148161c0f983d429b1e1a7d3aea5e1e43ccf94",
       "title": "Интерфейс для ТСД",
       "type": "articles",
       "order": 17,
-      "updated_at": "2023-03-14",
+      "updated_at": "2024-10-30",
       "date_kind": "updated",
       "added_at": "2026-09-03T08:57:05+03:00",
       "reading_time": 25,
@@ -5874,11 +5874,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Автозаполнение применяемости из заказ-наряда",
       "file": "avtozapolnenie-primenyaemosti-iz-zakaz-naryada.md",
-      "sha": "f6f0c000c2f0eaf4c8c240f7b8f2e89ec6210c66",
+      "sha": "2aaedc7e90270b3834dd3325ae4c5c384092f43b",
       "title": "Автозаполнение применяемости из заказ-наряда",
       "type": "articles",
       "order": 2,
-      "updated_at": "2025-01-13",
+      "updated_at": "2026-09-02",
       "date_kind": "updated",
       "added_at": "2026-09-02T16:10:36+03:00",
       "reading_time": 20
@@ -5904,11 +5904,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Применяемость по типу двигателя и типу КПП",
       "file": "primenyaemost-po-tipu-dvigatelya-i-tipu-kpp.md",
-      "sha": "2d42986574e2c88e40425658a55eb43fcd5f6651",
+      "sha": "02db6ebf18bb9d973a491c906b6526cde65e813b",
       "title": "Применяемость по типу двигателя и типу КПП",
       "type": "articles",
       "order": 1,
-      "updated_at": "2022-11-30",
+      "updated_at": "2025-12-08",
       "date_kind": "updated",
       "added_at": "2026-09-02T15:23:17+03:00",
       "reading_time": 7
@@ -5916,11 +5916,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Приобретение товаров (в пути)",
       "file": "priobretenie-tovarov-v-puti.md",
-      "sha": "06e7577ac2f3bf886c3f2537f66955e8f2785dc3",
+      "sha": "ebc8572ac420bb803f0dbfd1a8d60cb3fe40effa",
       "title": "Приобретение товаров (в пути)",
       "type": "articles",
       "order": 15,
-      "updated_at": "2022-09-21",
+      "updated_at": "2026-07-30",
       "date_kind": "updated",
       "added_at": "2026-09-02T15:18:42+03:00",
       "reading_time": 8,
@@ -5934,11 +5934,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Перемещение товаров между филиалами",
       "file": "peremeschenie-tovarov-mezhdu-filialami.md",
-      "sha": "a3ff93d06e0f0ba8f8acf10de8bf15e4fb5c9838",
+      "sha": "197d8450f7ef9d74525f194ff540e2579e8ebf9d",
       "title": "Перемещение товаров между филиалами",
       "type": "articles",
       "order": 14,
-      "updated_at": "2022-09-14",
+      "updated_at": "2026-07-30",
       "date_kind": "updated",
       "added_at": "2026-09-02T14:55:20+03:00",
       "reading_time": 9,
@@ -6018,11 +6018,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Сканирование штрихкодов",
       "file": "skanirovanie-shtrikhkodov-tovarov.md",
-      "sha": "f575836140ff0072119ec62bbe64036e09478862",
+      "sha": "033edceaa8db3a6d7afad4f32bddeda22005f474",
       "title": "Сканирование штрихкодов товаров",
       "type": "articles",
       "order": 0,
-      "updated_at": "2024-10-29",
+      "updated_at": "2025-01-17",
       "date_kind": "updated",
       "added_at": "2026-09-02T13:23:53+03:00",
       "reading_time": 16
@@ -6030,11 +6030,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Инвентаризация",
       "file": "inventarizaciya.md",
-      "sha": "dd2758473011e26cdd3041a7383bbef59f2c058b",
+      "sha": "f2cda7cda29393dc0bfe2f9c9235c436b2d70512",
       "title": "Инвентаризация",
       "type": "articles",
       "order": 9,
-      "updated_at": "2022-06-22",
+      "updated_at": "2026-05-04",
       "date_kind": "updated",
       "added_at": "2026-09-02T11:58:37+03:00",
       "reading_time": 16
@@ -6042,11 +6042,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Виды склада",
       "file": "vidy-sklada.md",
-      "sha": "63d24a2f82bb81da0d1a4fbe326eaa51a8d28fa9",
+      "sha": "960294b9932ebda3d5de7f0ce863c04c1c193f88",
       "title": "Виды склада",
       "type": "articles",
       "order": 8,
-      "updated_at": "2022-06-22",
+      "updated_at": "2025-04-01",
       "date_kind": "updated",
       "added_at": "2026-09-02T11:49:43+03:00",
       "reading_time": 8
@@ -6054,11 +6054,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Пополнение складских запасов",
       "file": "popolnenie-skladskikh-zapasov.md",
-      "sha": "277de6a0c2377b1eac7f137ae215c41760147eef",
+      "sha": "6056724156895d615a7b9c5444d79fb8de44228b",
       "title": "Пополнение складских запасов",
       "type": "articles",
       "order": 7,
-      "updated_at": "2024-10-08",
+      "updated_at": "2025-06-05",
       "date_kind": "updated",
       "added_at": "2026-09-02T11:36:22+03:00",
       "reading_time": 20
@@ -6066,11 +6066,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Выгрузка прайс-листов",
       "file": "vygruzka-prays-listov.md",
-      "sha": "73c7a7561b3da84c23863c519120f7f207e3a246",
+      "sha": "fdfc5c398c5f72d5be32940efc70120daa31dad8",
       "title": "Выгрузка прайс-листов",
       "type": "articles",
       "order": 6,
-      "updated_at": "2025-08-20",
+      "updated_at": "2026-07-30",
       "date_kind": "updated",
       "added_at": "2026-09-02T11:19:13+03:00",
       "reading_time": 17
@@ -6102,11 +6102,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка прайс-листа контрагента",
       "file": "sozdanie-i-nastroyka-prays-lista-kontragenta.md",
-      "sha": "94f144e0a6365c12b810d380867d3958f251b5a8",
+      "sha": "d6d148915a368c0c657d55f9145f6a40491baf0d",
       "title": "Создание и настройка прайс-листа контрагента",
       "type": "articles",
       "order": 3,
-      "updated_at": "2022-06-22",
+      "updated_at": "2025-12-08",
       "date_kind": "updated",
       "added_at": "2026-09-02T10:32:07+03:00",
       "reading_time": 18
@@ -6114,11 +6114,11 @@
     {
       "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей/Работа с применяемостью",
       "file": "rabota-s-primenyaemostyu.md",
-      "sha": "21cab3a6a1bd9eae9f500dd2c9c2c8ac108b40d0",
+      "sha": "87d7e46c1d1b26b998da24e605dcbda64b1c6c70",
       "title": "Работа с применяемостью",
       "type": "articles",
       "order": 0,
-      "updated_at": "2022-06-17",
+      "updated_at": "2024-09-16",
       "date_kind": "updated",
       "added_at": "2026-09-02T10:21:25+03:00",
       "reading_time": 20
@@ -6138,11 +6138,11 @@
     {
       "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Ремонт собственных агрегатов",
       "file": "remont-sobstvennykh-agregatov.md",
-      "sha": "ca14645af092cb0c34563b7a2bdefb1adbc56cbb",
+      "sha": "f04880c82b1bbb5e60904ebb196978e430dba44e",
       "title": "Ремонт собственных агрегатов",
       "type": "articles",
       "order": 4,
-      "updated_at": "2022-08-03",
+      "updated_at": "2025-12-08",
       "date_kind": "updated",
       "added_at": "2026-09-02T09:20:41+03:00",
       "reading_time": 6
@@ -6150,11 +6150,11 @@
     {
       "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Диагностические анкеты для агрегатов",
       "file": "diagnosticheskie-ankety-dlya-agregatov.md",
-      "sha": "b013e3914f79f3d254e4828b8cf16b0344202770",
+      "sha": "09a63ba3cb42e14dfbe51a84668b7944e51ff207",
       "title": "Диагностические анкеты для агрегатов",
       "type": "articles",
       "order": 3,
-      "updated_at": "2022-08-03",
+      "updated_at": "2025-12-08",
       "date_kind": "updated",
       "added_at": "2026-09-02T09:14:56+03:00",
       "reading_time": 5
@@ -6162,11 +6162,11 @@
     {
       "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Учет серийных номеров агрегатов",
       "file": "uchet-seriynykh-nomerov-agregatov.md",
-      "sha": "318ddb37109177d052d2f10de7cb2440c39cc574",
+      "sha": "2a409cadcb2a3cb27d52cc96a7203a77a16e1551",
       "title": "Учет серийных номеров агрегатов",
       "type": "articles",
       "order": 2,
-      "updated_at": "2022-08-03",
+      "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-02T09:09:45+03:00",
       "reading_time": 9
@@ -6174,11 +6174,11 @@
     {
       "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов/Применяемость для агрегатов",
       "file": "primenyaemost-dlya-agregatov.md",
-      "sha": "a1a10522b0f63bf535bf6d4500df22aae55967c9",
+      "sha": "896ddf139bbaf94a8acc85e2abf25b3bc30ae1a8",
       "title": "Применяемость для агрегатов",
       "type": "articles",
       "order": 1,
-      "updated_at": "2022-07-13",
+      "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-02T09:03:23+03:00",
       "reading_time": 13,
@@ -6204,11 +6204,11 @@
     {
       "path": "articles/5S AUTO/Автосервис/Корректировка пробега автомобиля",
       "file": "korrektirovka-probega-avtomobilya.md",
-      "sha": "24d0671da8b81c61e5df95c84c976e4d987537fa",
+      "sha": "d7ebeaeb389e14e62d971765aa42e9a58e8ad180",
       "title": "Корректировка пробега автомобиля",
       "type": "articles",
       "order": 20,
-      "updated_at": "2024-08-20",
+      "updated_at": "2024-09-16",
       "date_kind": "updated",
       "added_at": "2026-09-01T17:13:55+03:00",
       "reading_time": 5
@@ -6228,11 +6228,11 @@
     {
       "path": "articles/5S AUTO/Автосервис/Модели двигателей и КПП",
       "file": "modeli-dvigateley-i-kpp.md",
-      "sha": "5ae0c49cdc1df6cafcb92c9cedd93debfccdcc4d",
+      "sha": "1468bbe9fd909526ca60a3c89c763f4714dfd9af",
       "title": "Модели двигателей и КПП",
       "type": "articles",
       "order": 18,
-      "updated_at": "2022-11-30",
+      "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-01T17:01:23+03:00",
       "reading_time": 8
@@ -6516,11 +6516,11 @@
     {
       "path": "articles/5S AUTO/Автосервис/Работа с рекомендациями",
       "file": "rabota-s-rekomendaciyami.md",
-      "sha": "6f367b93a64c84125db09c4ac3b1bd584c5f833e",
+      "sha": "95828c84a1a062d1d68f86d8bbd229aab18f22c1",
       "title": "Работа с рекомендациями",
       "type": "articles",
       "order": 5,
-      "updated_at": "2024-05-15",
+      "updated_at": "2025-12-08",
       "date_kind": "updated",
       "added_at": "2026-09-01T11:28:13+03:00",
       "reading_time": 15
@@ -6588,11 +6588,11 @@
     {
       "path": "articles/5S AUTO/Запись на ремонт/Сохранение настроек АРМ Запись на ремонт",
       "file": "sokhranenie-nastroek-arm-zapis-na-remont.md",
-      "sha": "89e628cbf90e9e3f62ea6c4a7c0c693e2e1d1bda",
+      "sha": "6dbacf299ba92eaf0891d9208eabce60103efc58",
       "title": "Сохранение настроек АРМ «Запись на ремонт»",
       "type": "articles",
       "order": 4,
-      "updated_at": "2023-08-07",
+      "updated_at": "2025-06-17",
       "date_kind": "updated",
       "added_at": "2026-09-01T10:00:56+03:00",
       "reading_time": 5
@@ -6612,11 +6612,11 @@
     {
       "path": "articles/5S AUTO/Запись на ремонт/Планирование работ и подготовка к заезду",
       "file": "planirovanie-rabot-i-podgotovka-k-zaezdu.md",
-      "sha": "923a803e89345e64a445f10280aedc80d3e1311d",
+      "sha": "71f85aae028b962b3261ab40e8ed5593bd6caf4d",
       "title": "Планирование работ и подготовка к заезду",
       "type": "articles",
       "order": 2,
-      "updated_at": "2022-06-21",
+      "updated_at": "2025-12-08",
       "date_kind": "updated",
       "added_at": "2026-09-01T09:49:27+03:00",
       "reading_time": 5
@@ -6696,11 +6696,11 @@
     {
       "path": "articles/5S AUTO/Запись на ремонт/Календарь для планирования работ",
       "file": "kalendar-dlya-planirovaniya-rabot.md",
-      "sha": "6d852df6f30310b0b60ea0e13d5cc96647b3cc8f",
+      "sha": "b13748765871cf39af46f9696952e80059330ab8",
       "title": "Календарь для планирования работ",
       "type": "articles",
       "order": 1,
-      "updated_at": "2025-06-18",
+      "updated_at": "2026-07-30",
       "date_kind": "updated",
       "added_at": "2026-08-31T15:50:40+03:00",
       "reading_time": 9
@@ -6708,11 +6708,11 @@
     {
       "path": "articles/5S AUTO/Запись на ремонт/Начальные настройки для работы в АРМ Запись на ремонт",
       "file": "nachalnye-nastroyki-dlya-raboty-v-arm-zapis-na-remont.md",
-      "sha": "10322d95d2e730310212589c5c9923d041449059",
+      "sha": "939b508703b119b91bc2c436ba7856f84d132f69",
       "title": "Начальные настройки для работы в АРМ «Запись на ремонт»",
       "type": "articles",
       "order": 0,
-      "updated_at": "2022-06-17",
+      "updated_at": "2026-06-22",
       "date_kind": "updated",
       "added_at": "2026-08-31T15:35:48+03:00",
       "reading_time": 7
@@ -7032,11 +7032,11 @@
     {
       "path": "articles/5S AUTO/Проценка запчастей и работ/Работа в АРМ Корзина",
       "file": "rabota-v-arm-korzina.md",
-      "sha": "2f61abaf72589b84b111a2274919fc1c54c10c7b",
+      "sha": "c700eccb07f44bafce5b9f1edb6400a3a0cc072e",
       "title": "Работа в АРМ Корзина",
       "type": "articles",
       "order": 0,
-      "updated_at": "2024-02-02",
+      "updated_at": "2024-09-16",
       "date_kind": "updated",
       "added_at": "2026-08-27T14:50:29+03:00",
       "reading_time": 23
@@ -7062,11 +7062,11 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Лента событий",
       "file": "lenta-sobytiy.md",
-      "sha": "69960ef0d5457c9faeede77730807647215160e3",
+      "sha": "efee55cab53b201252f3b92044def35c7c11575e",
       "title": "Лента событий",
       "type": "articles",
       "order": 7,
-      "updated_at": "2022-06-27",
+      "updated_at": "2026-07-29",
       "date_kind": "updated",
       "added_at": "2026-08-27T14:19:11+03:00",
       "reading_time": 8
@@ -7074,11 +7074,11 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Умная маршрутизация входящего звонка",
       "file": "umnaya-marshrutizaciya-vkhodyaschego-zvonka.md",
-      "sha": "fe6be7e426bdb6936cd3e2e27b68aa7700f074bd",
+      "sha": "807feb7b19e37180a249c48419818233566faacb",
       "title": "Умная маршрутизация входящего звонка",
       "type": "articles",
       "order": 6,
-      "updated_at": "2024-03-27",
+      "updated_at": "2026-03-31",
       "date_kind": "updated",
       "added_at": "2026-08-27T13:50:59+03:00",
       "reading_time": 5
@@ -7170,11 +7170,11 @@
     {
       "path": "articles/5S AUTO/CRM/Приглашения на ТО",
       "file": "priglasheniya-na-to.md",
-      "sha": "cd4ed87a450a5da9e94c846f2acd7a961b17176e",
+      "sha": "f208eb686a3b561e9f69b22614bc7d04e22f468b",
       "title": "Приглашения на ТО",
       "type": "articles",
       "order": 20,
-      "updated_at": "2024-07-29",
+      "updated_at": "2024-08-14",
       "date_kind": "updated",
       "added_at": "2026-08-26T13:23:47+03:00",
       "reading_time": 8
@@ -7194,11 +7194,11 @@
     {
       "path": "articles/5S AUTO/CRM/Структура интерфейса 5S AUTO",
       "file": "struktura-interfeysa-5s-auto.md",
-      "sha": "55b75a69015387b52847f8d3e03e37ba0d12847a",
+      "sha": "77870a26fa9f0d176f5f4e58c938d7638cbe1330",
       "title": "Структура интерфейса 5S AUTO",
       "type": "articles",
       "order": 18,
-      "updated_at": "2024-03-28",
+      "updated_at": "2024-07-19",
       "date_kind": "updated",
       "added_at": "2026-08-26T12:39:15+03:00",
       "reading_time": 13
@@ -7206,11 +7206,11 @@
     {
       "path": "articles/5S AUTO/CRM/Типы задач",
       "file": "tipy-zadach.md",
-      "sha": "39274888e3521c3f6ac54202bbddcf6ebef274ce",
+      "sha": "884e9e1dfab7369cb4dd5293cb0d20717d70b7e8",
       "title": "Типы задач",
       "type": "articles",
       "order": 17,
-      "updated_at": "2023-06-26",
+      "updated_at": "2024-03-12",
       "date_kind": "updated",
       "added_at": "2026-08-26T11:55:15+03:00",
       "reading_time": 14,
@@ -7266,11 +7266,11 @@
     {
       "path": "articles/5S AUTO/CRM/Настройки воронки продаж",
       "file": "nastroyki-voronki-prodazh.md",
-      "sha": "e45ab556edc7903e009900d5e7c002137a8b82c6",
+      "sha": "3d25bb0a800291ee8d99ab4967e2e9fc124d9dac",
       "title": "Настройки воронки продаж",
       "type": "articles",
       "order": 13,
-      "updated_at": "2024-11-14",
+      "updated_at": "2025-01-09",
       "date_kind": "updated",
       "added_at": "2026-08-26T10:50:23+03:00",
       "reading_time": 10
@@ -7290,11 +7290,11 @@
     {
       "path": "articles/5S AUTO/CRM/Сохранение настроек просмотра сделок",
       "file": "sohranenie-nastroek-prosmotra-sdelok.md",
-      "sha": "459ee9e5ff9ba2cb1980d5b4bf613b2b2d51bf3f",
+      "sha": "b77d215c3270e11961c14f0596e81b4831bf7c17",
       "title": "Сохранение настроек просмотра сделок",
       "type": "articles",
       "order": 11,
-      "updated_at": "2024-03-25",
+      "updated_at": "2025-12-05",
       "date_kind": "updated",
       "added_at": "2026-08-26T10:29:09+03:00",
       "reading_time": 10
@@ -7302,11 +7302,11 @@
     {
       "path": "articles/5S AUTO/CRM/Групповые действия со сделками",
       "file": "gruppovye-deystviya-so-sdelkami.md",
-      "sha": "3a986854c0937d14aad975c7fcc915158acabfd9",
+      "sha": "94163541a303490059dc1f9f89404e4cebf83e23",
       "title": "Групповые действия со сделками",
       "type": "articles",
       "order": 10,
-      "updated_at": "2024-11-14",
+      "updated_at": "2025-01-09",
       "date_kind": "updated",
       "added_at": "2026-08-26T10:23:21+03:00",
       "reading_time": 10
@@ -7332,11 +7332,11 @@
     {
       "path": "articles/5S AUTO/CRM/Работа с уведомлениями",
       "file": "rabota-s-uvedomleniyami.md",
-      "sha": "149f9b17e7bb515227a39a4b501b35fed76288ed",
+      "sha": "e5dede661cf6d00c8d58660c008b47e4ad902846",
       "title": "Работа с уведомлениями",
       "type": "articles",
       "order": 7,
-      "updated_at": "2024-10-18",
+      "updated_at": "2025-03-20",
       "date_kind": "updated",
       "added_at": "2026-08-26T09:47:16+03:00",
       "reading_time": 21
@@ -7356,11 +7356,11 @@
     {
       "path": "articles/5S AUTO/CRM/Отложенные сделки",
       "file": "otlozhennye-sdelki.md",
-      "sha": "f79a21f03dc51ae0b4162cec39a1945993362e4a",
+      "sha": "0af64b2cef48862b479a0bda90eba1f9a4c4bd9a",
       "title": "Отложенные сделки",
       "type": "articles",
       "order": 5,
-      "updated_at": "2024-10-29",
+      "updated_at": "2024-11-07",
       "date_kind": "updated",
       "added_at": "2026-08-26T09:34:08+03:00",
       "reading_time": 12
@@ -7392,11 +7392,11 @@
     {
       "path": "articles/5S AUTO/CRM/Работа со сделкой",
       "file": "rabota-so-sdelkoy.md",
-      "sha": "ff4c9124263cb325ab49620d1001ecd4569cbe56",
+      "sha": "a3c6a3ff002c284925c3af99f47f6ba1d4982a12",
       "title": "Работа со сделкой",
       "type": "articles",
       "order": 2,
-      "updated_at": "2024-10-16",
+      "updated_at": "2026-07-28",
       "date_kind": "updated",
       "added_at": "2026-08-26T09:04:10+03:00",
       "reading_time": 15
@@ -7404,11 +7404,11 @@
     {
       "path": "articles/5S AUTO/CRM/Список сделок",
       "file": "spisok-sdelok.md",
-      "sha": "3308235bc3fad6de57b136ce92062734aa43d863",
+      "sha": "07ccabb1f03619aa2a2a6780f41468a948299ecc",
       "title": "Список сделок",
       "type": "articles",
       "order": 1,
-      "updated_at": "2024-10-16",
+      "updated_at": "2025-01-09",
       "date_kind": "updated",
       "added_at": "2026-08-26T08:54:29+03:00",
       "reading_time": 20
@@ -7416,11 +7416,11 @@
     {
       "path": "articles/5S AUTO/CRM/Канбан сделок",
       "file": "kanban-sdelok.md",
-      "sha": "3fc84fd68b1b2751fff0ca1d2898262bc2701f00",
+      "sha": "89d33506c3e25a5a70ae23401c86b860f2863c4b",
       "title": "Канбан сделок",
       "type": "articles",
       "order": 0,
-      "updated_at": "2024-10-16",
+      "updated_at": "2026-08-07",
       "date_kind": "updated",
       "added_at": "2026-08-25T15:38:01+03:00",
       "reading_time": 11

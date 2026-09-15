@@ -1,6 +1,6 @@
 # Упрощенный Фронт кассира
 
-<table><tr><td><b>Время чтения:</b> 26 мин.</td><td><b>Обновлено:</b> 29.03.2023</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 26 мин.</td><td><b>Обновлено:</b> 25.02.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/uproschennyy-front-kassira</sub>
 

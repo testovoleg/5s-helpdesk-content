@@ -1,6 +1,6 @@
 # Применяемость по типу двигателя и типу КПП
 
-<table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 30.11.2022</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 08.12.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/primenyaemost-po-tipu-dvigatelya-i-tipu-kpp</sub>
 

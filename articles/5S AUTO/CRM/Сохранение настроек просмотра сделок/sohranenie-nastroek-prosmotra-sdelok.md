@@ -1,6 +1,6 @@
 # Сохранение настроек просмотра сделок
 
-<table><tr><td><b>Время чтения:</b> 10 мин.</td><td><b>Обновлено:</b> 25.03.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 10 мин.</td><td><b>Обновлено:</b> 05.12.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/sokhranenie-nastroek-prosmotra-sdelok</sub>
 

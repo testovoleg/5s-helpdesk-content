@@ -1,6 +1,6 @@
 # Создание и настройка прайс-листа контрагента
 
-<table><tr><td><b>Время чтения:</b> 18 мин.</td><td><b>Обновлено:</b> 22.06.2022</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 18 мин.</td><td><b>Обновлено:</b> 08.12.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/sozdanie-i-nastroyka-prays-lista-kontragenta</sub>
 

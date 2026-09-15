@@ -1,6 +1,6 @@
 # Настройка автоматической отправки сообщений через мессенджеры
 
-<table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 12.01.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 13 мин.</td><td><b>Обновлено:</b> 19.07.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-avtomaticheskoy-otpravki-soobscheniy-cherez-messendzhery</sub>
 

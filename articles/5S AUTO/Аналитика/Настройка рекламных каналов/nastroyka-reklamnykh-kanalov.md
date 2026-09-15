@@ -1,6 +1,6 @@
 # Настройка рекламных каналов
 
-<table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 19.11.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 03.06.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-reklamnykh-kanalov</sub>
 

@@ -1,6 +1,6 @@
 # Доступ к данным по подразделениям (RLS)
 
-<table><tr><td><b>Время чтения:</b> 22 мин.</td><td><b>Обновлено:</b> 28.02.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 22 мин.</td><td><b>Обновлено:</b> 08.09.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/dostup-k-dannym-po-podrazdeleniyam-rls</sub>
 

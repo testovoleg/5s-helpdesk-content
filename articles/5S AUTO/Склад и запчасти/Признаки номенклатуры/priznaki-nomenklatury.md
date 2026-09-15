@@ -1,6 +1,6 @@
 # Признаки номенклатуры
 
-<table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 19.06.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 08.12.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/priznaki-nomenklatury</sub>
 

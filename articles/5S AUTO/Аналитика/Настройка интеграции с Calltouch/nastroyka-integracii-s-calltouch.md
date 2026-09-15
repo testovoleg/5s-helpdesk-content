@@ -1,6 +1,6 @@
 # Настройка интеграции с Calltouch
 
-<table><tr><td><b>Время чтения:</b> 21 мин.</td><td><b>Обновлено:</b> 15.03.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 21 мин.</td><td><b>Обновлено:</b> 08.12.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-integracii-s-calltouch</sub>
 

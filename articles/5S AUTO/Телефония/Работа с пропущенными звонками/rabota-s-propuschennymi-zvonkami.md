@@ -1,6 +1,6 @@
 # Работа с пропущенными звонками
 
-<table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 31.10.2023</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 25.03.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-propuschennymi-zvonkami</sub>
 

@@ -1,6 +1,6 @@
 # Отзывы в 5S LINK
 
-<table><tr><td><b>Время чтения:</b> 10 мин.</td><td><b>Обновлено:</b> 10.05.2023</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 10 мин.</td><td><b>Обновлено:</b> 30.07.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/otzyvy-v-5s-link</sub>
 

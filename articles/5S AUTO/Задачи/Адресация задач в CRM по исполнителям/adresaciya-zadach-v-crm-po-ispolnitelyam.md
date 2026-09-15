@@ -1,6 +1,6 @@
 # Адресация задач в CRM по исполнителям
 
-<table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 24.06.2022</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 13.12.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/adresaciya-zadach-v-crm-po-ispolnitelyam</sub>
 

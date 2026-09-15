@@ -1,6 +1,6 @@
 # Подключение кассы ККМ
 
-<table><tr><td><b>Время чтения:</b> 25 мин.</td><td><b>Обновлено:</b> 09.09.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 25 мин.</td><td><b>Обновлено:</b> 22.12.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-kassy-kkm</sub>
 

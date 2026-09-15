@@ -1,6 +1,6 @@
 # Настройка цветового оформления статусов и состояний
 
-<table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 24.01.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 19.07.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-cvetovogo-oformleniya-statusov-i-sostoyaniy</sub>
 

@@ -1,6 +1,6 @@
 # Загрузка накладных поставщиков
 
-<table><tr><td><b>Время чтения:</b> 22 мин.</td><td><b>Обновлено:</b> 29.02.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 22 мин.</td><td><b>Обновлено:</b> 04.09.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/zagruzka-nakladnykh-postavschikov</sub>
 

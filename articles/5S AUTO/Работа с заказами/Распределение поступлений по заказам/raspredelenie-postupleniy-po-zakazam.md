@@ -1,6 +1,6 @@
 # Распределение поступлений по заказам
 
-<table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 03.04.2023</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 02.06.2023</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/raspredelenie-postupleniy-po-zakazam</sub>
 

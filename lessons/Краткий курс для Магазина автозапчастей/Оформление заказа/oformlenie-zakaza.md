@@ -1,6 +1,6 @@
 # Оформление заказа
 
-<table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 30.09.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 7 мин.</td><td><b>Обновлено:</b> 01.10.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/oformlenie-zakaza</sub>
 

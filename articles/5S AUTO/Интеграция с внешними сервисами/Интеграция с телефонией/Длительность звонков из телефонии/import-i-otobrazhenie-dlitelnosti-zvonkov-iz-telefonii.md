@@ -1,6 +1,6 @@
 # Импорт и отображение длительности звонков из телефонии
 
-<table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 19.01.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 19.07.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/import-i-otobrazhenie-dlitelnosti-zvonkov-iz-telefonii</sub>
 

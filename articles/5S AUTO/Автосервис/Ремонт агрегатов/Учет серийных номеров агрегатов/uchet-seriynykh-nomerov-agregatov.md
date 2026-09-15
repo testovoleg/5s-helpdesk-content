@@ -1,6 +1,6 @@
 # Учет серийных номеров агрегатов
 
-<table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 03.08.2022</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 12.12.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/uchet-seriynykh-nomerov-agregatov</sub>
 

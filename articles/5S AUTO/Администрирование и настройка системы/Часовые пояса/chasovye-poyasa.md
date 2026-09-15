@@ -1,6 +1,6 @@
 # Часовые пояса
 
-<table><tr><td><b>Время чтения:</b> 24 мин.</td><td><b>Обновлено:</b> 22.04.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 24 мин.</td><td><b>Обновлено:</b> 24.06.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/chasovye-poyasa</sub>
 

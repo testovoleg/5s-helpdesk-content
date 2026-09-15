@@ -1,6 +1,6 @@
 # Работа в АРМ Корзина
 
-<table><tr><td><b>Время чтения:</b> 23 мин.</td><td><b>Обновлено:</b> 02.02.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 23 мин.</td><td><b>Обновлено:</b> 16.09.2024</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/rabota-v-arm-korzina</sub>
 

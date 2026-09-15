@@ -1,6 +1,6 @@
 # Выгрузка прайс-листов
 
-<table><tr><td><b>Время чтения:</b> 17 мин.</td><td><b>Обновлено:</b> 20.08.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 17 мин.</td><td><b>Обновлено:</b> 30.07.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/vygruzka-prays-listov</sub>
 

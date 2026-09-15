@@ -1,6 +1,6 @@
 # Запись на ремонт через 5S LINK
 
-<table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 10.05.2023</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 17.01.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/zapis-na-remont-cherez-5s-link</sub>
 

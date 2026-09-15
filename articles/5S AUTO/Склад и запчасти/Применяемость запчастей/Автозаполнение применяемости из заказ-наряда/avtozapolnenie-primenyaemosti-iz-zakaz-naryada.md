@@ -1,6 +1,6 @@
 # Автозаполнение применяемости из заказ-наряда
 
-<table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 13.01.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 20 мин.</td><td><b>Обновлено:</b> 02.09.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/avtozapolnenie-primenyaemosti-iz-zakaz-naryada</sub>
 

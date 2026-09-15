@@ -1,6 +1,6 @@
 # Рассылка отчетов через мессенджеры
 
-<table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 23.06.2022</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 29.07.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/rassylka-otchetov-cherez-messendzhery</sub>
 

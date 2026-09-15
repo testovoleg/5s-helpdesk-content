@@ -1,6 +1,6 @@
 # Работа с уведомлениями
 
-<table><tr><td><b>Время чтения:</b> 21 мин.</td><td><b>Обновлено:</b> 18.10.2024</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 21 мин.</td><td><b>Обновлено:</b> 20.03.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-uvedomleniyami</sub>
 
