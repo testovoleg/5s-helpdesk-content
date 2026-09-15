@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:26:04+03:00",
+  "generated_at": "2026-09-15T08:52:47+03:00",
   "count": 625,
   "sections": {
     "tips": [
@@ -7722,11 +7722,11 @@
     {
       "path": "tips/Оборудование/Кассы ККМ/Как задать кассира по умолчанию для печати чеков",
       "file": "kak-zadat-kassira-po-umolchaniyu.md",
-      "sha": "522dfe05404bc3a8ebc338ab94a891624e0faaef",
+      "sha": "8077df4dc5004100945b2064ed20757192946d1a",
       "title": "Как задать кассира по умолчанию для печати чеков",
       "type": "tips",
       "order": 0,
-      "updated_at": "2026-08-24",
+      "updated_at": "2026-09-15",
       "date_kind": "updated",
       "added_at": "2026-08-21T11:21:32+03:00"
     },
