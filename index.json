@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T11:01:49+03:00",
-  "count": 611,
+  "generated_at": "2026-09-15T11:51:49+03:00",
+  "count": 610,
   "sections": {
     "tips": [
       {
@@ -183,7 +183,7 @@
               {
                 "name": "Интеграция с соцсетью ВКонтакте",
                 "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с соцсетью ВКонтакте",
-                "order": 7
+                "order": 6
               }
             ]
           },
@@ -4535,7 +4535,7 @@
       "sha": "71490be0960a61103a75bbfb4d8f4d58c964f5f5",
       "title": "Интеграция с ABCP",
       "type": "articles",
-      "order": 9,
+      "order": 8,
       "updated_at": "2026-07-30",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
@@ -4565,7 +4565,7 @@
       "sha": "56ef6c3b647ae7b7cf8e42730276766ad35939c5",
       "title": "Интеграция с MotorData",
       "type": "articles",
-      "order": 16,
+      "order": 15,
       "updated_at": "2024-03-13",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
@@ -4589,7 +4589,7 @@
       "sha": "af1b2306e06e065b10eed3d5b7b022818c3bab61",
       "title": "Интеграция с ЭДО",
       "type": "articles",
-      "order": 11,
+      "order": 10,
       "updated_at": "2025-04-02",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
@@ -4601,7 +4601,7 @@
       "sha": "7720e276a3dd5d94b84a8bfaca713af85525b001",
       "title": "Интеграция с сервисом \"Безбумажный офис F.Doc\"",
       "type": "articles",
-      "order": 14,
+      "order": 13,
       "updated_at": "2024-03-14",
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
@@ -4678,18 +4678,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-04T14:42:48+03:00",
       "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/Интеграция с внешними сервисами/Фотофиксации",
-      "file": "fotofiksacii.md",
-      "sha": "9bb40e303edaa4903f08754166dfea656bd644fd",
-      "title": "Фотофиксации",
-      "type": "articles",
-      "order": 6,
-      "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2026-09-04T14:42:48+03:00",
-      "reading_time": 23
     },
     {
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Электронная почта",
@@ -4803,7 +4791,7 @@
         },
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
-          "order": 10
+          "order": 9
         },
         {
           "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
@@ -4829,7 +4817,7 @@
         },
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
-          "order": 12
+          "order": 11
         },
         {
           "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
@@ -4855,7 +4843,7 @@
         },
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
-          "order": 15
+          "order": 14
         }
       ]
     },
@@ -4877,7 +4865,7 @@
         },
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
-          "order": 13
+          "order": 12
         },
         {
           "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
@@ -5909,7 +5897,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
-          "order": 17
+          "order": 16
         }
       ]
     },
@@ -6323,7 +6311,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Интеграция с внешними сервисами",
-          "order": 8
+          "order": 7
         }
       ]
     },
@@ -7499,7 +7487,7 @@
       "sha": "3dd316b5d41d7e2df6cb56d88f989e04e0308c2f",
       "title": "Интеграция с Audatex (AudaPad Web)",
       "type": "articles",
-      "order": 18,
+      "order": 17,
       "updated_at": "2026-08-21",
       "date_kind": "updated",
       "added_at": "2026-08-20T16:17:03+03:00",
