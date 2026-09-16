@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T09:42:54+03:00",
+  "generated_at": "2026-09-16T09:49:50+03:00",
   "count": 612,
   "sections": {
     "tips": [
@@ -583,7 +583,7 @@
     {
       "path": "tips/5S AUTO/Практики/Как ограничить редактирование документов",
       "file": "kak-ogranichit-redaktirovanie-dokumentov.md",
-      "sha": "4afd8c738f221be2ee977623eff17548e19eea9c",
+      "sha": "0c50442e1d38b690978ded95a3f4c81ea3b3f856",
       "title": "Как ограничить редактирование документов",
       "type": "tips",
       "order": 4,
@@ -610,17 +610,6 @@
       "type": "tips",
       "order": 10,
       "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2026-09-16T09:01:51+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как сделать настройки для компании с несколькими подразделениями",
-      "file": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami.md",
-      "sha": "71c72fa0c564cc3c5ea2fcff9a378bce2d889a89",
-      "title": "Как сделать настройки для компании с несколькими подразделениями",
-      "type": "tips",
-      "order": 6,
-      "updated_at": "2022-06-16",
       "date_kind": "updated",
       "added_at": "2026-09-16T09:01:51+03:00"
     },
@@ -2998,7 +2987,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "21afc260d49e209adb28b31ee99100cd73a97230",
+      "sha": "6ab3274c4dfa5adef65c0c5b68c8272849737b4b",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -3377,17 +3366,6 @@
       "type": "tips",
       "order": 0,
       "updated_at": "2025-07-23",
-      "date_kind": "updated",
-      "added_at": "2026-09-09T15:24:33+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как проанализировать и установить цены на товары",
-      "file": "analiz-i-ustanovka-cen.md",
-      "sha": "f62278b9b65014981dd73c2897164cbe43e921e0",
-      "title": "Как проанализировать и установить цены на товары",
-      "type": "tips",
-      "order": 9,
-      "updated_at": "2024-11-19",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00"
     },
@@ -8127,6 +8105,28 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как массово рассчитать и установить цены на товары",
+      "file": "analiz-i-ustanovka-cen.md",
+      "sha": "5d6c954021c84c1cf6e057bb7d6e415957c97d66",
+      "title": "Как массово рассчитать и установить цены на товары",
+      "type": "tips",
+      "order": 9,
+      "updated_at": "2024-11-19",
+      "date_kind": "updated",
+      "added_at": "2024-11-19"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как настроить права для компании с несколькими подразделениями",
+      "file": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami.md",
+      "sha": "14239c641943cb9c5bff9c28cbf16424285335ed",
+      "title": "Как настроить права для компании с несколькими подразделениями",
+      "type": "tips",
+      "order": 6,
+      "updated_at": "2022-06-16",
+      "date_kind": "updated",
+      "added_at": "2022-06-16"
     }
   ]
 }
