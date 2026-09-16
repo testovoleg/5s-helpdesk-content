@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T09:34:52+03:00",
+  "generated_at": "2026-09-16T09:39:08+03:00",
   "count": 612,
   "sections": {
     "tips": [
@@ -583,7 +583,7 @@
     {
       "path": "tips/5S AUTO/Практики/Как ограничить редактирование документов",
       "file": "kak-ogranichit-redaktirovanie-dokumentov.md",
-      "sha": "cccc66d4ef99936fe830b816b9b86633bf562896",
+      "sha": "8afdd4808cd45a84f1c39dca4c754307e1deba69",
       "title": "Как ограничить редактирование документов",
       "type": "tips",
       "order": 4,
@@ -594,13 +594,35 @@
     {
       "path": "tips/5S AUTO/Практики/Как посмотреть статистику обращений клиентов в автосервис",
       "file": "kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis.md",
-      "sha": "033ec075cee29050cf4bfbee371496accec60a94",
+      "sha": "5f2e050796febe8b9ec39669155773ef1fb7437d",
       "title": "Как посмотреть статистику обращений клиентов в автосервис",
       "type": "tips",
       "order": 8,
       "updated_at": "2026-09-16",
       "date_kind": "created",
       "added_at": "2026-09-16T09:21:28+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как настроить программу для компании с несколькими подразделениями",
+      "file": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami.md",
+      "sha": "28e1bb9c4e1823ec9737aae02eb44aefbc8410ec",
+      "title": "Как настроить программу для компании с несколькими подразделениями",
+      "type": "tips",
+      "order": 6,
+      "updated_at": "2022-06-16",
+      "date_kind": "updated",
+      "added_at": "2026-09-16T09:01:51+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как организовать порядок на складе",
+      "file": "organizaciya-poryadka-na-sklade.md",
+      "sha": "9ca55c80584550269ee32cd0e7c0af7b32064ce5",
+      "title": "Как организовать порядок на складе",
+      "type": "tips",
+      "order": 10,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-16T09:01:51+03:00"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 04.2023",
@@ -645,7 +667,7 @@
       "title": "Тест по новому функционалу на 08.2024",
       "type": "lessons",
       "order": 5,
-      "updated_at": "2026-09-16T09:34:52+03:00",
+      "updated_at": "2026-09-16T09:34:32+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "test_time": 30
@@ -3258,6 +3280,116 @@
       "date_kind": "updated",
       "added_at": "2026-09-09T15:38:29+03:00",
       "reading_time": 8
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как заменить товар услугой при пробитии чека",
+      "file": "zamena-tovara-uslugoy-pri-probitii-cheka.md",
+      "sha": "a453ec10df15a70bd4f5c238234e174d9862f7d2",
+      "title": "Как заменить товар услугой при пробитии чека",
+      "type": "tips",
+      "order": 13,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как настроить автоматическое создание договора с контрагентом",
+      "file": "avtomaticheskoe-sozdanie-dogovora-s-kontragentom.md",
+      "sha": "885298a7bc0125e60b732212d07688fda62d964f",
+      "title": "Как настроить автоматическое создание договора с контрагентом",
+      "type": "tips",
+      "order": 2,
+      "updated_at": "2024-10-30",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как настроить запрос на отзыв довольного клиента об автосервисе",
+      "file": "zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise.md",
+      "sha": "8ca75389175ef67dc49bcd4e9d9253552bf7ffd9",
+      "title": "Как настроить запрос на отзыв довольного клиента об автосервисе",
+      "type": "tips",
+      "order": 5,
+      "updated_at": "2024-07-19",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как настроить пакетные предложения",
+      "file": "paketnye-predlozheniya.md",
+      "sha": "0ab09eb0e62634a1d0249fb260974de5327443d8",
+      "title": "Как настроить пакетные предложения",
+      "type": "tips",
+      "order": 7,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как настроить применение НДС при УСН",
+      "file": "primenenie-nds-pri-usn.md",
+      "sha": "5a5fe9361b20fe5d0bfb5fd97ccf5b74ffc0b129",
+      "title": "Как настроить применение НДС при УСН",
+      "type": "tips",
+      "order": 11,
+      "updated_at": "2026-01-23",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как настроить продажу подакцизных товаров",
+      "file": "osobennosti-realizacii-podakciznykh-tovarov.md",
+      "sha": "f334ca3e84d44d40955588e8dc777ee341687d2e",
+      "title": "Как настроить продажу подакцизных товаров",
+      "type": "tips",
+      "order": 3,
+      "updated_at": "2025-02-06",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как настроить разделение чеков ККМ",
+      "file": "razdelenie-chekov-kkm.md",
+      "sha": "b674cd9df9aae8d6c3bda358868ea030a4817b0a",
+      "title": "Как настроить разделение чеков ККМ",
+      "type": "tips",
+      "order": 12,
+      "updated_at": "2025-12-10",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как проанализировать и установить цены на товары",
+      "file": "analiz-i-ustanovka-cen.md",
+      "sha": "f62278b9b65014981dd73c2897164cbe43e921e0",
+      "title": "Как проанализировать и установить цены на товары",
+      "type": "tips",
+      "order": 9,
+      "updated_at": "2024-11-19",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как учитывать выработку исполнителей по нормочасам для работ с фиксированной стоимостью",
+      "file": "uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu.md",
+      "sha": "73e23fd1aca2cedec02b404dfd18962a0e94fc1c",
+      "title": "Как учитывать выработку исполнителей по нормочасам для работ с фиксированной стоимостью",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2025-07-23",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как учитывать выработку специалистов по запчастям в Заказ-нарядах",
+      "file": "uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh.md",
+      "sha": "6f0f54aa43fb2424b7907fc0cf50d3febc84ca37",
+      "title": "Как учитывать выработку специалистов по запчастям в Заказ-нарядах",
+      "type": "tips",
+      "order": 1,
+      "updated_at": "2025-07-23",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
     },
     {
       "path": "articles/5S AUTO/Телефония/Настройка внутренних телефонов сотрудников",
@@ -7995,138 +8127,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как настроить применение НДС при УСН",
-      "file": "primenenie-nds-pri-usn.md",
-      "sha": "3f6dfd770c7592fe94f71f2e439d2f7e021ceb05",
-      "title": "Как настроить применение НДС при УСН",
-      "type": "tips",
-      "order": 11,
-      "updated_at": "2026-01-23",
-      "date_kind": "updated",
-      "added_at": "2026-01-23"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как настроить разделение чеков ККМ",
-      "file": "razdelenie-chekov-kkm.md",
-      "sha": "581f800b5929c30b35a34f4533515d72510d32bc",
-      "title": "Как настроить разделение чеков ККМ",
-      "type": "tips",
-      "order": 12,
-      "updated_at": "2025-12-10",
-      "date_kind": "updated",
-      "added_at": "2025-12-10"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как учитывать выработку исполнителей по нормочасам для работ с фиксированной стоимостью",
-      "file": "uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu.md",
-      "sha": "5216e04b624aed743181d02689cf5f8f768f24af",
-      "title": "Как учитывать выработку исполнителей по нормочасам для работ с фиксированной стоимостью",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2025-07-23",
-      "date_kind": "updated",
-      "added_at": "2025-07-23"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как учитывать выработку специалистов по запчастям в Заказ-нарядах",
-      "file": "uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh.md",
-      "sha": "837d80a161dcefec31066ffb7aefcba375faebe6",
-      "title": "Как учитывать выработку специалистов по запчастям в Заказ-нарядах",
-      "type": "tips",
-      "order": 1,
-      "updated_at": "2025-07-23",
-      "date_kind": "updated",
-      "added_at": "2025-07-23"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как настроить продажу подакцизных товаров",
-      "file": "osobennosti-realizacii-podakciznykh-tovarov.md",
-      "sha": "f72e6b53c793ed45fd63db0db0f7f6f2670aa9cc",
-      "title": "Как настроить продажу подакцизных товаров",
-      "type": "tips",
-      "order": 3,
-      "updated_at": "2025-02-06",
-      "date_kind": "updated",
-      "added_at": "2025-02-06"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как проанализировать и установить цены на товары",
-      "file": "analiz-i-ustanovka-cen.md",
-      "sha": "c3035652c6edffb0f2a93fef6964559ce936bb1a",
-      "title": "Как проанализировать и установить цены на товары",
-      "type": "tips",
-      "order": 9,
-      "updated_at": "2024-11-19",
-      "date_kind": "updated",
-      "added_at": "2024-11-19"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как настроить автоматическое создание договора с контрагентом",
-      "file": "avtomaticheskoe-sozdanie-dogovora-s-kontragentom.md",
-      "sha": "f8f254eb4ddc590d40e715660f41fff14323950b",
-      "title": "Как настроить автоматическое создание договора с контрагентом",
-      "type": "tips",
-      "order": 2,
-      "updated_at": "2024-10-30",
-      "date_kind": "updated",
-      "added_at": "2024-10-30"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как настроить запрос на отзыв довольного клиента об автосервисе",
-      "file": "zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise.md",
-      "sha": "4014ca524f128c34f17f26c200e8488547bc5c83",
-      "title": "Как настроить запрос на отзыв довольного клиента об автосервисе",
-      "type": "tips",
-      "order": 5,
-      "updated_at": "2024-07-19",
-      "date_kind": "updated",
-      "added_at": "2024-07-19"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как заменить товар услугой при пробитии чека",
-      "file": "zamena-tovara-uslugoy-pri-probitii-cheka.md",
-      "sha": "c76e3e3f2275124d4aa66c25ec16c3ebbcba9efa",
-      "title": "Как заменить товар услугой при пробитии чека",
-      "type": "tips",
-      "order": 13,
-      "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2022-06-24"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как настроить пакетные предложения",
-      "file": "paketnye-predlozheniya.md",
-      "sha": "0ab09eb0e62634a1d0249fb260974de5327443d8",
-      "title": "Как настроить пакетные предложения",
-      "type": "tips",
-      "order": 7,
-      "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2022-06-24"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как организовать порядок на складе",
-      "file": "organizaciya-poryadka-na-sklade.md",
-      "sha": "ee873f3e1a5b4e7d0f4c1accf70125338fba7504",
-      "title": "Как организовать порядок на складе",
-      "type": "tips",
-      "order": 10,
-      "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2022-06-24"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как настроить программу для компании с несколькими подразделениями",
-      "file": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami.md",
-      "sha": "8bf00b7bd6faa9b3e562fcc6c0d8ef9008361111",
-      "title": "Как настроить программу для компании с несколькими подразделениями",
-      "type": "tips",
-      "order": 6,
-      "updated_at": "2022-06-16",
-      "date_kind": "updated",
-      "added_at": "2022-06-16"
     }
   ]
 }
