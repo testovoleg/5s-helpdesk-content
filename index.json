@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:37:45+03:00",
+  "generated_at": "2026-09-16T14:43:05+03:00",
   "count": 613,
   "sections": {
     "tips": [
@@ -581,6 +581,17 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/CRM/Как распечатать согласие на обработку персональных данных",
+      "file": "kak-raspechatat-soglasie-na-obrabotku-personalnyh-dannyh.md",
+      "sha": "317d0095e159b64e2b7c376dd26be699d6af9cb3",
+      "title": "Как распечатать согласие на обработку персональных данных",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-16",
+      "date_kind": "created",
+      "added_at": "2026-09-16T14:37:18+03:00"
+    },
+    {
       "path": "tips/5S AUTO/Практики/Как ограничить сотрудникам редактирование закрытых документов",
       "file": "kak-ogranichit-redaktirovanie-dokumentov.md",
       "sha": "508db83832f4ef28b4e5ebb8ea0dcb83c5767363",
@@ -623,17 +634,6 @@
       "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-16T09:01:51+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/CRM/Как распечатать согласие на обработку персональных данных",
-      "file": "kak-raspechatat-soglasie-na-obrabotku-personalnyh-dannyh.md",
-      "sha": "317d0095e159b64e2b7c376dd26be699d6af9cb3",
-      "title": "Как распечатать согласие на обработку персональных данных",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-09-16",
-      "date_kind": "created",
-      "added_at": "2026-09-16"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 04.2023",
@@ -7163,11 +7163,11 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Контрагенты и контакты",
       "file": "kontragenty-i-kontakty.md",
-      "sha": "e5a9fac9a71894cc767dd47f32a4d4ca5bf8fcd7",
+      "sha": "2b73b530d817448d3e4f76506b0ae8c8ea3080b4",
       "title": "Контрагенты и контакты",
       "type": "articles",
       "order": 0,
-      "updated_at": "2026-06-01",
+      "updated_at": "2026-09-16",
       "date_kind": "updated",
       "added_at": "2026-08-26T15:48:32+03:00",
       "reading_time": 20
