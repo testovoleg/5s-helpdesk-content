@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:48:02+03:00",
+  "generated_at": "2026-09-16T14:55:06+03:00",
   "count": 613,
   "sections": {
     "tips": [
@@ -7897,11 +7897,11 @@
     {
       "path": "tips/5S AUTO/CRM/Как посмотреть количество уникальных клиентов, обратившихся за период",
       "file": "kak-posmotret-kolichestvo-unikalnyh-klientov.md",
-      "sha": "04bfc082894c788a7633660e77a51e5d056999ee",
+      "sha": "93912e9a7db8319eee2145139de41875f853d7a2",
       "title": "Как посмотреть количество уникальных клиентов, обратившихся за период",
       "type": "tips",
       "order": 0,
-      "updated_at": "2026-08-24",
+      "updated_at": "2026-09-16",
       "date_kind": "updated",
       "added_at": "2026-07-31T10:46:47+03:00"
     },
