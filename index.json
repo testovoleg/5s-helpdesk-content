@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:06:59+03:00",
+  "generated_at": "2026-09-16T10:20:07+03:00",
   "count": 612,
   "sections": {
     "tips": [
@@ -3372,7 +3372,7 @@
     {
       "path": "tips/5S AUTO/Практики/Как настроить раздельное пробитие чеков ККМ",
       "file": "razdelenie-chekov-kkm.md",
-      "sha": "86f83621d8a4094014001e40b30da3ebbbbf5889",
+      "sha": "8189d9800e86292a515ebb93db71b9ed5c18ac54",
       "title": "Как настроить раздельное пробитие чеков ККМ",
       "type": "tips",
       "order": 12,
