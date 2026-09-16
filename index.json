@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T09:39:08+03:00",
+  "generated_at": "2026-09-16T09:41:19+03:00",
   "count": 612,
   "sections": {
     "tips": [
@@ -601,17 +601,6 @@
       "updated_at": "2026-09-16",
       "date_kind": "created",
       "added_at": "2026-09-16T09:21:28+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как настроить программу для компании с несколькими подразделениями",
-      "file": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami.md",
-      "sha": "28e1bb9c4e1823ec9737aae02eb44aefbc8410ec",
-      "title": "Как настроить программу для компании с несколькими подразделениями",
-      "type": "tips",
-      "order": 6,
-      "updated_at": "2022-06-16",
-      "date_kind": "updated",
-      "added_at": "2026-09-16T09:01:51+03:00"
     },
     {
       "path": "tips/5S AUTO/Практики/Как организовать порядок на складе",
@@ -2998,7 +2987,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "ed2f761c20919b141f87d38f50acff04d8ff9c3a",
+      "sha": "21afc260d49e209adb28b31ee99100cd73a97230",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -3282,17 +3271,6 @@
       "reading_time": 8
     },
     {
-      "path": "tips/5S AUTO/Практики/Как заменить товар услугой при пробитии чека",
-      "file": "zamena-tovara-uslugoy-pri-probitii-cheka.md",
-      "sha": "a453ec10df15a70bd4f5c238234e174d9862f7d2",
-      "title": "Как заменить товар услугой при пробитии чека",
-      "type": "tips",
-      "order": 13,
-      "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2026-09-09T15:24:33+03:00"
-    },
-    {
       "path": "tips/5S AUTO/Практики/Как настроить автоматическое создание договора с контрагентом",
       "file": "avtomaticheskoe-sozdanie-dogovora-s-kontragentom.md",
       "sha": "885298a7bc0125e60b732212d07688fda62d964f",
@@ -3366,28 +3344,6 @@
       "type": "tips",
       "order": 9,
       "updated_at": "2024-11-19",
-      "date_kind": "updated",
-      "added_at": "2026-09-09T15:24:33+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как учитывать выработку исполнителей по нормочасам для работ с фиксированной стоимостью",
-      "file": "uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu.md",
-      "sha": "73e23fd1aca2cedec02b404dfd18962a0e94fc1c",
-      "title": "Как учитывать выработку исполнителей по нормочасам для работ с фиксированной стоимостью",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2025-07-23",
-      "date_kind": "updated",
-      "added_at": "2026-09-09T15:24:33+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как учитывать выработку специалистов по запчастям в Заказ-нарядах",
-      "file": "uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh.md",
-      "sha": "6f0f54aa43fb2424b7907fc0cf50d3febc84ca37",
-      "title": "Как учитывать выработку специалистов по запчастям в Заказ-нарядах",
-      "type": "tips",
-      "order": 1,
-      "updated_at": "2025-07-23",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00"
     },
@@ -3670,7 +3626,7 @@
     {
       "path": "articles/5S AUTO/Отчеты/Отчет Продажи СОЗЧ",
       "file": "otchet-prodazhi-sozch.md",
-      "sha": "823c07a6eeab3ba4892181098d39efb7325eb2cd",
+      "sha": "9164d05cfa35c0250132b3484e63309cc73afa31",
       "title": "Отчет \"Продажи СОЗЧ\"",
       "type": "articles",
       "order": 5,
@@ -7590,7 +7546,7 @@
     {
       "path": "tips/5S AUTO/CRM/Не получается выбрать показатели в настройках отчета",
       "file": "ne-poluchaetsya-vybrat-pokazateli-v-nastroykah-otcheta.md",
-      "sha": "32955e81f1bbd4e52c652a20b1603209acb1f12d",
+      "sha": "f656b931d4b8111082501eb86a91e629e3243117",
       "title": "Не получается выбрать показатели в настройках отчета",
       "type": "tips",
       "order": 0,
@@ -8127,6 +8083,50 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как вести учет выработки специалистов по запчастям в Заказ-нарядах",
+      "file": "uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh.md",
+      "sha": "bd8caed7d17569e8dba334ed5c97a89111136c7e",
+      "title": "Как вести учет выработки специалистов по запчастям в Заказ-нарядах",
+      "type": "tips",
+      "order": 1,
+      "updated_at": "2025-07-23",
+      "date_kind": "updated",
+      "added_at": "2025-07-23"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как настроить учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
+      "file": "uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu.md",
+      "sha": "3d55604a25afe8e12f4ac9071d4e544d8920d4fe",
+      "title": "Как настроить учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2025-07-23",
+      "date_kind": "updated",
+      "added_at": "2025-07-23"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как настроить замену товара услугой при пробитии чека",
+      "file": "zamena-tovara-uslugoy-pri-probitii-cheka.md",
+      "sha": "0c06a7a9e911bcbc68dafce56a16dc2653cc9932",
+      "title": "Как настроить замену товара услугой при пробитии чека",
+      "type": "tips",
+      "order": 13,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2022-06-24"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как сделать настройки для компании с несколькими подразделениями",
+      "file": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami.md",
+      "sha": "71c72fa0c564cc3c5ea2fcff9a378bce2d889a89",
+      "title": "Как сделать настройки для компании с несколькими подразделениями",
+      "type": "tips",
+      "order": 6,
+      "updated_at": "2022-06-16",
+      "date_kind": "updated",
+      "added_at": "2022-06-16"
     }
   ]
 }
