@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:54:02+03:00",
+  "generated_at": "2026-09-16T13:00:25+03:00",
   "count": 612,
   "sections": {
     "tips": [
@@ -4078,14 +4078,14 @@
     {
       "path": "articles/5S AUTO/Структура компании/Справочник Организации",
       "file": "spravochnik-organizacii.md",
-      "sha": "ebd0554dc9a42d373172bfd4e5387125f96c1d8f",
+      "sha": "3d7fd0182d6ab5e1577a753d5d1ff2b15b383f62",
       "title": "Справочник \"Организации\"",
       "type": "articles",
       "order": 1,
-      "updated_at": "2025-03-27",
+      "updated_at": "2026-09-16",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:01:33+03:00",
-      "reading_time": 7
+      "reading_time": 8
     },
     {
       "path": "articles/5S AUTO/Структура компании/Справочник Подразделения компании",
@@ -7468,7 +7468,7 @@
     {
       "path": "tips/5S AUTO/Склад и запчасти/Как задать склад по умолчанию для организации",
       "file": "kak-zadat-sklad-po-umolchaniyu.md",
-      "sha": "f08ed00d88d9fd47f0abe2ac71dd4edbe78e5490",
+      "sha": "faa80a238cbeb562339099bdfd38652a50d6161b",
       "title": "Как задать склад по умолчанию для организации",
       "type": "tips",
       "order": 0,
