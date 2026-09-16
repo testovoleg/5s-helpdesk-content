@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T09:25:19+03:00",
-  "count": 613,
+  "generated_at": "2026-09-16T09:21:46+03:00",
+  "count": 612,
   "sections": {
     "tips": [
       {
@@ -581,28 +581,6 @@
   },
   "materials": [
     {
-      "path": "tips/5S AUTO/Практики/Как ограничить редактирование документов",
-      "file": "kak-ogranichit-redaktirovanie-dokumentov.md",
-      "sha": "cccc66d4ef99936fe830b816b9b86633bf562896",
-      "title": "Как ограничить редактирование документов",
-      "type": "tips",
-      "order": 4,
-      "updated_at": "2026-09-16",
-      "date_kind": "created",
-      "added_at": "2026-09-16T09:21:28+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как посмотреть статистику обращений клиентов в автосервис",
-      "file": "kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis.md",
-      "sha": "033ec075cee29050cf4bfbee371496accec60a94",
-      "title": "Как посмотреть статистику обращений клиентов в автосервис",
-      "type": "tips",
-      "order": 8,
-      "updated_at": "2026-09-16",
-      "date_kind": "created",
-      "added_at": "2026-09-16T09:21:28+03:00"
-    },
-    {
       "path": "tips/5S AUTO/Практики/Организация порядка на складе",
       "file": "organizaciya-poryadka-na-sklade.md",
       "sha": "1ae80818b3b6beaa2e3325c9c6b486990ca7a08f",
@@ -623,6 +601,28 @@
       "updated_at": "2022-06-16",
       "date_kind": "updated",
       "added_at": "2026-09-16T09:01:51+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как ограничить редактирование документов",
+      "file": "kak-ogranichit-redaktirovanie-dokumentov.md",
+      "sha": "cccc66d4ef99936fe830b816b9b86633bf562896",
+      "title": "Как ограничить редактирование документов",
+      "type": "tips",
+      "order": 4,
+      "updated_at": "2026-09-16",
+      "date_kind": "created",
+      "added_at": "2026-09-16"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как посмотреть статистику обращений клиентов в автосервис",
+      "file": "kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis.md",
+      "sha": "033ec075cee29050cf4bfbee371496accec60a94",
+      "title": "Как посмотреть статистику обращений клиентов в автосервис",
+      "type": "tips",
+      "order": 8,
+      "updated_at": "2026-09-16",
+      "date_kind": "created",
+      "added_at": "2026-09-16"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 04.2023",
@@ -3372,7 +3372,7 @@
     {
       "path": "tips/5S AUTO/Практики/Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
       "file": "uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu.md",
-      "sha": "0b7d2d3895489ac7fc056a21a737ff5f3d41e005",
+      "sha": "676bfc8709dab3159ea5564fadcb2153a9a04b96",
       "title": "Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
       "type": "tips",
       "order": 0,
@@ -8127,18 +8127,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Отчеты/Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
-      "file": "uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu.md",
-      "sha": "c091e3720098b6e1d559325dc9314e0a0b9118dc",
-      "title": "Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
-      "type": "articles",
-      "order": 12,
-      "updated_at": "2025-07-23",
-      "date_kind": "updated",
-      "added_at": "2025-07-23",
-      "reading_time": 4
     }
   ]
 }
