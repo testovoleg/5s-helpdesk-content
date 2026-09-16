@@ -1,6 +1,6 @@
 # Интеграция с пользовательским MAX
 
-<table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 03.07.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 21.07.2026</td></tr></table>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.4** в рамках [подписки "Контакт-центр 5S Chat"](https://www.5systems.ru/services/kontakt-centr-5s-chat) (актуальные тарифы см. в [Каталоге услуг](https://www.5systems.ru/services?field_tags_target_id%5B21%5D=21&sort_by=created&sort_order=ASC)).*
 
