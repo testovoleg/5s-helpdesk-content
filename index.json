@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T09:02:12+03:00",
+  "generated_at": "2026-09-16T09:04:41+03:00",
   "count": 610,
   "sections": {
     "tips": [
@@ -581,6 +581,28 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Практики/Организация порядка на складе",
+      "file": "organizaciya-poryadka-na-sklade.md",
+      "sha": "1ae80818b3b6beaa2e3325c9c6b486990ca7a08f",
+      "title": "Организация порядка на складе",
+      "type": "tips",
+      "order": 8,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-16T09:01:51+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Особенности настройки для компаний с несколькими подразделениями",
+      "file": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami.md",
+      "sha": "0d95c5ad15a485e619630e3b5b5860ff8f64cffc",
+      "title": "Особенности настройки для компаний с несколькими подразделениями",
+      "type": "tips",
+      "order": 5,
+      "updated_at": "2022-06-16",
+      "date_kind": "updated",
+      "added_at": "2026-09-16T09:01:51+03:00"
+    },
+    {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 04.2023",
       "file": "test-po-novomu-funkcionalu-na-042023.md",
       "sha": "d5e00be9012adcc18dc7fd08f3b6cec63a4ee382",
@@ -623,7 +645,7 @@
       "title": "Тест по новому функционалу на 08.2024",
       "type": "lessons",
       "order": 5,
-      "updated_at": "2026-09-16T09:02:12+03:00",
+      "updated_at": "2026-09-16T09:01:51+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "test_time": 30
@@ -3236,6 +3258,116 @@
       "date_kind": "updated",
       "added_at": "2026-09-09T15:38:29+03:00",
       "reading_time": 8
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Автоматическое создание договора с контрагентом",
+      "file": "avtomaticheskoe-sozdanie-dogovora-s-kontragentom.md",
+      "sha": "c4b1bf910430f3ee7fc81d9bd57c932ff464d915",
+      "title": "Автоматическое создание договора с контрагентом",
+      "type": "tips",
+      "order": 2,
+      "updated_at": "2024-10-30",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Анализ и установка цен",
+      "file": "analiz-i-ustanovka-cen.md",
+      "sha": "691c5c9faddfd2b1451bade7661ddd3c7586f2d0",
+      "title": "Анализ и установка цен",
+      "type": "tips",
+      "order": 7,
+      "updated_at": "2024-11-19",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Замена товара услугой при пробитии чека",
+      "file": "zamena-tovara-uslugoy-pri-probitii-cheka.md",
+      "sha": "282e1bb3542ce5ff5c14548cfb44e864449963fc",
+      "title": "Замена товара услугой при пробитии чека",
+      "type": "tips",
+      "order": 11,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Запрос на отзыв довольного клиента об автосервисе",
+      "file": "zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise.md",
+      "sha": "fc754d55936f8d507033c24169b0eae7221ed31d",
+      "title": "Запрос на отзыв довольного клиента об автосервисе",
+      "type": "tips",
+      "order": 4,
+      "updated_at": "2024-07-19",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Особенности реализации подакцизных товаров",
+      "file": "osobennosti-realizacii-podakciznykh-tovarov.md",
+      "sha": "41d8ef54f509497fb4f1447019cdb37c89533c87",
+      "title": "Особенности реализации подакцизных товаров",
+      "type": "tips",
+      "order": 3,
+      "updated_at": "2025-02-06",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Пакетные предложения",
+      "file": "paketnye-predlozheniya.md",
+      "sha": "112f64ec9306e3c894c1db0be1e466f910430e6b",
+      "title": "Пакетные предложения",
+      "type": "tips",
+      "order": 6,
+      "updated_at": "2022-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Применение НДС при УСН",
+      "file": "primenenie-nds-pri-usn.md",
+      "sha": "a7a47cb094aa652d4f2e98114e1118aa9a357c91",
+      "title": "Применение НДС при УСН",
+      "type": "tips",
+      "order": 9,
+      "updated_at": "2026-01-23",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Разделение чеков ККМ",
+      "file": "razdelenie-chekov-kkm.md",
+      "sha": "9819f44d7ea7cbdf3ffab7caba69068eaa3a5592",
+      "title": "Разделение чеков ККМ",
+      "type": "tips",
+      "order": 10,
+      "updated_at": "2025-12-10",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
+      "file": "uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu.md",
+      "sha": "676bfc8709dab3159ea5564fadcb2153a9a04b96",
+      "title": "Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2025-07-23",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Учет выработки специалистов по запчастям в Заказ-нарядах",
+      "file": "uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh.md",
+      "sha": "512b4649af987619cbe49e32aa12077cae69a496",
+      "title": "Учет выработки специалистов по запчастям в Заказ-нарядах",
+      "type": "tips",
+      "order": 1,
+      "updated_at": "2025-07-23",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
     },
     {
       "path": "articles/5S AUTO/Телефония/Настройка внутренних телефонов сотрудников",
@@ -7973,138 +8105,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Применение НДС при УСН",
-      "file": "primenenie-nds-pri-usn.md",
-      "sha": "a7a47cb094aa652d4f2e98114e1118aa9a357c91",
-      "title": "Применение НДС при УСН",
-      "type": "tips",
-      "order": 9,
-      "updated_at": "2026-01-23",
-      "date_kind": "updated",
-      "added_at": "2026-01-23"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Разделение чеков ККМ",
-      "file": "razdelenie-chekov-kkm.md",
-      "sha": "9819f44d7ea7cbdf3ffab7caba69068eaa3a5592",
-      "title": "Разделение чеков ККМ",
-      "type": "tips",
-      "order": 10,
-      "updated_at": "2025-12-10",
-      "date_kind": "updated",
-      "added_at": "2025-12-10"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
-      "file": "uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu.md",
-      "sha": "676bfc8709dab3159ea5564fadcb2153a9a04b96",
-      "title": "Учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2025-07-23",
-      "date_kind": "updated",
-      "added_at": "2025-07-23"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Учет выработки специалистов по запчастям в Заказ-нарядах",
-      "file": "uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh.md",
-      "sha": "512b4649af987619cbe49e32aa12077cae69a496",
-      "title": "Учет выработки специалистов по запчастям в Заказ-нарядах",
-      "type": "tips",
-      "order": 1,
-      "updated_at": "2025-07-23",
-      "date_kind": "updated",
-      "added_at": "2025-07-23"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Особенности реализации подакцизных товаров",
-      "file": "osobennosti-realizacii-podakciznykh-tovarov.md",
-      "sha": "41d8ef54f509497fb4f1447019cdb37c89533c87",
-      "title": "Особенности реализации подакцизных товаров",
-      "type": "tips",
-      "order": 3,
-      "updated_at": "2025-02-06",
-      "date_kind": "updated",
-      "added_at": "2025-02-06"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Анализ и установка цен",
-      "file": "analiz-i-ustanovka-cen.md",
-      "sha": "691c5c9faddfd2b1451bade7661ddd3c7586f2d0",
-      "title": "Анализ и установка цен",
-      "type": "tips",
-      "order": 7,
-      "updated_at": "2024-11-19",
-      "date_kind": "updated",
-      "added_at": "2024-11-19"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Автоматическое создание договора с контрагентом",
-      "file": "avtomaticheskoe-sozdanie-dogovora-s-kontragentom.md",
-      "sha": "c4b1bf910430f3ee7fc81d9bd57c932ff464d915",
-      "title": "Автоматическое создание договора с контрагентом",
-      "type": "tips",
-      "order": 2,
-      "updated_at": "2024-10-30",
-      "date_kind": "updated",
-      "added_at": "2024-10-30"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Запрос на отзыв довольного клиента об автосервисе",
-      "file": "zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise.md",
-      "sha": "fc754d55936f8d507033c24169b0eae7221ed31d",
-      "title": "Запрос на отзыв довольного клиента об автосервисе",
-      "type": "tips",
-      "order": 4,
-      "updated_at": "2024-07-19",
-      "date_kind": "updated",
-      "added_at": "2024-07-19"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Замена товара услугой при пробитии чека",
-      "file": "zamena-tovara-uslugoy-pri-probitii-cheka.md",
-      "sha": "282e1bb3542ce5ff5c14548cfb44e864449963fc",
-      "title": "Замена товара услугой при пробитии чека",
-      "type": "tips",
-      "order": 11,
-      "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2022-06-24"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Организация порядка на складе",
-      "file": "organizaciya-poryadka-na-sklade.md",
-      "sha": "1ae80818b3b6beaa2e3325c9c6b486990ca7a08f",
-      "title": "Организация порядка на складе",
-      "type": "tips",
-      "order": 8,
-      "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2022-06-24"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Пакетные предложения",
-      "file": "paketnye-predlozheniya.md",
-      "sha": "112f64ec9306e3c894c1db0be1e466f910430e6b",
-      "title": "Пакетные предложения",
-      "type": "tips",
-      "order": 6,
-      "updated_at": "2022-06-24",
-      "date_kind": "updated",
-      "added_at": "2022-06-24"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Особенности настройки для компаний с несколькими подразделениями",
-      "file": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami.md",
-      "sha": "d636f15077539a547ae2fb280882c1dcb944af9a",
-      "title": "Особенности настройки для компаний с несколькими подразделениями",
-      "type": "tips",
-      "order": 5,
-      "updated_at": "2022-06-16",
-      "date_kind": "updated",
-      "added_at": "2022-06-16"
     }
   ]
 }
