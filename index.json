@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:01:00+03:00",
+  "generated_at": "2026-09-16T11:02:01+03:00",
   "count": 612,
   "sections": {
     "tips": [
@@ -3328,7 +3328,7 @@
     {
       "path": "tips/5S AUTO/Практики/Как настроить запрос на отзыв довольного клиента об автосервисе",
       "file": "zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise.md",
-      "sha": "3f42890e3c950e1194cf7fa425b3ebce2850e099",
+      "sha": "e9b937a83c067280f5caefb0a6e800d0adc622a8",
       "title": "Как настроить запрос на отзыв довольного клиента об автосервисе",
       "type": "tips",
       "order": 5,
