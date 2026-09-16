@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:45:34+03:00",
+  "generated_at": "2026-09-16T14:47:02+03:00",
   "count": 613,
   "sections": {
     "tips": [
@@ -583,7 +583,7 @@
     {
       "path": "tips/5S AUTO/CRM/Как распечатать согласие на обработку персональных данных",
       "file": "kak-raspechatat-soglasie-na-obrabotku-personalnyh-dannyh.md",
-      "sha": "317d0095e159b64e2b7c376dd26be699d6af9cb3",
+      "sha": "bdd7a431bf46a1e8966c81b5b8c3e02505d16a1e",
       "title": "Как распечатать согласие на обработку персональных данных",
       "type": "tips",
       "order": 0,
@@ -7163,7 +7163,7 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Контрагенты и контакты",
       "file": "kontragenty-i-kontakty.md",
-      "sha": "76e0b9cff524c406f1c9dfe5ea2ab53c3d84a9b4",
+      "sha": "2b73b530d817448d3e4f76506b0ae8c8ea3080b4",
       "title": "Контрагенты и контакты",
       "type": "articles",
       "order": 0,
