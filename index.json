@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:46:55+03:00",
+  "generated_at": "2026-09-16T10:51:11+03:00",
   "count": 612,
   "sections": {
     "tips": [
@@ -3317,7 +3317,7 @@
     {
       "path": "tips/5S AUTO/Практики/Как настроить замену товара услугой при пробитии чека",
       "file": "zamena-tovara-uslugoy-pri-probitii-cheka.md",
-      "sha": "2f1628db7788a9783594c36012f418daf148282d",
+      "sha": "c9423e5f209a78bb29aeee870875a9092a33983c",
       "title": "Как настроить замену товара услугой при пробитии чека",
       "type": "tips",
       "order": 13,
