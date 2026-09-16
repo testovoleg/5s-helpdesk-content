@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:38:41+03:00",
+  "generated_at": "2026-09-16T10:42:29+03:00",
   "count": 612,
   "sections": {
     "tips": [
@@ -3306,7 +3306,7 @@
     {
       "path": "tips/5S AUTO/Практики/Как настроить автоматическое создание договора с контрагентом",
       "file": "avtomaticheskoe-sozdanie-dogovora-s-kontragentom.md",
-      "sha": "6ae6901c6bca6d79840028f377c7b71f40a5228c",
+      "sha": "1a78b7f45392f79bd12ac74409155108c72104f3",
       "title": "Как настроить автоматическое создание договора с контрагентом",
       "type": "tips",
       "order": 2,
