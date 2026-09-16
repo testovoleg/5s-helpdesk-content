@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T15:02:56+03:00",
-  "count": 613,
+  "generated_at": "2026-09-16T15:25:53+03:00",
+  "count": 614,
   "sections": {
     "tips": [
       {
@@ -634,6 +634,17 @@
       "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-16T09:01:51+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Склад и запчасти/Не работает проценка по отдельному поставщику",
+      "file": "ne-rabotaet-procenka-po-otdelnomu-postavshchiku.md",
+      "sha": "00c7a6e7beb52de7b7c9892d0b2dab8a3561980c",
+      "title": "Не работает проценка по отдельному поставщику",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-16",
+      "date_kind": "created",
+      "added_at": "2026-09-16"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 04.2023",
