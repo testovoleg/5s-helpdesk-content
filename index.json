@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T13:55:27+03:00",
+  "generated_at": "2026-09-16T14:06:25+03:00",
   "count": 612,
   "sections": {
     "tips": [
@@ -4938,14 +4938,14 @@
     {
       "path": "articles/5S AUTO/Сообщения/Настройка автоматической отправки сообщений через мессенджеры",
       "file": "nastroyka-avtomaticheskoy-otpravki-soobscheniy-cherez-messendzhery.md",
-      "sha": "71cf8fc6c62b1f2e2c891fd2b997495bfeeb27a8",
+      "sha": "26165d1b4416d0d347b513a755b3eb1b578ddd01",
       "title": "Настройка автоматической отправки сообщений через мессенджеры",
       "type": "articles",
       "order": 10,
-      "updated_at": "2024-07-19",
+      "updated_at": "2026-09-16",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
-      "reading_time": 13
+      "reading_time": 14
     },
     {
       "path": "articles/5S AUTO/Сообщения/Преднастроенные значимые события",
@@ -7068,11 +7068,11 @@
     {
       "path": "articles/5S AUTO/Работа с клиентами/Лента событий",
       "file": "lenta-sobytiy.md",
-      "sha": "efee55cab53b201252f3b92044def35c7c11575e",
+      "sha": "639b3d94e1b4aad8e93568de2d1e070edcf3d086",
       "title": "Лента событий",
       "type": "articles",
       "order": 7,
-      "updated_at": "2026-07-29",
+      "updated_at": "2026-09-16",
       "date_kind": "updated",
       "added_at": "2026-08-27T14:19:11+03:00",
       "reading_time": 8
@@ -7446,7 +7446,7 @@
     {
       "path": "tips/5S AUTO/CRM/Как посмотреть список всех отправленных сообщений",
       "file": "kak-posmotret-spisok-vseh-otpravlennyh-soobshcheniy.md",
-      "sha": "b5bb226a380c56054184d7d8aae548595d8ce377",
+      "sha": "84805cfc0fb7c9fd0ad5f607278006ace3d0f5a4",
       "title": "Как посмотреть список всех отправленных сообщений",
       "type": "tips",
       "order": 0,
