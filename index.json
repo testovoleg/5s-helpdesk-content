@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T16:19:53+03:00",
+  "generated_at": "2026-09-16T16:28:39+03:00",
   "count": 614,
   "sections": {
     "tips": [
@@ -583,7 +583,7 @@
     {
       "path": "tips/5S AUTO/Склад и запчасти/Не работает проценка по отдельному поставщику",
       "file": "ne-rabotaet-procenka-po-otdelnomu-postavshchiku.md",
-      "sha": "e0d0b5f96618c1c1d8623f95544c105a367b28de",
+      "sha": "aa15686f6bdfe717a52722b0b16f2744fef09172",
       "title": "Не работает проценка по отдельному поставщику",
       "type": "tips",
       "order": 0,
