@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T09:04:41+03:00",
-  "count": 610,
+  "generated_at": "2026-09-16T09:21:46+03:00",
+  "count": 612,
   "sections": {
     "tips": [
       {
@@ -586,7 +586,7 @@
       "sha": "1ae80818b3b6beaa2e3325c9c6b486990ca7a08f",
       "title": "Организация порядка на складе",
       "type": "tips",
-      "order": 8,
+      "order": 10,
       "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-16T09:01:51+03:00"
@@ -597,10 +597,32 @@
       "sha": "0d95c5ad15a485e619630e3b5b5860ff8f64cffc",
       "title": "Особенности настройки для компаний с несколькими подразделениями",
       "type": "tips",
-      "order": 5,
+      "order": 6,
       "updated_at": "2022-06-16",
       "date_kind": "updated",
       "added_at": "2026-09-16T09:01:51+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как ограничить редактирование документов",
+      "file": "kak-ogranichit-redaktirovanie-dokumentov.md",
+      "sha": "cccc66d4ef99936fe830b816b9b86633bf562896",
+      "title": "Как ограничить редактирование документов",
+      "type": "tips",
+      "order": 4,
+      "updated_at": "2026-09-16",
+      "date_kind": "created",
+      "added_at": "2026-09-16"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как посмотреть статистику обращений клиентов в автосервис",
+      "file": "kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis.md",
+      "sha": "033ec075cee29050cf4bfbee371496accec60a94",
+      "title": "Как посмотреть статистику обращений клиентов в автосервис",
+      "type": "tips",
+      "order": 8,
+      "updated_at": "2026-09-16",
+      "date_kind": "created",
+      "added_at": "2026-09-16"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 04.2023",
@@ -3276,7 +3298,7 @@
       "sha": "691c5c9faddfd2b1451bade7661ddd3c7586f2d0",
       "title": "Анализ и установка цен",
       "type": "tips",
-      "order": 7,
+      "order": 9,
       "updated_at": "2024-11-19",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00"
@@ -3287,7 +3309,7 @@
       "sha": "282e1bb3542ce5ff5c14548cfb44e864449963fc",
       "title": "Замена товара услугой при пробитии чека",
       "type": "tips",
-      "order": 11,
+      "order": 13,
       "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00"
@@ -3298,7 +3320,7 @@
       "sha": "fc754d55936f8d507033c24169b0eae7221ed31d",
       "title": "Запрос на отзыв довольного клиента об автосервисе",
       "type": "tips",
-      "order": 4,
+      "order": 5,
       "updated_at": "2024-07-19",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00"
@@ -3320,7 +3342,7 @@
       "sha": "112f64ec9306e3c894c1db0be1e466f910430e6b",
       "title": "Пакетные предложения",
       "type": "tips",
-      "order": 6,
+      "order": 7,
       "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00"
@@ -3331,7 +3353,7 @@
       "sha": "a7a47cb094aa652d4f2e98114e1118aa9a357c91",
       "title": "Применение НДС при УСН",
       "type": "tips",
-      "order": 9,
+      "order": 11,
       "updated_at": "2026-01-23",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00"
@@ -3342,7 +3364,7 @@
       "sha": "9819f44d7ea7cbdf3ffab7caba69068eaa3a5592",
       "title": "Разделение чеков ККМ",
       "type": "tips",
-      "order": 10,
+      "order": 12,
       "updated_at": "2025-12-10",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00"
