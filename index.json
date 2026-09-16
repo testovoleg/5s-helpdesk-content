@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:50:13+03:00",
+  "generated_at": "2026-09-16T11:54:02+03:00",
   "count": 612,
   "sections": {
     "tips": [
@@ -8108,11 +8108,11 @@
     {
       "path": "articles/5S AUTO/Маркировка/Вывод кодов маркировки из оборота",
       "file": "vyvod-kodov-markirovki-iz-oborota.md",
-      "sha": "ccdd176adfc89f99a8311dc2c2301905ab06d5b5",
+      "sha": "e3eb0421571522a27f203b6300045d076c83f11f",
       "title": "Вывод кодов маркировки из оборота",
       "type": "articles",
       "order": 2,
-      "updated_at": "2026-09-09",
+      "updated_at": "2026-05-21",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:58:30+03:00",
       "reading_time": 20
