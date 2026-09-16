@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T15:25:53+03:00",
+  "generated_at": "2026-09-16T16:19:53+03:00",
   "count": 614,
   "sections": {
     "tips": [
@@ -581,6 +581,17 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Склад и запчасти/Не работает проценка по отдельному поставщику",
+      "file": "ne-rabotaet-procenka-po-otdelnomu-postavshchiku.md",
+      "sha": "e0d0b5f96618c1c1d8623f95544c105a367b28de",
+      "title": "Не работает проценка по отдельному поставщику",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-16",
+      "date_kind": "created",
+      "added_at": "2026-09-16T15:25:33+03:00"
+    },
+    {
       "path": "tips/5S AUTO/CRM/Как распечатать согласие на обработку персональных данных",
       "file": "kak-raspechatat-soglasie-na-obrabotku-personalnyh-dannyh.md",
       "sha": "8df6e3a83e4e5e97f30fdfdd1df0f16abe99d5f8",
@@ -634,17 +645,6 @@
       "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-16T09:01:51+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/Склад и запчасти/Не работает проценка по отдельному поставщику",
-      "file": "ne-rabotaet-procenka-po-otdelnomu-postavshchiku.md",
-      "sha": "00c7a6e7beb52de7b7c9892d0b2dab8a3561980c",
-      "title": "Не работает проценка по отдельному поставщику",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-09-16",
-      "date_kind": "created",
-      "added_at": "2026-09-16"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 04.2023",
