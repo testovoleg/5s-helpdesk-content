@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T09:49:50+03:00",
+  "generated_at": "2026-09-16T10:05:20+03:00",
   "count": 612,
   "sections": {
     "tips": [
@@ -603,6 +603,17 @@
       "added_at": "2026-09-16T09:21:28+03:00"
     },
     {
+      "path": "tips/5S AUTO/Практики/Как настроить права для компании с несколькими подразделениями",
+      "file": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami.md",
+      "sha": "14239c641943cb9c5bff9c28cbf16424285335ed",
+      "title": "Как настроить права для компании с несколькими подразделениями",
+      "type": "tips",
+      "order": 6,
+      "updated_at": "2022-06-16",
+      "date_kind": "updated",
+      "added_at": "2026-09-16T09:01:51+03:00"
+    },
+    {
       "path": "tips/5S AUTO/Практики/Как организовать порядок на складе",
       "file": "organizaciya-poryadka-na-sklade.md",
       "sha": "9ca55c80584550269ee32cd0e7c0af7b32064ce5",
@@ -652,11 +663,11 @@
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 08.2024",
       "file": "test-po-novomu-funkcionalu-na-082024.md",
-      "sha": "40799cf6e748a7fea53a334daa16b55d5f71d06a",
+      "sha": "904767835c9dd233cf7c4e06fedac4baebec0839",
       "title": "Тест по новому функционалу на 08.2024",
       "type": "lessons",
       "order": 5,
-      "updated_at": "2026-09-16T09:34:32+03:00",
+      "updated_at": "2026-09-16T10:05:20+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "test_time": 30
@@ -2987,7 +2998,7 @@
     {
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
-      "sha": "6ab3274c4dfa5adef65c0c5b68c8272849737b4b",
+      "sha": "e04af44cd2fc2e7e44d2a614ee5f6646beb13859",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -3282,6 +3293,17 @@
       "added_at": "2026-09-09T15:24:33+03:00"
     },
     {
+      "path": "tips/5S AUTO/Практики/Как массово рассчитать и установить цены на товары",
+      "file": "analiz-i-ustanovka-cen.md",
+      "sha": "5d6c954021c84c1cf6e057bb7d6e415957c97d66",
+      "title": "Как массово рассчитать и установить цены на товары",
+      "type": "tips",
+      "order": 9,
+      "updated_at": "2024-11-19",
+      "date_kind": "updated",
+      "added_at": "2026-09-09T15:24:33+03:00"
+    },
+    {
       "path": "tips/5S AUTO/Практики/Как настроить автоматическое создание договора с контрагентом",
       "file": "avtomaticheskoe-sozdanie-dogovora-s-kontragentom.md",
       "sha": "885298a7bc0125e60b732212d07688fda62d964f",
@@ -3295,7 +3317,7 @@
     {
       "path": "tips/5S AUTO/Практики/Как настроить замену товара услугой при пробитии чека",
       "file": "zamena-tovara-uslugoy-pri-probitii-cheka.md",
-      "sha": "0c06a7a9e911bcbc68dafce56a16dc2653cc9932",
+      "sha": "2f1628db7788a9783594c36012f418daf148282d",
       "title": "Как настроить замену товара услугой при пробитии чека",
       "type": "tips",
       "order": 13,
@@ -3328,33 +3350,11 @@
     {
       "path": "tips/5S AUTO/Практики/Как настроить применение НДС при УСН",
       "file": "primenenie-nds-pri-usn.md",
-      "sha": "5a5fe9361b20fe5d0bfb5fd97ccf5b74ffc0b129",
+      "sha": "fc5ab8bff177bdc2dd06e71bc40fee8249eee7d5",
       "title": "Как настроить применение НДС при УСН",
       "type": "tips",
       "order": 11,
       "updated_at": "2026-01-23",
-      "date_kind": "updated",
-      "added_at": "2026-09-09T15:24:33+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как настроить продажу подакцизных товаров",
-      "file": "osobennosti-realizacii-podakciznykh-tovarov.md",
-      "sha": "f334ca3e84d44d40955588e8dc777ee341687d2e",
-      "title": "Как настроить продажу подакцизных товаров",
-      "type": "tips",
-      "order": 3,
-      "updated_at": "2025-02-06",
-      "date_kind": "updated",
-      "added_at": "2026-09-09T15:24:33+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как настроить разделение чеков ККМ",
-      "file": "razdelenie-chekov-kkm.md",
-      "sha": "b674cd9df9aae8d6c3bda358868ea030a4817b0a",
-      "title": "Как настроить разделение чеков ККМ",
-      "type": "tips",
-      "order": 12,
-      "updated_at": "2025-12-10",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00"
     },
@@ -3516,7 +3516,7 @@
     {
       "path": "articles/5S AUTO/Маркировка/Настройка интеграции с Честным знаком",
       "file": "nastroyka-integracii-s-chestnym-znakom.md",
-      "sha": "9ba23fd1c74a5ed4d55091e2ee3d06e0a9ef6f60",
+      "sha": "467cb0ba69df395946d9cf06f1a5dfdfb877a20e",
       "title": "Настройка интеграции с Честным знаком",
       "type": "articles",
       "order": 5,
@@ -4068,7 +4068,7 @@
     {
       "path": "articles/5S AUTO/Структура компании/Справочник Подразделения компании",
       "file": "spravochnik-podrazdeleniya-kompanii.md",
-      "sha": "5e5a98ea2e2442a20a91366066b1551b983a3ce4",
+      "sha": "6ed3c19c24b463a973c1c13b1ddaaaa50d8d8657",
       "title": "Справочник \"Подразделения компании\"",
       "type": "articles",
       "order": 0,
@@ -4396,7 +4396,7 @@
     {
       "path": "articles/5S AUTO/Касса/Режимы печати чеков",
       "file": "rezhimy-pechati-chekov.md",
-      "sha": "496acc0a8ae1b1ffa4fd8fb573d0745a9398211f",
+      "sha": "79f214ff29102149a2d377f97f8452088faa8d70",
       "title": "Режимы печати чеков",
       "type": "articles",
       "order": 5,
@@ -7412,7 +7412,7 @@
     {
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "file": "spravochnik-oborudovanie.md",
-      "sha": "d40940593d17520a24c985fe1826c532dd64e59b",
+      "sha": "98bc2dbfd03d158ed52b00aeae09c9484bf08328",
       "title": "Справочник «Оборудование»",
       "type": "articles",
       "order": 1,
@@ -8107,26 +8107,26 @@
       "added_at": "2026-07-29T08:36:08+03:00"
     },
     {
-      "path": "tips/5S AUTO/Практики/Как массово рассчитать и установить цены на товары",
-      "file": "analiz-i-ustanovka-cen.md",
-      "sha": "5d6c954021c84c1cf6e057bb7d6e415957c97d66",
-      "title": "Как массово рассчитать и установить цены на товары",
+      "path": "tips/5S AUTO/Практики/Как настроить раздельное пробитие чеков ККМ",
+      "file": "razdelenie-chekov-kkm.md",
+      "sha": "3b204d77435f1db1aa7091668a3c3092298ee776",
+      "title": "Как настроить раздельное пробитие чеков ККМ",
       "type": "tips",
-      "order": 9,
-      "updated_at": "2024-11-19",
+      "order": 12,
+      "updated_at": "2025-12-10",
       "date_kind": "updated",
-      "added_at": "2024-11-19"
+      "added_at": "2025-12-10"
     },
     {
-      "path": "tips/5S AUTO/Практики/Как настроить права для компании с несколькими подразделениями",
-      "file": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami.md",
-      "sha": "14239c641943cb9c5bff9c28cbf16424285335ed",
-      "title": "Как настроить права для компании с несколькими подразделениями",
+      "path": "tips/5S AUTO/Практики/Как настроить продажу подакцизных товаров при патентной системе налогообложения",
+      "file": "osobennosti-realizacii-podakciznykh-tovarov.md",
+      "sha": "29d5307af3679ee130d9ecdeeb61ee222e4a014a",
+      "title": "Как настроить продажу подакцизных товаров при патентной системе налогообложения",
       "type": "tips",
-      "order": 6,
-      "updated_at": "2022-06-16",
+      "order": 3,
+      "updated_at": "2025-02-06",
       "date_kind": "updated",
-      "added_at": "2022-06-16"
+      "added_at": "2025-02-06"
     }
   ]
 }
