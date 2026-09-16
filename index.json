@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:10:43+03:00",
+  "generated_at": "2026-09-16T11:36:21+03:00",
   "count": 612,
   "sections": {
     "tips": [
@@ -581,20 +581,9 @@
   },
   "materials": [
     {
-      "path": "tips/5S AUTO/Практики/Как ограничить редактирование документов",
-      "file": "kak-ogranichit-redaktirovanie-dokumentov.md",
-      "sha": "4653ab82165a0293337f9ae6b3d2935721fe1ed5",
-      "title": "Как ограничить редактирование документов",
-      "type": "tips",
-      "order": 4,
-      "updated_at": "2026-09-16",
-      "date_kind": "created",
-      "added_at": "2026-09-16T09:21:28+03:00"
-    },
-    {
       "path": "tips/5S AUTO/Практики/Как посмотреть статистику обращений клиентов в автосервис",
       "file": "kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis.md",
-      "sha": "e74d8b02130372b9e07b6386d220695d3e9bf3e9",
+      "sha": "6e0cdc1852cf4ff3005c29d4565f5a5e1d33e76d",
       "title": "Как посмотреть статистику обращений клиентов в автосервис",
       "type": "tips",
       "order": 8,
@@ -605,7 +594,7 @@
     {
       "path": "tips/5S AUTO/Практики/Как настроить права для компании с несколькими подразделениями",
       "file": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami.md",
-      "sha": "cfb2d8be39c217f2c2da03bb90cefae900853322",
+      "sha": "c3434da050b0178dfd1a22c93c9438721b82a0ec",
       "title": "Как настроить права для компании с несколькими подразделениями",
       "type": "tips",
       "order": 6,
@@ -616,13 +605,24 @@
     {
       "path": "tips/5S AUTO/Практики/Как организовать порядок на складе",
       "file": "organizaciya-poryadka-na-sklade.md",
-      "sha": "3253d4d3a6ad133d53c3c0ff8c8fc7e6bbf66c52",
+      "sha": "cf1b0ae86ace6e5b91303a96830c2b6e3227c164",
       "title": "Как организовать порядок на складе",
       "type": "tips",
       "order": 10,
       "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-16T09:01:51+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Практики/Как ограничить сотрудникам редактирование закрытых документов",
+      "file": "kak-ogranichit-redaktirovanie-dokumentov.md",
+      "sha": "508db83832f4ef28b4e5ebb8ea0dcb83c5767363",
+      "title": "Как ограничить сотрудникам редактирование закрытых документов",
+      "type": "tips",
+      "order": 4,
+      "updated_at": "2026-09-16",
+      "date_kind": "created",
+      "added_at": "2026-09-16"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 04.2023",
@@ -3339,7 +3339,7 @@
     {
       "path": "tips/5S AUTO/Практики/Как настроить пакетные предложения",
       "file": "paketnye-predlozheniya.md",
-      "sha": "fda68b4c1e5429124994557582361731795d9aa2",
+      "sha": "1b77b8bdb22b059c4f4f9bf52fa00ebf8849d40a",
       "title": "Как настроить пакетные предложения",
       "type": "tips",
       "order": 7,
@@ -3350,7 +3350,7 @@
     {
       "path": "tips/5S AUTO/Практики/Как настроить применение НДС при УСН",
       "file": "primenenie-nds-pri-usn.md",
-      "sha": "5b0a284a8ef9c349c0a826dc5b40b89185b8a55a",
+      "sha": "7da1c0c00765d4a80348ae3ba367baad95e39a5a",
       "title": "Как настроить применение НДС при УСН",
       "type": "tips",
       "order": 11,
@@ -3361,7 +3361,7 @@
     {
       "path": "tips/5S AUTO/Практики/Как настроить продажу подакцизных товаров при патентной системе налогообложения",
       "file": "osobennosti-realizacii-podakciznykh-tovarov.md",
-      "sha": "f2af6a5db0017a7ae3f75e417e41502763e6a061",
+      "sha": "88843eddd6e1d54c88897545f4d3cc0fd7e0cfa8",
       "title": "Как настроить продажу подакцизных товаров при патентной системе налогообложения",
       "type": "tips",
       "order": 3,
@@ -3372,7 +3372,7 @@
     {
       "path": "tips/5S AUTO/Практики/Как настроить раздельное пробитие чеков ККМ",
       "file": "razdelenie-chekov-kkm.md",
-      "sha": "8189d9800e86292a515ebb93db71b9ed5c18ac54",
+      "sha": "564b56b31d5fa09d7a4bd17c34bd2051b5670afc",
       "title": "Как настроить раздельное пробитие чеков ККМ",
       "type": "tips",
       "order": 12,
@@ -3383,7 +3383,7 @@
     {
       "path": "tips/5S AUTO/Практики/Как настроить учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
       "file": "uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu.md",
-      "sha": "6077646d4654b7804788d218d15458db31f3ba98",
+      "sha": "ae0c1760d5acee39b1d8cfa7a4af78da255c1ac3",
       "title": "Как настроить учет выработки исполнителей по нормочасам для работ с фиксированной стоимостью",
       "type": "tips",
       "order": 0,
