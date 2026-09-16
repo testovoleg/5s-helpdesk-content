@@ -1,6 +1,6 @@
 # Интеграция с пользовательским MAX
 
-<table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 03.07.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 21.07.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-polzovatelskim-max</sub>
 

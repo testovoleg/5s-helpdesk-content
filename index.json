@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:36:21+03:00",
+  "generated_at": "2026-09-16T11:50:13+03:00",
   "count": 612,
   "sections": {
     "tips": [
@@ -581,6 +581,17 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Практики/Как ограничить сотрудникам редактирование закрытых документов",
+      "file": "kak-ogranichit-redaktirovanie-dokumentov.md",
+      "sha": "508db83832f4ef28b4e5ebb8ea0dcb83c5767363",
+      "title": "Как ограничить сотрудникам редактирование закрытых документов",
+      "type": "tips",
+      "order": 4,
+      "updated_at": "2026-09-16",
+      "date_kind": "created",
+      "added_at": "2026-09-16T09:21:28+03:00"
+    },
+    {
       "path": "tips/5S AUTO/Практики/Как посмотреть статистику обращений клиентов в автосервис",
       "file": "kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis.md",
       "sha": "6e0cdc1852cf4ff3005c29d4565f5a5e1d33e76d",
@@ -612,17 +623,6 @@
       "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-16T09:01:51+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/Практики/Как ограничить сотрудникам редактирование закрытых документов",
-      "file": "kak-ogranichit-redaktirovanie-dokumentov.md",
-      "sha": "508db83832f4ef28b4e5ebb8ea0dcb83c5767363",
-      "title": "Как ограничить сотрудникам редактирование закрытых документов",
-      "type": "tips",
-      "order": 4,
-      "updated_at": "2026-09-16",
-      "date_kind": "created",
-      "added_at": "2026-09-16"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 04.2023",
@@ -4856,11 +4856,11 @@
     {
       "path": "articles/5S AUTO/Сообщения/Интеграция с пользовательским MAX",
       "file": "integraciya-s-polzovatelskim-max.md",
-      "sha": "80f1197e51b88594e9ea62427eb5313a74a872c1",
+      "sha": "f3933f335cc1110d06365485e1e6eb0265bdf37a",
       "title": "Интеграция с пользовательским MAX",
       "type": "articles",
       "order": 12,
-      "updated_at": "2026-07-03",
+      "updated_at": "2026-07-21",
       "date_kind": "updated",
       "added_at": "2026-09-03T15:39:23+03:00",
       "reading_time": 11,
@@ -5332,11 +5332,11 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/MParts (МПартс) v.2",
       "file": "nastroyka-veb-servisa-mparts-mparts-v2.md",
-      "sha": "90f341e8540eeb11c364786f238752a3c3bb13ea",
+      "sha": "f103fb6b53646a802c46c65e0043749b4a23ea93",
       "title": "Настройка Веб-сервиса MParts (МПартс) v.2",
       "type": "articles",
       "order": 31,
-      "updated_at": "2026-04-03",
+      "updated_at": "2026-04-13",
       "date_kind": "updated",
       "added_at": "2026-09-03T14:53:31+03:00",
       "reading_time": 6
@@ -5584,11 +5584,11 @@
     {
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Tradesoft (ТрэйдСофт) v.2",
       "file": "nastroyka-veb-servisa-tradesoft-treydsoft-v2.md",
-      "sha": "24cce28a067d94bc109139403ed0ba36f29b31c0",
+      "sha": "8781e1f812d6e12565244f1e6cfb6f6055bc24ca",
       "title": "Настройка Веб-сервиса Tradesoft (ТрэйдСофт) v.2",
       "type": "articles",
       "order": 49,
-      "updated_at": "2026-06-22",
+      "updated_at": "2026-06-23",
       "date_kind": "updated",
       "added_at": "2026-09-03T14:53:31+03:00",
       "reading_time": 4
