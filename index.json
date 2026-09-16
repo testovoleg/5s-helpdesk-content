@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T14:06:25+03:00",
-  "count": 612,
+  "generated_at": "2026-09-16T14:37:45+03:00",
+  "count": 613,
   "sections": {
     "tips": [
       {
@@ -623,6 +623,17 @@
       "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-16T09:01:51+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/CRM/Как распечатать согласие на обработку персональных данных",
+      "file": "kak-raspechatat-soglasie-na-obrabotku-personalnyh-dannyh.md",
+      "sha": "317d0095e159b64e2b7c376dd26be699d6af9cb3",
+      "title": "Как распечатать согласие на обработку персональных данных",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-16",
+      "date_kind": "created",
+      "added_at": "2026-09-16"
     },
     {
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 04.2023",
@@ -7623,7 +7634,7 @@
     {
       "path": "tips/5S AUTO/CRM/Не записывается карточка контрагента (не заполнен реквизит «Согласие на обработку персональных данных»)",
       "file": "ne-zapisyvaetsya-kartochka-kontragenta.md",
-      "sha": "55e5b6fcf857d9d4c9ca1d587ff9f4b6a0b0e168",
+      "sha": "b5b24b73aa041e9a8932899e07390e3c46fd5688",
       "title": "Не записывается карточка контрагента (не заполнен реквизит «Согласие на обработку персональных данных»)",
       "type": "tips",
       "order": 0,
