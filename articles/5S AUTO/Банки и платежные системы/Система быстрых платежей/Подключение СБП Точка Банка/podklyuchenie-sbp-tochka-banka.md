@@ -30,7 +30,7 @@
 
 ## Настройка на стороне банка
 
-Все настройки на стороне банка выполняются в интернет-банке Точки: [https://enter.tochka.com](https://enter.tochka.com/). Подробную инструкцию см. в документации API на сайте банка: [https://developers.tochka.com/docs/tochka-api/](https://developers.tochka.com/docs/tochka-api/), раздел “[Авторизация по JWT-токену](https://developers.tochka.com/docs/tochka-api/algoritm-raboty-s-jwt-tokenom)”.
+Все настройки на стороне банка выполняются в интернет-банке Точки: [https://i.tochka.com](https://i.tochka.com/). Подробную инструкцию см. в документации API на сайте банка: [https://developers.tochka.com/docs/tochka-api/](https://developers.tochka.com/docs/tochka-api/), раздел “[Авторизация по JWT-токену](https://developers.tochka.com/docs/tochka-api/algoritm-raboty-s-jwt-tokenom)”.
 
 Интеграция с API Точка Банка работает по *JWT-ключу* – токену, который создается в интернет-банке и дает программе доступ к методам API. Для приема оплаты через СБП у организации также должна быть зарегистрирована в СБП *торговая точка.*
 
