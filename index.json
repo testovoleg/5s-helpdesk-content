@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T16:38:57+03:00",
-  "count": 614,
+  "generated_at": "2026-09-17T09:20:14+03:00",
+  "count": 615,
   "sections": {
     "tips": [
       {
@@ -11,6 +11,11 @@
           {
             "name": "CRM",
             "path": "tips/5S AUTO/CRM",
+            "order": 0
+          },
+          {
+            "name": "Администрирование",
+            "path": "tips/5S AUTO/Администрирование",
             "order": 0
           },
           {
@@ -580,6 +585,17 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Администрирование/Как добавить обработку другим пользователям",
+      "file": "kak-dobavit-obrabotku-drugim-polzovatelyam.md",
+      "sha": "f3cd54fb6e40800de3cbc18e55f45082da6b65d6",
+      "title": "Как добавить обработку другим пользователям",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-17",
+      "date_kind": "created",
+      "added_at": "2026-09-17"
+    },
     {
       "path": "tips/5S AUTO/Склад и запчасти/Не работает проценка по отдельному поставщику",
       "file": "ne-rabotaet-procenka-po-otdelnomu-postavshchiku.md",
