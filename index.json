@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T09:33:38+03:00",
-  "count": 615,
+  "generated_at": "2026-09-17T10:31:23+03:00",
+  "count": 616,
   "sections": {
     "tips": [
       {
@@ -595,6 +595,17 @@
       "updated_at": "2026-09-17",
       "date_kind": "created",
       "added_at": "2026-09-17T09:19:52+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Склад и запчасти/Пропала вкладка «Остатки по ячейкам» в номенклатуре",
+      "file": "propala-vkladka-ostatki-po-yacheykam.md",
+      "sha": "bf6806b4ba37337ae8cff6698a4ba179b8773075",
+      "title": "Пропала вкладка «Остатки по ячейкам» в номенклатуре",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-17",
+      "date_kind": "created",
+      "added_at": "2026-09-17"
     },
     {
       "path": "tips/5S AUTO/Склад и запчасти/Не работает проценка по отдельному поставщику",
