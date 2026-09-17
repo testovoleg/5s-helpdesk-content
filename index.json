@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T14:31:58+03:00",
+  "generated_at": "2026-09-17T14:45:12+03:00",
   "count": 617,
   "sections": {
     "tips": [
@@ -586,6 +586,18 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Точка Банка",
+      "file": "podklyuchenie-sbp-tochka-banka.md",
+      "sha": "38e386f0cbf3d6f57130dca61080dc5adc0f61fe",
+      "title": "Подключение СБП Точка Банка",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-17",
+      "date_kind": "created",
+      "added_at": "2026-09-17T14:31:37+03:00",
+      "reading_time": 11
+    },
+    {
       "path": "tips/5S AUTO/Склад и запчасти/Пропала вкладка «Остатки по ячейкам» в номенклатуре",
       "file": "propala-vkladka-ostatki-po-yacheykam.md",
       "sha": "bf6806b4ba37337ae8cff6698a4ba179b8773075",
@@ -606,18 +618,6 @@
       "updated_at": "2026-09-17",
       "date_kind": "created",
       "added_at": "2026-09-17T09:19:52+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Точка Банка",
-      "file": "podklyuchenie-sbp-tochka-banka.md",
-      "sha": "ec5832b761aceb2c8410bf955031d83cc7e07c57",
-      "title": "Подключение СБП Точка Банка",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2026-09-17",
-      "date_kind": "created",
-      "added_at": "2026-09-17",
-      "reading_time": 11
     },
     {
       "path": "tips/5S AUTO/Склад и запчасти/Не работает проценка по отдельному поставщику",
