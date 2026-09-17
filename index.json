@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T10:31:23+03:00",
-  "count": 616,
+  "generated_at": "2026-09-17T14:31:58+03:00",
+  "count": 617,
   "sections": {
     "tips": [
       {
@@ -586,6 +586,17 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Склад и запчасти/Пропала вкладка «Остатки по ячейкам» в номенклатуре",
+      "file": "propala-vkladka-ostatki-po-yacheykam.md",
+      "sha": "bf6806b4ba37337ae8cff6698a4ba179b8773075",
+      "title": "Пропала вкладка «Остатки по ячейкам» в номенклатуре",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-17",
+      "date_kind": "created",
+      "added_at": "2026-09-17T10:31:02+03:00"
+    },
+    {
       "path": "tips/5S AUTO/Администрирование/Как добавить обработку другим пользователям",
       "file": "kak-dobavit-obrabotku-drugim-polzovatelyam.md",
       "sha": "c6a02b10865049f034f32eae8cda6f89487cbf0a",
@@ -597,15 +608,16 @@
       "added_at": "2026-09-17T09:19:52+03:00"
     },
     {
-      "path": "tips/5S AUTO/Склад и запчасти/Пропала вкладка «Остатки по ячейкам» в номенклатуре",
-      "file": "propala-vkladka-ostatki-po-yacheykam.md",
-      "sha": "bf6806b4ba37337ae8cff6698a4ba179b8773075",
-      "title": "Пропала вкладка «Остатки по ячейкам» в номенклатуре",
-      "type": "tips",
-      "order": 0,
+      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Точка Банка",
+      "file": "podklyuchenie-sbp-tochka-banka.md",
+      "sha": "ec5832b761aceb2c8410bf955031d83cc7e07c57",
+      "title": "Подключение СБП Точка Банка",
+      "type": "articles",
+      "order": 4,
       "updated_at": "2026-09-17",
       "date_kind": "created",
-      "added_at": "2026-09-17"
+      "added_at": "2026-09-17",
+      "reading_time": 11
     },
     {
       "path": "tips/5S AUTO/Склад и запчасти/Не работает проценка по отдельному поставщику",
@@ -4310,7 +4322,7 @@
       "sha": "6ac461534e6ffdc508086374bcd4d7da8844a056",
       "title": "Печать QR-кода для оплаты",
       "type": "articles",
-      "order": 5,
+      "order": 6,
       "updated_at": "2025-04-25",
       "date_kind": "updated",
       "added_at": "2026-09-07T15:49:53+03:00",
@@ -4448,7 +4460,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей",
-          "order": 4
+          "order": 5
         }
       ]
     },
