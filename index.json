@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T09:20:14+03:00",
+  "generated_at": "2026-09-17T09:33:38+03:00",
   "count": 615,
   "sections": {
     "tips": [
@@ -588,13 +588,13 @@
     {
       "path": "tips/5S AUTO/Администрирование/Как добавить обработку другим пользователям",
       "file": "kak-dobavit-obrabotku-drugim-polzovatelyam.md",
-      "sha": "f3cd54fb6e40800de3cbc18e55f45082da6b65d6",
+      "sha": "c6a02b10865049f034f32eae8cda6f89487cbf0a",
       "title": "Как добавить обработку другим пользователям",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-09-17",
       "date_kind": "created",
-      "added_at": "2026-09-17"
+      "added_at": "2026-09-17T09:19:52+03:00"
     },
     {
       "path": "tips/5S AUTO/Склад и запчасти/Не работает проценка по отдельному поставщику",
