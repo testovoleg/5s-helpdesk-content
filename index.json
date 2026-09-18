@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:40:53+03:00",
+  "generated_at": "2026-09-18T15:53:08+03:00",
   "count": 618,
   "sections": {
     "tips": [
@@ -710,7 +710,7 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Точка Банка",
       "file": "podklyuchenie-sbp-tochka-banka.md",
       "id": "podklyuchenie-sbp-tochka-banka",
-      "sha": "c196795e5677ccf3a334d7339ac78b4ec788ec89",
+      "sha": "3998828e9f7b63be9922f9e9dd15042c713d669f",
       "title": "Подключение СБП Точка Банка",
       "type": "articles",
       "order": 4,
@@ -4686,11 +4686,11 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Автоматическая загрузка банковских выписок",
       "file": "avtomaticheskaya-zagruzka-bankovskikh-vypisok.md",
       "id": "avtomaticheskaya-zagruzka-bankovskikh-vypisok",
-      "sha": "44526a14bc071f2e9e6088d2ce782974f635adcd",
+      "sha": "a962422816550f382b2ff6fb6cd5528e470e3864",
       "title": "Автоматическая загрузка банковских выписок",
       "type": "articles",
       "order": 1,
-      "updated_at": "2025-06-24",
+      "updated_at": "2026-09-18",
       "date_kind": "updated",
       "added_at": "2026-09-07T15:49:53+03:00",
       "reading_time": 12
@@ -4803,11 +4803,11 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Работа с СБП",
       "file": "rabota-s-sbp.md",
       "id": "rabota-s-sbp",
-      "sha": "b4de4b0e226e155b2a90db2bada8fe3639034960",
+      "sha": "12150df3c4b934aca19df743c678e40cad38dad9",
       "title": "Работа с СБП",
       "type": "articles",
       "order": 0,
-      "updated_at": "2026-05-07",
+      "updated_at": "2026-09-18",
       "date_kind": "updated",
       "added_at": "2026-09-07T15:49:53+03:00",
       "reading_time": 24
