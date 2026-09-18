@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:51:27+03:00",
+  "generated_at": "2026-09-18T10:53:38+03:00",
   "count": 617,
   "sections": {
     "tips": [
@@ -697,7 +697,7 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Точка Банка",
       "file": "podklyuchenie-sbp-tochka-banka.md",
       "id": "podklyuchenie-sbp-tochka-banka",
-      "sha": "8f132ef718bc144db2f0c1d2d81ccbff61639a19",
+      "sha": "7ea5f90dc1a1c62e7d7ef123dce3cbcec223924a",
       "title": "Подключение СБП Точка Банка",
       "type": "articles",
       "order": 4,
