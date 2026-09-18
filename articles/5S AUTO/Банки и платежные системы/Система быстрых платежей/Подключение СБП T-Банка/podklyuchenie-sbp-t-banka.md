@@ -1,6 +1,6 @@
 # Подключение СБП T-Банка
 
-<table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 19.05.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 18.09.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-sbp-t-banka</sub>
 
@@ -117,7 +117,9 @@
 
 ![СБП Тиньков - Добавление новой настройки](attachments/10-sbp-tinkov-dobavlenie-novoy-nastroyki.png)
 
-Параметры *TerminalKey* и *TerminalSecret* следует получить при настройке сервиса на стороне банка – см. *[выше](#parametry_term).*
+- *Наименование* – наименование интеграции с API Т-Банка;
+- *Описание* – описание аккаунта;
+- *TerminalKey* и *TerminalSecret* – параметры следует получить при настройке сервиса на стороне банка – см. *[выше](#parametry_term).*
 
 Также есть возможность:
 

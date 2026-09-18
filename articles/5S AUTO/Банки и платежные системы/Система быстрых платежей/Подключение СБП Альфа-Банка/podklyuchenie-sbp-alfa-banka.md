@@ -1,6 +1,6 @@
 # Подключение СБП Альфа-Банка
 
-<table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 23.05.2025</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 18.09.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-sbp-alfa-banka</sub>
 
@@ -198,6 +198,8 @@ openssl pkcs12 -password pass:PASSWORD -export -certpbe PBE-SHA1-3DES -keypbe PB
 
 ![Интеграция СБП Альфа-Банк - Добавление нового подключения](attachments/07-integraciya-sbp-alfa-bank-dobavlenie-novogo-podklyucheniya.png)
 
+- *Наименование* – наименование интеграции с API Альфа-Банка;
+- *Описание* – описание аккаунта;
 - *TerminalId* – идентификатор оборудования, который можно найти в ЛК в разделе “Оборудование”;
 - *ClientId* – должен быть получен от менеджера банка на этапе настройки на стороне банка – см. *[выше](#шаг-4-получение-доступа-к-пром-версии-alfa-api).*
 
