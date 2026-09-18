@@ -159,6 +159,22 @@ def read_order(dir_path: Path) -> list[str]:
     return names
 
 
+RE_ID = re.compile(r"(?m)^# id: (\S+)")
+
+
+def read_id(dir_path: Path) -> str | None:
+    """Идентификатор раздела — строка `# id: <латиница>` в его .order.
+
+    Из него сайт делает короткий адрес раздела (пожелание разработчика,
+    18.09.2026): kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/…
+    У материалов идентификатор не хранится: это имя md-файла без .md."""
+    order_file = dir_path / ".order"
+    if not order_file.exists():
+        return None
+    m = RE_ID.search(order_file.read_text(encoding="utf-8"))
+    return m.group(1) if m else None
+
+
 def read_hidden(dir_path: Path) -> set[str]:
     """Материалы раздела, которых не должно быть в навигации.
 
@@ -220,6 +236,8 @@ def collect_sections(dir_path: Path) -> list[dict]:
         node: dict = {
             "name": folder.name,
             "path": folder.relative_to(ROOT).as_posix(),
+            # Латинский идентификатор раздела из его .order — для адреса
+            "id": read_id(folder),
             # Позиция в .order родителя — той же нумерацией, что и order у
             # статей раздела: статьи и подразделы в списке перемешаны, и сайт
             # должен ставить подраздел между статьями, как на старом сайте.
@@ -392,6 +410,9 @@ def collect_materials() -> list[dict]:
                 # .md сайт делает адрес страницы, поэтому здесь тот же файл,
                 # из которого взят title
                 "file": main_file,
+                # Идентификатор материала для адреса — имя файла без .md;
+                # у разделов он лежит в .order строкой "# id: …"
+                "id": main_file[:-3],
                 "sha": blob_sha(md_path),
                 "title": title,
                 "type": root,
