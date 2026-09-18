@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:30:37+03:00",
+  "generated_at": "2026-09-18T16:38:04+03:00",
   "count": 618,
   "sections": {
     "tips": [
@@ -372,8 +372,8 @@
             "order": 26,
             "sections": [
               {
-                "name": "Мобильное приложение 5S LINK v1",
-                "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1",
+                "name": "Мобильное приложение 5S LINK v1 Тест",
+                "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1 Тест",
                 "id": "mobilnoe-prilozhenie-5s-link-v1",
                 "order": 4
               }
@@ -419,8 +419,8 @@
             "borrowed": true,
             "sections": [
               {
-                "name": "Мобильное приложение 5S LINK v1",
-                "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1",
+                "name": "Мобильное приложение 5S LINK v1 Тест",
+                "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1 Тест",
                 "id": "mobilnoe-prilozhenie-5s-link-v1",
                 "order": 4
               }
@@ -3387,7 +3387,7 @@
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
       "id": "poslednie-dobavlennye-stati",
-      "sha": "e04af44cd2fc2e7e44d2a614ee5f6646beb13859",
+      "sha": "ccd3bc7952f148d719044d84518b007b7953421e",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -3564,97 +3564,6 @@
       "reading_time": 3
     },
     {
-      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Push-сообщения",
-      "file": "push-soobscheniya.md",
-      "id": "push-soobscheniya",
-      "sha": "206e0550a90c64e902de4d72a799b0a5220c8128",
-      "title": "Push-сообщения",
-      "type": "articles",
-      "order": 6,
-      "updated_at": "2025-01-17",
-      "date_kind": "updated",
-      "added_at": "2026-09-09T15:38:29+03:00",
-      "reading_time": 11
-    },
-    {
-      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Запись на ремонт через 5S LINK",
-      "file": "zapis-na-remont-cherez-5s-link.md",
-      "id": "zapis-na-remont-cherez-5s-link",
-      "sha": "13edb0816e8ca88b02bbcebcdb657c3614fbf307",
-      "title": "Запись на ремонт через 5S LINK",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2025-01-17",
-      "date_kind": "updated",
-      "added_at": "2026-09-09T15:38:29+03:00",
-      "reading_time": 12
-    },
-    {
-      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Интерфейс 5S LINK",
-      "file": "interfeys-5s-link.md",
-      "id": "interfeys-5s-link",
-      "sha": "62446e342eee587a3bcf2f3e0ccf075537ea46b8",
-      "title": "Интерфейс 5S LINK",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2025-01-17",
-      "date_kind": "updated",
-      "added_at": "2026-09-09T15:38:29+03:00",
-      "reading_time": 14
-    },
-    {
-      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Настройки 5S LINK в Личном кабинете",
-      "file": "nastroyki-5s-link-v-lichnom-kabinete.md",
-      "id": "nastroyki-5s-link-v-lichnom-kabinete",
-      "sha": "f8e15ffc303e15213591010e3f0efe4748dcc111",
-      "title": "Настройки 5S LINK в Личном кабинете",
-      "type": "articles",
-      "order": 5,
-      "updated_at": "2026-07-30",
-      "date_kind": "updated",
-      "added_at": "2026-09-09T15:38:29+03:00",
-      "reading_time": 19
-    },
-    {
-      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Настройки интеграции программы с 5S LINK",
-      "file": "nastroyki-integracii-programmy-s-5s-link.md",
-      "id": "nastroyki-integracii-programmy-s-5s-link",
-      "sha": "ddad1cf5875880b1f8b31b881df17e0ab3a69109",
-      "title": "Настройки интеграции программы с 5S LINK",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2025-01-17",
-      "date_kind": "updated",
-      "added_at": "2026-09-09T15:38:29+03:00",
-      "reading_time": 21
-    },
-    {
-      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Отзывы в 5S LINK",
-      "file": "otzyvy-v-5s-link.md",
-      "id": "otzyvy-v-5s-link",
-      "sha": "89a4afa419fcb4d6c41d9d798eccf3d33753b348",
-      "title": "Отзывы в 5S LINK",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2026-07-30",
-      "date_kind": "updated",
-      "added_at": "2026-09-09T15:38:29+03:00",
-      "reading_time": 10
-    },
-    {
-      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1/Регистрация и авторизация в 5S LINK",
-      "file": "registraciya-i-avtorizaciya-v-5s-link.md",
-      "id": "registraciya-i-avtorizaciya-v-5s-link",
-      "sha": "160d773070f81d601f062b0fced4a61c91877ad9",
-      "title": "Регистрация и авторизация в 5S LINK",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2025-01-17",
-      "date_kind": "updated",
-      "added_at": "2026-09-09T15:38:29+03:00",
-      "reading_time": 5
-    },
-    {
       "path": "articles/5S AUTO/Приложение 5S LINK/Настройка каталога услуг",
       "file": "nastroyka-kataloga-uslug.md",
       "id": "nastroyka-kataloga-uslug",
@@ -3671,7 +3580,7 @@
       "path": "articles/5S AUTO/Приложение 5S LINK/Настройка приложения 5S LINK v2",
       "file": "nastroyka-prilozheniya-5s-link-v2.md",
       "id": "nastroyka-prilozheniya-5s-link-v2",
-      "sha": "ed3a54fa99c9e30340b24a29555af70eae122653",
+      "sha": "a6f66f2df332d043dfc1120e04e2af51ab64354a",
       "title": "Настройка приложения 5S LINK v2",
       "type": "articles",
       "order": 0,
@@ -4128,7 +4037,7 @@
       "path": "articles/5S AUTO/Отчеты/Отчет Регистрация внешних пользователей",
       "file": "otchet-registraciya-vneshnikh-polzovateley.md",
       "id": "otchet-registraciya-vneshnikh-polzovateley",
-      "sha": "2b2d139fc7d341790709434a4beabeea9670728f",
+      "sha": "980fe94aee560ae757f78e56a1608da0c8579830",
       "title": "Отчет “Регистрация внешних пользователей”",
       "type": "articles",
       "order": 11,
@@ -8721,6 +8630,32 @@
       "added_at": "2026-07-31T09:42:06+03:00"
     },
     {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1 Тест/Настройки 5S LINK в Личном кабинете",
+      "file": "nastroyki-5s-link-v-lichnom-kabinete.md",
+      "id": "nastroyki-5s-link-v-lichnom-kabinete",
+      "sha": "f8e15ffc303e15213591010e3f0efe4748dcc111",
+      "title": "Настройки 5S LINK в Личном кабинете",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2026-07-30",
+      "date_kind": "updated",
+      "added_at": "2026-07-30",
+      "reading_time": 19
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1 Тест/Отзывы в 5S LINK",
+      "file": "otzyvy-v-5s-link.md",
+      "id": "otzyvy-v-5s-link",
+      "sha": "89a4afa419fcb4d6c41d9d798eccf3d33753b348",
+      "title": "Отзывы в 5S LINK",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2026-07-30",
+      "date_kind": "updated",
+      "added_at": "2026-07-30",
+      "reading_time": 10
+    },
+    {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Лицензирование 5S AUTO",
       "file": "ARTICLE.md",
       "id": "ARTICLE",
@@ -8926,6 +8861,71 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1 Тест/Push-сообщения",
+      "file": "push-soobscheniya.md",
+      "id": "push-soobscheniya",
+      "sha": "206e0550a90c64e902de4d72a799b0a5220c8128",
+      "title": "Push-сообщения",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2025-01-17",
+      "date_kind": "updated",
+      "added_at": "2025-01-17",
+      "reading_time": 11
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1 Тест/Запись на ремонт через 5S LINK",
+      "file": "zapis-na-remont-cherez-5s-link.md",
+      "id": "zapis-na-remont-cherez-5s-link",
+      "sha": "13edb0816e8ca88b02bbcebcdb657c3614fbf307",
+      "title": "Запись на ремонт через 5S LINK",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2025-01-17",
+      "date_kind": "updated",
+      "added_at": "2025-01-17",
+      "reading_time": 12
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1 Тест/Интерфейс 5S LINK",
+      "file": "interfeys-5s-link.md",
+      "id": "interfeys-5s-link",
+      "sha": "62446e342eee587a3bcf2f3e0ccf075537ea46b8",
+      "title": "Интерфейс 5S LINK",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2025-01-17",
+      "date_kind": "updated",
+      "added_at": "2025-01-17",
+      "reading_time": 14
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1 Тест/Настройки интеграции программы с 5S LINK",
+      "file": "nastroyki-integracii-programmy-s-5s-link.md",
+      "id": "nastroyki-integracii-programmy-s-5s-link",
+      "sha": "ddad1cf5875880b1f8b31b881df17e0ab3a69109",
+      "title": "Настройки интеграции программы с 5S LINK",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2025-01-17",
+      "date_kind": "updated",
+      "added_at": "2025-01-17",
+      "reading_time": 21
+    },
+    {
+      "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1 Тест/Регистрация и авторизация в 5S LINK",
+      "file": "registraciya-i-avtorizaciya-v-5s-link.md",
+      "id": "registraciya-i-avtorizaciya-v-5s-link",
+      "sha": "160d773070f81d601f062b0fced4a61c91877ad9",
+      "title": "Регистрация и авторизация в 5S LINK",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-01-17",
+      "date_kind": "updated",
+      "added_at": "2025-01-17",
+      "reading_time": 5
     }
   ]
 }
