@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:37:33+03:00",
+  "generated_at": "2026-09-18T15:41:20+03:00",
   "count": 614,
   "sections": {
     "tips": [
@@ -4738,7 +4738,7 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение SberPay QR",
       "file": "podklyuchenie-sberpay-qr.md",
       "id": "podklyuchenie-sberpay-qr",
-      "sha": "e734d13c9cf2dd40c8f93d100197dcaca7bcf783",
+      "sha": "6106d4e38e7f0da0756dd313bf8b605e7cbed5af",
       "title": "Подключение SberPay QR",
       "type": "articles",
       "order": 1,
@@ -4751,7 +4751,7 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП T-Банка",
       "file": "podklyuchenie-sbp-t-banka.md",
       "id": "podklyuchenie-sbp-t-banka",
-      "sha": "86257b5b22c9d520bcb9b83ff16f5ee1c85f9be5",
+      "sha": "1398522b5d908423c7c94c591b9a5132687918f3",
       "title": "Подключение СБП T-Банка",
       "type": "articles",
       "order": 2,
@@ -4764,7 +4764,7 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Альфа-Банка",
       "file": "podklyuchenie-sbp-alfa-banka.md",
       "id": "podklyuchenie-sbp-alfa-banka",
-      "sha": "19238f05ef178886d101f2e47e25b1acee1b5e94",
+      "sha": "0d15f8b5945a15d6587af9b5cce70106d49d90b8",
       "title": "Подключение СБП Альфа-Банка",
       "type": "articles",
       "order": 3,
