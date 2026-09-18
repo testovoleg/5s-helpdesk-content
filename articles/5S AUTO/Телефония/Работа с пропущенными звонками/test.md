@@ -38,7 +38,7 @@
 
 ## Ссылки
 
-См. также статьи раздела: “[Настройка интеграции с телефонией MANGO OFFICE](../Настройка%20интеграции%20с%20телефонией%20MANGO%20OFFICE/nastroyka-integracii-s-telefoniey-mango-office.md)”, “[Работа с пропущенными звонками](../Работа%20с%20пропущенными%20звонками/rabota-s-propuschennymi-zvonkami.md)”.
+См. также статьи раздела: “[Настройка интеграции с телефонией MANGO OFFICE](../Настройка%20интеграции%20с%20телефонией%20MANGO%20OFFICE/nastroyka-integracii-s-telefoniey-mango-office.md)”, “[Работа с пропущенными звонками](rabota-s-propuschennymi-zvonkami.md)”.
 
 ---
 

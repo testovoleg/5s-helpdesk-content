@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T16:23:25+03:00",
-  "count": 619,
+  "generated_at": "2026-09-18T16:30:37+03:00",
+  "count": 618,
   "sections": {
     "tips": [
       {
@@ -705,19 +705,6 @@
       "date_kind": "updated",
       "added_at": "2026-09-18T11:27:52+03:00",
       "reading_time": 6
-    },
-    {
-      "path": "articles/5S AUTO/Телефония/Тест",
-      "file": "test.md",
-      "id": "test",
-      "sha": "4e761ed2d6ca17f989818a8069ea82a679e855d5",
-      "title": "Тест",
-      "type": "articles",
-      "order": 6,
-      "updated_at": "2026-09-18",
-      "date_kind": "created",
-      "added_at": "2026-09-18",
-      "reading_time": 1
     },
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Точка Банка",
