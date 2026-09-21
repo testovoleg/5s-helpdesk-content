@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:34:04+03:00",
+  "generated_at": "2026-09-21T14:36:53+03:00",
   "count": 620,
   "sections": {
     "tips": [
@@ -715,7 +715,7 @@
       "path": "tips/5S AUTO/Администрирование/Как ограничить редактирование цены, суммы и нормы времени авторабот в заказ-наряде",
       "file": "kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade.md",
       "id": "kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade",
-      "sha": "d140dd0e38019f1349aed7de00756142b0db939c",
+      "sha": "a6735dacfee70c49fe040979ddd989066915f3e0",
       "title": "Как ограничить редактирование цены, суммы и нормы времени авторабот в заказ-наряде",
       "type": "tips",
       "order": 0,
