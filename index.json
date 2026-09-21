@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:41:20+03:00",
+  "generated_at": "2026-09-21T09:03:46+03:00",
   "count": 614,
   "sections": {
     "tips": [
@@ -13,6 +13,12 @@
             "name": "CRM",
             "path": "tips/5S AUTO/CRM",
             "id": "crm",
+            "order": 0
+          },
+          {
+            "name": "Автосервис",
+            "path": "tips/5S AUTO/Автосервис",
+            "id": "avtoservis",
             "order": 0
           },
           {
@@ -745,7 +751,7 @@
       "path": "tips/5S AUTO/Практики/Как ограничить сотрудникам редактирование закрытых документов",
       "file": "kak-ogranichit-redaktirovanie-dokumentov.md",
       "id": "kak-ogranichit-redaktirovanie-dokumentov",
-      "sha": "508db83832f4ef28b4e5ebb8ea0dcb83c5767363",
+      "sha": "93a8f3124c5193ed0211bf6b45061f4d0c5c14c0",
       "title": "Как ограничить сотрудникам редактирование закрытых документов",
       "type": "tips",
       "order": 4,
@@ -3361,7 +3367,7 @@
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
       "id": "poslednie-dobavlennye-stati",
-      "sha": "f096ad92e3aaff4fa447b34f978e4b9d1820f853",
+      "sha": "c3761d6fc968cb4b40bf828fcf654fa44f342912",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
@@ -8168,7 +8174,19 @@
       "added_at": "2026-08-24T11:19:36+03:00"
     },
     {
-      "path": "tips/5S AUTO/CRM/Как пополнить баланс для расшифровки авто в ГИБДД",
+      "path": "tips/5S AUTO/Автосервис/В печатной форме заказ-наряда не выводится гос. номер автомобиля",
+      "file": "v-pechatnoy-forme-zakaz-naryada-net-gosnomera.md",
+      "id": "v-pechatnoy-forme-zakaz-naryada-net-gosnomera",
+      "sha": "11c5db43d1c746cc8a02a89c06a727549615b0e9",
+      "title": "В печатной форме заказ-наряда не выводится гос. номер автомобиля",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-08-24",
+      "date_kind": "updated",
+      "added_at": "2026-08-24"
+    },
+    {
+      "path": "tips/5S AUTO/Автосервис/Как пополнить баланс для расшифровки авто в ГИБДД",
       "file": "kak-popolnit-balans-dlya-rasshifrovki-avto.md",
       "id": "kak-popolnit-balans-dlya-rasshifrovki-avto",
       "sha": "7304a04d07fea08dea8bcea5561c5c94c423dd8f",
@@ -8177,7 +8195,31 @@
       "order": 0,
       "updated_at": "2026-08-24",
       "date_kind": "updated",
-      "added_at": "2026-08-21T14:53:59+03:00"
+      "added_at": "2026-08-24"
+    },
+    {
+      "path": "tips/5S AUTO/Автосервис/Не заполняется Мастер в заказ-нарядах",
+      "file": "ne-zapolnyaetsya-master-v-zakaz-naryadah.md",
+      "id": "ne-zapolnyaetsya-master-v-zakaz-naryadah",
+      "sha": "36f21dc4f25aa7ffc42eeef8bc65be7dbef3e019",
+      "title": "Не заполняется Мастер в заказ-нарядах",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-08-24",
+      "date_kind": "updated",
+      "added_at": "2026-08-24"
+    },
+    {
+      "path": "tips/5S AUTO/Автосервис/Что делать, если пропадают состояния заказ-нарядов",
+      "file": "chto-delat-esli-propadayut-sostoyaniya-zakaz-naryadov.md",
+      "id": "chto-delat-esli-propadayut-sostoyaniya-zakaz-naryadov",
+      "sha": "6010e330abe3013fa7854eef8967de52d940d9a8",
+      "title": "Что делать, если пропадают состояния заказ-нарядов",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-08-24",
+      "date_kind": "updated",
+      "added_at": "2026-08-24"
     },
     {
       "path": "tips/5S AUTO/Склад и запчасти/Как задать склад по умолчанию для организации",
@@ -8265,18 +8307,6 @@
       "added_at": "2026-08-19T16:16:51+03:00"
     },
     {
-      "path": "tips/5S AUTO/CRM/В печатной форме заказ-наряда не выводится гос. номер автомобиля",
-      "file": "v-pechatnoy-forme-zakaz-naryada-net-gosnomera.md",
-      "id": "v-pechatnoy-forme-zakaz-naryada-net-gosnomera",
-      "sha": "11c5db43d1c746cc8a02a89c06a727549615b0e9",
-      "title": "В печатной форме заказ-наряда не выводится гос. номер автомобиля",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-08-24",
-      "date_kind": "updated",
-      "added_at": "2026-08-19T14:59:12+03:00"
-    },
-    {
       "path": "tips/5S AUTO/CRM/Не находится клиент или сделка по номеру телефона",
       "file": "ne-nahoditsya-klient-ili-sdelka-po-nomeru-telefona.md",
       "id": "ne-nahoditsya-klient-ili-sdelka-po-nomeru-telefona",
@@ -8335,18 +8365,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-08-18T11:50:10+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/CRM/Не заполняется Мастер в заказ-нарядах",
-      "file": "ne-zapolnyaetsya-master-v-zakaz-naryadah.md",
-      "id": "ne-zapolnyaetsya-master-v-zakaz-naryadah",
-      "sha": "36f21dc4f25aa7ffc42eeef8bc65be7dbef3e019",
-      "title": "Не заполняется Мастер в заказ-нарядах",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-08-24",
-      "date_kind": "updated",
-      "added_at": "2026-08-17T17:00:25+03:00"
     },
     {
       "path": "tips/5S AUTO/CRM/Не записывается карточка контрагента (не заполнен реквизит «Согласие на обработку персональных данных»)",
@@ -8461,25 +8479,13 @@
       "path": "tips/5S AUTO/CRM/Как посмотреть историю изменений документа",
       "file": "kak-posmotret-istoriyu-izmeneniy-dokumenta.md",
       "id": "kak-posmotret-istoriyu-izmeneniy-dokumenta",
-      "sha": "dec664546407f86c1b9988b551d74a4d2a25d1d4",
+      "sha": "89d2c9ce25c69d9b76d00be054ad9ec4564beb14",
       "title": "Как посмотреть историю изменений документа",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-08-11T11:05:05+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/CRM/Что делать, если пропадают состояния заказ-нарядов",
-      "file": "chto-delat-esli-propadayut-sostoyaniya-zakaz-naryadov.md",
-      "id": "chto-delat-esli-propadayut-sostoyaniya-zakaz-naryadov",
-      "sha": "ab4f1bd2e2e80e8ba486b8912cbd6becb93515a9",
-      "title": "Что делать, если пропадают состояния заказ-нарядов",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-08-24",
-      "date_kind": "updated",
-      "added_at": "2026-08-10T16:47:34+03:00"
     },
     {
       "path": "tips/5S AUTO/CRM/Что делать, если не срабатывает скидка на строку",
