@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:55:37+03:00",
+  "generated_at": "2026-09-21T15:41:23+03:00",
   "count": 620,
   "sections": {
     "tips": [
@@ -703,7 +703,7 @@
       "path": "tips/5S AUTO/Администрирование/Как запретить сотрудникам редактировать отдельные автоработы",
       "file": "kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty.md",
       "id": "kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty",
-      "sha": "a6caa6f17ed538870746df5cdafe25b788a99504",
+      "sha": "892274a26684994558bf151481707a3d9d1d2679",
       "title": "Как запретить сотрудникам редактировать отдельные автоработы",
       "type": "tips",
       "order": 0,
