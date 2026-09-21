@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T13:49:27+03:00",
+  "generated_at": "2026-09-21T13:51:40+03:00",
   "count": 620,
   "sections": {
     "tips": [
@@ -715,13 +715,13 @@
       "path": "tips/5S AUTO/Администрирование/Как ограничить редактирование цены, суммы и нормы времени авторабот в заказ-наряде",
       "file": "kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade.md",
       "id": "kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade",
-      "sha": "53f3abe5ffd39e90101885a0b763869851861b72",
+      "sha": "523bc5ad24e2f8d9732a08eadd7cc1d2b1cba0f2",
       "title": "Как ограничить редактирование цены, суммы и нормы времени авторабот в заказ-наряде",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-09-21",
       "date_kind": "created",
-      "added_at": "2026-09-21"
+      "added_at": "2026-09-21T08:50:29+03:00"
     },
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Точка Банка",
