@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T08:55:01+03:00",
+  "generated_at": "2026-09-21T08:58:23+03:00",
   "count": 621,
   "sections": {
     "tips": [
@@ -700,19 +700,31 @@
   },
   "materials": [
     {
-      "path": "tips/5S AUTO/Автосервис/Как запретить менять цену и сумму авторабот в заказ-наряде",
+      "path": "tips/5S AUTO/Автосервис/Почему при изменении суммы автоработы пересчитывается количество нормочасов",
+      "file": "pochemu-pri-izmenenii-summy-avtoraboty-pereschityvaetsya-kolichestvo-normochasov.md",
+      "id": "pochemu-pri-izmenenii-summy-avtoraboty-pereschityvaetsya-kolichestvo-normochasov",
+      "sha": "3245cfcabbe10e28792f34a50baa4a70c0870747",
+      "title": "Почему при изменении суммы автоработы пересчитывается количество нормочасов",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-21",
+      "date_kind": "created",
+      "added_at": "2026-09-21T08:50:29+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Администрирование/Как запретить менять цену и сумму авторабот в заказ-наряде",
       "file": "kak-zapretit-menyat-cenu-i-summu-avtorabot-v-zakaz-naryade.md",
       "id": "kak-zapretit-menyat-cenu-i-summu-avtorabot-v-zakaz-naryade",
-      "sha": "15c2427037c44ff1e771662ddb148abf042bb6f6",
+      "sha": "5bd4937532bef600cd6e221f090bc48fe391f358",
       "title": "Как запретить менять цену и сумму авторабот в заказ-наряде",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-09-21",
       "date_kind": "created",
-      "added_at": "2026-09-21"
+      "added_at": "2026-09-21T08:50:29+03:00"
     },
     {
-      "path": "tips/5S AUTO/Автосервис/Как запретить сотрудникам редактировать отдельные автоработы",
+      "path": "tips/5S AUTO/Администрирование/Как запретить сотрудникам редактировать отдельные автоработы",
       "file": "kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty.md",
       "id": "kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty",
       "sha": "25c18ce44f92547767bc11daa53294a01ad016b3",
@@ -721,19 +733,7 @@
       "order": 0,
       "updated_at": "2026-09-21",
       "date_kind": "created",
-      "added_at": "2026-09-21"
-    },
-    {
-      "path": "tips/5S AUTO/Автосервис/Почему при изменении суммы автоработы пересчитывается количество нормочасов",
-      "file": "pochemu-pri-izmenenii-summy-avtoraboty-pereschityvaetsya-kolichestvo-normochasov.md",
-      "id": "pochemu-pri-izmenenii-summy-avtoraboty-pereschityvaetsya-kolichestvo-normochasov",
-      "sha": "8bc94ea881d0656f5fbbd5f84e32e96266544666",
-      "title": "Почему при изменении суммы автоработы пересчитывается количество нормочасов",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-09-21",
-      "date_kind": "created",
-      "added_at": "2026-09-21"
+      "added_at": "2026-09-21T08:50:29+03:00"
     },
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Точка Банка",
