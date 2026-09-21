@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T13:41:36+03:00",
-  "count": 621,
+  "generated_at": "2026-09-21T13:49:27+03:00",
+  "count": 620,
   "sections": {
     "tips": [
       {
@@ -700,40 +700,28 @@
   },
   "materials": [
     {
-      "path": "tips/5S AUTO/Автосервис/Почему при изменении суммы автоработы пересчитывается количество нормочасов",
-      "file": "pochemu-pri-izmenenii-summy-avtoraboty-pereschityvaetsya-kolichestvo-normochasov.md",
-      "id": "pochemu-pri-izmenenii-summy-avtoraboty-pereschityvaetsya-kolichestvo-normochasov",
-      "sha": "979a4e443e1e199caa750ae7ee172f48104f8fef",
-      "title": "Почему при изменении суммы автоработы пересчитывается количество нормочасов",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-09-21",
-      "date_kind": "created",
-      "added_at": "2026-09-21T08:50:29+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/Администрирование/Как запретить менять цену и сумму авторабот в заказ-наряде",
-      "file": "kak-zapretit-menyat-cenu-i-summu-avtorabot-v-zakaz-naryade.md",
-      "id": "kak-zapretit-menyat-cenu-i-summu-avtorabot-v-zakaz-naryade",
-      "sha": "cee696695b0fa19b6c9dbae5716f024094c2cfb8",
-      "title": "Как запретить менять цену и сумму авторабот в заказ-наряде",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-09-21",
-      "date_kind": "created",
-      "added_at": "2026-09-21T08:50:29+03:00"
-    },
-    {
       "path": "tips/5S AUTO/Администрирование/Как запретить сотрудникам редактировать отдельные автоработы",
       "file": "kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty.md",
       "id": "kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty",
-      "sha": "6a068f8c68e27f5978b21043aefd0d31973f5956",
+      "sha": "e412d74e23bb485e041c7bc2d04d56806a4601c0",
       "title": "Как запретить сотрудникам редактировать отдельные автоработы",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-09-21",
       "date_kind": "created",
       "added_at": "2026-09-21T08:50:29+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Администрирование/Как ограничить редактирование цены, суммы и нормы времени авторабот в заказ-наряде",
+      "file": "kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade.md",
+      "id": "kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade",
+      "sha": "53f3abe5ffd39e90101885a0b763869851861b72",
+      "title": "Как ограничить редактирование цены, суммы и нормы времени авторабот в заказ-наряде",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-21",
+      "date_kind": "created",
+      "added_at": "2026-09-21"
     },
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Точка Банка",
