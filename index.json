@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:40:45+03:00",
+  "generated_at": "2026-09-21T11:28:33+03:00",
   "count": 621,
   "sections": {
     "tips": [
@@ -715,7 +715,7 @@
       "path": "tips/5S AUTO/Администрирование/Как запретить менять цену и сумму авторабот в заказ-наряде",
       "file": "kak-zapretit-menyat-cenu-i-summu-avtorabot-v-zakaz-naryade.md",
       "id": "kak-zapretit-menyat-cenu-i-summu-avtorabot-v-zakaz-naryade",
-      "sha": "096cb9ae009e27d388826ceaa70b8e5ca9d715bc",
+      "sha": "bd8b3f624ca696a63261cd33a1ad46f6d8ed2267",
       "title": "Как запретить менять цену и сумму авторабот в заказ-наряде",
       "type": "tips",
       "order": 0,
