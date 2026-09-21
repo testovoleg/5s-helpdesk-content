@@ -1,6 +1,6 @@
 # Подключение SberPay QR
 
-<table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 18.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 11 мин.</td><td><b>Обновлено:</b> 07.05.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-sberpay-qr</sub>
 

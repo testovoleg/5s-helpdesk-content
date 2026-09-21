@@ -1,6 +1,6 @@
 # Подключение загрузки выписок Альфа-Банка
 
-<table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 18.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 24.06.2025</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-zagruzki-vypisok-alfa-banka</sub>
 

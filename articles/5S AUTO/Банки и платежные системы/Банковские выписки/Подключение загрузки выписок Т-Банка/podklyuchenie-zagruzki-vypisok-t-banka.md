@@ -1,6 +1,6 @@
 # Подключение загрузки выписок Т-Банка
 
-<table><tr><td><b>Время чтения:</b> 6 мин.</td><td><b>Обновлено:</b> 18.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 6 мин.</td><td><b>Обновлено:</b> 29.07.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-zagruzki-vypisok-t-banka</sub>
 

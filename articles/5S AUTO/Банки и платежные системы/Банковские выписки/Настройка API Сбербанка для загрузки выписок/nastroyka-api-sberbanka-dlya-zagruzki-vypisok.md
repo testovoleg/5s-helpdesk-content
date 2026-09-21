@@ -1,6 +1,6 @@
 # Настройка API Сбербанка для загрузки выписок
 
-<table><tr><td><b>Время чтения:</b> 10 мин.</td><td><b>Обновлено:</b> 18.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 10 мин.</td><td><b>Обновлено:</b> 31.07.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-api-sberbanka-dlya-zagruzki-vypisok</sub>
 
