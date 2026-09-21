@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T16:26:19+03:00",
+  "generated_at": "2026-09-21T16:56:26+03:00",
   "count": 615,
   "sections": {
     "tips": [
@@ -709,7 +709,7 @@
       "order": 0,
       "updated_at": "2026-09-21",
       "date_kind": "created",
-      "added_at": "2026-09-21"
+      "added_at": "2026-09-21T16:25:59+03:00"
     },
     {
       "path": "tips/5S AUTO/Склад и запчасти/Пропала вкладка «Остатки по ячейкам» в номенклатуре",
@@ -4691,11 +4691,11 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Настройка API Сбербанка для загрузки выписок",
       "file": "nastroyka-api-sberbanka-dlya-zagruzki-vypisok.md",
       "id": "nastroyka-api-sberbanka-dlya-zagruzki-vypisok",
-      "sha": "8c78c5975b6bf0ab0f18c8c1246ed4e48140b6c4",
+      "sha": "fd306c4b9dd7625903661a8cdf38791e3a085e2a",
       "title": "Настройка API Сбербанка для загрузки выписок",
       "type": "articles",
       "order": 2,
-      "updated_at": "2026-09-18",
+      "updated_at": "2026-07-31",
       "date_kind": "updated",
       "added_at": "2026-09-07T15:49:53+03:00",
       "reading_time": 10
@@ -4717,11 +4717,11 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Альфа-Банка",
       "file": "podklyuchenie-zagruzki-vypisok-alfa-banka.md",
       "id": "podklyuchenie-zagruzki-vypisok-alfa-banka",
-      "sha": "da73e8a7bbae940347bb42847d8ea9dfa92f4ec4",
+      "sha": "ce9baf75e3e06f04c3f79acb6f5100fb7bb63a59",
       "title": "Подключение загрузки выписок Альфа-Банка",
       "type": "articles",
       "order": 4,
-      "updated_at": "2026-09-18",
+      "updated_at": "2025-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-07T15:49:53+03:00",
       "reading_time": 5
@@ -4730,11 +4730,11 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Т-Банка",
       "file": "podklyuchenie-zagruzki-vypisok-t-banka.md",
       "id": "podklyuchenie-zagruzki-vypisok-t-banka",
-      "sha": "8d2db4b7caf11ae382f35d993f7ef64492c2757e",
+      "sha": "1bd2771cf4c9e32761c9400d6601508a6d7b2361",
       "title": "Подключение загрузки выписок Т-Банка",
       "type": "articles",
       "order": 3,
-      "updated_at": "2026-09-18",
+      "updated_at": "2026-07-29",
       "date_kind": "updated",
       "added_at": "2026-09-07T15:49:53+03:00",
       "reading_time": 6
@@ -4756,11 +4756,11 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение SberPay QR",
       "file": "podklyuchenie-sberpay-qr.md",
       "id": "podklyuchenie-sberpay-qr",
-      "sha": "6106d4e38e7f0da0756dd313bf8b605e7cbed5af",
+      "sha": "66bc9764ccb0656c14301505ce5adbac3ab8e433",
       "title": "Подключение SberPay QR",
       "type": "articles",
       "order": 1,
-      "updated_at": "2026-09-18",
+      "updated_at": "2026-05-07",
       "date_kind": "updated",
       "added_at": "2026-09-07T15:49:53+03:00",
       "reading_time": 11
@@ -4769,11 +4769,11 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП T-Банка",
       "file": "podklyuchenie-sbp-t-banka.md",
       "id": "podklyuchenie-sbp-t-banka",
-      "sha": "1398522b5d908423c7c94c591b9a5132687918f3",
+      "sha": "f53b133a26be86a14495b1a73be03a1207ca7ce4",
       "title": "Подключение СБП T-Банка",
       "type": "articles",
       "order": 2,
-      "updated_at": "2026-09-18",
+      "updated_at": "2026-05-19",
       "date_kind": "updated",
       "added_at": "2026-09-07T15:49:53+03:00",
       "reading_time": 11
@@ -4782,11 +4782,11 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Альфа-Банка",
       "file": "podklyuchenie-sbp-alfa-banka.md",
       "id": "podklyuchenie-sbp-alfa-banka",
-      "sha": "0d15f8b5945a15d6587af9b5cce70106d49d90b8",
+      "sha": "d423713457dddaa03e61527c83c85679ea4b223c",
       "title": "Подключение СБП Альфа-Банка",
       "type": "articles",
       "order": 3,
-      "updated_at": "2026-09-18",
+      "updated_at": "2025-05-23",
       "date_kind": "updated",
       "added_at": "2026-09-07T15:49:53+03:00",
       "reading_time": 11
