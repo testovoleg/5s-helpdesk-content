@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T16:39:33+03:00",
-  "count": 618,
+  "generated_at": "2026-09-21T08:50:54+03:00",
+  "count": 621,
   "sections": {
     "tips": [
       {
@@ -693,6 +693,42 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Администрирование/Как запретить менять цену и сумму авторабот в заказ-наряде",
+      "file": "kak-zapretit-menyat-cenu-i-summu-avtorabot-v-zakaz-naryade.md",
+      "id": "kak-zapretit-menyat-cenu-i-summu-avtorabot-v-zakaz-naryade",
+      "sha": "15c2427037c44ff1e771662ddb148abf042bb6f6",
+      "title": "Как запретить менять цену и сумму авторабот в заказ-наряде",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-21",
+      "date_kind": "created",
+      "added_at": "2026-09-21"
+    },
+    {
+      "path": "tips/5S AUTO/Администрирование/Как запретить сотрудникам редактировать отдельные автоработы",
+      "file": "kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty.md",
+      "id": "kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty",
+      "sha": "25c18ce44f92547767bc11daa53294a01ad016b3",
+      "title": "Как запретить сотрудникам редактировать отдельные автоработы",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-21",
+      "date_kind": "created",
+      "added_at": "2026-09-21"
+    },
+    {
+      "path": "tips/5S AUTO/Администрирование/Почему при изменении суммы автоработы пересчитывается количество нормочасов",
+      "file": "pochemu-pri-izmenenii-summy-avtoraboty-pereschityvaetsya-kolichestvo-normochasov.md",
+      "id": "pochemu-pri-izmenenii-summy-avtoraboty-pereschityvaetsya-kolichestvo-normochasov",
+      "sha": "8bc94ea881d0656f5fbbd5f84e32e96266544666",
+      "title": "Почему при изменении суммы автоработы пересчитывается количество нормочасов",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-21",
+      "date_kind": "created",
+      "added_at": "2026-09-21"
+    },
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Точка Банка",
       "file": "podklyuchenie-zagruzki-vypisok-tochka-banka.md",
