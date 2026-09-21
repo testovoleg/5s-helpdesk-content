@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T16:56:26+03:00",
-  "count": 615,
+  "generated_at": "2026-09-21T17:20:31+03:00",
+  "count": 616,
   "sections": {
     "tips": [
       {
@@ -703,13 +703,25 @@
       "path": "tips/5S AUTO/Администрирование/Как запретить сотрудникам редактировать отдельные автоработы",
       "file": "kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty.md",
       "id": "kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty",
-      "sha": "b67e5b6850b8f90558321c881d26bf4465a290c9",
+      "sha": "f0e770c615b2c748d67f730ae1b37f29bd70ac94",
       "title": "Как запретить сотрудникам редактировать отдельные автоработы",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-09-21",
       "date_kind": "created",
       "added_at": "2026-09-21T16:25:59+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Администрирование/Как ограничить редактирование цены, суммы и нормы времени авторабот в заказ-наряде",
+      "file": "kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade.md",
+      "id": "kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade",
+      "sha": "9ff4f6c551dcc59fa369aa438078d988675a81db",
+      "title": "Как ограничить редактирование цены, суммы и нормы времени авторабот в заказ-наряде",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-21",
+      "date_kind": "created",
+      "added_at": "2026-09-21"
     },
     {
       "path": "tips/5S AUTO/Склад и запчасти/Пропала вкладка «Остатки по ячейкам» в номенклатуре",
