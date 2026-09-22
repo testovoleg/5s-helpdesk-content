@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T15:27:20+03:00",
+  "generated_at": "2026-09-22T15:42:59+03:00",
   "count": 617,
   "sections": {
     "tips": [
@@ -703,7 +703,7 @@
       "path": "tips/5S AUTO/Маркировка/Не проводится документ с маркированным товаром",
       "file": "ne-provoditsya-dokument-s-markirovannym-tovarom.md",
       "id": "ne-provoditsya-dokument-s-markirovannym-tovarom",
-      "sha": "44e673dc6c886734a944b5d14adf41946de12350",
+      "sha": "6f1ea6c02d920941a7127942ae7963af984f466c",
       "title": "Не проводится документ с маркированным товаром",
       "type": "tips",
       "order": 0,
