@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T14:31:17+03:00",
+  "generated_at": "2026-09-22T14:41:15+03:00",
   "count": 621,
   "sections": {
     "tips": [
@@ -709,7 +709,7 @@
       "order": 0,
       "updated_at": "2026-09-22",
       "date_kind": "created",
-      "added_at": "2026-09-22"
+      "added_at": "2026-09-22T14:30:51+03:00"
     },
     {
       "path": "tips/5S AUTO/Администрирование/Как запретить сотрудникам редактировать отдельные автоработы",
@@ -3453,7 +3453,7 @@
       "path": "articles/5S AUTO/Прочее/Как обратиться в техническую поддержку",
       "file": "kak-obratitsya-v-tekhnicheskuyu-podderzhku.md",
       "id": "kak-obratitsya-v-tekhnicheskuyu-podderzhku",
-      "sha": "c04b401e76924855b7b1c92627f5af0adcf671f3",
+      "sha": "c4bfb1a186a85d9f3e670236298cc26a6b93a521",
       "title": "Как обратиться в техническую поддержку",
       "type": "articles",
       "order": 0,
@@ -8577,7 +8577,7 @@
       "path": "tips/Техподдержка/График работы технической поддержки",
       "file": "grafik-raboty-tekhnicheskoy-podderzhki.md",
       "id": "grafik-raboty-tekhnicheskoy-podderzhki",
-      "sha": "d30456ae40dcc76a7b8174ac2e647b7bb5acd896",
+      "sha": "764d77337b85104809b7a49c874a02d2997cbe5c",
       "title": "График работы технической поддержки",
       "type": "tips",
       "order": 0,
