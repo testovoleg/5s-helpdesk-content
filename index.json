@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T09:45:08+03:00",
+  "generated_at": "2026-09-22T09:50:13+03:00",
   "count": 616,
   "sections": {
     "tips": [
@@ -8479,7 +8479,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 4001 при закрытии кассовой смены",
       "file": "oshibka-4001-pri-zakrytii-kassovoy-smeny.md",
       "id": "oshibka-4001-pri-zakrytii-kassovoy-smeny",
-      "sha": "0dcbc81ca35b51ae790d653e9b3a3f24ba7469ac",
+      "sha": "f1746b3e7c9c4ff7957b75e8da4b988ac137c53f",
       "title": "Ошибка 4001 при закрытии кассовой смены",
       "type": "tips",
       "order": 0,
