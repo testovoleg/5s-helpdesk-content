@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T10:41:47+03:00",
-  "count": 620,
+  "generated_at": "2026-09-22T14:31:17+03:00",
+  "count": 621,
   "sections": {
     "tips": [
       {
@@ -699,6 +699,18 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Маркировка/Не проводится документ с маркированным товаром",
+      "file": "ne-provoditsya-dokument-s-markirovannym-tovarom.md",
+      "id": "ne-provoditsya-dokument-s-markirovannym-tovarom",
+      "sha": "c1e46868a6a3084ec5f4df5621d67b13eed73a66",
+      "title": "Не проводится документ с маркированным товаром",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-22",
+      "date_kind": "created",
+      "added_at": "2026-09-22"
+    },
     {
       "path": "tips/5S AUTO/Администрирование/Как запретить сотрудникам редактировать отдельные автоработы",
       "file": "kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty.md",
