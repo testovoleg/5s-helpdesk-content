@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T09:49:45+03:00",
+  "generated_at": "2026-09-22T09:53:04+03:00",
   "count": 620,
   "sections": {
     "tips": [
@@ -8505,7 +8505,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 4001 при закрытии кассовой смены",
       "file": "oshibka-4001-pri-zakrytii-kassovoy-smeny.md",
       "id": "oshibka-4001-pri-zakrytii-kassovoy-smeny",
-      "sha": "f1746b3e7c9c4ff7957b75e8da4b988ac137c53f",
+      "sha": "86c38ef5b409bb1e0b8bb856a8fb1d699708768d",
       "title": "Ошибка 4001 при закрытии кассовой смены",
       "type": "tips",
       "order": 0,
@@ -8730,7 +8730,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка печати квитанции авторизации",
       "file": "oshibka-pechati-kvitancii-avtorizacii.md",
       "id": "oshibka-pechati-kvitancii-avtorizacii",
-      "sha": "6bce79d422b8d238f86f180b8acdca95f0a7ed2a",
+      "sha": "fcd0aebf80334f9255e969836cad6a972d34fc3a",
       "title": "Ошибка печати квитанции авторизации",
       "type": "tips",
       "order": 0,
@@ -8949,7 +8949,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка авторизации код 9 (служба Dual Connector Service занимает COM-порт)",
       "file": "oshibka-avtorizacii-kod-9-dual-connector-service.md",
       "id": "oshibka-avtorizacii-kod-9-dual-connector-service",
-      "sha": "00e6cefd2dde662703700886fc46067f5571da24",
+      "sha": "7302a768b8c826c84518f7f3075d2d6a5e189c5e",
       "title": "Ошибка авторизации код 9 / Ошибка терминала эквайринга / Служба \"Dual Connector Service\" занимает COM-порт",
       "type": "tips",
       "order": 0,
