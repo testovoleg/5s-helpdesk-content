@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T10:42:13+03:00",
+  "generated_at": "2026-09-22T14:41:41+03:00",
   "count": 616,
   "sections": {
     "tips": [
@@ -3415,7 +3415,7 @@
       "path": "articles/5S AUTO/Прочее/Как обратиться в техническую поддержку",
       "file": "kak-obratitsya-v-tekhnicheskuyu-podderzhku.md",
       "id": "kak-obratitsya-v-tekhnicheskuyu-podderzhku",
-      "sha": "eaef6af4c116916c59266ed9771dde565e9c1205",
+      "sha": "0c9e49502e1b90d9d62005c971cf5d89eafa7495",
       "title": "Как обратиться в техническую поддержку",
       "type": "articles",
       "order": 0,
@@ -8539,7 +8539,7 @@
       "path": "tips/Техподдержка/График работы технической поддержки",
       "file": "grafik-raboty-tekhnicheskoy-podderzhki.md",
       "id": "grafik-raboty-tekhnicheskoy-podderzhki",
-      "sha": "7676b9ee566993322ba93a2be5e225f88d7cea1d",
+      "sha": "8bb350f3898f2b71a35fb03bbef6ec2d00018af9",
       "title": "График работы технической поддержки",
       "type": "tips",
       "order": 0,
