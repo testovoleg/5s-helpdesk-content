@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:19:07+03:00",
+  "generated_at": "2026-09-22T08:56:11+03:00",
   "count": 620,
   "sections": {
     "tips": [
@@ -753,7 +753,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Пропала вкладка «Остатки по ячейкам» в номенклатуре",
       "file": "propala-vkladka-ostatki-po-yacheykam.md",
       "id": "propala-vkladka-ostatki-po-yacheykam",
-      "sha": "bf6806b4ba37337ae8cff6698a4ba179b8773075",
+      "sha": "3fbe045d11ba0f3e58adbd0b735f62fec8ec7d8d",
       "title": "Пропала вкладка «Остатки по ячейкам» в номенклатуре",
       "type": "tips",
       "order": 0,
@@ -765,7 +765,7 @@
       "path": "tips/5S AUTO/Администрирование/Как добавить обработку другим пользователям",
       "file": "kak-dobavit-obrabotku-drugim-polzovatelyam.md",
       "id": "kak-dobavit-obrabotku-drugim-polzovatelyam",
-      "sha": "c6a02b10865049f034f32eae8cda6f89487cbf0a",
+      "sha": "f3cd54fb6e40800de3cbc18e55f45082da6b65d6",
       "title": "Как добавить обработку другим пользователям",
       "type": "tips",
       "order": 0,
