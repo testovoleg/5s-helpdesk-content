@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:23:21+03:00",
+  "generated_at": "2026-09-22T17:21:14+03:00",
   "count": 622,
   "sections": {
     "tips": [
@@ -700,6 +700,18 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд из-за заказанных деталей",
+      "file": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley.md",
+      "id": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley",
+      "sha": "b4c287e7086cf2ad473fc318d93dd76efdbaf8cd",
+      "title": "Не закрывается заказ-наряд из-за заказанных деталей",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-22",
+      "date_kind": "created",
+      "added_at": "2026-09-22T16:23:03+03:00"
+    },
+    {
       "path": "tips/5S AUTO/Маркировка/Не проводится документ с маркированным товаром",
       "file": "ne-provoditsya-dokument-s-markirovannym-tovarom.md",
       "id": "ne-provoditsya-dokument-s-markirovannym-tovarom",
@@ -710,18 +722,6 @@
       "updated_at": "2026-09-22",
       "date_kind": "created",
       "added_at": "2026-09-22T14:30:51+03:00"
-    },
-    {
-      "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд из-за заказанных деталей",
-      "file": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley.md",
-      "id": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley",
-      "sha": "d57b2d530fc78ce3ad07577e1e4789bc905ee635",
-      "title": "Не закрывается заказ-наряд из-за заказанных деталей",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-09-22",
-      "date_kind": "created",
-      "added_at": "2026-09-22"
     },
     {
       "path": "tips/5S AUTO/Администрирование/Как запретить сотрудникам редактировать отдельные автоработы",
