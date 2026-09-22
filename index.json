@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T16:09:48+03:00",
-  "count": 623,
+  "generated_at": "2026-09-22T16:23:21+03:00",
+  "count": 622,
   "sections": {
     "tips": [
       {
@@ -712,23 +712,11 @@
       "added_at": "2026-09-22T14:30:51+03:00"
     },
     {
-      "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд из-за заказанных деталей (другая номенклатура)",
-      "file": "ne-zakryvaetsya-zakaz-naryad-drugaya-nomenklatura.md",
-      "id": "ne-zakryvaetsya-zakaz-naryad-drugaya-nomenklatura",
-      "sha": "1f11e5ebde58bf777b54d585bdd0733af6a0ec25",
-      "title": "Не закрывается заказ-наряд из-за заказанных деталей (другая номенклатура)",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-09-22",
-      "date_kind": "created",
-      "added_at": "2026-09-22"
-    },
-    {
-      "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд из-за заказанных деталей (заказано другое количество)",
-      "file": "ne-zakryvaetsya-zakaz-naryad-zakazano-drugoe-kolichestvo.md",
-      "id": "ne-zakryvaetsya-zakaz-naryad-zakazano-drugoe-kolichestvo",
-      "sha": "b6d01311f385ac560beef80f3932e438e7a7ad89",
-      "title": "Не закрывается заказ-наряд из-за заказанных деталей (заказано другое количество)",
+      "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд из-за заказанных деталей",
+      "file": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley.md",
+      "id": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley",
+      "sha": "d57b2d530fc78ce3ad07577e1e4789bc905ee635",
+      "title": "Не закрывается заказ-наряд из-за заказанных деталей",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-09-22",
