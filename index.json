@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T14:10:19+03:00",
-  "count": 623,
+  "generated_at": "2026-09-23T14:52:51+03:00",
+  "count": 624,
   "sections": {
     "tips": [
       {
@@ -705,6 +705,18 @@
       "id": "ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade",
       "sha": "ce29bdbf0a1eb594a15f875c54c3c18034a7bb37",
       "title": "Не получается выбрать контрагента плательщиком в заказ-наряде",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-23",
+      "date_kind": "created",
+      "added_at": "2026-09-23T10:28:22+03:00"
+    },
+    {
+      "path": "tips/5S AUTO/Автосервис/Как мастеру-консультанту видеть сделки сменщика",
+      "file": "kak-masteru-konsultantu-videt-sdelki-smenshchika.md",
+      "id": "kak-masteru-konsultantu-videt-sdelki-smenshchika",
+      "sha": "4e49d385d66f30ef72753b4e1641251fa7032c17",
+      "title": "Как мастеру-консультанту видеть сделки сменщика",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-09-23",
