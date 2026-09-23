@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T15:04:39+03:00",
+  "generated_at": "2026-09-23T15:07:44+03:00",
   "count": 625,
   "sections": {
     "tips": [
@@ -700,6 +700,19 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Отбор номенклатуры по подразделениям",
+      "file": "otbor-nomenklatury-po-podrazdeleniyam.md",
+      "id": "otbor-nomenklatury-po-podrazdeleniyam",
+      "sha": "ed6b9d88cc2b690ccb14f1a6730b08c1892f6077",
+      "title": "Отбор номенклатуры по подразделениям",
+      "type": "articles",
+      "order": 11,
+      "updated_at": "2026-09-23",
+      "date_kind": "created",
+      "added_at": "2026-09-23T15:04:20+03:00",
+      "reading_time": 8
+    },
+    {
       "path": "tips/5S AUTO/Автосервис/Как мастеру-консультанту видеть сделки сменщика",
       "file": "kak-masteru-konsultantu-videt-sdelki-smenshchika.md",
       "id": "kak-masteru-konsultantu-videt-sdelki-smenshchika",
@@ -722,19 +735,6 @@
       "updated_at": "2026-09-23",
       "date_kind": "created",
       "added_at": "2026-09-23T10:28:22+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Отбор номенклатуры по подразделениям",
-      "file": "otbor-nomenklatury-po-podrazdeleniyam.md",
-      "id": "otbor-nomenklatury-po-podrazdeleniyam",
-      "sha": "9394c9c3f59d2451591dd785f892dfbb044726e4",
-      "title": "Отбор номенклатуры по подразделениям",
-      "type": "articles",
-      "order": 11,
-      "updated_at": "2026-09-23",
-      "date_kind": "created",
-      "added_at": "2026-09-23",
-      "reading_time": 8
     },
     {
       "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд из-за заказанных деталей",
