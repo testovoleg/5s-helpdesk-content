@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T14:10:49+03:00",
-  "count": 619,
+  "generated_at": "2026-09-23T15:30:59+03:00",
+  "count": 620,
   "sections": {
     "tips": [
       {
@@ -700,6 +700,18 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Автосервис/Не получается выбрать контрагента плательщиком в заказ-наряде",
+      "file": "ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade.md",
+      "id": "ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade",
+      "sha": "ce29bdbf0a1eb594a15f875c54c3c18034a7bb37",
+      "title": "Не получается выбрать контрагента плательщиком в заказ-наряде",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-23",
+      "date_kind": "created",
+      "added_at": "2026-09-23T14:03:58+03:00"
+    },
+    {
       "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд из-за заказанных деталей",
       "file": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley.md",
       "id": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley",
@@ -712,11 +724,11 @@
       "added_at": "2026-09-23T09:15:07+03:00"
     },
     {
-      "path": "tips/5S AUTO/Автосервис/Не получается выбрать контрагента плательщиком в заказ-наряде",
-      "file": "ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade.md",
-      "id": "ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade",
-      "sha": "ce29bdbf0a1eb594a15f875c54c3c18034a7bb37",
-      "title": "Не получается выбрать контрагента плательщиком в заказ-наряде",
+      "path": "tips/5S AUTO/Автосервис/Как мастеру-консультанту видеть сделки сменщика",
+      "file": "kak-masteru-konsultantu-videt-sdelki-smenshchika.md",
+      "id": "kak-masteru-konsultantu-videt-sdelki-smenshchika",
+      "sha": "be01cb4c1f5872429e93dbb8adb77222fd7e6ec7",
+      "title": "Как мастеру-консультанту видеть сделки сменщика",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-09-23",
