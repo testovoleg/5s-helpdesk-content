@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T14:52:51+03:00",
-  "count": 624,
+  "generated_at": "2026-09-23T15:04:39+03:00",
+  "count": 625,
   "sections": {
     "tips": [
       {
@@ -305,7 +305,7 @@
                 "name": "Исправление ошибок версий",
                 "path": "articles/5S AUTO/Администрирование и настройка системы/Исправление ошибок версий",
                 "id": "ispravlenie-oshibok-versiy",
-                "order": 25
+                "order": 26
               }
             ]
           },
@@ -700,6 +700,18 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Автосервис/Как мастеру-консультанту видеть сделки сменщика",
+      "file": "kak-masteru-konsultantu-videt-sdelki-smenshchika.md",
+      "id": "kak-masteru-konsultantu-videt-sdelki-smenshchika",
+      "sha": "4e49d385d66f30ef72753b4e1641251fa7032c17",
+      "title": "Как мастеру-консультанту видеть сделки сменщика",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-23",
+      "date_kind": "created",
+      "added_at": "2026-09-23T14:52:31+03:00"
+    },
+    {
       "path": "tips/5S AUTO/Автосервис/Не получается выбрать контрагента плательщиком в заказ-наряде",
       "file": "ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade.md",
       "id": "ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade",
@@ -712,16 +724,17 @@
       "added_at": "2026-09-23T10:28:22+03:00"
     },
     {
-      "path": "tips/5S AUTO/Автосервис/Как мастеру-консультанту видеть сделки сменщика",
-      "file": "kak-masteru-konsultantu-videt-sdelki-smenshchika.md",
-      "id": "kak-masteru-konsultantu-videt-sdelki-smenshchika",
-      "sha": "4e49d385d66f30ef72753b4e1641251fa7032c17",
-      "title": "Как мастеру-консультанту видеть сделки сменщика",
-      "type": "tips",
-      "order": 0,
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Отбор номенклатуры по подразделениям",
+      "file": "otbor-nomenklatury-po-podrazdeleniyam.md",
+      "id": "otbor-nomenklatury-po-podrazdeleniyam",
+      "sha": "9394c9c3f59d2451591dd785f892dfbb044726e4",
+      "title": "Отбор номенклатуры по подразделениям",
+      "type": "articles",
+      "order": 11,
       "updated_at": "2026-09-23",
       "date_kind": "created",
-      "added_at": "2026-09-23"
+      "added_at": "2026-09-23",
+      "reading_time": 8
     },
     {
       "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд из-за заказанных деталей",
@@ -4326,7 +4339,7 @@
       "sha": "e9bdf87161d795d88f77fa948454d384db80ce70",
       "title": "API 5S AUTO",
       "type": "articles",
-      "order": 16,
+      "order": 17,
       "updated_at": "2026-08-11",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
@@ -4339,7 +4352,7 @@
       "sha": "ee15f425d5614dbf5caac6c56f9885857e3db0f6",
       "title": "Библиотека картинок",
       "type": "articles",
-      "order": 13,
+      "order": 14,
       "updated_at": "2026-01-14",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
@@ -4352,7 +4365,7 @@
       "sha": "f32c43af2533bba94972cb8bd723c354998c3d39",
       "title": "Версионирование",
       "type": "articles",
-      "order": 15,
+      "order": 16,
       "updated_at": "2026-07-29",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
@@ -4391,7 +4404,7 @@
       "sha": "a8ddb621bb8240b106d51d128f775a78a38809ac",
       "title": "Загрузка адресного классификатора",
       "type": "articles",
-      "order": 23,
+      "order": 24,
       "updated_at": "2026-06-15",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
@@ -4404,7 +4417,7 @@
       "sha": "40846ebee79cea08cf8e64b28261a48bb6db8828",
       "title": "Запуск произвольных обработок в регламентном задании",
       "type": "articles",
-      "order": 11,
+      "order": 12,
       "updated_at": "2022-06-15",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
@@ -4417,7 +4430,7 @@
       "sha": "bc0730c13e01c76eda11bb755ad8bdd380d2f32f",
       "title": "Мастер настройки системы",
       "type": "articles",
-      "order": 19,
+      "order": 20,
       "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
@@ -4443,7 +4456,7 @@
       "sha": "7a8f9ccc45b7524144c70f79e56087409e62b41d",
       "title": "Настройка полнотекстового поиска",
       "type": "articles",
-      "order": 14,
+      "order": 15,
       "updated_at": "2026-01-14",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
@@ -4482,7 +4495,7 @@
       "sha": "c76dea7228c132ae29af888ff55f00c3cf3725ca",
       "title": "Настройки Помощника автосервиса",
       "type": "articles",
-      "order": 20,
+      "order": 21,
       "updated_at": "2022-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
@@ -4508,7 +4521,7 @@
       "sha": "db2f6f8bca627ae0e350ece7b2d4a900bbfac556",
       "title": "Перенос данных",
       "type": "articles",
-      "order": 21,
+      "order": 22,
       "updated_at": "2026-01-15",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
@@ -4579,7 +4592,7 @@
       "sha": "0c2dc64353b0de9ae66342a76508bdfe00fdcd03",
       "title": "Создание второй службы",
       "type": "articles",
-      "order": 22,
+      "order": 23,
       "updated_at": "2022-09-07",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
@@ -4592,7 +4605,7 @@
       "sha": "8a4f6f709a64cf70c00fd884116afb25d9c7b916",
       "title": "Создание и редактирование пользователей 5S Cloud",
       "type": "articles",
-      "order": 17,
+      "order": 18,
       "updated_at": "2025-12-10",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
@@ -6500,7 +6513,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Администрирование и настройка системы",
-          "order": 18
+          "order": 19
         }
       ]
     },
@@ -8483,7 +8496,7 @@
       "sha": "37ae4fa5de627fa8424bdca3e982dedf1540f5a8",
       "title": "Удаление старых данных программы",
       "type": "articles",
-      "order": 24,
+      "order": 25,
       "updated_at": "2026-08-17",
       "date_kind": "updated",
       "added_at": "2026-08-14T16:46:26+03:00",
@@ -8805,7 +8818,7 @@
       "sha": "bba448047fd2054e334d03e73ed53673b6066d28",
       "title": "Лицензирование 5S AUTO",
       "type": "articles",
-      "order": 12,
+      "order": 13,
       "updated_at": "2026-08-17",
       "date_kind": "updated",
       "added_at": "2026-07-29T15:46:44+03:00",
