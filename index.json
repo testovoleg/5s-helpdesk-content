@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T16:38:33+03:00",
+  "generated_at": "2026-09-24T16:59:08+03:00",
   "count": 628,
   "sections": {
     "tips": [
@@ -708,6 +708,18 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Склад и запчасти/При загрузке поступления из СБИС подставляется не тот склад",
+      "file": "pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad.md",
+      "id": "pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad",
+      "sha": "b86a1ff8b2c9d5d5b08495cd9031d91297214928",
+      "title": "При загрузке поступления из СБИС подставляется не тот склад",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-24",
+      "date_kind": "created",
+      "added_at": "2026-09-24T16:38:11+03:00"
+    },
+    {
       "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки",
       "file": "ne-prohodit-proverka-koda-markirovki.md",
       "id": "ne-prohodit-proverka-koda-markirovki",
@@ -731,18 +743,6 @@
       "date_kind": "created",
       "added_at": "2026-09-24T09:59:03+03:00",
       "reading_time": 3
-    },
-    {
-      "path": "tips/5S AUTO/Склад и запчасти/При загрузке поступления из СБИС подставляется не тот склад",
-      "file": "pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad.md",
-      "id": "pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad",
-      "sha": "5d707b4e090c489ddcb51e97f4626c431ba0ef63",
-      "title": "При загрузке поступления из СБИС подставляется не тот склад",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-09-24",
-      "date_kind": "created",
-      "added_at": "2026-09-24"
     },
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Отбор номенклатуры по подразделениям",
