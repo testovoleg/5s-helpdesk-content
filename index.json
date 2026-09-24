@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:29:02+03:00",
+  "generated_at": "2026-09-24T10:31:49+03:00",
   "count": 626,
   "sections": {
     "tips": [
@@ -711,7 +711,7 @@
       "path": "articles/5S AUTO/Касса/Настройка кассиров ФР",
       "file": "nastroyka-kassirov-fr.md",
       "id": "nastroyka-kassirov-fr",
-      "sha": "d2c023371f581bb8525a7c68f9c634543551860e",
+      "sha": "db3603c775745576b75f5bb618ff6fcc49f7b4a6",
       "title": "Настройка кассиров ФР",
       "type": "articles",
       "order": 2,
