@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:12:55+03:00",
+  "generated_at": "2026-09-24T17:15:37+03:00",
   "count": 628,
   "sections": {
     "tips": [
@@ -1450,7 +1450,7 @@
       "path": "lessons/Урок 20. Диагностические анкеты/Как сделать калькуляцию по результатам диагностики",
       "file": "kak-sdelat-kalkulyaciyu-po-rezultatam-diagnostiki.md",
       "id": "kak-sdelat-kalkulyaciyu-po-rezultatam-diagnostiki",
-      "sha": "3c893c5a124c43ea00c89eb059443dbd0bce6782",
+      "sha": "7d2decf2a787c55c3576d40ce73b4747b676a152",
       "title": "Как сделать калькуляцию по результатам диагностики",
       "type": "lessons",
       "order": 3,
@@ -2167,7 +2167,7 @@
       "path": "lessons/Урок 10. Работа с Заказ-нарядами/Методический материал по теме «Работа с Заказ-нарядами»",
       "file": "metodicheskiy-material-po-teme-rabota-s-zakaz-naryadami.md",
       "id": "metodicheskiy-material-po-teme-rabota-s-zakaz-naryadami",
-      "sha": "a53ca0eb9a1ddae54c42ad71126b527f3838935d",
+      "sha": "d9432d9a9d0427abd8e678fc147b55a2e3e6b444",
       "title": "Методический материал по теме: \"Работа с Заказ-нарядами\"",
       "type": "lessons",
       "order": 9,
@@ -2219,7 +2219,7 @@
       "path": "lessons/Урок 9. Работа с Поиском цен/Примеры подключения поставщиков Armtek, Rossko, Berg, Mikado",
       "file": "primery-podklyucheniya-postavschikov-armtek-rossko-berg-mikado.md",
       "id": "primery-podklyucheniya-postavschikov-armtek-rossko-berg-mikado",
-      "sha": "8661f133b1247d754e5da83c9473d5610f48c5ae",
+      "sha": "fa467d68d013ac165b8adb0608dbb54ad0939c8d",
       "title": "Примеры подключения поставщиков Armtek, Rossko, Berg, Mikado",
       "type": "lessons",
       "order": 1,
@@ -4796,7 +4796,7 @@
       "path": "articles/5S AUTO/Персонал и мотивация/Описание возможностей системы мотивации",
       "file": "opisanie-vozmozhnostey-sistemy-motivacii.md",
       "id": "opisanie-vozmozhnostey-sistemy-motivacii",
-      "sha": "e3214c8b3793d73b39de215ed49854219314d93d",
+      "sha": "49ec3813e11166c68515efe9859ae99a06d9614c",
       "title": "Описание возможностей системы мотивации",
       "type": "articles",
       "order": 2,

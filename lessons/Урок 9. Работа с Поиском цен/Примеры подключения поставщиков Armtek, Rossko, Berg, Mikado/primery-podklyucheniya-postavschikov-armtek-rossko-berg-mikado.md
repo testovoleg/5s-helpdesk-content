@@ -109,7 +109,9 @@
 
 **При наличии ключа доступа в карточке прайс-листа**:
 
-1. Заполните параметры подключения (Ключ), берем данные с ЛК ![Веб прайс-листы - Berg - Параметры](attachments/13-veb-prays-listy-berg-parametry.png) &nbsp;&nbsp; ![Веб прайс-листы - Berg - Ключ](attachments/14-veb-prays-listy-berg-klyuch.png)
+1. Заполните параметры подключения (Ключ), берем данные с ЛК:<br>
+   ![Веб прайс-листы - Berg - Параметры](attachments/13-veb-prays-listy-berg-parametry.png)<br>
+   ![Веб прайс-листы - Berg - Ключ](attachments/14-veb-prays-listy-berg-klyuch.png)
 2. Запишите изменения, нажав кнопку "Записать".
 3. Обновите словари сервиса, нажав кнопки-ссылки "Обновить Адреса доставки" и "Обновить Статусы заказов":<br><br>
    ![Веб прайс-листы - Berg - Обновить словари](attachments/15-veb-prays-listy-berg-obnovit-slovari.png)
