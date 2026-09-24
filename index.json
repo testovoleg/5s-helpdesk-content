@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T09:40:47+03:00",
-  "count": 625,
+  "generated_at": "2026-09-24T09:59:23+03:00",
+  "count": 626,
   "sections": {
     "tips": [
       {
@@ -707,6 +707,19 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Касса/Настройка кассиров ФР",
+      "file": "nastroyka-kassirov-fr.md",
+      "id": "nastroyka-kassirov-fr",
+      "sha": "40db9ac56d14f76573e25e566942c32ebee8766f",
+      "title": "Настройка кассиров ФР",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-09-24",
+      "date_kind": "created",
+      "added_at": "2026-09-24",
+      "reading_time": 3
+    },
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Отбор номенклатуры по подразделениям",
       "file": "otbor-nomenklatury-po-podrazdeleniyam.md",
@@ -4918,7 +4931,7 @@
       "sha": "afbaa6960569e4597ebc3f29f4b89e3b32b09ce5",
       "title": "Интеграция с Webkassa.KZ",
       "type": "articles",
-      "order": 9,
+      "order": 10,
       "updated_at": "2025-05-14",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
@@ -4931,7 +4944,7 @@
       "sha": "66508ec4c1be0b587bfe0412e441cc385f444395",
       "title": "Использование Чека коррекции",
       "type": "articles",
-      "order": 7,
+      "order": 8,
       "updated_at": "2025-03-18",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
@@ -4957,7 +4970,7 @@
       "sha": "40f31d5f83859aa4750dc7df3123b4deec714ff7",
       "title": "Настройка приложения 5S Pay",
       "type": "articles",
-      "order": 8,
+      "order": 9,
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
@@ -4980,7 +4993,7 @@
       "sha": "87eb608c47fb3e814b4dabf0d5fe95f1cca6c47e",
       "title": "Обработка Закрытие кассовой смены",
       "type": "articles",
-      "order": 3,
+      "order": 4,
       "updated_at": "2025-09-10",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
@@ -4993,7 +5006,7 @@
       "sha": "b20bbc155115c88a60e5ae4ee88fc43f97224788",
       "title": "Отражение оплаты через СБП",
       "type": "articles",
-      "order": 4,
+      "order": 5,
       "updated_at": "2025-12-08",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
@@ -5025,7 +5038,7 @@
       "sha": "79f214ff29102149a2d377f97f8452088faa8d70",
       "title": "Режимы печати чеков",
       "type": "articles",
-      "order": 5,
+      "order": 6,
       "updated_at": "2026-01-12",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
@@ -5038,7 +5051,7 @@
       "sha": "83186d7a3813a0ced3c80b2b88932a4c7ac2133c",
       "title": "Упрощенный Фронт кассира",
       "type": "articles",
-      "order": 2,
+      "order": 3,
       "updated_at": "2025-02-25",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
@@ -8271,11 +8284,11 @@
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "file": "spravochnik-oborudovanie.md",
       "id": "spravochnik-oborudovanie",
-      "sha": "98bc2dbfd03d158ed52b00aeae09c9484bf08328",
+      "sha": "4421be8fd41a3190952ab15e5c18863fc251334a",
       "title": "Справочник «Оборудование»",
       "type": "articles",
       "order": 1,
-      "updated_at": "2026-08-25",
+      "updated_at": "2026-09-24",
       "date_kind": "updated",
       "added_at": "2026-08-25T11:27:15+03:00",
       "reading_time": 10
@@ -8729,7 +8742,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Касса",
-          "order": 6
+          "order": 7
         }
       ]
     },
