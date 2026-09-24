@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:02:30+03:00",
+  "generated_at": "2026-09-24T08:56:05+03:00",
   "count": 625,
   "sections": {
     "tips": [
@@ -115,7 +115,15 @@
             "name": "CRM",
             "path": "articles/5S AUTO/CRM",
             "id": "crm",
-            "order": 1
+            "order": 1,
+            "sections": [
+              {
+                "name": "Временно",
+                "path": "articles/5S AUTO/CRM/Временно",
+                "id": null,
+                "order": 22
+              }
+            ]
           },
           {
             "name": "Работа с клиентами",
@@ -4427,11 +4435,11 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Мастер настройки системы",
       "file": "master-nastroyki-sistemy.md",
       "id": "master-nastroyki-sistemy",
-      "sha": "bc0730c13e01c76eda11bb755ad8bdd380d2f32f",
+      "sha": "b86f829d79267f96f9dfc66935febf6d4202bbb4",
       "title": "Мастер настройки системы",
       "type": "articles",
       "order": 20,
-      "updated_at": "2022-06-24",
+      "updated_at": "2026-09-24",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
       "reading_time": 36
@@ -8224,11 +8232,11 @@
       "path": "articles/5S AUTO/CRM/Работа со сделкой",
       "file": "rabota-so-sdelkoy.md",
       "id": "rabota-so-sdelkoy",
-      "sha": "a3c6a3ff002c284925c3af99f47f6ba1d4982a12",
+      "sha": "64ec256b5a0efe662a6c8e12105716fd702b973f",
       "title": "Работа со сделкой",
       "type": "articles",
       "order": 2,
-      "updated_at": "2026-07-28",
+      "updated_at": "2026-09-24",
       "date_kind": "updated",
       "added_at": "2026-08-26T09:04:10+03:00",
       "reading_time": 15
