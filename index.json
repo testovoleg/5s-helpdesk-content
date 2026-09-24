@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T15:20:43+03:00",
-  "count": 626,
+  "generated_at": "2026-09-24T15:39:56+03:00",
+  "count": 627,
   "sections": {
     "tips": [
       {
@@ -719,6 +719,18 @@
       "date_kind": "created",
       "added_at": "2026-09-24T09:59:03+03:00",
       "reading_time": 3
+    },
+    {
+      "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки",
+      "file": "ne-prohodit-proverka-koda-markirovki.md",
+      "id": "ne-prohodit-proverka-koda-markirovki",
+      "sha": "555d19e259175b3e0f76aab50ea7364ba66c701d",
+      "title": "Не проходит проверка кода маркировки",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-24",
+      "date_kind": "created",
+      "added_at": "2026-09-24"
     },
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Отбор номенклатуры по подразделениям",
