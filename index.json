@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:36:35+03:00",
+  "generated_at": "2026-09-24T13:18:10+03:00",
   "count": 626,
   "sections": {
     "tips": [
@@ -4448,7 +4448,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Мастер настройки системы",
       "file": "master-nastroyki-sistemy.md",
       "id": "master-nastroyki-sistemy",
-      "sha": "ac4d7e7fc2aba190e99da2353381d4b600bb88b2",
+      "sha": "3cb0f5052d8ffc5704706922616073b2ab0b7794",
       "title": "Мастер настройки системы",
       "type": "articles",
       "order": 20,
