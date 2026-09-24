@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T09:20:42+03:00",
+  "generated_at": "2026-09-24T09:34:08+03:00",
   "count": 625,
   "sections": {
     "tips": [
@@ -4435,7 +4435,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Мастер настройки системы",
       "file": "master-nastroyki-sistemy.md",
       "id": "master-nastroyki-sistemy",
-      "sha": "e5a58d6e7de83e655ea0d9aaa37b11d39076ecc3",
+      "sha": "a57593ce7df2250961d813cf641136a16e10c43e",
       "title": "Мастер настройки системы",
       "type": "articles",
       "order": 20,
@@ -8232,7 +8232,7 @@
       "path": "articles/5S AUTO/CRM/Работа со сделкой",
       "file": "rabota-so-sdelkoy.md",
       "id": "rabota-so-sdelkoy",
-      "sha": "44a8fb43e2bad908e78ebbce06a365976837885a",
+      "sha": "ccb19e5da2a8dcfe3cb23e28d2d39d82bc060a67",
       "title": "Работа со сделкой",
       "type": "articles",
       "order": 2,
