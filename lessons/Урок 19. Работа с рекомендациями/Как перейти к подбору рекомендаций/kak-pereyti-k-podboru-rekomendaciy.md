@@ -12,15 +12,15 @@
 
 Перейти в окно *"Подбор рекомендаций"* можно из следующих мест в программе:
 
-1. Заказ-наряд:<br><br>
+1. Заказ-наряд:<br>
    ![Рекомендации Подбор из Заказ-наряда](attachments/02-rekomendacii-podbor-iz-zakaz-naryada.png)
-2. Заявка на ремонт:<br><br>
+2. Заявка на ремонт:<br>
    ![Рекомендации Подбор из Заявки на ремонт](attachments/03-rekomendacii-podbor-iz-zayavki-na-remont.png)
-3. Корзина:<br><br>
+3. Корзина:<br>
    ![Рекомендации Подбор из Корзины](attachments/04-rekomendacii-podbor-iz-korziny.png)
-4. Карточка автомобиля:<br><br>
+4. Карточка автомобиля:<br>
    ![Рекомендации Подбор из Карточки автомобиля](attachments/05-rekomendacii-podbor-iz-kartochki-avtomobilya.png)
-5. Сделка:<br><br>
+5. Сделка:<br>
    ![Рекомендации Подбор из Сделки](attachments/06-rekomendacii-podbor-iz-sdelki.png)
 
 ---

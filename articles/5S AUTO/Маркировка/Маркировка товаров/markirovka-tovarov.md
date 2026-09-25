@@ -95,8 +95,8 @@
 
 ***Структура кода маркировки:***
 
-1. Код идентификации:<br><br>
-   ![Маркировка - Пример кода Data Matrix](attachments/04-markirovka-primer-koda-data-matrix.png)<br><br>
+1. Код идентификации:<br>
+   ![Маркировка - Пример кода Data Matrix](attachments/04-markirovka-primer-koda-data-matrix.png)
    **1)** специальный символ, идентификатор применения “01”;<br>
    **2)** GTIN (Global Trade Item Number) – код товара из 14 цифр, который хранится в международной базе [GS1](https://www.gs1ru.org/aboutus/uniscan_gs1rus/) и описывает несколько параметров товара (цвет, страну происхождения, название и т.д.);<br>
    **3)** специальный символ, идентификатор применения “21”;<br>
