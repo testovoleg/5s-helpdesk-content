@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:56:56+03:00",
+  "generated_at": "2026-09-25T15:04:15+03:00",
   "count": 622,
   "sections": {
     "tips": [
@@ -5169,7 +5169,7 @@
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с MotorData",
       "file": "integraciya-s-motordata.md",
       "id": "integraciya-s-motordata",
-      "sha": "b8cb82425d065c108c05f0401561a4ad8a8f02b1",
+      "sha": "8d7c99551c3f4ff152b2585ddd4b9cefbc3ce056",
       "title": "Интеграция с MotorData",
       "type": "articles",
       "order": 15,
