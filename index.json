@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:24:49+03:00",
+  "generated_at": "2026-09-25T10:28:16+03:00",
   "count": 629,
   "sections": {
     "tips": [
@@ -871,12 +871,12 @@
       "path": "tips/5S AUTO/Склад и запчасти/Пропала вкладка «Остатки по ячейкам» в номенклатуре",
       "file": "propala-vkladka-ostatki-po-yacheykam.md",
       "id": "propala-vkladka-ostatki-po-yacheykam",
-      "sha": "a8bc3fdbc01039e756a9c979b6bdf7c356c1a429",
+      "sha": "a4d95c9329cf3adca7ee4fb7f37a1beca93ed5d9",
       "title": "Пропала вкладка «Остатки по ячейкам» в номенклатуре",
       "type": "tips",
       "order": 0,
-      "updated_at": "2026-09-25",
-      "date_kind": "updated",
+      "updated_at": "2026-09-17",
+      "date_kind": "created",
       "added_at": "2026-09-17T10:31:02+03:00"
     },
     {
