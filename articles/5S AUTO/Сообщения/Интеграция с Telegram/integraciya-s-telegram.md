@@ -106,8 +106,7 @@
 - отслеживать информацию о своих бонусных баллах, подтверждать списание и делиться ими через QR-код;
 - вести переписку с сервисом в чате;
 - просматривать и редактировать информацию в своем профиле, выбирать светлую или темную тему.<br><br>
-  ![Telegram - Информация об АМ](attachments/09-telegram-informaciya-ob-am.png) &nbsp;&nbsp; ![Telegram - Предварительная Запись](attachments/10-telegram-predvaritelnaya-zapis.png)<br><br>
-  ![Telegram - Запись на ремонт](attachments/11-telegram-zapis-na-remont.png) &nbsp;&nbsp; ![Telegram - Бонусы](attachments/12-telegram-bonusy.png)
+  ![Telegram - Информация об АМ](attachments/09-telegram-informaciya-ob-am.png) &nbsp;&nbsp; ![Telegram - Предварительная Запись](attachments/10-telegram-predvaritelnaya-zapis.png) &nbsp;&nbsp; ![Telegram - Запись на ремонт](attachments/11-telegram-zapis-na-remont.png) &nbsp;&nbsp; ![Telegram - Бонусы](attachments/12-telegram-bonusy.png)
 
 #### 2) Переписка с клиентами
 

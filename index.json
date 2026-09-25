@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T15:04:15+03:00",
+  "generated_at": "2026-09-25T15:18:40+03:00",
   "count": 622,
   "sections": {
     "tips": [
@@ -5399,7 +5399,7 @@
       "path": "articles/5S AUTO/Сообщения/Интеграция с Telegram",
       "file": "integraciya-s-telegram.md",
       "id": "integraciya-s-telegram",
-      "sha": "99362497cba7fce7f494271ee78885e3f5c0aa55",
+      "sha": "edad32b266cda34d95783f78231a04cf1899b786",
       "title": "Интеграция с Telegram",
       "type": "articles",
       "order": 9,
