@@ -44,7 +44,7 @@
 1. Указать контрагента-субподрядчика,
 2. Добавить услуги по Заказ-нарядам, которые необходимо оприходовать:
 
-![Услуги по субподрядам по нескольким Заказ-нарядам](attachments/08-uslugi-po-subpodryadam-po-neskolkim-zakaz-naryadam.png)
+   ![Услуги по субподрядам по нескольким Заказ-нарядам](attachments/08-uslugi-po-subpodryadam-po-neskolkim-zakaz-naryadam.png)
 
 Подробнее см. [*статью*](../../../articles/5S%20AUTO/Автосервис/Работа%20с%20субподрядами/rabota-s-subpodryadami.md).
 

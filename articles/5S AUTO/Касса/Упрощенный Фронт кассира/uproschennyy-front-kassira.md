@@ -167,7 +167,7 @@
 - форма Фронта кассира *закрывается;*
 - в программе формируется документ “Чек на оплату”:
 
-![Упрощенный Фронт кассира - Принятие оплаты Чек на оплату](attachments/17-uproschennyy-front-kassira-prinyatie-oplaty-chek-na-oplatu.png)
+  ![Упрощенный Фронт кассира - Принятие оплаты Чек на оплату](attachments/17-uproschennyy-front-kassira-prinyatie-oplaty-chek-na-oplatu.png)
 
 ### 7. Кнопка “Отмена”
 
