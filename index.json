@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:59:51+03:00",
+  "generated_at": "2026-09-25T13:22:19+03:00",
   "count": 629,
   "sections": {
     "tips": [
@@ -5463,7 +5463,7 @@
       "path": "articles/5S AUTO/Сообщения/Интеграция с Telegram",
       "file": "integraciya-s-telegram.md",
       "id": "integraciya-s-telegram",
-      "sha": "167cb24fae6659d7834177c7a1a053222df7ee50",
+      "sha": "d7c2291c44759ba5431caac4558bd68be4eb2e18",
       "title": "Интеграция с Telegram",
       "type": "articles",
       "order": 9,
@@ -5567,7 +5567,7 @@
       "path": "articles/5S AUTO/Сообщения/Интеграция с сообществом ВКонтакте (VK)",
       "file": "integraciya-s-soobschestvom-vkontakte-vk.md",
       "id": "integraciya-s-soobschestvom-vkontakte-vk",
-      "sha": "610526642937bc4b0841778e5642c5139fc0b496",
+      "sha": "b1ce1a345b5bb0dd32d51cf179c25859463c4ad5",
       "title": "Интеграция с сообществом ВКонтакте (VK)",
       "type": "articles",
       "order": 5,
