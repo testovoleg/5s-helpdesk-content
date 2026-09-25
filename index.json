@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:52:41+03:00",
+  "generated_at": "2026-09-25T12:00:17+03:00",
   "count": 629,
   "sections": {
     "tips": [
@@ -5233,7 +5233,7 @@
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с MotorData",
       "file": "integraciya-s-motordata.md",
       "id": "integraciya-s-motordata",
-      "sha": "781c7fba322884d1ebca365894bc442f22f6fb65",
+      "sha": "001d2e16d10902611ec7cd5c21bd44b0e426e87f",
       "title": "Интеграция с MotorData",
       "type": "articles",
       "order": 15,
@@ -6546,7 +6546,7 @@
       "path": "articles/5S AUTO/Склад и запчасти/Загрузка накладных поставщиков",
       "file": "zagruzka-nakladnykh-postavschikov.md",
       "id": "zagruzka-nakladnykh-postavschikov",
-      "sha": "7a57163e44aa5a86fafe7ca856ca43d1b3dce37a",
+      "sha": "806fea206fa9b201336913a47178ce98f344afc0",
       "title": "Загрузка накладных поставщиков",
       "type": "articles",
       "order": 21,
@@ -6597,7 +6597,7 @@
       "path": "articles/5S AUTO/Склад и запчасти/Работа с приложением 5S TSD",
       "file": "rabota-s-prilozheniem-5s-tsd.md",
       "id": "rabota-s-prilozheniem-5s-tsd",
-      "sha": "a3eb3c4e47ff9c634c65d93895be679e160adf3f",
+      "sha": "b2ecfac395a5ef08dbf3b08198327bc14b6d5b31",
       "title": "Работа с приложением 5S TSD",
       "type": "articles",
       "order": 18,
