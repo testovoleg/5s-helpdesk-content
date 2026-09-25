@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:15:37+03:00",
+  "generated_at": "2026-09-25T08:52:02+03:00",
   "count": 628,
   "sections": {
     "tips": [
@@ -711,7 +711,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/При загрузке поступления из СБИС подставляется не тот склад",
       "file": "pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad.md",
       "id": "pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad",
-      "sha": "19a8c2e82a71dbdbc9cb93d82225827ca823deaf",
+      "sha": "4201770595591f1170e376b40b97f777e93cab76",
       "title": "При загрузке поступления из СБИС подставляется не тот склад",
       "type": "tips",
       "order": 0,
@@ -8345,7 +8345,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Как задать склад по умолчанию для организации",
       "file": "kak-zadat-sklad-po-umolchaniyu.md",
       "id": "kak-zadat-sklad-po-umolchaniyu",
-      "sha": "faa80a238cbeb562339099bdfd38652a50d6161b",
+      "sha": "8fbbbca447585f13207180ca6f332ff3bc36f408",
       "title": "Как задать склад по умолчанию для организации",
       "type": "tips",
       "order": 0,
