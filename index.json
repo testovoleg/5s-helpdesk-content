@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:32:19+03:00",
+  "generated_at": "2026-09-25T11:42:02+03:00",
   "count": 629,
   "sections": {
     "tips": [
@@ -6624,7 +6624,7 @@
       "path": "articles/5S AUTO/Склад и запчасти/Интерфейс для ТСД",
       "file": "interfeys-dlya-tsd.md",
       "id": "interfeys-dlya-tsd",
-      "sha": "511f3b55c9d3d862468215cf5d1961f3324549eb",
+      "sha": "79ba446bd3168b26cf4c2e2191d368d763a54caa",
       "title": "Интерфейс для ТСД",
       "type": "articles",
       "order": 17,
