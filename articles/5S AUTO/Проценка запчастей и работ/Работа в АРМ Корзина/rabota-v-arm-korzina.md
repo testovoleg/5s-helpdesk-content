@@ -58,7 +58,7 @@
 | --- | --- |
 | ![Поиск клиента и автомобиля](attachments/btn-poisk-klienta.png) | Открывает форму поиска клиентов и автомобилей |
 | ![История обращений](attachments/btn-istoriya-obrashcheniy.png) | Открывает форму со списком всех сохраненных корзин |
-| ![Клиент](attachments/btn-klient.png) | Открывает меню действий с пунктами:<br><br>![Меню действий по клиенту](attachments/04-menyu-deystviy-po-klientu.png) |
+| ![Клиент](attachments/btn-klient.png) | Открывает меню действий с пунктами:<br><img src="attachments/04-menyu-deystviy-po-klientu.png" alt="Меню действий по клиенту" style="margin-top: 8px" /> |
 | ![Загрузить Корзину](attachments/btn-zagruzit-korzinu.png) | Открывает форму выбора корзины |
 | ![Создание контрагента](attachments/btn-sozdanie-kontragenta.png) | Открывает форму быстрого ввода контрагента |
 | ![Согласие на обработку данных](attachments/btn-soglasie.png) | Устанавливает и отображает согласие на обработку персональных данных |
