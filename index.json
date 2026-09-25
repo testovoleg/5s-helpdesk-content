@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:09:13+03:00",
+  "generated_at": "2026-09-25T10:13:57+03:00",
   "count": 622,
   "sections": {
     "tips": [
@@ -6378,7 +6378,7 @@
       "path": "articles/5S AUTO/Ценообразование/Настройка скидок",
       "file": "nastroyka-skidok.md",
       "id": "nastroyka-skidok",
-      "sha": "054e090f4146168b03238a916c61c3758c33c288",
+      "sha": "01b6019fe8cd03f19ca77a3df594e9186d78a866",
       "title": "Настройка скидок",
       "type": "articles",
       "order": 2,
