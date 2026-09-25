@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:06:57+03:00",
+  "generated_at": "2026-09-25T11:28:13+03:00",
   "count": 622,
   "sections": {
     "tips": [
@@ -5137,7 +5137,7 @@
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с ABCP",
       "file": "integraciya-s-abcp.md",
       "id": "integraciya-s-abcp",
-      "sha": "255eb06781e8d0044218ad6e637a6e7ede0e8070",
+      "sha": "96c9cc3f17a958b7c1a6a52e5571877b828e512a",
       "title": "Интеграция с ABCP",
       "type": "articles",
       "order": 8,
