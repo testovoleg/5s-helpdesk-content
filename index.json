@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T08:58:58+03:00",
-  "count": 628,
+  "generated_at": "2026-09-25T09:23:04+03:00",
+  "count": 629,
   "sections": {
     "tips": [
       {
@@ -708,6 +708,18 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Склад и запчасти/При заполнении инвентаризации по ячейкам хранения попадают не все товары",
+      "file": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary.md",
+      "id": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary",
+      "sha": "084f003cbe01dd271e4c4d22d349fe2532ed1fc6",
+      "title": "При заполнении инвентаризации по ячейкам хранения попадают не все товары",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-25",
+      "date_kind": "created",
+      "added_at": "2026-09-25"
+    },
+    {
       "path": "tips/5S AUTO/Склад и запчасти/При загрузке поступления из СБИС подставляется не тот склад",
       "file": "pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad.md",
       "id": "pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad",
@@ -859,12 +871,12 @@
       "path": "tips/5S AUTO/Склад и запчасти/Пропала вкладка «Остатки по ячейкам» в номенклатуре",
       "file": "propala-vkladka-ostatki-po-yacheykam.md",
       "id": "propala-vkladka-ostatki-po-yacheykam",
-      "sha": "4804aa60fac44b73be0d4232a9bcf6dec8a56547",
+      "sha": "a8bc3fdbc01039e756a9c979b6bdf7c356c1a429",
       "title": "Пропала вкладка «Остатки по ячейкам» в номенклатуре",
       "type": "tips",
       "order": 0,
-      "updated_at": "2026-09-17",
-      "date_kind": "created",
+      "updated_at": "2026-09-25",
+      "date_kind": "updated",
       "added_at": "2026-09-17T10:31:02+03:00"
     },
     {
