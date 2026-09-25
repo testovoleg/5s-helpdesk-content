@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T13:27:33+03:00",
+  "generated_at": "2026-09-25T13:54:21+03:00",
   "count": 629,
   "sections": {
     "tips": [
@@ -943,7 +943,7 @@
       "path": "tips/5S AUTO/Практики/Как настроить права для компании с несколькими подразделениями",
       "file": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami.md",
       "id": "osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami",
-      "sha": "c3434da050b0178dfd1a22c93c9438721b82a0ec",
+      "sha": "3f86970b49bf3ac51f1183acde3c08d14932ed3e",
       "title": "Как настроить права для компании с несколькими подразделениями",
       "type": "tips",
       "order": 6,
@@ -1904,7 +1904,7 @@
       "path": "lessons/Урок 14. Скидки и бонусы/Как настроить бонусную систему",
       "file": "kak-nastroit-bonusnuyu-sistemu.md",
       "id": "kak-nastroit-bonusnuyu-sistemu",
-      "sha": "0f96c7ef11eb3faf3433618c56dd6eb9b6db6120",
+      "sha": "baab0fcbf1a4159779966184d8cd2edd440e38d7",
       "title": "Как настроить бонусную систему",
       "type": "lessons",
       "order": 5,
@@ -5424,7 +5424,7 @@
       "path": "articles/5S AUTO/Бонусная система/Настройка бонусной системы",
       "file": "nastroyka-bonusnoy-sistemy.md",
       "id": "nastroyka-bonusnoy-sistemy",
-      "sha": "5dc0fe2f2945ae1b482e568e44f4fef0f9f07516",
+      "sha": "c0708eb856b143a12cecfc8c74751cb6b23e3d90",
       "title": "Настройка бонусной системы",
       "type": "articles",
       "order": 2,
