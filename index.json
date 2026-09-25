@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:55:03+03:00",
+  "generated_at": "2026-09-25T08:55:25+03:00",
   "count": 622,
   "sections": {
     "tips": [
@@ -717,7 +717,7 @@
       "order": 0,
       "updated_at": "2026-09-25",
       "date_kind": "created",
-      "added_at": "2026-09-25"
+      "added_at": "2026-09-25T08:54:43+03:00"
     },
     {
       "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки",
@@ -8293,7 +8293,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Как задать склад по умолчанию для организации",
       "file": "kak-zadat-sklad-po-umolchaniyu.md",
       "id": "kak-zadat-sklad-po-umolchaniyu",
-      "sha": "faa80a238cbeb562339099bdfd38652a50d6161b",
+      "sha": "8fbbbca447585f13207180ca6f332ff3bc36f408",
       "title": "Как задать склад по умолчанию для организации",
       "type": "tips",
       "order": 0,
