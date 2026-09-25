@@ -17,9 +17,9 @@
 1. Быть зарегистрированным на сайте поставщика (forum-auto.ru).
 2. Отправить заявку на подключение в разделе "Веб-сервисы" личного кабинета.
 
-![Веб-сервис Forum-AUTO - ЛК](attachments/01-veb-servis-forum-auto-lk.png)
+   ![Веб-сервис Forum-AUTO - ЛК](attachments/01-veb-servis-forum-auto-lk.png)
 
-![Веб-сервис Forum-AUTO - ЛК - ответ](attachments/02-veb-servis-forum-auto-lk-otvet.png)
+   ![Веб-сервис Forum-AUTO - ЛК - ответ](attachments/02-veb-servis-forum-auto-lk-otvet.png)
 
 *Внимание!* Веб-сервисы имеют минутные ограничения по количеству запросов.
 
