@@ -19,7 +19,10 @@
 - [Реализация товара с маркировкой](https://rarus.ru/publications/20200122-realizatsiya-tovara-s-markirovkoy-412295/)<br>
   ⇨ Ссылка на скачивание файла: [ЗаполнениеУчетаМаркировкиВТипахНоменклатуры.zip](attachments/zapolnenieuchetamarkirovkivtipahnomenklatury.zip)
 - Обновленная документация 2021:
-  - Методические материалы (Руководство пользователя): [Том 1](attachments/tom-1.pdf), [Том 2](attachments/tom-2.pdf), [Том 3](attachments/tom-3.pdf)
+  - Методические материалы (Руководство пользователя):
+    - [Том 1](attachments/tom-1.pdf)
+    - [Том 2](attachments/tom-2.pdf)
+    - [Том 3](attachments/tom-3.pdf)
   - [Инструкция: Учет прослеживаемых товаров в Альфа-Авто ред.5](attachments/instrukciya-uchet-proslezhivaemyh-tovarov-v-alfa-avto-red-5.docx)
   - Обработка Получение РНПТ для прослеживаемых товаров на остатках:<br>
     предназначена для использования на релизе 5.1.27.04.<br>

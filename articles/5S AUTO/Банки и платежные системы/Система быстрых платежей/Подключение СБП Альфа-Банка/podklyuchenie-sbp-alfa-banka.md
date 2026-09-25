@@ -95,7 +95,10 @@
 
 Для самостоятельного тестирования см. [документацию](https://developers.alfabank.ru/products/alfa-api/documentation/articles/sbp/articles/sbp-c2b/articles/cash-qrc-registration/v1/cash-qrc-registration?navFilter=b2c), а также коллекцию запросов postman:
 
-- [файл](attachments/kollekciya-zaprosov-postman-dlya-testirovaniya-integracii-alfa.zip) (требуется распаковать);
+- файл (требуется распаковать):
+
+  [Коллекция запросов postman для тестирования интеграции Alfa](attachments/kollekciya-zaprosov-postman-dlya-testirovaniya-integracii-alfa.zip) (.zip, 9 КБ)
+
 - [публикация](https://s.5systems.ru/JjcQWHmK).
 
 После завершения тестирования необходимо в продолжение переписки по заявке *сообщить* специалистам банка *о завершении тестирования.*
