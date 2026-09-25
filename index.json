@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T13:54:49+03:00",
+  "generated_at": "2026-09-25T13:58:09+03:00",
   "count": 622,
   "sections": {
     "tips": [
@@ -2596,7 +2596,7 @@
       "path": "lessons/Урок 3. Клиенты и автомобили/Как работать со справочником «Контрагенты и контакты»",
       "file": "kontragenty-i-kontakty.md",
       "id": "kontragenty-i-kontakty",
-      "sha": "01d4db70489c84d34279d6e3dbebcf09423cc603",
+      "sha": "6bcc5660f3367f0cf19f449d5e6b4516faccacf6",
       "title": "Как работать со справочником «Контрагенты и контакты»",
       "type": "lessons",
       "order": 0,
@@ -7466,7 +7466,7 @@
       "path": "articles/5S AUTO/Запись на ремонт/Календарь для планирования работ",
       "file": "kalendar-dlya-planirovaniya-rabot.md",
       "id": "kalendar-dlya-planirovaniya-rabot",
-      "sha": "7f22b8a6769db9f4dc4528ba82242587b9104d28",
+      "sha": "0cedd698cda3e43fafe73b57082255bb8c71a499",
       "title": "Календарь для планирования работ",
       "type": "articles",
       "order": 1,
