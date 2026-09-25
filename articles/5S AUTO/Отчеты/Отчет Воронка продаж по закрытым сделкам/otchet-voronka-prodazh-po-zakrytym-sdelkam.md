@@ -120,7 +120,7 @@
 4. выбрать тип диаграммы,
 5. при необходимости задать другие нужные настройки и нажать кнопку "Сформировать":
 
-![Воронка продаж по закрытым сделкам - Причины отказов - График](attachments/07-voronka-prodazh-po-zakrytym-sdelkam-prichiny-otkazov-grafik.png)
+   ![Воронка продаж по закрытым сделкам - Причины отказов - График](attachments/07-voronka-prodazh-po-zakrytym-sdelkam-prichiny-otkazov-grafik.png)
 
 ---
 
