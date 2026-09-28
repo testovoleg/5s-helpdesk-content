@@ -175,12 +175,16 @@
 
 #### Пиктограммы товарной позиции
 
+<div style="display: inline-block; max-width: 100%">
+
 | Отображение | Описание |
 | --- | --- |
 | ![Оригинальный артикул](attachments/ico-original.png) | Оригинальный артикул |
 | ![Группа аналогов](attachments/ico-gruppa-analogov.png) | Группа аналогов |
 | ![Аналог из онлайн каталога](attachments/ico-analog-onlayn.png) | Аналог из онлайн каталога Laximo |
 | ![Аналог от Веб-поставщиков](attachments/ico-analog-veb.png) | Аналог от Веб-поставщиков |
+
+</div>
 
 ### Меню действий
 

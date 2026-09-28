@@ -34,7 +34,7 @@ API 5S AUTO представляет собой набор шлюзов, раб�
 
 В состав API 5S AUTO входят более 50 специализированных шлюзов. С некоторыми из них можно взаимодействовать напрямую пользователям:
 
-<table><tr><td><b>Шлюз</b></td><td><b>Документация</b></td><td><b>Swagger</b><br> (для тестирования)</td></tr><tr><td>Export API</td><td><a href="https://api.5systems.ru/export/v1/doc">Doc</a></td><td><a href="https://api.5systems.ru/export/v1/swagger/index.html">Swagger</a></td></tr><tr><td>Auth API</td><td><a href="https://api.5systems.ru/auth/v1/doc#tag/OpenID-Connect/paths/~1oidc~1login/post">Doc</a></td><td><a href="https://api.5systems.ru/auth/v1/swagger/index.html">Swagger</a></td></tr><tr><td>5S Dataset Api</td><td><a href="https://api.5systems.ru/Dataset/v1/doc">Doc</a></td><td><a href="https://api.5systems.ru/dataset/v1/swagger/index.html">Swagger</a></td></tr></table>
+<div style="display: inline-block; max-width: 100%"><table><tr><td><b>Шлюз</b></td><td><b>Документация</b></td><td><b>Swagger</b><br> (для тестирования)</td></tr><tr><td>Export API</td><td><a href="https://api.5systems.ru/export/v1/doc">Doc</a></td><td><a href="https://api.5systems.ru/export/v1/swagger/index.html">Swagger</a></td></tr><tr><td>Auth API</td><td><a href="https://api.5systems.ru/auth/v1/doc#tag/OpenID-Connect/paths/~1oidc~1login/post">Doc</a></td><td><a href="https://api.5systems.ru/auth/v1/swagger/index.html">Swagger</a></td></tr><tr><td>5S Dataset Api</td><td><a href="https://api.5systems.ru/Dataset/v1/doc">Doc</a></td><td><a href="https://api.5systems.ru/dataset/v1/swagger/index.html">Swagger</a></td></tr></table></div>
 
 ## Настройка
 
