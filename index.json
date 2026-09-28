@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:04:27+03:00",
+  "generated_at": "2026-09-28T11:05:41+03:00",
   "count": 622,
   "sections": {
     "tips": [
@@ -5681,7 +5681,7 @@
       "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков/Armtek (Армтек)",
       "file": "nastroyka-veb-servisa-armtek-armtek.md",
       "id": "nastroyka-veb-servisa-armtek-armtek",
-      "sha": "35cc492fc82c1f0c5425fe0b581039b1a7265eae",
+      "sha": "88e3eb7dea93ecf3d79e9841cdf21084d8bd0af1",
       "title": "Настройка Веб-сервиса Armtek (Армтек)",
       "type": "articles",
       "order": 5,
