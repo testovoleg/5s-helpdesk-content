@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:55:44+03:00",
+  "generated_at": "2026-09-28T14:57:09+03:00",
   "count": 625,
   "sections": {
     "tips": [
@@ -8517,7 +8517,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
       "file": "udalenie-starykh-dannykh.md",
       "id": "udalenie-starykh-dannykh",
-      "sha": "3ec88564c77cdac9caf61d96d003323d9daf6446",
+      "sha": "d18889972f1e00154f5e14aca1d72d53f9e2e1bb",
       "title": "Удаление старых данных программы",
       "type": "articles",
       "order": 24,
