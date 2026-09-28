@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T13:39:39+03:00",
-  "count": 629,
+  "generated_at": "2026-09-28T13:41:35+03:00",
+  "count": 630,
   "sections": {
     "tips": [
       {
@@ -109,7 +109,15 @@
             "name": "Полезное",
             "path": "articles/5S AUTO/Полезное",
             "id": "poleznoe",
-            "order": 0
+            "order": 0,
+            "sections": [
+              {
+                "name": "Релизы",
+                "path": "articles/5S AUTO/Полезное/Релизы",
+                "id": "relizy",
+                "order": 0
+              }
+            ]
           },
           {
             "name": "CRM",
@@ -699,6 +707,19 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
+      "file": "reliz-5s-auto-2-8-5.md",
+      "id": "reliz-5s-auto-2-8-5",
+      "sha": "082cdc8094826be14158f675f1b41ed126a39053",
+      "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2026-09-28",
+      "date_kind": "created",
+      "added_at": "2026-09-28",
+      "reading_time": 4
+    },
     {
       "path": "tips/5S AUTO/Склад и запчасти/При заполнении инвентаризации по ячейкам хранения попадают не все товары",
       "file": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary.md",
@@ -3474,7 +3495,7 @@
       "sha": "8b6688ca261664e4da39f33bdf6b1bb88fca23a9",
       "title": "Обучающие видеоролики",
       "type": "articles",
-      "order": 2,
+      "order": 3,
       "updated_at": "2024-09-17",
       "date_kind": "updated",
       "added_at": "2026-09-10T16:22:20+03:00",
@@ -3530,7 +3551,7 @@
       "sha": "03e1b0e000920cf10e5d0f23ddd7a4cf38cc934e",
       "title": "Последние добавленные статьи",
       "type": "articles",
-      "order": 0,
+      "order": 1,
       "updated_at": "2026-09-10",
       "date_kind": "updated",
       "added_at": "2026-09-10T14:32:29+03:00"
@@ -3542,7 +3563,7 @@
       "sha": "2588833a16306e2493d69def6fd47b90d4148ea8",
       "title": "Уроки по системе \"5S AUTO\"",
       "type": "articles",
-      "order": 1,
+      "order": 2,
       "updated_at": "2025-12-29",
       "date_kind": "updated",
       "added_at": "2026-09-10T14:32:29+03:00"
