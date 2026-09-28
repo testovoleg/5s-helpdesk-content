@@ -190,7 +190,7 @@
 
 ![Маркировка - Подключение - Токен](attachments/16-markirovka-podklyuchenie-token.png)
 
-> [!WARNING]
+> [!IMPORTANT]
 > Токен обновляется на 8 часов – это срок его действия.
 
 ***Через программу***
