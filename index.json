@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:15:59+03:00",
+  "generated_at": "2026-09-28T10:31:42+03:00",
   "count": 629,
   "sections": {
     "tips": [
@@ -4651,7 +4651,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Создание и редактирование пользователей 5S Cloud",
       "file": "sozdanie-i-redaktirovanie-polzovateley-5s-cloud.md",
       "id": "sozdanie-i-redaktirovanie-polzovateley-5s-cloud",
-      "sha": "8a4f6f709a64cf70c00fd884116afb25d9c7b916",
+      "sha": "1ec4d234706472cab66e26826e96ce9c369a0df5",
       "title": "Создание и редактирование пользователей 5S Cloud",
       "type": "articles",
       "order": 18,
@@ -4917,7 +4917,7 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП T-Банка",
       "file": "podklyuchenie-sbp-t-banka.md",
       "id": "podklyuchenie-sbp-t-banka",
-      "sha": "223b37a7eb81946af244da9e95c68e5496003a61",
+      "sha": "b98f3acc2c835f1b681aa11e6f49f7028fc8a2fd",
       "title": "Подключение СБП T-Банка",
       "type": "articles",
       "order": 2,
