@@ -37,7 +37,7 @@
 <div style="display: inline-block; max-width: 100%">
 
 | Кнопка | Описание |
-| --- | --- |
+| :---: | --- |
 | **Отборы** | |
 | ![Отбор по текущему](attachments/btn-otbor-po-tekushchemu.png) | Отбор по значению в текущей колонке |
 | ![Снять отбор](attachments/btn-snyat-otbor.png) | Отключить отбор |

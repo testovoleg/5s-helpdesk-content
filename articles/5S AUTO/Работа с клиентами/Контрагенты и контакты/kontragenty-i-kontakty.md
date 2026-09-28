@@ -33,7 +33,7 @@
 <div style="display: inline-block; max-width: 100%">
 
 | Кнопка | Описание |
-| --- | --- |
+| :---: | --- |
 | ![Добавить](attachments/btn-dobavit.png) | **Добавить** — создать новую карточку контрагента |
 | ![Добавить группу](attachments/btn-dobavit-gruppu.png) | **Добавить группу** — создать папку для группировки списка |
 | ![Добавить копированием](attachments/btn-dobavit-kopirovaniem.png) | **Добавить новый элемент копированием** |
