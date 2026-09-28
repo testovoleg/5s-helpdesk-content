@@ -1,6 +1,6 @@
 # Мастер настройки системы
 
-<table><tr><td><b>Время чтения:</b> 36 мин.</td><td><b>Обновлено:</b> 24.09.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 36 мин.</td><td><b>Обновлено:</b> 28.09.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/master-nastroyki-sistemy</sub>
 
