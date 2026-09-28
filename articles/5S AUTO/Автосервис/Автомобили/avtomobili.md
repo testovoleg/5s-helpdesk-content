@@ -31,7 +31,7 @@
 <div style="display: inline-block; max-width: 100%">
 
 | Кнопка | Описание |
-| --- | --- |
+| :---: | --- |
 | ![Кнопка Добавить](attachments/btn-dobavit.png) | Добавить: создать новую карточку автомобиля |
 | ![Кнопка Добавить группу](attachments/btn-dobavit-gruppu.png) | Добавить группу: создать папку для группировки списка |
 | ![Кнопка Добавить копированием](attachments/btn-dobavit-kopirovaniem.png) | Добавить новый элемент копированием |

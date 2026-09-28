@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:14:22+03:00",
+  "generated_at": "2026-09-28T10:16:26+03:00",
   "count": 622,
   "sections": {
     "tips": [
@@ -7289,7 +7289,7 @@
       "path": "articles/5S AUTO/Автосервис/Автоработы",
       "file": "avtoraboty.md",
       "id": "avtoraboty",
-      "sha": "a11be6221db01e9665075cda5dbdf3d40b02bfd8",
+      "sha": "3f71726d8c6ecbc8b8b73cf242635a27ae34763a",
       "title": "Автоработы",
       "type": "articles",
       "order": 3,
@@ -7328,7 +7328,7 @@
       "path": "articles/5S AUTO/Автосервис/Автомобили",
       "file": "avtomobili.md",
       "id": "avtomobili",
-      "sha": "59fb01fcca279b866d461cfe4e4921b4481cfee7",
+      "sha": "df644c9f97258b0d2a1b79f520a5fda574991176",
       "title": "Автомобили",
       "type": "articles",
       "order": 0,
@@ -7853,7 +7853,7 @@
       "path": "articles/5S AUTO/Работа с клиентами/Лента событий",
       "file": "lenta-sobytiy.md",
       "id": "lenta-sobytiy",
-      "sha": "7a203e6d8716a7b45e125f808440b697b91d0b6c",
+      "sha": "b4abe063f4db8fc0e29b2dc33d6aa7134b0d62ec",
       "title": "Лента событий",
       "type": "articles",
       "order": 7,
@@ -7944,7 +7944,7 @@
       "path": "articles/5S AUTO/Работа с клиентами/Контрагенты и контакты",
       "file": "kontragenty-i-kontakty.md",
       "id": "kontragenty-i-kontakty",
-      "sha": "ec8b6c365bb05d60190100113447ac6f106f8a44",
+      "sha": "d5ba4570a2a3461bb4901cf6a35dc12ecfb5a443",
       "title": "Контрагенты и контакты",
       "type": "articles",
       "order": 0,
