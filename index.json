@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:58:17+03:00",
+  "generated_at": "2026-09-28T13:38:07+03:00",
   "count": 622,
   "sections": {
     "tips": [
@@ -4762,11 +4762,11 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Автоматическая загрузка банковских выписок",
       "file": "avtomaticheskaya-zagruzka-bankovskikh-vypisok.md",
       "id": "avtomaticheskaya-zagruzka-bankovskikh-vypisok",
-      "sha": "be8bfe23b80f6eeea31b946704e2999d49dc0e96",
+      "sha": "c1a8c4d090cab962ea4414c0dc97a3998118e03b",
       "title": "Автоматическая загрузка банковских выписок",
       "type": "articles",
       "order": 1,
-      "updated_at": "2025-06-24",
+      "updated_at": "2026-09-18",
       "date_kind": "updated",
       "added_at": "2026-09-07T15:49:53+03:00",
       "reading_time": 12
@@ -4830,7 +4830,7 @@
       "sha": "46b3d3e75f9782cc042efd5cd328b9c4522fc406",
       "title": "Печать QR-кода для оплаты",
       "type": "articles",
-      "order": 5,
+      "order": 6,
       "updated_at": "2025-04-25",
       "date_kind": "updated",
       "added_at": "2026-09-07T15:49:53+03:00",
@@ -4879,11 +4879,11 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Работа с СБП",
       "file": "rabota-s-sbp.md",
       "id": "rabota-s-sbp",
-      "sha": "c7c169494d7c9e9157872473bc1697c674eb49b5",
+      "sha": "5f1a99f3fcd8983d72316fa789471a8d1381008d",
       "title": "Работа с СБП",
       "type": "articles",
       "order": 0,
-      "updated_at": "2026-05-07",
+      "updated_at": "2026-09-18",
       "date_kind": "updated",
       "added_at": "2026-09-07T15:49:53+03:00",
       "reading_time": 24
@@ -4895,7 +4895,7 @@
       "sha": "b40888c19770ac6fdb39815897f718d5e029652a",
       "title": "Интеграция с Webkassa.KZ",
       "type": "articles",
-      "order": 9,
+      "order": 10,
       "updated_at": "2025-05-14",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
@@ -4908,7 +4908,7 @@
       "sha": "7bdc1a0f03b5c8d6de643377e0e69386e9708335",
       "title": "Использование Чека коррекции",
       "type": "articles",
-      "order": 7,
+      "order": 8,
       "updated_at": "2025-03-18",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
@@ -4934,7 +4934,7 @@
       "sha": "f1ae11cac06419f7cb8ea45f80c8561bd64f7f84",
       "title": "Настройка приложения 5S Pay",
       "type": "articles",
-      "order": 8,
+      "order": 9,
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
@@ -4957,7 +4957,7 @@
       "sha": "744845d48d809f7849c37679a34de72c31ca774c",
       "title": "Обработка Закрытие кассовой смены",
       "type": "articles",
-      "order": 3,
+      "order": 4,
       "updated_at": "2025-09-10",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
@@ -4970,7 +4970,7 @@
       "sha": "3bcf3a036ad3ea9645a68e3701b27cde5116b1e3",
       "title": "Отражение оплаты через СБП",
       "type": "articles",
-      "order": 4,
+      "order": 5,
       "updated_at": "2025-12-08",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
@@ -4978,7 +4978,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей",
-          "order": 4
+          "order": 5
         }
       ]
     },
@@ -5002,7 +5002,7 @@
       "sha": "c9b2b815bd76fc9d703ceaf1c84a93f6d7f478e6",
       "title": "Режимы печати чеков",
       "type": "articles",
-      "order": 5,
+      "order": 6,
       "updated_at": "2026-01-12",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
@@ -5015,7 +5015,7 @@
       "sha": "de0ca42a34f2706b32ae966016a12ffb9dc39d2e",
       "title": "Упрощенный Фронт кассира",
       "type": "articles",
-      "order": 2,
+      "order": 3,
       "updated_at": "2025-02-25",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
@@ -8248,11 +8248,11 @@
       "path": "articles/5S AUTO/Торговое оборудование/Справочник Оборудование",
       "file": "spravochnik-oborudovanie.md",
       "id": "spravochnik-oborudovanie",
-      "sha": "9224a0e7b97c4b0d4f7b269bd976d84efce485b4",
+      "sha": "7b300c2dd03449d4b2a5f2f8151f467a83f564af",
       "title": "Справочник «Оборудование»",
       "type": "articles",
       "order": 1,
-      "updated_at": "2026-08-25",
+      "updated_at": "2026-09-24",
       "date_kind": "updated",
       "added_at": "2026-08-25T11:27:15+03:00",
       "reading_time": 10
@@ -8297,7 +8297,7 @@
       "path": "tips/Оборудование/Кассы ККМ/Как задать кассира по умолчанию для печати чеков",
       "file": "kak-zadat-kassira-po-umolchaniyu.md",
       "id": "kak-zadat-kassira-po-umolchaniyu",
-      "sha": "13ced70d37b0046a881e9ed66b26f6597823db85",
+      "sha": "bb988351525ee46ec18735442e7d85000515f545",
       "title": "Как задать кассира по умолчанию для печати чеков",
       "type": "tips",
       "order": 0,
@@ -8682,7 +8682,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Касса",
-          "order": 6
+          "order": 7
         }
       ]
     },
