@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:28:30+03:00",
+  "generated_at": "2026-09-28T16:34:08+03:00",
   "count": 631,
   "sections": {
     "tips": [
@@ -708,19 +708,6 @@
   },
   "materials": [
     {
-      "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
-      "file": "reliz-5s-auto-2-8-5.md",
-      "id": "reliz-5s-auto-2-8-5",
-      "sha": "05b592d92ad8a5f022be731c310863ed8a3caf72",
-      "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2026-09-28",
-      "date_kind": "updated",
-      "added_at": "2026-09-28T13:41:15+03:00",
-      "reading_time": 4
-    },
-    {
       "path": "articles/5S AUTO/Автосервис/Работа с приложением 5S Remzona",
       "file": "rabota-s-prilozheniem-5s-remzona.md",
       "id": "rabota-s-prilozheniem-5s-remzona",
@@ -730,7 +717,7 @@
       "order": 17,
       "updated_at": "2026-09-28",
       "date_kind": "created",
-      "added_at": "2026-09-28",
+      "added_at": "2026-09-28T16:28:09+03:00",
       "reading_time": 8,
       "also_in": [
         {
@@ -738,6 +725,19 @@
           "order": 0
         }
       ]
+    },
+    {
+      "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
+      "file": "reliz-5s-auto-2-8-5.md",
+      "id": "reliz-5s-auto-2-8-5",
+      "sha": "a424fe70b2b2c4a56db8b286223e08ff1c3ff105",
+      "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2026-09-28",
+      "date_kind": "updated",
+      "added_at": "2026-09-28T13:41:15+03:00",
+      "reading_time": 4
     },
     {
       "path": "tips/5S AUTO/Склад и запчасти/При заполнении инвентаризации по ячейкам хранения попадают не все товары",
@@ -792,7 +792,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Отбор номенклатуры по подразделениям",
       "file": "otbor-nomenklatury-po-podrazdeleniyam.md",
       "id": "otbor-nomenklatury-po-podrazdeleniyam",
-      "sha": "5b1da931485f85b2cbded6ef8d1124a9cd4f6820",
+      "sha": "8fe9858d0a7e6c6a66784251a2b3ebf1d411d618",
       "title": "Отбор номенклатуры по подразделениям",
       "type": "articles",
       "order": 11,
