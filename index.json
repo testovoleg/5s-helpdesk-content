@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T16:20:41+03:00",
-  "count": 630,
+  "generated_at": "2026-09-28T16:28:30+03:00",
+  "count": 631,
   "sections": {
     "tips": [
       {
@@ -159,7 +159,7 @@
                 "name": "Ремонт агрегатов",
                 "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов",
                 "id": "remont-agregatov",
-                "order": 21
+                "order": 22
               }
             ]
           },
@@ -711,7 +711,7 @@
       "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "3d3d4c5a49c8bad28bd972b19fcc410281e3eecd",
+      "sha": "05b592d92ad8a5f022be731c310863ed8a3caf72",
       "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
       "type": "articles",
       "order": 0,
@@ -719,6 +719,25 @@
       "date_kind": "updated",
       "added_at": "2026-09-28T13:41:15+03:00",
       "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с приложением 5S Remzona",
+      "file": "rabota-s-prilozheniem-5s-remzona.md",
+      "id": "rabota-s-prilozheniem-5s-remzona",
+      "sha": "3674ee4f9a736b93b4b65ea3a0450497e6a44152",
+      "title": "Работа с приложением 5S Remzona",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2026-09-28",
+      "date_kind": "created",
+      "added_at": "2026-09-28",
+      "reading_time": 8,
+      "also_in": [
+        {
+          "path": "articles/5S Remzona",
+          "order": 0
+        }
+      ]
     },
     {
       "path": "tips/5S AUTO/Склад и запчасти/При заполнении инвентаризации по ячейкам хранения попадают не все товары",
@@ -7014,7 +7033,7 @@
       "sha": "5f92466ef11f1d0368562676c96c47ddd1632414",
       "title": "Корректировка пробега автомобиля",
       "type": "articles",
-      "order": 20,
+      "order": 21,
       "updated_at": "2024-09-16",
       "date_kind": "updated",
       "added_at": "2026-09-01T17:13:55+03:00",
@@ -7027,7 +7046,7 @@
       "sha": "f0cb15a885b09884f39f5a7b09ebc3c35faeaee5",
       "title": "Установка норм времени по моделям двигателей и КПП",
       "type": "articles",
-      "order": 19,
+      "order": 20,
       "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-01T17:06:58+03:00",
@@ -7040,7 +7059,7 @@
       "sha": "419ed5d5fc6a026ac73accbcb64f5bc8407c60a1",
       "title": "Модели двигателей и КПП",
       "type": "articles",
-      "order": 18,
+      "order": 19,
       "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-01T17:01:23+03:00",
@@ -7053,7 +7072,7 @@
       "sha": "175ccdc540a95555c1edb347d99e9599dba8bf00",
       "title": "Сводный акт",
       "type": "articles",
-      "order": 17,
+      "order": 18,
       "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-01T16:53:39+03:00",
