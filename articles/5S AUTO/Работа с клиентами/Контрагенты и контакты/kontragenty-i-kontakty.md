@@ -30,6 +30,8 @@
 
 Кнопки панели управления:
 
+<div style="display: inline-block; max-width: 100%">
+
 | Кнопка | Описание |
 | --- | --- |
 | ![Добавить](attachments/btn-dobavit.png) | **Добавить** — создать новую карточку контрагента |
@@ -46,6 +48,8 @@
 | ![Панель информации](attachments/btn-panel-informacii.png) | **Отобразить/скрыть панель информации** |
 | ![Поиск](attachments/btn-poisk.png) | **Поиск** по справочнику |
 | ![Печать](attachments/btn-pechat.png) | **Вывод на печать** |
+
+</div>
 
 ## Карточка контрагента
 

@@ -69,7 +69,7 @@ Regsvr32 SBRFCOM.dll
 
 Примерный текст. Номер порта тут должен соответствовать номеру порта терминала на ПК пользователя. (; в начале строки ее закомментирует)
 
-<table><tr><td>При настройке по com</td><td>При настройке на сетевой терминал</td></tr><tr><td>ComPort=4<br>–<br>PrinterEnd=22<br>PrinterFile=p<br>–<br>Speed=115200<br>ShowScreens=1<br>NewProtocol=1<br>PrinterEnd=010D0A</td><td>;ComPort=4<br>EnableUSB=0<br>PrinterEnd=01<br>PrinterFile=p<br>PinpadLog=0<br>Speed=115200<br>ShowScreens=1<br>PinpadIPAddr=*.*.*.*<br>PinpadIPPort=5555</td></tr></table>
+<div style="display: inline-block; max-width: 100%"><table><tr><td>При настройке по com</td><td>При настройке на сетевой терминал</td></tr><tr><td>ComPort=4<br>–<br>PrinterEnd=22<br>PrinterFile=p<br>–<br>Speed=115200<br>ShowScreens=1<br>NewProtocol=1<br>PrinterEnd=010D0A</td><td>;ComPort=4<br>EnableUSB=0<br>PrinterEnd=01<br>PrinterFile=p<br>PinpadLog=0<br>Speed=115200<br>ShowScreens=1<br>PinpadIPAddr=*.*.*.*<br>PinpadIPPort=5555</td></tr></table></div>
 
 Обычно текст настроек pinpad.ini на ПК пользователя и на сервере одинаков.
 

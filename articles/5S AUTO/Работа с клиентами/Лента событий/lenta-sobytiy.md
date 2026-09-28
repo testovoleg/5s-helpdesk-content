@@ -34,6 +34,8 @@
 
 ![Верхняя панель Ленты событий](attachments/02-verhnyaya-panel.png)
 
+<div style="display: inline-block; max-width: 100%">
+
 | Кнопка | Описание |
 | --- | --- |
 | **Отборы** | |
@@ -51,6 +53,8 @@
 | ![SMS](attachments/btn-sms.png) | SMS-сообщения |
 | ![Телефон](attachments/btn-telefon.png) | Телефонные звонки |
 | ![Электронная почта](attachments/btn-pismo.png) | Электронная почта |
+
+</div>
 
 ### История общения
 
