@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:01:37+03:00",
+  "generated_at": "2026-09-28T08:59:25+03:00",
   "count": 629,
   "sections": {
     "tips": [
@@ -115,15 +115,7 @@
             "name": "CRM",
             "path": "articles/5S AUTO/CRM",
             "id": "crm",
-            "order": 1,
-            "sections": [
-              {
-                "name": "Временно",
-                "path": "articles/5S AUTO/CRM/Временно",
-                "id": null,
-                "order": 22
-              }
-            ]
+            "order": 1
           },
           {
             "name": "Работа с клиентами",
@@ -8550,7 +8542,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
       "file": "udalenie-starykh-dannykh.md",
       "id": "udalenie-starykh-dannykh",
-      "sha": "96f8ce01ac488ba90d5a2c78dabe26fbe7795211",
+      "sha": "58321c3102d7fc5621b6f229c3a04375799d713d",
       "title": "Удаление старых данных программы",
       "type": "articles",
       "order": 25,
