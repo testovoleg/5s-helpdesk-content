@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:38:48+03:00",
+  "generated_at": "2026-09-28T13:48:33+03:00",
   "count": 625,
   "sections": {
     "tips": [
@@ -709,7 +709,7 @@
       "order": 5,
       "updated_at": "2026-09-28",
       "date_kind": "created",
-      "added_at": "2026-09-28",
+      "added_at": "2026-09-28T13:38:25+03:00",
       "reading_time": 6
     },
     {
@@ -722,20 +722,20 @@
       "order": 4,
       "updated_at": "2026-09-28",
       "date_kind": "created",
-      "added_at": "2026-09-28",
+      "added_at": "2026-09-28T13:38:25+03:00",
       "reading_time": 11
     },
     {
       "path": "articles/5S AUTO/Касса/Настройка кассиров ФР",
       "file": "nastroyka-kassirov-fr.md",
       "id": "nastroyka-kassirov-fr",
-      "sha": "1e5a7c366a7ce00f188a599bcb255cf7df1d0d6f",
+      "sha": "1edb333ff547b0e619fd0daf3e25c1b3b2b4b3bd",
       "title": "Настройка кассиров ФР",
       "type": "articles",
       "order": 2,
       "updated_at": "2026-09-28",
       "date_kind": "created",
-      "added_at": "2026-09-28",
+      "added_at": "2026-09-28T13:38:25+03:00",
       "reading_time": 3
     },
     {
