@@ -15,7 +15,7 @@
 
 Команда выглядит так:
 
-<table><tr><td>sc create "1C:Enterprise 8.3 Server Agent 8.3.16.1148 2541" binPath="\\"C:\\Program Files\\1cv8\\8.3.16.1148\\bin\\ragent.exe \\" -srvc -agent -regport 2541 -port 2540 -range 2560:2590 -d \\"C:\\Program Files\\1cv8\\srvinfo_2540\\" -debug" start=auto obj=.\\Администратор password=123 displayname="Агент сервера 1С:Предприятия 8.3. 8.3.16.1148 2540" depend=Tcpip/Dnscache/lanmanworkstation/lanmanserver/</td></tr></table>
+<div style="display: inline-block; max-width: 100%"><table><tr><td>sc create "1C:Enterprise 8.3 Server Agent 8.3.16.1148 2541" binPath="\\"C:\\Program Files\\1cv8\\8.3.16.1148\\bin\\ragent.exe \\" -srvc -agent -regport 2541 -port 2540 -range 2560:2590 -d \\"C:\\Program Files\\1cv8\\srvinfo_2540\\" -debug" start=auto obj=.\\Администратор password=123 displayname="Агент сервера 1С:Предприятия 8.3. 8.3.16.1148 2540" depend=Tcpip/Dnscache/lanmanworkstation/lanmanserver/</td></tr></table></div>
 
 В зависимости от обстоятельств нужно будет проставить версию 1С сервера (к примеру, везде заменить 8.3.16.1148 на вашу версию), а также возможно поменять путь до кластера и порты (если вы, к примеру, решили сделать еще третью службу).
 
