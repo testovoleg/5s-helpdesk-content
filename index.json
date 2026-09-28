@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:31:40+03:00",
+  "generated_at": "2026-09-28T11:57:50+03:00",
   "count": 629,
   "sections": {
     "tips": [
@@ -4060,7 +4060,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Подключение кассы ККМ",
       "file": "podklyuchenie-kassy-kkm.md",
       "id": "podklyuchenie-kassy-kkm",
-      "sha": "cb7f7a3a9077180f4db0485c773b51adf94fd88d",
+      "sha": "bf3f5b5e844a8465c58db827eda90ab3ebc5bf8c",
       "title": "Подключение кассы ККМ",
       "type": "articles",
       "order": 0,
