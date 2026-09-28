@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:41:35+03:00",
+  "generated_at": "2026-09-28T13:48:05+03:00",
   "count": 630,
   "sections": {
     "tips": [
@@ -711,13 +711,13 @@
       "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "082cdc8094826be14158f675f1b41ed126a39053",
+      "sha": "a78ad5e111348ba3458acb90eb3c10634052f42a",
       "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
       "type": "articles",
       "order": 0,
       "updated_at": "2026-09-28",
       "date_kind": "created",
-      "added_at": "2026-09-28",
+      "added_at": "2026-09-28T13:41:15+03:00",
       "reading_time": 4
     },
     {
@@ -760,7 +760,7 @@
       "path": "articles/5S AUTO/Касса/Настройка кассиров ФР",
       "file": "nastroyka-kassirov-fr.md",
       "id": "nastroyka-kassirov-fr",
-      "sha": "1e5a7c366a7ce00f188a599bcb255cf7df1d0d6f",
+      "sha": "2200c4a3736d4192dc0b505fd664942d00310fce",
       "title": "Настройка кассиров ФР",
       "type": "articles",
       "order": 2,
