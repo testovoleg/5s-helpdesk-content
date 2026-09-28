@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T13:38:07+03:00",
-  "count": 622,
+  "generated_at": "2026-09-28T13:38:48+03:00",
+  "count": 625,
   "sections": {
     "tips": [
       {
@@ -699,6 +699,45 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Точка Банка",
+      "file": "podklyuchenie-zagruzki-vypisok-tochka-banka.md",
+      "id": "podklyuchenie-zagruzki-vypisok-tochka-banka",
+      "sha": "008573a2858cf3ea8a45f6b5b70d930d173f6931",
+      "title": "Подключение загрузки выписок Точка Банка",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2026-09-28",
+      "date_kind": "created",
+      "added_at": "2026-09-28",
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Точка Банка",
+      "file": "podklyuchenie-sbp-tochka-banka.md",
+      "id": "podklyuchenie-sbp-tochka-banka",
+      "sha": "5a8b89b680ab6bcb3ace01c0d6d660a869fa0e65",
+      "title": "Подключение СБП Точка Банка",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-28",
+      "date_kind": "created",
+      "added_at": "2026-09-28",
+      "reading_time": 11
+    },
+    {
+      "path": "articles/5S AUTO/Касса/Настройка кассиров ФР",
+      "file": "nastroyka-kassirov-fr.md",
+      "id": "nastroyka-kassirov-fr",
+      "sha": "1e5a7c366a7ce00f188a599bcb255cf7df1d0d6f",
+      "title": "Настройка кассиров ФР",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-09-28",
+      "date_kind": "created",
+      "added_at": "2026-09-28",
+      "reading_time": 3
+    },
     {
       "path": "tips/5S AUTO/Склад и запчасти/При загрузке поступления из СБИС подставляется не тот склад",
       "file": "pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad.md",
@@ -4412,11 +4451,11 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Мастер настройки системы",
       "file": "master-nastroyki-sistemy.md",
       "id": "master-nastroyki-sistemy",
-      "sha": "9c9de4cddbc614af642095eb32681e09e6d839f4",
+      "sha": "770888cf13f0b462005956823b646ddd817a69a3",
       "title": "Мастер настройки системы",
       "type": "articles",
       "order": 19,
-      "updated_at": "2022-06-24",
+      "updated_at": "2026-09-28",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
       "reading_time": 36
@@ -8157,11 +8196,11 @@
       "path": "articles/5S AUTO/CRM/Объединение сделок",
       "file": "obedinenie-sdelok.md",
       "id": "obedinenie-sdelok",
-      "sha": "16b2ea9f7fd51d8469ce6b566b4d582ad9a5e4cb",
+      "sha": "deab68c1a5f79d0f1de336058448480407a50410",
       "title": "Объединение сделок",
       "type": "articles",
       "order": 6,
-      "updated_at": "2024-10-16",
+      "updated_at": "2026-09-28",
       "date_kind": "updated",
       "added_at": "2026-08-26T09:38:26+03:00",
       "reading_time": 7
@@ -8209,11 +8248,11 @@
       "path": "articles/5S AUTO/CRM/Работа со сделкой",
       "file": "rabota-so-sdelkoy.md",
       "id": "rabota-so-sdelkoy",
-      "sha": "6e10e873dd86b75d55e15c11850e5bcf5e92cce2",
+      "sha": "059d917c530a8a883905a9797b0da50ab791efe1",
       "title": "Работа со сделкой",
       "type": "articles",
       "order": 2,
-      "updated_at": "2026-07-28",
+      "updated_at": "2026-09-28",
       "date_kind": "updated",
       "added_at": "2026-08-26T09:04:10+03:00",
       "reading_time": 15
