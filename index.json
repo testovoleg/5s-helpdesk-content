@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:06:21+03:00",
+  "generated_at": "2026-09-28T10:14:22+03:00",
   "count": 622,
   "sections": {
     "tips": [
@@ -7705,7 +7705,7 @@
       "path": "articles/5S AUTO/Автосервис/Диагностические анкеты",
       "file": "diagnosticheskie-ankety.md",
       "id": "diagnosticheskie-ankety",
-      "sha": "1b7c12dbb00c01957bee25bab42ea30d7e65064e",
+      "sha": "988df50c153cffb745ef463d2247a7c0b61a6267",
       "title": "Диагностические анкеты",
       "type": "articles",
       "order": 7,
