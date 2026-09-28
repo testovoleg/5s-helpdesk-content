@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:39:44+03:00",
+  "generated_at": "2026-09-28T15:49:26+03:00",
   "count": 630,
   "sections": {
     "tips": [
@@ -711,7 +711,7 @@
       "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "95e2328328ae6f89d743c8a2ad87a93732bbc3f1",
+      "sha": "72fda0d2699c410255465ab53d61f0aa7673546c",
       "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
       "type": "articles",
       "order": 0,
@@ -8708,7 +8708,7 @@
       "path": "tips/Техподдержка/Как быстро найти нужную статью на Базе знаний",
       "file": "kak-bystro-nayti-nuzhnuyu-statyu-na-baze-znaniy.md",
       "id": "kak-bystro-nayti-nuzhnuyu-statyu-na-baze-znaniy",
-      "sha": "2beedb1f649cf4c9a1d6b3ba73678795b8aa8d69",
+      "sha": "c92b32233e2d75e63f4e876bd73faaaa2a01f997",
       "title": "Как быстро найти нужную статью на Базе знаний",
       "type": "tips",
       "order": 0,
@@ -8732,7 +8732,7 @@
       "path": "tips/Техподдержка/Как перейти в Базу знаний",
       "file": "kak-pereyti-v-bazu-znaniy.md",
       "id": "kak-pereyti-v-bazu-znaniy",
-      "sha": "371dd87ea0c1abc7c0c74842873b279cedf74eb9",
+      "sha": "5ca9d9f4511a9cbaf1d9986d435400f4683e2ba9",
       "title": "Как перейти в Базу знаний",
       "type": "tips",
       "order": 0,
