@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:01:57+03:00",
+  "generated_at": "2026-09-28T10:06:21+03:00",
   "count": 622,
   "sections": {
     "tips": [
@@ -3957,7 +3957,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Настройка терминалов Сбербанка/Настройка терминала по com-порту",
       "file": "nastroyka-terminala-podklyuchennogo-po-com-portu-k-pk-polzovatelya.md",
       "id": "nastroyka-terminala-podklyuchennogo-po-com-portu-k-pk-polzovatelya",
-      "sha": "b2824f667838ac7fd460329a28e21372fea535bf",
+      "sha": "df4c163d2e605577207152b23cd5a03e98bcce71",
       "title": "Настройка терминала, подключенного по com-порту к ПК пользователя",
       "type": "articles",
       "order": 1,
