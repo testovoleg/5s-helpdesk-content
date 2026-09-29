@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T10:51:23+03:00",
+  "generated_at": "2026-09-29T10:54:48+03:00",
   "count": 631,
   "sections": {
     "tips": [
@@ -7082,7 +7082,7 @@
       "path": "articles/5S AUTO/Автосервис/Передача смен",
       "file": "peredacha-smen.md",
       "id": "peredacha-smen",
-      "sha": "82b9de9cea1edfeb50a77df1ac050e4cf0c02360",
+      "sha": "1e4a88d9caa0243231ecae0df82afe9677ce598a",
       "title": "Передача смен",
       "type": "articles",
       "order": 16,
