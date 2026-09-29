@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T09:47:05+03:00",
+  "generated_at": "2026-09-29T10:05:15+03:00",
   "count": 631,
   "sections": {
     "tips": [
@@ -730,7 +730,7 @@
       "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "a113198c0c680ad621a1b7ed54c408181b5245be",
+      "sha": "3a403a3b7ed634fad0af5663e8f6807c5b1af2aa",
       "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
       "type": "articles",
       "order": 0,
