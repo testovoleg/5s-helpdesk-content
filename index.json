@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T10:46:19+03:00",
+  "generated_at": "2026-09-29T10:50:50+03:00",
   "count": 631,
   "sections": {
     "tips": [
@@ -730,7 +730,7 @@
       "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "a319294222d82387afef7fca2d7156ee37edf4d1",
+      "sha": "503815c50be4cd0df6eada1f5f5f91758e93d1cd",
       "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
       "type": "articles",
       "order": 0,
@@ -7082,7 +7082,7 @@
       "path": "articles/5S AUTO/Автосервис/Передача смен",
       "file": "peredacha-smen.md",
       "id": "peredacha-smen",
-      "sha": "0cbb16bf846b7c98f31320ec903a384870614d24",
+      "sha": "448288bbd724f20b8294704f5f06343fa112769d",
       "title": "Передача смен",
       "type": "articles",
       "order": 16,
