@@ -33,9 +33,7 @@
 
 База знаний адаптирована под мобильные устройства: на телефоне и планшете страницы подстраиваются под размер экрана:
 
-![База знаний на телефоне – статьи](attachments/08-mobilnaya-versiya-stati.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![База знаний на телефоне – раздел «Советы»](attachments/04-mobilnaya-versiya-sovety.png)
-
-![База знаний на телефоне – совет](attachments/05-mobilnaya-versiya-sovet.png)
+![База знаний на телефоне – раздел «Советы»](attachments/04-mobilnaya-versiya-sovety.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![База знаний на телефоне – совет](attachments/05-mobilnaya-versiya-sovet.png)
 
 > [!TIP]
 > Чтобы переключить ***светлую или темную тему,*** нажмите значок луны / солнца внизу страницы или *«Настройки → Изменить тему»*.
