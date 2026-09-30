@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T10:55:35+03:00",
-  "count": 625,
+  "generated_at": "2026-09-30T09:18:36+03:00",
+  "count": 626,
   "sections": {
     "tips": [
       {
@@ -95,7 +95,15 @@
         "name": "Техподдержка",
         "path": "tips/Техподдержка",
         "id": "tekhpodderzhka",
-        "order": 0
+        "order": 0,
+        "sections": [
+          {
+            "name": "Как быстро найти нужную статью на Базе знаний",
+            "path": "tips/Техподдержка/Как быстро найти нужную статью на Базе знаний",
+            "id": null,
+            "order": 0
+          }
+        ]
       }
     ],
     "articles": [
@@ -699,6 +707,19 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Работа с клиентами/Сегментация клиентов",
+      "file": "segmentaciya-klientov.md",
+      "id": "segmentaciya-klientov",
+      "sha": "299ecaff8e09cfab79b8d48d4144d8b839fb27e3",
+      "title": "Сегментация клиентов",
+      "type": "articles",
+      "order": 9,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-09-30",
+      "reading_time": 15
+    },
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Точка Банка",
       "file": "podklyuchenie-zagruzki-vypisok-tochka-banka.md",
