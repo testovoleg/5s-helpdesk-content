@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:09:14+03:00",
+  "generated_at": "2026-09-30T16:29:14+03:00",
   "count": 640,
   "sections": {
     "tips": [
@@ -893,7 +893,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Подключение терминала эквайринга через POSConnector",
       "file": "podklyuchenie-terminala-ekvayringa-cherez-posconnector.md",
       "id": "podklyuchenie-terminala-ekvayringa-cherez-posconnector",
-      "sha": "edd8f1bcd0d3854b64f66fcf7c5c08a74812c923",
+      "sha": "756cd2a13b9c999b2674b77adcd16d600dcf20a2",
       "title": "Подключение терминала эквайринга через POSConnector",
       "type": "articles",
       "order": 7,
@@ -906,7 +906,7 @@
       "path": "articles/5S AUTO/Маркировка/Подбор и автоподстановка кодов маркировки",
       "file": "podbor-i-avtopodstanovka-kodov-markirovki.md",
       "id": "podbor-i-avtopodstanovka-kodov-markirovki",
-      "sha": "74cfaa45137fc7b0ddcd25efb7fef1ac22661213",
+      "sha": "b5d7cd587e610ebe24f137ed9227babe61edfd64",
       "title": "Подбор и автоподстановка кодов маркировки",
       "type": "articles",
       "order": 2,
@@ -4360,7 +4360,7 @@
       "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
       "file": "markirovka-tovarov.md",
       "id": "markirovka-tovarov",
-      "sha": "61eb8d0ab8a552225724ad91d2d364be191731f2",
+      "sha": "ace9c9732d06dce8bedb2e3a2ebe861b2acdc67c",
       "title": "Маркировка товаров",
       "type": "articles",
       "order": 0,
