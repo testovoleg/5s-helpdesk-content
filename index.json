@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:15:15+03:00",
+  "generated_at": "2026-09-30T09:17:46+03:00",
   "count": 632,
   "sections": {
     "tips": [
@@ -711,7 +711,7 @@
       "path": "articles/5S AUTO/Работа с клиентами/Сегментация клиентов",
       "file": "segmentaciya-klientov.md",
       "id": "segmentaciya-klientov",
-      "sha": "6f90a042a13cc4704410202e84ee62fc49b36629",
+      "sha": "8788580e1bd8c6ddde53bdb626fdbda7c7f193d6",
       "title": "Сегментация клиентов",
       "type": "articles",
       "order": 9,
