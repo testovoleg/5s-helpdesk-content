@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T15:30:05+03:00",
-  "count": 632,
+  "generated_at": "2026-09-30T15:58:33+03:00",
+  "count": 633,
   "sections": {
     "tips": [
       {
@@ -392,7 +392,7 @@
                 "path": "articles/5S AUTO/Маркировка/Интеграция с ТС ПИоТ",
                 "id": "integraciya-s-ts-piot",
                 "uuid": "3452de6a-d855-4b1c-97e4-e35ef245ca0a",
-                "order": 7
+                "order": 8
               }
             ]
           },
@@ -831,6 +831,19 @@
       "reading_time": 15
     },
     {
+      "path": "articles/5S AUTO/Маркировка/Подбор и автоподстановка кодов маркировки",
+      "file": "podbor-i-avtopodstanovka-kodov-markirovki.md",
+      "id": "podbor-i-avtopodstanovka-kodov-markirovki",
+      "sha": "05a49f59cd3b4ac9f8c64376b310deddc20892a1",
+      "title": "Подбор и автоподстановка кодов маркировки",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-09-30",
+      "reading_time": 8
+    },
+    {
       "path": "articles/5S AUTO/Автосервис/Работа с приложением 5S Remzona",
       "file": "rabota-s-prilozheniem-5s-remzona.md",
       "id": "rabota-s-prilozheniem-5s-remzona",
@@ -853,7 +866,7 @@
       "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "9ae7b79201e470abccd058ab59214fa48bc41efc",
+      "sha": "327d10993126dae4d137d149ac29be15b00f0f7a",
       "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
       "type": "articles",
       "order": 0,
@@ -4252,7 +4265,7 @@
       "sha": "f0437f6ed186a7ed7fe8c5ab42b58facfcc1ddf9",
       "title": "Инвентаризация кодов маркировки",
       "type": "articles",
-      "order": 3,
+      "order": 4,
       "updated_at": "2026-05-21",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -4262,7 +4275,7 @@
       "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
       "file": "markirovka-tovarov.md",
       "id": "markirovka-tovarov",
-      "sha": "981f5aa6c1a87f07ad0057fec825d023e76f4542",
+      "sha": "d92c3505427dccb2ab21f1de306ba404a3cef979",
       "title": "Маркировка товаров",
       "type": "articles",
       "order": 0,
@@ -4278,7 +4291,7 @@
       "sha": "2e85365d5200135a6f75cae0fe75751feda9babe",
       "title": "Настройка интеграции с Честным знаком",
       "type": "articles",
-      "order": 5,
+      "order": 6,
       "updated_at": "2026-06-08",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -4288,7 +4301,7 @@
       "path": "articles/5S AUTO/Маркировка/Операции с кодами маркировки",
       "file": "operacii-s-kodami-markirovki.md",
       "id": "operacii-s-kodami-markirovki",
-      "sha": "85290ebecdb76b496f644332e57556c648d1bd98",
+      "sha": "5e881677dc579412dce0b98075dbe81042f5aac8",
       "title": "Операции с кодами маркировки",
       "type": "articles",
       "order": 1,
@@ -4304,7 +4317,7 @@
       "sha": "084d24d9fc78fae1750a9ac1798e3a1f93087a83",
       "title": "Получение токена доступа к API Честного знака",
       "type": "articles",
-      "order": 6,
+      "order": 7,
       "updated_at": "2026-04-27",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -4317,7 +4330,7 @@
       "sha": "a6ff80bad578dd8788a8bfb70372190e893709c3",
       "title": "Регистрация в системе Честный знак",
       "type": "articles",
-      "order": 4,
+      "order": 5,
       "updated_at": "2026-04-30",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -4327,10 +4340,10 @@
       "path": "articles/5S AUTO/Маркировка/Частичное выбытие маркированного товара",
       "file": "chastichnoe-vybytie-markirovannogo-tovara.md",
       "id": "chastichnoe-vybytie-markirovannogo-tovara",
-      "sha": "9aa95cdc1b460636c0a52206207897f4930e215b",
+      "sha": "e048ce9076ac46439346b58d9e1babbbe799f91d",
       "title": "Частичное выбытие маркированного товара",
       "type": "articles",
-      "order": 8,
+      "order": 9,
       "updated_at": "2026-07-27",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
@@ -6767,7 +6780,7 @@
         },
         {
           "path": "articles/5S AUTO/Маркировка",
-          "order": 9
+          "order": 10
         },
         {
           "path": "articles/5S AUTO/Торговое оборудование",
@@ -9209,10 +9222,10 @@
       "path": "articles/5S AUTO/Маркировка/Вывод кодов маркировки из оборота",
       "file": "vyvod-kodov-markirovki-iz-oborota.md",
       "id": "vyvod-kodov-markirovki-iz-oborota",
-      "sha": "e669922b7e68a1491aa1794c38832b74c6461fe9",
+      "sha": "8f7429e2cf6f17d8406575ee3e485cbe92eeb14a",
       "title": "Вывод кодов маркировки из оборота",
       "type": "articles",
-      "order": 2,
+      "order": 3,
       "updated_at": "2026-05-21",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:58:30+03:00",
