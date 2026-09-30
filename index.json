@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:34:16+03:00",
+  "generated_at": "2026-09-30T10:05:18+03:00",
   "count": 626,
   "sections": {
     "tips": [
@@ -95,15 +95,7 @@
         "name": "Техподдержка",
         "path": "tips/Техподдержка",
         "id": "tekhpodderzhka",
-        "order": 0,
-        "sections": [
-          {
-            "name": "Как быстро найти нужную статью на Базе знаний",
-            "path": "tips/Техподдержка/Как быстро найти нужную статью на Базе знаний",
-            "id": null,
-            "order": 0
-          }
-        ]
+        "order": 0
       }
     ],
     "articles": [
@@ -711,7 +703,7 @@
       "path": "articles/5S AUTO/Работа с клиентами/Сегментация клиентов",
       "file": "segmentaciya-klientov.md",
       "id": "segmentaciya-klientov",
-      "sha": "44e510309b10b2a65e305a1c8ca7574cb2813ea0",
+      "sha": "15d74741f881e0838b01c8e369ff30d167e94dbf",
       "title": "Сегментация клиентов",
       "type": "articles",
       "order": 9,
