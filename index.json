@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T16:04:27+03:00",
-  "count": 634,
+  "generated_at": "2026-09-30T16:07:25+03:00",
+  "count": 640,
   "sections": {
     "tips": [
       {
@@ -818,6 +818,19 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Торговое оборудование/Подключение терминала эквайринга через POSConnector",
+      "file": "podklyuchenie-terminala-ekvayringa-cherez-posconnector.md",
+      "id": "podklyuchenie-terminala-ekvayringa-cherez-posconnector",
+      "sha": "27ec86739df5cdddfc69f86822b590c545b9e2ae",
+      "title": "Подключение терминала эквайринга через POSConnector",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-09-30T16:04:08+03:00",
+      "reading_time": 10
+    },
+    {
       "path": "articles/5S AUTO/Маркировка/Подбор и автоподстановка кодов маркировки",
       "file": "podbor-i-avtopodstanovka-kodov-markirovki.md",
       "id": "podbor-i-avtopodstanovka-kodov-markirovki",
@@ -844,17 +857,76 @@
       "reading_time": 15
     },
     {
-      "path": "articles/5S AUTO/Торговое оборудование/Подключение терминала эквайринга через POSConnector",
-      "file": "podklyuchenie-terminala-ekvayringa-cherez-posconnector.md",
-      "id": "podklyuchenie-terminala-ekvayringa-cherez-posconnector",
-      "sha": "b30ba30e69525e99015f4f9d25ada2fdac14f2b7",
-      "title": "Подключение терминала эквайринга через POSConnector",
-      "type": "articles",
-      "order": 7,
+      "path": "tips/Оборудование/Банковские терминалы/Операция одобрена банком, но результат не удалось передать в 1С",
+      "file": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s.md",
+      "id": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s",
+      "sha": "5e99b318c4405c2f46c72549dd965c20fa4632ac",
+      "title": "Операция одобрена банком, но результат не удалось передать в 1С",
+      "type": "tips",
+      "order": 3,
       "updated_at": "2026-09-30",
       "date_kind": "created",
-      "added_at": "2026-09-30",
-      "reading_time": 10
+      "added_at": "2026-09-30"
+    },
+    {
+      "path": "tips/Оборудование/Банковские терминалы/Ошибка 22161 Не удалось создать COM-объект POSConnector",
+      "file": "oshibka-22161-ne-udalos-sozdat-com-obekt-posconnector.md",
+      "id": "oshibka-22161-ne-udalos-sozdat-com-obekt-posconnector",
+      "sha": "4de35373db4acb419b9c1c298429cd4b0e0c6c13",
+      "title": "Ошибка 22161 Не удалось создать COM-объект POSConnector",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-09-30"
+    },
+    {
+      "path": "tips/Оборудование/Банковские терминалы/Ошибка 22162 Нет связи с процессингом",
+      "file": "oshibka-22162-net-svyazi-s-processingom.md",
+      "id": "oshibka-22162-net-svyazi-s-processingom",
+      "sha": "4d926508d1039303dd3acd819f4e21c367ccdaa1",
+      "title": "Ошибка 22162 Нет связи с процессингом",
+      "type": "tips",
+      "order": 1,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-09-30"
+    },
+    {
+      "path": "tips/Оборудование/Банковские терминалы/Ошибка 22166 Сверка итогов не выполнена",
+      "file": "oshibka-22166-sverka-itogov-ne-vypolnena.md",
+      "id": "oshibka-22166-sverka-itogov-ne-vypolnena",
+      "sha": "797885cbc154f2bd92e509865884d560bd5eb978",
+      "title": "Ошибка 22166 Сверка итогов не выполнена",
+      "type": "tips",
+      "order": 5,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-09-30"
+    },
+    {
+      "path": "tips/Оборудование/Банковские терминалы/Ошибка 22168 Не указан номер терминала (TID)",
+      "file": "oshibka-22168-ne-ukazan-nomer-terminala-tid.md",
+      "id": "oshibka-22168-ne-ukazan-nomer-terminala-tid",
+      "sha": "93793ab9bdbe2558ce3dcf15533298d4efe3f918",
+      "title": "Ошибка 22168 Не указан номер терминала (TID)",
+      "type": "tips",
+      "order": 2,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-09-30"
+    },
+    {
+      "path": "tips/Оборудование/Банковские терминалы/Результат операции неизвестен – списание могло пройти",
+      "file": "rezultat-operacii-neizvesten-spisanie-moglo-proyti.md",
+      "id": "rezultat-operacii-neizvesten-spisanie-moglo-proyti",
+      "sha": "f09d8f5ee5d62b13c4ff0a74c39e27dc2e3894fc",
+      "title": "Результат операции неизвестен – списание могло пройти",
+      "type": "tips",
+      "order": 4,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-09-30"
     },
     {
       "path": "articles/5S AUTO/Автосервис/Работа с приложением 5S Remzona",
@@ -8807,7 +8879,7 @@
       "sha": "86c38ef5b409bb1e0b8bb856a8fb1d699708768d",
       "title": "Ошибка 4001 при закрытии кассовой смены",
       "type": "tips",
-      "order": 0,
+      "order": 6,
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-08-11T15:10:16+03:00"
@@ -9020,7 +9092,7 @@
       "sha": "103a80e9d11b1c6afc3eb1a402a4c606c17e05bc",
       "title": "Ошибка авторизации эквайринга 1001",
       "type": "tips",
-      "order": 0,
+      "order": 6,
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-31T09:42:06+03:00"
@@ -9032,7 +9104,7 @@
       "sha": "fcd0aebf80334f9255e969836cad6a972d34fc3a",
       "title": "Ошибка печати квитанции авторизации",
       "type": "tips",
-      "order": 0,
+      "order": 6,
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-31T09:42:06+03:00"
@@ -9251,7 +9323,7 @@
       "sha": "7302a768b8c826c84518f7f3075d2d6a5e189c5e",
       "title": "Ошибка авторизации код 9 / Ошибка терминала эквайринга / Служба \"Dual Connector Service\" занимает COM-порт",
       "type": "tips",
-      "order": 0,
+      "order": 6,
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
