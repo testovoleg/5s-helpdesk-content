@@ -175,6 +175,20 @@ def read_id(dir_path: Path) -> str | None:
     return m.group(1) if m else None
 
 
+RE_UUID = re.compile(r"(?m)^# uuid: (\S+)")
+
+
+def read_uuid(dir_path: Path) -> str | None:
+    """Постоянный UUID раздела — строка `# uuid: …` в его .order (пожелание
+    разработчика, 30.09.2026). В отличие от id, не меняется при переименовании
+    раздела. Новому разделу UUID выдается один раз и дальше не трогается."""
+    order_file = dir_path / ".order"
+    if not order_file.exists():
+        return None
+    m = RE_UUID.search(order_file.read_text(encoding="utf-8"))
+    return m.group(1) if m else None
+
+
 def read_hidden(dir_path: Path) -> set[str]:
     """Материалы раздела, которых не должно быть в навигации.
 
@@ -238,6 +252,8 @@ def collect_sections(dir_path: Path) -> list[dict]:
             "path": folder.relative_to(ROOT).as_posix(),
             # Латинский идентификатор раздела из его .order — для адреса
             "id": read_id(folder),
+            # Постоянный UUID раздела из его .order
+            "uuid": read_uuid(folder),
             # Позиция в .order родителя — той же нумерацией, что и order у
             # статей раздела: статьи и подразделы в списке перемешаны, и сайт
             # должен ставить подраздел между статьями, как на старом сайте.
