@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:48:18+03:00",
+  "generated_at": "2026-09-30T13:55:22+03:00",
   "count": 632,
   "sections": {
     "tips": [
@@ -853,7 +853,7 @@
       "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "43174a948c71b754b17056449d64b004e494e1d0",
+      "sha": "8588e69941649494e113135f445e916220cd351f",
       "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
       "type": "articles",
       "order": 0,
@@ -8874,7 +8874,7 @@
       "path": "tips/Техподдержка/Как перейти в Базу знаний",
       "file": "kak-pereyti-v-bazu-znaniy.md",
       "id": "kak-pereyti-v-bazu-znaniy",
-      "sha": "e1d22012fd200cbae3608277eeb4095f55225f7e",
+      "sha": "a6ec37c0a075c705e5451a7d9a3500e82ad9b87e",
       "title": "Как перейти в Базу знаний",
       "type": "tips",
       "order": 0,
