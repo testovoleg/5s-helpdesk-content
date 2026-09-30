@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T17:02:52+03:00",
-  "count": 631,
+  "generated_at": "2026-09-30T08:44:43+03:00",
+  "count": 632,
   "sections": {
     "tips": [
       {
@@ -707,6 +707,19 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Работа с клиентами/Сегментация клиентов",
+      "file": "segmentaciya-klientov.md",
+      "id": "segmentaciya-klientov",
+      "sha": "b343acc07366e1cc4ed75d6ec37cdf60f9503318",
+      "title": "Сегментация клиентов",
+      "type": "articles",
+      "order": 9,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-09-30",
+      "reading_time": 15
+    },
     {
       "path": "articles/5S AUTO/Автосервис/Работа с приложением 5S Remzona",
       "file": "rabota-s-prilozheniem-5s-remzona.md",
