@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T15:58:33+03:00",
-  "count": 633,
+  "generated_at": "2026-09-30T16:04:27+03:00",
+  "count": 634,
   "sections": {
     "tips": [
       {
@@ -416,7 +416,7 @@
                 "path": "articles/5S AUTO/Торговое оборудование/Настройка терминалов Сбербанка",
                 "id": "nastroyka-terminalov-sberbanka",
                 "uuid": "4793ea83-3b8e-4bcb-85cd-89ae4d206854",
-                "order": 7
+                "order": 8
               }
             ]
           },
@@ -818,6 +818,19 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Маркировка/Подбор и автоподстановка кодов маркировки",
+      "file": "podbor-i-avtopodstanovka-kodov-markirovki.md",
+      "id": "podbor-i-avtopodstanovka-kodov-markirovki",
+      "sha": "05a49f59cd3b4ac9f8c64376b310deddc20892a1",
+      "title": "Подбор и автоподстановка кодов маркировки",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-09-30T15:58:11+03:00",
+      "reading_time": 8
+    },
+    {
       "path": "articles/5S AUTO/Работа с клиентами/Сегментация клиентов",
       "file": "segmentaciya-klientov.md",
       "id": "segmentaciya-klientov",
@@ -831,17 +844,17 @@
       "reading_time": 15
     },
     {
-      "path": "articles/5S AUTO/Маркировка/Подбор и автоподстановка кодов маркировки",
-      "file": "podbor-i-avtopodstanovka-kodov-markirovki.md",
-      "id": "podbor-i-avtopodstanovka-kodov-markirovki",
-      "sha": "05a49f59cd3b4ac9f8c64376b310deddc20892a1",
-      "title": "Подбор и автоподстановка кодов маркировки",
+      "path": "articles/5S AUTO/Торговое оборудование/Подключение терминала эквайринга через POSConnector",
+      "file": "podklyuchenie-terminala-ekvayringa-cherez-posconnector.md",
+      "id": "podklyuchenie-terminala-ekvayringa-cherez-posconnector",
+      "sha": "b30ba30e69525e99015f4f9d25ada2fdac14f2b7",
+      "title": "Подключение терминала эквайринга через POSConnector",
       "type": "articles",
-      "order": 2,
+      "order": 7,
       "updated_at": "2026-09-30",
       "date_kind": "created",
       "added_at": "2026-09-30",
-      "reading_time": 8
+      "reading_time": 10
     },
     {
       "path": "articles/5S AUTO/Автосервис/Работа с приложением 5S Remzona",
@@ -866,7 +879,7 @@
       "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "327d10993126dae4d137d149ac29be15b00f0f7a",
+      "sha": "e5711affd92e5736b9da57831d4e6e46e2aa7414",
       "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
       "type": "articles",
       "order": 0,
@@ -3692,7 +3705,7 @@
       "sha": "ad8c3133ff616bb5475043af0b8c8782e6204ae4",
       "title": "Решение распространенных ошибок при работе с кассой",
       "type": "articles",
-      "order": 10,
+      "order": 11,
       "updated_at": "2025-12-24",
       "date_kind": "updated",
       "added_at": "2026-09-10T15:32:59+03:00",
@@ -4223,7 +4236,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Подключение банковского терминала",
       "file": "podklyuchenie-bankovskogo-terminala.md",
       "id": "podklyuchenie-bankovskogo-terminala",
-      "sha": "6e6ab9111a1fd4fc53fda72a94cd50f7c2bd5bbd",
+      "sha": "8ca349da8f66e16647c8e00237b52c696b70a416",
       "title": "Подключение банковского терминала",
       "type": "articles",
       "order": 6,
@@ -6784,7 +6797,7 @@
         },
         {
           "path": "articles/5S AUTO/Торговое оборудование",
-          "order": 8
+          "order": 9
         }
       ]
     },
@@ -6803,7 +6816,7 @@
       "also_in": [
         {
           "path": "articles/5S AUTO/Торговое оборудование",
-          "order": 9
+          "order": 10
         }
       ]
     },
