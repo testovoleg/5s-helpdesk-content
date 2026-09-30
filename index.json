@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:39:58+03:00",
+  "generated_at": "2026-09-30T13:48:51+03:00",
   "count": 628,
   "sections": {
     "tips": [
@@ -7,54 +7,63 @@
         "name": "5S AUTO",
         "path": "tips/5S AUTO",
         "id": "5s-auto",
+        "uuid": "0448ec06-5c9b-4c9c-9228-77af325debfe",
         "order": 0,
         "sections": [
           {
             "name": "CRM",
             "path": "tips/5S AUTO/CRM",
             "id": "crm",
+            "uuid": "c00c81e3-ef8b-4335-aca8-45644c6cda26",
             "order": 0
           },
           {
             "name": "Автосервис",
             "path": "tips/5S AUTO/Автосервис",
             "id": "avtoservis",
+            "uuid": "d67559c1-e4f8-4b25-8f3a-d21a27f25109",
             "order": 0
           },
           {
             "name": "Администрирование",
             "path": "tips/5S AUTO/Администрирование",
             "id": "administrirovanie",
+            "uuid": "32fc0441-7081-4ad6-85b8-6c42f5090895",
             "order": 0
           },
           {
             "name": "Касса",
             "path": "tips/5S AUTO/Касса",
             "id": "kassa",
+            "uuid": "e3a70a00-51a6-444b-82d7-f7cb032cbb3b",
             "order": 0
           },
           {
             "name": "Маркировка",
             "path": "tips/5S AUTO/Маркировка",
             "id": "markirovka",
+            "uuid": "be15ca85-049e-42df-b53b-a0a230cb843f",
             "order": 0
           },
           {
             "name": "Персонал",
             "path": "tips/5S AUTO/Персонал",
             "id": "personal",
+            "uuid": "1eda60c1-ecb4-4a87-8f76-483047f5efd9",
             "order": 0
           },
           {
             "name": "Практики",
             "path": "tips/5S AUTO/Практики",
             "id": "praktiki",
+            "uuid": "f341176f-34c7-432e-b6f7-dba17cc733b0",
             "order": 0
           },
           {
             "name": "Склад и запчасти",
             "path": "tips/5S AUTO/Склад и запчасти",
             "id": "sklad-i-zapchasti",
+            "uuid": "fe154d38-cf77-437a-86dd-bf3773fcbf9a",
             "order": 0
           }
         ]
@@ -63,30 +72,35 @@
         "name": "Оборудование",
         "path": "tips/Оборудование",
         "id": "oborudovanie",
+        "uuid": "d336bc68-f987-47aa-b35f-5f11acfa2c00",
         "order": 0,
         "sections": [
           {
             "name": "Банковские терминалы",
             "path": "tips/Оборудование/Банковские терминалы",
             "id": "bankovskie-terminaly",
+            "uuid": "d6a0d131-3248-438c-bf78-fdeae43ac898",
             "order": 0
           },
           {
             "name": "Кассы ККМ",
             "path": "tips/Оборудование/Кассы ККМ",
             "id": "kassy-kkm",
+            "uuid": "0fd4484a-769e-40a9-86a1-d8564317bb1c",
             "order": 0
           },
           {
             "name": "Сканеры штрихкодов",
             "path": "tips/Оборудование/Сканеры штрихкодов",
             "id": "skanery-shtrikhkodov",
+            "uuid": "10838d44-624e-4855-aa90-423b4ab10129",
             "order": 0
           },
           {
             "name": "ТС ПИоТ",
             "path": "tips/Оборудование/ТС ПИоТ",
             "id": "ts-piot",
+            "uuid": "c3ffd918-2e8f-4f45-9d12-9fcc699ca5e2",
             "order": 0
           }
         ]
@@ -95,6 +109,7 @@
         "name": "Техподдержка",
         "path": "tips/Техподдержка",
         "id": "tekhpodderzhka",
+        "uuid": "331c82fe-d8b0-4894-9e5a-06600b414092",
         "order": 0
       }
     ],
@@ -103,54 +118,63 @@
         "name": "5S AUTO",
         "path": "articles/5S AUTO",
         "id": "5s-auto",
+        "uuid": "7e0f47bb-54e5-4170-9ce3-ef1c9110f2f6",
         "order": 0,
         "sections": [
           {
             "name": "Полезное",
             "path": "articles/5S AUTO/Полезное",
             "id": "poleznoe",
+            "uuid": "8a682a91-9e20-479a-8dd2-cc78ed48e7de",
             "order": 0
           },
           {
             "name": "CRM",
             "path": "articles/5S AUTO/CRM",
             "id": "crm",
+            "uuid": "a766ca33-d8a3-4c23-86d0-b135bef5f3b8",
             "order": 1
           },
           {
             "name": "Работа с клиентами",
             "path": "articles/5S AUTO/Работа с клиентами",
             "id": "rabota-s-klientami",
+            "uuid": "735c75ae-e360-464e-8bf1-5751fa000d5e",
             "order": 2
           },
           {
             "name": "Проценка запчастей и работ",
             "path": "articles/5S AUTO/Проценка запчастей и работ",
             "id": "procenka-zapchastey-i-rabot",
+            "uuid": "ba0d4c24-2be6-4469-87a0-763b41926b73",
             "order": 3
           },
           {
             "name": "Запись на ремонт",
             "path": "articles/5S AUTO/Запись на ремонт",
             "id": "zapis-na-remont",
+            "uuid": "0327b444-085b-4e0b-8955-86803cfed586",
             "order": 4
           },
           {
             "name": "Автосервис",
             "path": "articles/5S AUTO/Автосервис",
             "id": "avtoservis",
+            "uuid": "a3775d10-c435-4d27-b3e6-3c040305f64f",
             "order": 5,
             "sections": [
               {
                 "name": "Работа с Заказ-нарядами",
                 "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами",
                 "id": "rabota-s-zakaz-naryadami",
+                "uuid": "7d50451a-98b3-44dd-adcd-e3b2539d622c",
                 "order": 11
               },
               {
                 "name": "Ремонт агрегатов",
                 "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов",
                 "id": "remont-agregatov",
+                "uuid": "7a55e6f4-2a5a-4768-89f1-75a737f20fe6",
                 "order": 21
               }
             ]
@@ -159,18 +183,21 @@
             "name": "Склад и запчасти",
             "path": "articles/5S AUTO/Склад и запчасти",
             "id": "sklad-i-zapchasti",
+            "uuid": "bbf78988-f87d-485e-9a04-5148c0e8d715",
             "order": 6,
             "sections": [
               {
                 "name": "Применяемость запчастей",
                 "path": "articles/5S AUTO/Склад и запчасти/Применяемость запчастей",
                 "id": "primenyaemost-zapchastey",
+                "uuid": "f92cb1a0-2918-4666-895f-2688bee59b92",
                 "order": 2
               },
               {
                 "name": "Штрихкодирование номенклатуры",
                 "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры",
                 "id": "shtrikhkodirovanie-nomenklatury",
+                "uuid": "2789a197-9ea4-43bb-b693-1fae53aed279",
                 "order": 10
               }
             ]
@@ -179,30 +206,35 @@
             "name": "Работа с заказами",
             "path": "articles/5S AUTO/Работа с заказами",
             "id": "rabota-s-zakazami",
+            "uuid": "2415028b-f840-4334-a49a-4ae31a6432e5",
             "order": 7
           },
           {
             "name": "Ценообразование",
             "path": "articles/5S AUTO/Ценообразование",
             "id": "cenoobrazovanie",
+            "uuid": "c62ea897-9ec1-49d4-bf7c-441bee6a6f23",
             "order": 8
           },
           {
             "name": "Перечень доступных Веб-сервисов поставщиков",
             "path": "articles/5S AUTO/Перечень доступных Веб-сервисов поставщиков",
             "id": "perechen-dostupnykh-veb-servisov-postavschikov",
+            "uuid": "1b5c6dbe-88b0-4b41-a410-5c538c100b8a",
             "order": 9
           },
           {
             "name": "Сообщения",
             "path": "articles/5S AUTO/Сообщения",
             "id": "soobscheniya",
+            "uuid": "3fdd4f7d-0758-4a0d-babb-c44c1f409548",
             "order": 10,
             "sections": [
               {
                 "name": "Настройка интеграции с мессенджерами для рассылки сообщений",
                 "path": "articles/5S AUTO/Сообщения/Настройка интеграции с мессенджерами для рассылки сообщений",
                 "id": "nastroyka-integracii-s-messendzherami-dlya-rassylki-soobscheniy",
+                "uuid": "62a2a818-b370-4f58-9998-c230a9ecbad1",
                 "order": 4
               }
             ]
@@ -211,30 +243,35 @@
             "name": "Бонусная система",
             "path": "articles/5S AUTO/Бонусная система",
             "id": "bonusnaya-sistema",
+            "uuid": "b4311bb5-d663-46c7-a95b-e112d15494a3",
             "order": 11
           },
           {
             "name": "Задачи",
             "path": "articles/5S AUTO/Задачи",
             "id": "zadachi",
+            "uuid": "e870065c-de1f-4cb2-af3f-d47ff5df9475",
             "order": 12
           },
           {
             "name": "Интеграция с внешними сервисами",
             "path": "articles/5S AUTO/Интеграция с внешними сервисами",
             "id": "integraciya-s-vneshnimi-servisami",
+            "uuid": "dc4bd654-e3c7-4d77-9dc1-e4d55e3f8324",
             "order": 13,
             "sections": [
               {
                 "name": "Интеграция с телефонией",
                 "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией",
                 "id": "integraciya-s-telefoniey",
+                "uuid": "fe8745e5-d3f8-4810-b6cb-ecb40336cb3c",
                 "order": 0
               },
               {
                 "name": "Интеграция с соцсетью ВКонтакте",
                 "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с соцсетью ВКонтакте",
                 "id": "integraciya-s-socsetyu-vkontakte",
+                "uuid": "af69f8d7-1fb3-4152-a06c-764bbd32f4ff",
                 "order": 6
               }
             ]
@@ -243,30 +280,35 @@
             "name": "Учет взаиморасчетов",
             "path": "articles/5S AUTO/Учет взаиморасчетов",
             "id": "uchet-vzaimoraschetov",
+            "uuid": "824e17bb-6ae8-49f1-8bdf-5e5315535d8c",
             "order": 14
           },
           {
             "name": "Касса",
             "path": "articles/5S AUTO/Касса",
             "id": "kassa",
+            "uuid": "9511c362-f564-4db7-8c33-148be015031a",
             "order": 15
           },
           {
             "name": "Банки и платежные системы",
             "path": "articles/5S AUTO/Банки и платежные системы",
             "id": "banki-i-platezhnye-sistemy",
+            "uuid": "d10cc99a-2275-4e55-9578-e72b18b71fb6",
             "order": 16,
             "sections": [
               {
                 "name": "Система быстрых платежей",
                 "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей",
                 "id": "sistema-bystrykh-platezhey",
+                "uuid": "fd89fe72-e058-4f8d-9723-d3d9bd564f60",
                 "order": 0
               },
               {
                 "name": "Банковские выписки",
                 "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки",
                 "id": "bankovskie-vypiski",
+                "uuid": "e468923c-5109-44aa-a623-474d5feea802",
                 "order": 1
               }
             ]
@@ -275,36 +317,42 @@
             "name": "Персонал и мотивация",
             "path": "articles/5S AUTO/Персонал и мотивация",
             "id": "personal-i-motivaciya",
+            "uuid": "04282c6e-38ec-4c18-a00e-e42c36afa184",
             "order": 17
           },
           {
             "name": "Управление качеством обслуживания",
             "path": "articles/5S AUTO/Управление качеством обслуживания",
             "id": "upravlenie-kachestvom-obsluzhivaniya",
+            "uuid": "10b7b0fe-52b0-4782-9a2e-b92f2c70524d",
             "order": 18
           },
           {
             "name": "Структура компании",
             "path": "articles/5S AUTO/Структура компании",
             "id": "struktura-kompanii",
+            "uuid": "06ab4423-b294-4b9c-9e01-0af139dfd40b",
             "order": 19
           },
           {
             "name": "Администрирование и настройка системы",
             "path": "articles/5S AUTO/Администрирование и настройка системы",
             "id": "administrirovanie-i-nastroyka-sistemy",
+            "uuid": "be88ee63-258e-4b4b-bbb5-7e54f47164fc",
             "order": 20,
             "sections": [
               {
                 "name": "Подключение внешних печатных форм",
                 "path": "articles/5S AUTO/Администрирование и настройка системы/Подключение внешних печатных форм",
                 "id": "podklyuchenie-vneshnikh-pechatnykh-form",
+                "uuid": "7449b81b-753a-4abc-9534-528dabec882b",
                 "order": 5
               },
               {
                 "name": "Исправление ошибок версий",
                 "path": "articles/5S AUTO/Администрирование и настройка системы/Исправление ошибок версий",
                 "id": "ispravlenie-oshibok-versiy",
+                "uuid": "c6388733-06cc-40fb-8edc-59e46bea9321",
                 "order": 25
               }
             ]
@@ -313,24 +361,28 @@
             "name": "Пользователи и права",
             "path": "articles/5S AUTO/Пользователи и права",
             "id": "polzovateli-i-prava",
+            "uuid": "fb69df32-73f4-41fd-bdfc-c6dafa49d0c9",
             "order": 21
           },
           {
             "name": "Отчеты",
             "path": "articles/5S AUTO/Отчеты",
             "id": "otchety",
+            "uuid": "4e9c6c5b-c427-43c3-b7d3-3406c93e4f7b",
             "order": 22
           },
           {
             "name": "Маркировка",
             "path": "articles/5S AUTO/Маркировка",
             "id": "markirovka",
+            "uuid": "d8152ea5-0bf9-4fdb-a952-030a6a9eadfb",
             "order": 23,
             "sections": [
               {
                 "name": "Интеграция с ТС ПИоТ",
                 "path": "articles/5S AUTO/Маркировка/Интеграция с ТС ПИоТ",
                 "id": "integraciya-s-ts-piot",
+                "uuid": "3452de6a-d855-4b1c-97e4-e35ef245ca0a",
                 "order": 7
               }
             ]
@@ -339,12 +391,14 @@
             "name": "Торговое оборудование",
             "path": "articles/5S AUTO/Торговое оборудование",
             "id": "torgovoe-oborudovanie",
+            "uuid": "f343e4ed-d9b4-4c92-b1eb-f35357fef813",
             "order": 24,
             "sections": [
               {
                 "name": "Интеграция с ТС ПИоТ",
                 "path": "articles/5S AUTO/Маркировка/Интеграция с ТС ПИоТ",
                 "id": "integraciya-s-ts-piot",
+                "uuid": "3452de6a-d855-4b1c-97e4-e35ef245ca0a",
                 "order": 3,
                 "borrowed": true
               },
@@ -352,6 +406,7 @@
                 "name": "Настройка терминалов Сбербанка",
                 "path": "articles/5S AUTO/Торговое оборудование/Настройка терминалов Сбербанка",
                 "id": "nastroyka-terminalov-sberbanka",
+                "uuid": "4793ea83-3b8e-4bcb-85cd-89ae4d206854",
                 "order": 7
               }
             ]
@@ -360,12 +415,14 @@
             "name": "Телефония",
             "path": "articles/5S AUTO/Телефония",
             "id": "telefoniya",
+            "uuid": "75f4caf7-442e-47d9-8faa-1feeab1f986a",
             "order": 25,
             "sections": [
               {
                 "name": "Интеграция с телефонией",
                 "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с телефонией",
                 "id": "integraciya-s-telefoniey",
+                "uuid": "fe8745e5-d3f8-4810-b6cb-ecb40336cb3c",
                 "order": 0,
                 "borrowed": true
               }
@@ -375,12 +432,14 @@
             "name": "Приложение 5S LINK",
             "path": "articles/5S AUTO/Приложение 5S LINK",
             "id": "prilozhenie-5s-link",
+            "uuid": "cef9bef5-da94-4b95-b3d5-006387cbc866",
             "order": 26,
             "sections": [
               {
                 "name": "Мобильное приложение 5S LINK v1",
                 "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1",
                 "id": "mobilnoe-prilozhenie-5s-link-v1",
+                "uuid": "bb367d1c-f12c-457e-849b-4d53b79fd594",
                 "order": 4
               }
             ]
@@ -389,24 +448,28 @@
             "name": "Аналитика",
             "path": "articles/5S AUTO/Аналитика",
             "id": "analitika",
+            "uuid": "ff95494c-18ef-479f-ae5f-b3449e5cb4ab",
             "order": 27
           },
           {
             "name": "Контроль неликвидов",
             "path": "articles/5S AUTO/Контроль неликвидов",
             "id": "kontrol-nelikvidov",
+            "uuid": "35119f64-7dc2-41db-8102-ee9253ce269d",
             "order": 28
           },
           {
             "name": "Прочее",
             "path": "articles/5S AUTO/Прочее",
             "id": "prochee",
+            "uuid": "48a33cbd-ac7e-4598-a9a5-5c8b96c9ca10",
             "order": 29
           },
           {
             "name": "Внешние обработки",
             "path": "articles/5S AUTO/Внешние обработки",
             "id": "vneshnie-obrabotki",
+            "uuid": "1986ecf8-e8cd-488f-8642-4560a23aa3af",
             "order": 30
           }
         ]
@@ -415,12 +478,14 @@
         "name": "5S LINK",
         "path": "articles/5S LINK",
         "id": "5s-link",
+        "uuid": "bfce8b87-6bd4-4add-986d-8371f8c5d16f",
         "order": 1,
         "sections": [
           {
             "name": "Приложение 5S LINK",
             "path": "articles/5S AUTO/Приложение 5S LINK",
             "id": "prilozhenie-5s-link",
+            "uuid": "cef9bef5-da94-4b95-b3d5-006387cbc866",
             "order": 0,
             "borrowed": true,
             "sections": [
@@ -428,6 +493,7 @@
                 "name": "Мобильное приложение 5S LINK v1",
                 "path": "articles/5S AUTO/Приложение 5S LINK/Мобильное приложение 5S LINK v1",
                 "id": "mobilnoe-prilozhenie-5s-link-v1",
+                "uuid": "bb367d1c-f12c-457e-849b-4d53b79fd594",
                 "order": 4
               }
             ]
@@ -438,30 +504,35 @@
         "name": "5S Chat",
         "path": "articles/5S Chat",
         "id": "5s-chat",
+        "uuid": "e0ca8e66-768e-4c00-a87a-b4815cae5b55",
         "order": 2,
         "sections": [
           {
             "name": "MAX",
             "path": "articles/5S Chat/MAX",
             "id": "max",
+            "uuid": "e5a705ca-e871-4ab6-b69e-1a2e9514c608",
             "order": 1
           },
           {
             "name": "Telegram",
             "path": "articles/5S Chat/Telegram",
             "id": "telegram",
+            "uuid": "e60031dc-6a2a-4039-8ddc-d5dbfaa78477",
             "order": 2
           },
           {
             "name": "Авито",
             "path": "articles/5S Chat/Авито",
             "id": "avito",
+            "uuid": "c9e4208c-16c7-4aaa-96f5-5f680a7ee67f",
             "order": 3
           },
           {
             "name": "ВКонтакте",
             "path": "articles/5S Chat/ВКонтакте",
             "id": "vkontakte",
+            "uuid": "adadc669-4d7e-453a-8bfa-264eda50a670",
             "order": 4
           }
         ]
@@ -470,30 +541,35 @@
         "name": "5S Cloud",
         "path": "articles/5S Cloud",
         "id": "5s-cloud",
+        "uuid": "ff6c8d3d-b4a6-4662-bac4-1158d0bf18d4",
         "order": 3
       },
       {
         "name": "5S TSD",
         "path": "articles/5S TSD",
         "id": "5s-tsd",
+        "uuid": "97830fa4-142b-4972-ac06-3700065dfee0",
         "order": 4
       },
       {
         "name": "5S Pay",
         "path": "articles/5S Pay",
         "id": "5s-pay",
+        "uuid": "434f43df-cac3-4554-9436-a471a2cc1a75",
         "order": 5
       },
       {
         "name": "5S Remzona",
         "path": "articles/5S Remzona",
         "id": "5s-remzona",
+        "uuid": "1948e374-d915-4cd7-b02d-55f2b12a0685",
         "order": 6
       },
       {
         "name": "5S AI Agent",
         "path": "articles/5S AI Agent",
         "id": "5s-ai-agent",
+        "uuid": "2dbe45df-b758-4c0d-8ce1-841961c18cd7",
         "order": 7
       }
     ],
@@ -502,198 +578,231 @@
         "name": "Краткий курс для Автосервиса",
         "path": "lessons/Краткий курс для Автосервиса",
         "id": "kratkiy-kurs-dlya-avtoservisa",
+        "uuid": "8dcd6a00-c134-427a-988c-92e8274dbb79",
         "order": 0
       },
       {
         "name": "Краткий курс для Магазина автозапчастей",
         "path": "lessons/Краткий курс для Магазина автозапчастей",
         "id": "kratkiy-kurs-dlya-magazina-avtozapchastey",
+        "uuid": "d457e012-283b-45aa-a9ba-feccf524b930",
         "order": 1
       },
       {
         "name": "Краткий курс для Автосалона",
         "path": "lessons/Краткий курс для Автосалона",
         "id": "kratkiy-kurs-dlya-avtosalona",
+        "uuid": "39259859-04ca-4ef7-b624-895b0b83b4a7",
         "order": 2
       },
       {
         "name": "Интерфейс программы",
         "path": "lessons/Интерфейс программы",
         "id": "interfeys-programmy",
+        "uuid": "8fe765e1-454f-4a79-b040-ef9b8d5bb846",
         "order": 3
       },
       {
         "name": "Урок 1. CRM",
         "path": "lessons/Урок 1. CRM",
         "id": "urok-1-crm",
+        "uuid": "c0fbc19d-0ec8-4fd0-894c-9ed232081d33",
         "order": 4
       },
       {
         "name": "Урок 2. Структура компании",
         "path": "lessons/Урок 2. Структура компании",
         "id": "urok-2-struktura-kompanii",
+        "uuid": "f8dca99e-9ebc-4ac7-8ff5-118abe7d4060",
         "order": 5
       },
       {
         "name": "Урок 3. Клиенты и автомобили",
         "path": "lessons/Урок 3. Клиенты и автомобили",
         "id": "urok-3-klienty-i-avtomobili",
+        "uuid": "09e6557f-b64b-471d-a1ba-55478c4deb9b",
         "order": 6
       },
       {
         "name": "Урок 4. Запчасти и автоработы",
         "path": "lessons/Урок 4. Запчасти и автоработы",
         "id": "urok-4-zapchasti-i-avtoraboty",
+        "uuid": "eba30051-41f6-4700-8f6c-6e15ac23e28c",
         "order": 7
       },
       {
         "name": "Урок 5. Складской учет",
         "path": "lessons/Урок 5. Складской учет",
         "id": "urok-5-skladskoy-uchet",
+        "uuid": "57ed9680-a724-4507-bed3-2cd9943e985c",
         "order": 8
       },
       {
         "name": "Урок 6. Подбор запчастей и работ",
         "path": "lessons/Урок 6. Подбор запчастей и работ",
         "id": "urok-6-podbor-zapchastey-i-rabot",
+        "uuid": "0efe58a3-9667-4880-9a30-3ef862f12939",
         "order": 9
       },
       {
         "name": "Урок 7. Онлайн-каталог запчастей",
         "path": "lessons/Урок 7. Онлайн-каталог запчастей",
         "id": "urok-7-onlayn-katalog-zapchastey",
+        "uuid": "d73e8c22-873f-4be5-b513-934f84d3c591",
         "order": 10
       },
       {
         "name": "Урок 8. Запись на ремонт",
         "path": "lessons/Урок 8. Запись на ремонт",
         "id": "urok-8-zapis-na-remont",
+        "uuid": "e5f9182a-b5b1-4850-838b-0bd7e17cd6ea",
         "order": 11
       },
       {
         "name": "Урок 9. Работа с Поиском цен",
         "path": "lessons/Урок 9. Работа с Поиском цен",
         "id": "urok-9-rabota-s-poiskom-cen",
+        "uuid": "152aeb99-8e16-4b57-bcf3-d4da0e0c184a",
         "order": 12
       },
       {
         "name": "Урок 10. Работа с Заказ-нарядами",
         "path": "lessons/Урок 10. Работа с Заказ-нарядами",
         "id": "urok-10-rabota-s-zakaz-naryadami",
+        "uuid": "34b5b28a-696a-4638-8c22-e397fa9fda6f",
         "order": 13
       },
       {
         "name": "Урок 11. Расшифровка VIN и гос.номера",
         "path": "lessons/Урок 11. Расшифровка VIN и гос.номера",
         "id": "urok-11-rasshifrovka-vin-i-gos-nomera",
+        "uuid": "74445419-8376-492c-8566-893367c7071c",
         "order": 14
       },
       {
         "name": "Урок 12. Уведомления",
         "path": "lessons/Урок 12. Уведомления",
         "id": "urok-12-uvedomleniya",
+        "uuid": "4998cf9f-869a-4c10-b21d-f92e97239f7f",
         "order": 15
       },
       {
         "name": "Урок 13. Управление качеством",
         "path": "lessons/Урок 13. Управление качеством",
         "id": "urok-13-upravlenie-kachestvom",
+        "uuid": "7e57b8b5-a166-4da2-ac46-a698fadde513",
         "order": 16
       },
       {
         "name": "Урок 14. Скидки и бонусы",
         "path": "lessons/Урок 14. Скидки и бонусы",
         "id": "urok-14-skidki-i-bonusy",
+        "uuid": "8c5c9649-166b-4bf4-a465-b9e1c08f7c6d",
         "order": 17
       },
       {
         "name": "Урок 15. Работа с кассой ККМ",
         "path": "lessons/Урок 15. Работа с кассой ККМ",
         "id": "urok-15-rabota-s-kassoy-kkm",
+        "uuid": "13d1ae89-22e5-4594-9365-1fd5e9bad05c",
         "order": 18
       },
       {
         "name": "Урок 16. Учет денежных средств",
         "path": "lessons/Урок 16. Учет денежных средств",
         "id": "urok-16-uchet-denezhnykh-sredstv",
+        "uuid": "38541763-6afa-4c58-9cc7-baf37eadc839",
         "order": 19
       },
       {
         "name": "Урок 17. Взаиморасчеты с контрагентами",
         "path": "lessons/Урок 17. Взаиморасчеты с контрагентами",
         "id": "urok-17-vzaimoraschety-s-kontragentami",
+        "uuid": "db120cc5-1728-43b1-8bd0-6b49e39429b9",
         "order": 20
       },
       {
         "name": "Урок 18. Доходы и расходы",
         "path": "lessons/Урок 18. Доходы и расходы",
         "id": "urok-18-dokhody-i-raskhody",
+        "uuid": "f134c4fa-bac0-4f5c-899e-4f4f0c997315",
         "order": 21
       },
       {
         "name": "Урок 19. Работа с рекомендациями",
         "path": "lessons/Урок 19. Работа с рекомендациями",
         "id": "urok-19-rabota-s-rekomendaciyami",
+        "uuid": "a161064d-e134-481e-af4c-d35f7e912f4b",
         "order": 22
       },
       {
         "name": "Урок 20. Диагностические анкеты",
         "path": "lessons/Урок 20. Диагностические анкеты",
         "id": "urok-20-diagnosticheskie-ankety",
+        "uuid": "e964b397-bb8d-4a56-ad26-82adcc36ae46",
         "order": 23
       },
       {
         "name": "Урок 21. Гарантийная политика",
         "path": "lessons/Урок 21. Гарантийная политика",
         "id": "urok-21-garantiynaya-politika",
+        "uuid": "3e4417e5-22e1-4043-b173-e83540fa12b6",
         "order": 24
       },
       {
         "name": "Урок 22. Пользователи и права",
         "path": "lessons/Урок 22. Пользователи и права",
         "id": "urok-22-polzovateli-i-prava",
+        "uuid": "aa1517e5-b2e2-49bf-8ffa-ad2a70e29acc",
         "order": 25
       },
       {
         "name": "Урок 23. Расчет зарплаты",
         "path": "lessons/Урок 23. Расчет зарплаты",
         "id": "urok-23-raschet-zarplaty",
+        "uuid": "072a2888-3a89-48c8-96ab-1fb61d0b5d5f",
         "order": 26
       },
       {
         "name": "Урок 24. Подключение мессенджеров",
         "path": "lessons/Урок 24. Подключение мессенджеров",
         "id": "urok-24-podklyuchenie-messendzherov",
+        "uuid": "7946f678-840f-4d58-a61f-510144d8afcf",
         "order": 27
       },
       {
         "name": "Урок 25. Автоматические сообщения",
         "path": "lessons/Урок 25. Автоматические сообщения",
         "id": "urok-25-avtomaticheskie-soobscheniya",
+        "uuid": "8fab7de5-814d-4b0e-ab9e-f5aecbd26da0",
         "order": 28
       },
       {
         "name": "Урок 26. Перенос данных",
         "path": "lessons/Урок 26. Перенос данных",
         "id": "urok-26-perenos-dannykh",
+        "uuid": "010a3a5f-94f9-4712-9fc3-04c274e7d08e",
         "order": 29
       },
       {
         "name": "Урок 27. Ценообразование",
         "path": "lessons/Урок 27. Ценообразование",
         "id": "urok-27-cenoobrazovanie",
+        "uuid": "d94c2882-32b2-411b-bba4-a9e6e81c81ae",
         "order": 30
       },
       {
         "name": "Урок 28. Учет основных средств и инструмента",
         "path": "lessons/Урок 28. Учет основных средств и инструмента",
         "id": "urok-28-uchet-osnovnykh-sredstv-i-instrumenta",
+        "uuid": "ee0f9ac6-ab41-4c81-8c3d-71172a811abc",
         "order": 31
       },
       {
         "name": "Тесты на проверку знаний",
         "path": "lessons/Тесты на проверку знаний",
         "id": "testy-na-proverku-znaniy",
+        "uuid": "2520c884-174b-4ddd-ba38-538ec55da86f",
         "order": 32
       }
     ]
