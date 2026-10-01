@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T15:53:28+03:00",
-  "count": 640,
+  "generated_at": "2026-10-01T15:57:53+03:00",
+  "count": 641,
   "sections": {
     "tips": [
       {
@@ -818,6 +818,19 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Учет взаиморасчетов/Платежный календарь",
+      "file": "platezhnyy-kalendar.md",
+      "id": "platezhnyy-kalendar",
+      "sha": "1246563293577f874e5fa4f82ed1518ad73d9fb0",
+      "title": "Платежный календарь",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2026-10-01",
+      "date_kind": "created",
+      "added_at": "2026-10-01",
+      "reading_time": 12
+    },
+    {
       "path": "tips/Оборудование/Банковские терминалы/Операция одобрена банком, но результат не удалось передать в 1С",
       "file": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s.md",
       "id": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s",
@@ -951,7 +964,7 @@
       "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "8de44eb9156e72f3cd5706b328798d908e8910f0",
+      "sha": "f50c430160a1f7a0e08ff9a7a372beade598cba4",
       "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
       "type": "articles",
       "order": 0,
