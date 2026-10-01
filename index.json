@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:50:57+03:00",
+  "generated_at": "2026-10-01T09:53:14+03:00",
   "count": 640,
   "sections": {
     "tips": [
@@ -881,7 +881,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Результат операции неизвестен – списание могло пройти",
       "file": "rezultat-operacii-neizvesten-spisanie-moglo-proyti.md",
       "id": "rezultat-operacii-neizvesten-spisanie-moglo-proyti",
-      "sha": "f09d8f5ee5d62b13c4ff0a74c39e27dc2e3894fc",
+      "sha": "6d32518c13e34ae49672956f852bff98a3588fa2",
       "title": "Результат операции неизвестен – списание могло пройти",
       "type": "tips",
       "order": 4,
@@ -893,7 +893,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Подключение терминала эквайринга через POSConnector",
       "file": "podklyuchenie-terminala-ekvayringa-cherez-posconnector.md",
       "id": "podklyuchenie-terminala-ekvayringa-cherez-posconnector",
-      "sha": "756cd2a13b9c999b2674b77adcd16d600dcf20a2",
+      "sha": "1e6e94852987ed970483189963a5d06704ca71f7",
       "title": "Подключение терминала эквайринга через POSConnector",
       "type": "articles",
       "order": 7,
