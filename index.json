@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:45:16+03:00",
+  "generated_at": "2026-10-01T09:48:40+03:00",
   "count": 640,
   "sections": {
     "tips": [
@@ -951,7 +951,7 @@
       "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "e5711affd92e5736b9da57831d4e6e46e2aa7414",
+      "sha": "544d4de618ff8b6aa360291ecbf79362b753de5d",
       "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
       "type": "articles",
       "order": 0,
@@ -4360,7 +4360,7 @@
       "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
       "file": "markirovka-tovarov.md",
       "id": "markirovka-tovarov",
-      "sha": "defb66b3af78feb130e736fcc9235288a12fee19",
+      "sha": "432bde1dd4600a977dfab9bf48203e9175ff21b8",
       "title": "Маркировка товаров",
       "type": "articles",
       "order": 0,
