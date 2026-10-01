@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:36:54+03:00",
+  "generated_at": "2026-10-01T09:45:16+03:00",
   "count": 640,
   "sections": {
     "tips": [
@@ -4360,7 +4360,7 @@
       "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
       "file": "markirovka-tovarov.md",
       "id": "markirovka-tovarov",
-      "sha": "3179af383278f5af608d1dd3168eb0c2a23a3e98",
+      "sha": "defb66b3af78feb130e736fcc9235288a12fee19",
       "title": "Маркировка товаров",
       "type": "articles",
       "order": 0,
