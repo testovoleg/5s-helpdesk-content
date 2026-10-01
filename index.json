@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T11:57:10+03:00",
+  "generated_at": "2026-10-01T13:00:38+03:00",
   "count": 640,
   "sections": {
     "tips": [
@@ -932,7 +932,7 @@
       "path": "articles/5S AUTO/Автосервис/Работа с приложением 5S Remzona",
       "file": "rabota-s-prilozheniem-5s-remzona.md",
       "id": "rabota-s-prilozheniem-5s-remzona",
-      "sha": "b37ded5db8494612d1136eb9fbe7c0a77c2f7ab2",
+      "sha": "05f22da498623cae9411e0cc153202eb307f5804",
       "title": "Работа с приложением 5S Remzona",
       "type": "articles",
       "order": 17,
@@ -951,7 +951,7 @@
       "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "5405d0100a9d6a86505e84395f122d66825d8489",
+      "sha": "1d9ba50e4067386fa1e330caf2b4a14c7ca5f4c4",
       "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
       "type": "articles",
       "order": 0,
@@ -8972,7 +8972,7 @@
       "path": "tips/Техподдержка/Как перейти в Базу знаний",
       "file": "kak-pereyti-v-bazu-znaniy.md",
       "id": "kak-pereyti-v-bazu-znaniy",
-      "sha": "098b8a677eb1d711fc083ca1b1b9e4cea4040ddf",
+      "sha": "ad7d0c9483deb529014a9832b16fc947df6aac00",
       "title": "Как перейти в Базу знаний",
       "type": "tips",
       "order": 0,
