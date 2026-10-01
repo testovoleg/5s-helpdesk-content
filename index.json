@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:05:00+03:00",
+  "generated_at": "2026-10-01T09:12:55+03:00",
   "count": 628,
   "sections": {
     "tips": [
@@ -864,7 +864,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/При загрузке поступления из СБИС подставляется не тот склад",
       "file": "pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad.md",
       "id": "pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad",
-      "sha": "b64607d7e39173a6e051961630f905cba871fe8f",
+      "sha": "426dc42d3daa0ca18cc8356ec2990a244621265e",
       "title": "При загрузке поступления из СБИС подставляется не тот склад",
       "type": "tips",
       "order": 0,
@@ -5303,7 +5303,7 @@
       "path": "articles/5S AUTO/Интеграция с внешними сервисами/Интеграция с BioTime",
       "file": "integraciya-s-biotime.md",
       "id": "integraciya-s-biotime",
-      "sha": "5334d17e5e5780159d1db137d9c3d10030c0c9d2",
+      "sha": "fecb0c866a71370a09ff4ba4bf9ef1dc1b58d303",
       "title": "Интеграция с BioTime",
       "type": "articles",
       "order": 5,
