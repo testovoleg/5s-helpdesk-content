@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:46:37+03:00",
+  "generated_at": "2026-10-01T08:55:22+03:00",
   "count": 628,
   "sections": {
     "tips": [
@@ -864,7 +864,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/При загрузке поступления из СБИС подставляется не тот склад",
       "file": "pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad.md",
       "id": "pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad",
-      "sha": "050ef04a74a88d34780c38477e4e3c1c9ca5572f",
+      "sha": "b64607d7e39173a6e051961630f905cba871fe8f",
       "title": "При загрузке поступления из СБИС подставляется не тот склад",
       "type": "tips",
       "order": 0,
