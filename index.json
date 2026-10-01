@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:24:44+03:00",
+  "generated_at": "2026-10-01T10:46:38+03:00",
   "count": 640,
   "sections": {
     "tips": [
@@ -906,7 +906,7 @@
       "path": "articles/5S AUTO/Маркировка/Подбор и автоподстановка кодов маркировки",
       "file": "podbor-i-avtopodstanovka-kodov-markirovki.md",
       "id": "podbor-i-avtopodstanovka-kodov-markirovki",
-      "sha": "0e4cb2fe083e298248816c08156b94f153b63fd1",
+      "sha": "1ce95d30294c48721263f1e5131e6a6eeec04df5",
       "title": "Подбор и автоподстановка кодов маркировки",
       "type": "articles",
       "order": 2,
@@ -4360,7 +4360,7 @@
       "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
       "file": "markirovka-tovarov.md",
       "id": "markirovka-tovarov",
-      "sha": "583fe9c3fa485d67819222ea6d0a5a5666b55388",
+      "sha": "1ae2f930721b56ef53f4bec8fd5383b1cbdff0f4",
       "title": "Маркировка товаров",
       "type": "articles",
       "order": 0,
@@ -7076,7 +7076,7 @@
       "path": "articles/5S AUTO/Склад и запчасти/Виды склада",
       "file": "vidy-sklada.md",
       "id": "vidy-sklada",
-      "sha": "fe10a7e6e9e96c62ded6eeb04256151b293bdd1c",
+      "sha": "1598671ba50eb5004a1d65e751b47a151e9af59b",
       "title": "Виды склада",
       "type": "articles",
       "order": 8,
