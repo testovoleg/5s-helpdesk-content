@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:01:39+03:00",
+  "generated_at": "2026-10-01T14:03:00+03:00",
   "count": 640,
   "sections": {
     "tips": [
@@ -932,7 +932,7 @@
       "path": "articles/5S AUTO/Автосервис/Работа с приложением 5S Remzona",
       "file": "rabota-s-prilozheniem-5s-remzona.md",
       "id": "rabota-s-prilozheniem-5s-remzona",
-      "sha": "347ba9617b995528cf11deb494817d4931f63493",
+      "sha": "9b6673afad30f84dfa7ff9eaba07c69c272a7564",
       "title": "Работа с приложением 5S Remzona",
       "type": "articles",
       "order": 17,
