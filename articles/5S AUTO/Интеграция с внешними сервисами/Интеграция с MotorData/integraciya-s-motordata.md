@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-motordata</sub>
 
-> *Актуально начиная с версии релиза 5S AUTO **2.6.1.1** в рамках [отдельной подписки](https://www.5systems.ru/services/integraciya-s-motordata) (актуальную стоимость см. в [Каталоге услуг](https://www.5systems.ru/services?field_tags_target_id%5B21%5D=21&sort_by=created&sort_order=ASC)).*
+> *Актуально начиная с версии релиза 5S AUTO **2.6.1** (версия конфигурации 2.6.1.1) в рамках [отдельной подписки](https://www.5systems.ru/services/integraciya-s-motordata) (актуальную стоимость см. в [Каталоге услуг](https://www.5systems.ru/services?field_tags_target_id%5B21%5D=21&sort_by=created&sort_order=ASC)).*
 
 ## Содержание
 
@@ -43,7 +43,7 @@
 
 [![MotorData](attachments/video-01-motordata.png)](https://edu.5systems.ru/video/MotorData/MotorData.mp4)
 
-Функционал интеграции с MotorData доступен пользователям программы 5S AUTO, действует начиная с релиза 2.6.1.1.
+Функционал интеграции с MotorData доступен пользователям программы 5S AUTO, действует начиная с релиза 2.6.1 (версия конфигурации 2.6.1.1).
 
 Для начала работы необходимо *зарегистрироваться в [личном кабинете](https://motordata.net/ru/sign/in)* на сайте MotorData. Логин и пароль от личного кабинета потребуются при [настройке интеграции](#настройка-интеграции).
 

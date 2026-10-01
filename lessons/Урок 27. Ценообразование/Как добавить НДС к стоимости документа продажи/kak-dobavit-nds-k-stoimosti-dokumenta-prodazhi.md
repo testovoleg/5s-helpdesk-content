@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/kak-dobavit-nds-k-stoimosti-dokumenta-prodazhi</sub>
 
-> *Актуально начиная с версии релиза 5S AUTO **2.8.3.12**.*
+> *Актуально начиная с версии релиза 5S AUTO **2.8.4** (версия конфигурации 2.8.3.12).*
 
 ## Содержание
 

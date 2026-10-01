@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/ustanovka-lokalnogo-modulya-chestnogo-znaka</sub>
 
-> *Актуально начиная с версии релиза 5S AUTO **2.8.3.58**.*
+> *Актуально начиная с версии релиза 5S AUTO **2.8.4** (версия конфигурации 2.8.3.58).*
 
 ## Содержание
 
