@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:21:06+03:00",
+  "generated_at": "2026-10-01T10:24:44+03:00",
   "count": 640,
   "sections": {
     "tips": [
@@ -881,7 +881,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Результат операции неизвестен – списание могло пройти",
       "file": "rezultat-operacii-neizvesten-spisanie-moglo-proyti.md",
       "id": "rezultat-operacii-neizvesten-spisanie-moglo-proyti",
-      "sha": "7eb4c1de8735fdf5404c876ffc9de392bb184050",
+      "sha": "f7ec6e12189b520e76bcf7cdce34ef62fb1066b8",
       "title": "Результат операции неизвестен – списание могло пройти",
       "type": "tips",
       "order": 4,
@@ -893,7 +893,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Подключение терминала эквайринга через POSConnector",
       "file": "podklyuchenie-terminala-ekvayringa-cherez-posconnector.md",
       "id": "podklyuchenie-terminala-ekvayringa-cherez-posconnector",
-      "sha": "3113ec9c345ded3d75bedefa2cc944321330a5c6",
+      "sha": "a0cddaaf4ee50ab2798553a566b6de182aea2b44",
       "title": "Подключение терминала эквайринга через POSConnector",
       "type": "articles",
       "order": 7,
@@ -906,7 +906,7 @@
       "path": "articles/5S AUTO/Маркировка/Подбор и автоподстановка кодов маркировки",
       "file": "podbor-i-avtopodstanovka-kodov-markirovki.md",
       "id": "podbor-i-avtopodstanovka-kodov-markirovki",
-      "sha": "985f66cbc536d8b7841a71e55ea413bdc5f38238",
+      "sha": "0e4cb2fe083e298248816c08156b94f153b63fd1",
       "title": "Подбор и автоподстановка кодов маркировки",
       "type": "articles",
       "order": 2,
@@ -4360,7 +4360,7 @@
       "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
       "file": "markirovka-tovarov.md",
       "id": "markirovka-tovarov",
-      "sha": "16dde99e9b6241082a85a2b603abe5208ceae9d7",
+      "sha": "583fe9c3fa485d67819222ea6d0a5a5666b55388",
       "title": "Маркировка товаров",
       "type": "articles",
       "order": 0,
