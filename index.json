@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:48:40+03:00",
+  "generated_at": "2026-10-01T09:50:57+03:00",
   "count": 640,
   "sections": {
     "tips": [
@@ -951,7 +951,7 @@
       "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "544d4de618ff8b6aa360291ecbf79362b753de5d",
+      "sha": "476e9af825e53908694cec91beebc86ab713aa30",
       "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
       "type": "articles",
       "order": 0,
@@ -7076,7 +7076,7 @@
       "path": "articles/5S AUTO/Склад и запчасти/Виды склада",
       "file": "vidy-sklada.md",
       "id": "vidy-sklada",
-      "sha": "960294b9932ebda3d5de7f0ce863c04c1c193f88",
+      "sha": "ca25027ade0e289ba651061ec79bd3d5ff949aca",
       "title": "Виды склада",
       "type": "articles",
       "order": 8,
