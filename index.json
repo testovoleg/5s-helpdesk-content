@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T11:48:38+03:00",
+  "generated_at": "2026-10-05T12:03:33+03:00",
   "count": 628,
   "sections": {
     "tips": [
@@ -3648,11 +3648,11 @@
       "path": "articles/5S AUTO/Прочее/Как обратиться в техническую поддержку",
       "file": "kak-obratitsya-v-tekhnicheskuyu-podderzhku.md",
       "id": "kak-obratitsya-v-tekhnicheskuyu-podderzhku",
-      "sha": "deb5b47a03655a28c7c2d4fad0471935082ecaba",
+      "sha": "cc139ece42d4ecd0c649d75ad51761661f48e041",
       "title": "Как обратиться в техническую поддержку",
       "type": "articles",
       "order": 0,
-      "updated_at": "2026-06-24",
+      "updated_at": "2026-10-05",
       "date_kind": "updated",
       "added_at": "2026-09-10T11:42:31+03:00",
       "reading_time": 9
