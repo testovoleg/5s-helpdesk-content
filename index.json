@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:53:50+03:00",
+  "generated_at": "2026-10-05T09:06:05+03:00",
   "count": 641,
   "sections": {
     "tips": [
@@ -846,7 +846,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 22161 Не удалось создать COM-объект POSConnector",
       "file": "oshibka-22161-ne-udalos-sozdat-com-obekt-posconnector.md",
       "id": "oshibka-22161-ne-udalos-sozdat-com-obekt-posconnector",
-      "sha": "4de35373db4acb419b9c1c298429cd4b0e0c6c13",
+      "sha": "d9da0e218930d21a64b62cf47640b2e6261e6ce8",
       "title": "Ошибка 22161 Не удалось создать COM-объект POSConnector",
       "type": "tips",
       "order": 0,
@@ -858,7 +858,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 22162 Нет связи с процессингом",
       "file": "oshibka-22162-net-svyazi-s-processingom.md",
       "id": "oshibka-22162-net-svyazi-s-processingom",
-      "sha": "4d926508d1039303dd3acd819f4e21c367ccdaa1",
+      "sha": "46917f85b7ad7ea28b8ac1ba63c971ff961f6947",
       "title": "Ошибка 22162 Нет связи с процессингом",
       "type": "tips",
       "order": 1,
@@ -906,7 +906,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Подключение терминала эквайринга через POSConnector",
       "file": "podklyuchenie-terminala-ekvayringa-cherez-posconnector.md",
       "id": "podklyuchenie-terminala-ekvayringa-cherez-posconnector",
-      "sha": "9d9424b431cbfe1888fe851dc750ad748890b491",
+      "sha": "df52f6af24624dc20222eb6168fda458f6d11dba",
       "title": "Подключение терминала эквайринга через POSConnector",
       "type": "articles",
       "order": 7,
