@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T09:43:54+03:00",
+  "generated_at": "2026-10-05T10:22:11+03:00",
   "count": 641,
   "sections": {
     "tips": [
@@ -964,7 +964,7 @@
       "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "f50c430160a1f7a0e08ff9a7a372beade598cba4",
+      "sha": "fc5996edcde969dc7406d87f6b53794948b77e1a",
       "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
       "type": "articles",
       "order": 0,
@@ -3825,7 +3825,7 @@
       "path": "articles/5S AUTO/Прочее/Как обратиться в техническую поддержку",
       "file": "kak-obratitsya-v-tekhnicheskuyu-podderzhku.md",
       "id": "kak-obratitsya-v-tekhnicheskuyu-podderzhku",
-      "sha": "c4bfb1a186a85d9f3e670236298cc26a6b93a521",
+      "sha": "9ea443769f63949adf05ff13b48182de37ee362c",
       "title": "Как обратиться в техническую поддержку",
       "type": "articles",
       "order": 0,
