@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T13:58:10+03:00",
+  "generated_at": "2026-10-05T16:15:50+03:00",
   "count": 628,
   "sections": {
     "tips": [
@@ -6570,7 +6570,7 @@
       "path": "articles/5S AUTO/Работа с заказами/Распределение поступлений по заказам",
       "file": "raspredelenie-postupleniy-po-zakazam.md",
       "id": "raspredelenie-postupleniy-po-zakazam",
-      "sha": "eea1f1e851506a0da4a5048682b31ddfae210891",
+      "sha": "ae89acf4057fd7c7d2d2718aededc4aefff27a01",
       "title": "Распределение поступлений по заказам",
       "type": "articles",
       "order": 3,
