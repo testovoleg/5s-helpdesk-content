@@ -10,26 +10,13 @@
 - [Варианты формирования скидок](attachments/varianty-formirovaniya-skidok.docx)
 - [Инструкция по бонусной системе](attachments/instrukciya-po-bonusnoy-sisteme.docx)
 - [Описание функционала утверждения документов](attachments/opisanie-funkcionala-utverzhdeniya-dokumentov.docx)
-- [Механизм отправки уведомлений](attachments/mehanizm-otpravki-uvedomleniy.docx)
-- [Создание значимого события](attachments/sozdanie-znachimogo-sobytiya.docx)
 - [Оплата картой](attachments/oplata-kartoy.docx)
-- [Порядок работы с кассами с поддержкой ФДД 1.05](attachments/poryadok-raboty-s-kassami-s-podderzhkoy-fdd-1-05.docx)
-- [Дополнение "Альфа-Авто: Интерфейс с Аудатэкс"](attachments/dopolnenie-alfa-avto-interfeys-s-audateks.docx)
-- [Чек коррекции](attachments/chek-korrekcii.docx)
 - [Учет по характеристикам номенклатуры](attachments/uchet-po-harakteristikam-nomenklatury.docx)
-- [Методика работы по новым правилам применения ККТ с 01.07.2019](https://rarus.ru/publications/20190730-metodika-raboty-KKT-v-alfa-avto-avtosalon-avtoservis-avtozapchasti-prof-393386/)
-- [Реализация товара с маркировкой](https://rarus.ru/publications/20200122-realizatsiya-tovara-s-markirovkoy-412295/)<br>
-  ⇨ Ссылка на скачивание файла: [ЗаполнениеУчетаМаркировкиВТипахНоменклатуры.zip](attachments/zapolnenieuchetamarkirovkivtipahnomenklatury.zip)
 - Обновленная документация 2021:
   - Методические материалы (Руководство пользователя):
     - [Том 1](attachments/tom-1.pdf)
     - [Том 2](attachments/tom-2.pdf)
     - [Том 3](attachments/tom-3.pdf)
-  - [Инструкция: Учет прослеживаемых товаров в Альфа-Авто ред.5](attachments/instrukciya-uchet-proslezhivaemyh-tovarov-v-alfa-avto-red-5.docx)
-  - Обработка Получение РНПТ для прослеживаемых товаров на остатках:<br>
-    предназначена для использования на релизе 5.1.27.04.<br>
-    Исправлено формирование количества в единицах прослеживаемости при создания документа "Уведомления об остатках прослеживаемых товаров" на дату, которая указана в обработке, и с учетом изменений количества в сформированных инвентаризациях.<br>
-    ⇨ Ссылка на скачивание файла: [ОстаткиПрослеживаемыхТоваров.zip](attachments/ostatkiproslezhivaemyhtovarov.zip)
 
 ## Файлы для скачивания
 
@@ -39,19 +26,11 @@
 - [Варианты формирования скидок](attachments/varianty-formirovaniya-skidok.docx) (.docx, 242 КБ)
 - [Инструкция по бонусной системе](attachments/instrukciya-po-bonusnoy-sisteme.docx) (.docx, 597 КБ)
 - [Описание функционала утверждения документов](attachments/opisanie-funkcionala-utverzhdeniya-dokumentov.docx) (.docx, 15 КБ)
-- [Механизм отправки уведомлений](attachments/mehanizm-otpravki-uvedomleniy.docx) (.docx, 253 КБ)
-- [Создание значимого события](attachments/sozdanie-znachimogo-sobytiya.docx) (.docx, 117 КБ)
 - [Оплата картой](attachments/oplata-kartoy.docx) (.docx, 977 КБ)
-- [Порядок работы с кассами с поддержкой ФДД 1.05](attachments/poryadok-raboty-s-kassami-s-podderzhkoy-fdd-1-05.docx) (.docx, 14.0 МБ)
-- [Дополнение "Альфа-Авто: Интерфейс с Аудатэкс"](attachments/dopolnenie-alfa-avto-interfeys-s-audateks.docx) (.docx, 2.3 МБ)
-- [Чек коррекции](attachments/chek-korrekcii.docx) (.docx, 1.5 МБ)
 - [Учет по характеристикам номенклатуры](attachments/uchet-po-harakteristikam-nomenklatury.docx) (.docx, 345 КБ)
-- [ЗаполнениеУчетаМаркировкиВТипахНоменклатуры](attachments/zapolnenieuchetamarkirovkivtipahnomenklatury.zip) (.zip, 7 КБ)
 - [Том 1](attachments/tom-1.pdf) (.pdf, 7.5 МБ)
 - [Том 2](attachments/tom-2.pdf) (.pdf, 9.0 МБ)
 - [Том 3](attachments/tom-3.pdf) (.pdf, 6.6 МБ)
-- [Инструкция: Учет прослеживаемых товаров в Альфа-Авто ред.5](attachments/instrukciya-uchet-proslezhivaemyh-tovarov-v-alfa-avto-red-5.docx) (.docx, 1.9 МБ)
-- [ОстаткиПрослеживаемыхТоваров](attachments/ostatkiproslezhivaemyhtovarov.zip) (.zip, 18 КБ)
 
 ---
 
