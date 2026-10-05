@@ -8,7 +8,6 @@
 - [Описание функционала дисконтных карт](attachments/opisanie-funkcionala-diskontnyh-kart.docx)
 - [Работа с дисконтными картами](attachments/rabota-s-diskontnymi-kartami.docx)
 - [Описание функционала утверждения документов](attachments/opisanie-funkcionala-utverzhdeniya-dokumentov.docx)
-- [Оплата картой](attachments/oplata-kartoy.docx)
 - [Учет по характеристикам номенклатуры](attachments/uchet-po-harakteristikam-nomenklatury.docx)
 - Обновленная документация 2021:
   - Методические материалы (Руководство пользователя):
@@ -22,7 +21,6 @@
 - [Описание функционала дисконтных карт](attachments/opisanie-funkcionala-diskontnyh-kart.docx) (.docx, 1.8 МБ)
 - [Работа с дисконтными картами](attachments/rabota-s-diskontnymi-kartami.docx) (.docx, 135 КБ)
 - [Описание функционала утверждения документов](attachments/opisanie-funkcionala-utverzhdeniya-dokumentov.docx) (.docx, 15 КБ)
-- [Оплата картой](attachments/oplata-kartoy.docx) (.docx, 977 КБ)
 - [Учет по характеристикам номенклатуры](attachments/uchet-po-harakteristikam-nomenklatury.docx) (.docx, 345 КБ)
 - [Том 1](attachments/tom-1.pdf) (.pdf, 7.5 МБ)
 - [Том 2](attachments/tom-2.pdf) (.pdf, 9.0 МБ)
