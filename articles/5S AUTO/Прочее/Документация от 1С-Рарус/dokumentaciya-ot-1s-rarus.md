@@ -9,11 +9,10 @@
 - [Работа с дисконтными картами](attachments/rabota-s-diskontnymi-kartami.docx)
 - [Описание функционала утверждения документов](attachments/opisanie-funkcionala-utverzhdeniya-dokumentov.docx)
 - [Учет по характеристикам номенклатуры](attachments/uchet-po-harakteristikam-nomenklatury.docx)
-- Обновленная документация 2021:
-  - Методические материалы (Руководство пользователя):
-    - [Том 1](attachments/tom-1.pdf)
-    - [Том 2](attachments/tom-2.pdf)
-    - [Том 3](attachments/tom-3.pdf)
+- Методические материалы (Руководство пользователя, 2021):
+  - [Том 1](attachments/tom-1.pdf)
+  - [Том 2](attachments/tom-2.pdf)
+  - [Том 3](attachments/tom-3.pdf)
 
 ## Файлы для скачивания
 
