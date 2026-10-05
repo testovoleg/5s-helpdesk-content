@@ -1,6 +1,6 @@
 # Как обратиться в техническую поддержку
 
-<table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 24.06.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 9 мин.</td><td><b>Обновлено:</b> 05.10.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/kak-obratitsya-v-tekhnicheskuyu-podderzhku</sub>
 
