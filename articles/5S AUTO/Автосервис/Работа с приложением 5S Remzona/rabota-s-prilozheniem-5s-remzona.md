@@ -44,12 +44,12 @@
 - расшифровка автомобиля по VIN;
 - просмотр справочников: контрагенты, автомобили, автоработы, номенклатура, производители, сотрудники.
 
-Приложение запускается через браузер, требуется авторизация под учетной записью [5S Cloud](../../Администрирование%20и%20настройка%20системы/Создание%20и%20редактирование%20пользователей%205S%20Cloud/sozdanie-i-redaktirovanie-polzovateley-5s-cloud.md). Приложение можно установить на устройство – компьютер, телефон или планшет.
+Приложение запускается через браузер, требуется авторизация под учетной записью [5S Cloud](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sozdanie-i-redaktirovanie-polzovateley-5s-cloud). Приложение можно установить на устройство – компьютер, телефон или планшет.
 
 *Для работы с приложением предварительно должны быть сделаны следующие настройки:*
 
-**1)** настроена интеграция с [API 5S AUTO](../../Администрирование%20и%20настройка%20системы/API%205S%20AUTO/api-5s-auto.md);<br>
-**2)** создан пользователь [5S Cloud](../../Администрирование%20и%20настройка%20системы/Создание%20и%20редактирование%20пользователей%205S%20Cloud/sozdanie-i-redaktirovanie-polzovateley-5s-cloud.md).
+**1)** настроена интеграция с [API 5S AUTO](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/api-5s-auto);<br>
+**2)** создан пользователь [5S Cloud](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sozdanie-i-redaktirovanie-polzovateley-5s-cloud).
 
 Дополнительная настройка прав и доступов в программе 5S AUTO не требуется.
 
@@ -57,11 +57,11 @@
 
 *Также рекомендуем для изучения статьи:*
 
-- [Заказ-наряды](../Работа%20с%20Заказ-нарядами/Заказ-наряды/zakaz-naryady.md);
-- [Диагностические анкеты](../Диагностические%20анкеты/diagnosticheskie-ankety.md);
-- [Работа с рекомендациями](../Работа%20с%20рекомендациями/rabota-s-rekomendaciyami.md);
-- [Расшифровка автомобиля по VIN](../Расшифровка%20автомобиля%20по%20VIN/rasshifrovka-avtomobilya-po-vin.md);
-- [Работа с приложением 5S TSD](../../Склад%20и%20запчасти/Работа%20с%20приложением%205S%20TSD/rabota-s-prilozheniem-5s-tsd.md).
+- [Заказ-наряды](https://kb.5systems.ru/articles/5s-auto/avtoservis/zakaz-naryady);
+- [Диагностические анкеты](https://kb.5systems.ru/articles/5s-auto/avtoservis/diagnosticheskie-ankety);
+- [Работа с рекомендациями](https://kb.5systems.ru/articles/5s-auto/avtoservis/rabota-s-rekomendaciyami);
+- [Расшифровка автомобиля по VIN](https://kb.5systems.ru/articles/5s-auto/avtoservis/rasshifrovka-avtomobilya-po-vin);
+- [Работа с приложением 5S TSD](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/rabota-s-prilozheniem-5s-tsd).
 
 ## Первый запуск и установка
 
@@ -212,7 +212,7 @@
 
 ![5S Remzona – сохранение анкет](attachments/35-sohranenie-anket.png)
 
-Подробнее о диагностических анкетах – в статье «[Диагностические анкеты](../Диагностические%20анкеты/diagnosticheskie-ankety.md)».
+Подробнее о диагностических анкетах – в статье «[Диагностические анкеты](https://kb.5systems.ru/articles/5s-auto/avtoservis/diagnosticheskie-ankety)».
 
 #### Рекомендации
 
@@ -231,7 +231,7 @@
 
 ![5S Remzona – редактирование рекомендации](attachments/14-dobavlenie-rekomendacii.png)
 
-Подробнее о рекомендациях – в статье «[Работа с рекомендациями](../Работа%20с%20рекомендациями/rabota-s-rekomendaciyami.md)».
+Подробнее о рекомендациях – в статье «[Работа с рекомендациями](https://kb.5systems.ru/articles/5s-auto/avtoservis/rabota-s-rekomendaciyami)».
 
 #### Примечание
 
@@ -293,7 +293,7 @@
 
 ### Подключение Станции
 
-Станцию нужно один раз привязать к компании. Сейчас привязку выполняют ***специалисты 5SYSTEMS*** – для подключения Станции [обратитесь в техподдержку](../../Прочее/Как%20обратиться%20в%20техническую%20поддержку/kak-obratitsya-v-tekhnicheskuyu-podderzhku.md).
+Станцию нужно один раз привязать к компании. Сейчас привязку выполняют ***специалисты 5SYSTEMS*** – для подключения Станции [обратитесь в техподдержку](https://kb.5systems.ru/articles/5s-auto/prochee/kak-obratitsya-v-tekhnicheskuyu-podderzhku).
 
 За интеграцией компании закреплен постоянный ***шестизначный код***. Порядок подключения:
 
@@ -399,7 +399,7 @@
 
 ![5S Remzona – расшифровка VIN](attachments/21-rasshifrovka-vin.png)
 
-Подробнее – в статье «[Расшифровка автомобиля по VIN](../Расшифровка%20автомобиля%20по%20VIN/rasshifrovka-avtomobilya-po-vin.md)».
+Подробнее – в статье «[Расшифровка автомобиля по VIN](https://kb.5systems.ru/articles/5s-auto/avtoservis/rasshifrovka-avtomobilya-po-vin)».
 
 ## Справочники
 
