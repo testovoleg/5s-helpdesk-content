@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T09:23:17+03:00",
-  "count": 641,
+  "generated_at": "2026-10-06T09:59:44+03:00",
+  "count": 642,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,19 @@
     ]
   },
   "materials": [
+    {
+      "path": "articles/5S AUTO/Прочее/Справка по Базе знаний",
+      "file": "spravka-po-baze-znaniy.md",
+      "id": "spravka-po-baze-znaniy",
+      "sha": "fcc3b96619064849187a7732f25ad7afaa39c9b3",
+      "title": "Справка по Базе знаний",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-10-06",
+      "date_kind": "created",
+      "added_at": "2026-10-06",
+      "reading_time": 3
+    },
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Платежный календарь",
       "file": "platezhnyy-kalendar.md",
@@ -3841,7 +3854,7 @@
       "sha": "a3e1777b33c678b2aa9e7f8f25d70d0db60475cb",
       "title": "Бот техподдержки в Max",
       "type": "articles",
-      "order": 1,
+      "order": 2,
       "updated_at": "2026-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-10T11:31:55+03:00",
@@ -3854,7 +3867,7 @@
       "sha": "4b0803673a5a5666a92d6fb81847cb11848b6f71",
       "title": "Документация от 1С-Рарус",
       "type": "articles",
-      "order": 2,
+      "order": 3,
       "updated_at": "2022-06-20",
       "date_kind": "updated",
       "added_at": "2026-09-10T11:31:55+03:00",
@@ -3867,7 +3880,7 @@
       "sha": "21ae685ed79d2be2851d834d61005add408a199f",
       "title": "Материалы для обмена с 1С Бухгалтерия",
       "type": "articles",
-      "order": 3,
+      "order": 4,
       "updated_at": "2024-11-20",
       "date_kind": "updated",
       "added_at": "2026-09-10T11:31:55+03:00",
