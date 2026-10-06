@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T10:58:53+03:00",
+  "generated_at": "2026-10-06T11:20:09+03:00",
   "count": 643,
   "sections": {
     "tips": [
@@ -818,6 +818,19 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Автоматическая выгрузка данных в 1С Бухгалтерию",
+      "file": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu.md",
+      "id": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu",
+      "sha": "1d51b21a64a311aadee7eb041d2d80f4a1122c71",
+      "title": "Автоматическая выгрузка данных в 1С:Бухгалтерию",
+      "type": "articles",
+      "order": 26,
+      "updated_at": "2026-10-06",
+      "date_kind": "updated",
+      "added_at": "2026-10-06T10:58:32+03:00",
+      "reading_time": 4
+    },
+    {
       "path": "articles/5S AUTO/Прочее/Переход к Базе знаний из программы",
       "file": "perekhod-k-baze-znaniy-iz-programmy.md",
       "id": "perekhod-k-baze-znaniy-iz-programmy",
@@ -829,19 +842,6 @@
       "date_kind": "updated",
       "added_at": "2026-10-06T09:59:26+03:00",
       "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Автоматическая выгрузка данных в 1С Бухгалтерию",
-      "file": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu.md",
-      "id": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu",
-      "sha": "139d9c9f2577d8bf9fb77ab3157e6749dc42e7a6",
-      "title": "Автоматическая выгрузка данных в 1С:Бухгалтерию",
-      "type": "articles",
-      "order": 26,
-      "updated_at": "2026-10-06",
-      "date_kind": "created",
-      "added_at": "2026-10-06",
-      "reading_time": 4
     },
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Платежный календарь",
