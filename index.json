@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T16:28:57+03:00",
+  "generated_at": "2026-10-07T16:41:31+03:00",
   "count": 643,
   "sections": {
     "tips": [
@@ -945,7 +945,7 @@
       "path": "articles/5S AUTO/Маркировка/Подбор и автоподстановка кодов маркировки",
       "file": "podbor-i-avtopodstanovka-kodov-markirovki.md",
       "id": "podbor-i-avtopodstanovka-kodov-markirovki",
-      "sha": "792fd57cd0d3210a27f55a908a0892e9c0200d16",
+      "sha": "17dd3649fbdd72dd805f8b3300d4991a04c0a5a6",
       "title": "Подбор и автоподстановка кодов маркировки",
       "type": "articles",
       "order": 2,
