@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:57:53+03:00",
+  "generated_at": "2026-10-07T15:02:40+03:00",
   "count": 643,
   "sections": {
     "tips": [
@@ -847,7 +847,7 @@
       "path": "articles/5S AUTO/Учет взаиморасчетов/Платежный календарь",
       "file": "platezhnyy-kalendar.md",
       "id": "platezhnyy-kalendar",
-      "sha": "1246563293577f874e5fa4f82ed1518ad73d9fb0",
+      "sha": "48c2bb951c86989450ddbb1cb8013fd898e83ea8",
       "title": "Платежный календарь",
       "type": "articles",
       "order": 8,
@@ -7115,7 +7115,7 @@
       "path": "articles/5S AUTO/Склад и запчасти/Виды склада",
       "file": "vidy-sklada.md",
       "id": "vidy-sklada",
-      "sha": "70f02eb1efcb0cd209fd216d37190a60d6ab0baf",
+      "sha": "c8e89869b0a344d96ef8b82406ed18dd5fbfc2cc",
       "title": "Виды склада",
       "type": "articles",
       "order": 8,
