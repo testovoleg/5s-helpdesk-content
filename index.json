@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:11:55+03:00",
+  "generated_at": "2026-10-07T12:58:25+03:00",
   "count": 629,
   "sections": {
     "tips": [
@@ -818,7 +818,7 @@
       "order": 2,
       "updated_at": "2026-10-07",
       "date_kind": "created",
-      "added_at": "2026-10-07",
+      "added_at": "2026-10-07T12:11:33+03:00",
       "reading_time": 8
     },
     {
@@ -3637,7 +3637,7 @@
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
       "id": "poslednie-dobavlennye-stati",
-      "sha": "14b6d1291edd15a1877098147a5acf1279bffaa5",
+      "sha": "43f880c8e839b6ac920a8431738626c6717d1e17",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 0,
