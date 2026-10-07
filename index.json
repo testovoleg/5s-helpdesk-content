@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:16:15+03:00",
+  "generated_at": "2026-10-07T15:23:40+03:00",
   "count": 643,
   "sections": {
     "tips": [
@@ -4399,7 +4399,7 @@
       "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
       "file": "markirovka-tovarov.md",
       "id": "markirovka-tovarov",
-      "sha": "d6c86702786d72d3dfcac9d64da5d2584c524a0b",
+      "sha": "ea1983d340c50a152dec5e621a18995844f4454e",
       "title": "Маркировка товаров",
       "type": "articles",
       "order": 0,
@@ -4412,7 +4412,7 @@
       "path": "articles/5S AUTO/Маркировка/Настройка интеграции с Честным знаком",
       "file": "nastroyka-integracii-s-chestnym-znakom.md",
       "id": "nastroyka-integracii-s-chestnym-znakom",
-      "sha": "6b50eb9bdc42ade3c15dd725b75a7595fdf321c1",
+      "sha": "bd612d1d0c6d58d5fee09506e50eb02fa6832559",
       "title": "Настройка интеграции с Честным знаком",
       "type": "articles",
       "order": 6,
