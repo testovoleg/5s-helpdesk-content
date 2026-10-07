@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:42:39+03:00",
+  "generated_at": "2026-10-07T14:05:15+03:00",
   "count": 643,
   "sections": {
     "tips": [
@@ -920,7 +920,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Результат операции неизвестен – списание могло пройти",
       "file": "rezultat-operacii-neizvesten-spisanie-moglo-proyti.md",
       "id": "rezultat-operacii-neizvesten-spisanie-moglo-proyti",
-      "sha": "ca4d835f8490558db1bcc10a25b7fc9b9c285847",
+      "sha": "12e162b4508a6a6542c32ac347cb76cf70be06e2",
       "title": "Результат операции неизвестен – списание могло пройти",
       "type": "tips",
       "order": 4,
@@ -932,7 +932,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Подключение терминала эквайринга через POSConnector",
       "file": "podklyuchenie-terminala-ekvayringa-cherez-posconnector.md",
       "id": "podklyuchenie-terminala-ekvayringa-cherez-posconnector",
-      "sha": "139a2017da7416bea4cee0dbafa72983c5eadd2c",
+      "sha": "b06482bdd597768d8d3e6b178cb8991334bd9132",
       "title": "Подключение терминала эквайринга через POSConnector",
       "type": "articles",
       "order": 7,
@@ -7115,7 +7115,7 @@
       "path": "articles/5S AUTO/Склад и запчасти/Виды склада",
       "file": "vidy-sklada.md",
       "id": "vidy-sklada",
-      "sha": "977e5536c01af957d87fb421e655f262dbf4a594",
+      "sha": "70f02eb1efcb0cd209fd216d37190a60d6ab0baf",
       "title": "Виды склада",
       "type": "articles",
       "order": 8,
