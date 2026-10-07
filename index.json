@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:49:24+03:00",
+  "generated_at": "2026-10-07T14:51:05+03:00",
   "count": 643,
   "sections": {
     "tips": [
@@ -932,7 +932,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Подключение терминала эквайринга через POSConnector",
       "file": "podklyuchenie-terminala-ekvayringa-cherez-posconnector.md",
       "id": "podklyuchenie-terminala-ekvayringa-cherez-posconnector",
-      "sha": "b06482bdd597768d8d3e6b178cb8991334bd9132",
+      "sha": "ca00ec022a752d861211f97b77539ae494329906",
       "title": "Подключение терминала эквайринга через POSConnector",
       "type": "articles",
       "order": 7,
