@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:23:30+03:00",
+  "generated_at": "2026-10-08T14:35:43+03:00",
   "count": 643,
   "sections": {
     "tips": [
@@ -3916,7 +3916,7 @@
       "path": "articles/5S AUTO/Контроль неликвидов/Настройка прав доступа к Контролю неликвидов",
       "file": "nastroyka-prav-dostupa-k-kontrolyu-nelikvidov.md",
       "id": "nastroyka-prav-dostupa-k-kontrolyu-nelikvidov",
-      "sha": "6f5e39be49d8f1b2da37cd55d9b368c62f03ebb3",
+      "sha": "2e751ae83a727abcfd1f0eb32cf8939a4e2bc421",
       "title": "Настройка прав доступа к Контролю неликвидов",
       "type": "articles",
       "order": 3,
