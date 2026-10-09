@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T09:17:24+03:00",
-  "count": 643,
+  "generated_at": "2026-10-09T10:04:08+03:00",
+  "count": 644,
   "sections": {
     "tips": [
       {
@@ -818,6 +818,19 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Прочее/Подписки компании в программе",
+      "file": "podpiski-kompanii-v-programme.md",
+      "id": "podpiski-kompanii-v-programme",
+      "sha": "e731f399d94db33a362c6949fd737dc07e20a3de",
+      "title": "Подписки компании в программе",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-10-09",
+      "date_kind": "created",
+      "added_at": "2026-10-09",
+      "reading_time": 2
+    },
+    {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Автоматическая выгрузка данных в 1С Бухгалтерию",
       "file": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu.md",
       "id": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu",
@@ -834,7 +847,7 @@
       "path": "articles/5S AUTO/Прочее/Переход к Базе знаний из программы",
       "file": "perekhod-k-baze-znaniy-iz-programmy.md",
       "id": "perekhod-k-baze-znaniy-iz-programmy",
-      "sha": "8939b7cacc2547d24264b3fe9f1ec94cb75307cb",
+      "sha": "8c8090f44174195ed5faf356c0dcbf56b22d7092",
       "title": "Переход к Базе знаний из программы",
       "type": "articles",
       "order": 1,
@@ -3867,7 +3880,7 @@
       "sha": "a3e1777b33c678b2aa9e7f8f25d70d0db60475cb",
       "title": "Бот техподдержки в Max",
       "type": "articles",
-      "order": 2,
+      "order": 3,
       "updated_at": "2026-06-24",
       "date_kind": "updated",
       "added_at": "2026-09-10T11:31:55+03:00",
@@ -3880,7 +3893,7 @@
       "sha": "4b0803673a5a5666a92d6fb81847cb11848b6f71",
       "title": "Документация от 1С-Рарус",
       "type": "articles",
-      "order": 3,
+      "order": 4,
       "updated_at": "2022-06-20",
       "date_kind": "updated",
       "added_at": "2026-09-10T11:31:55+03:00",
@@ -3893,7 +3906,7 @@
       "sha": "21ae685ed79d2be2851d834d61005add408a199f",
       "title": "Материалы для обмена с 1С Бухгалтерия",
       "type": "articles",
-      "order": 4,
+      "order": 5,
       "updated_at": "2024-11-20",
       "date_kind": "updated",
       "added_at": "2026-09-10T11:31:55+03:00",
