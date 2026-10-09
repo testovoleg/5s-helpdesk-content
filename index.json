@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T14:53:05+03:00",
+  "generated_at": "2026-10-09T16:15:59+03:00",
   "count": 644,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "articles/5S AUTO/Прочее/Подписки компании в программе",
       "file": "podpiski-kompanii-v-programme.md",
       "id": "podpiski-kompanii-v-programme",
-      "sha": "e731f399d94db33a362c6949fd737dc07e20a3de",
+      "sha": "28ee39e462bb4e8eab2667481c759b6f471f6074",
       "title": "Подписки компании в программе",
       "type": "articles",
       "order": 2,
@@ -847,7 +847,7 @@
       "path": "articles/5S AUTO/Прочее/Переход к Базе знаний из программы",
       "file": "perekhod-k-baze-znaniy-iz-programmy.md",
       "id": "perekhod-k-baze-znaniy-iz-programmy",
-      "sha": "8c8090f44174195ed5faf356c0dcbf56b22d7092",
+      "sha": "2ca5089914562db6cd87bb7836944da334334a05",
       "title": "Переход к Базе знаний из программы",
       "type": "articles",
       "order": 1,
