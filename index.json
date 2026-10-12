@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T14:03:42+03:00",
-  "count": 644,
+  "generated_at": "2026-10-12T14:08:39+03:00",
+  "count": 645,
   "sections": {
     "tips": [
       {
@@ -203,9 +203,9 @@
                 "order": 2
               },
               {
-                "name": "Штрихкодирование номенклатуры",
-                "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры",
-                "id": "shtrikhkodirovanie-nomenklatury",
+                "name": "Штрихкодирование",
+                "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование",
+                "id": "shtrikhkodirovanie",
                 "uuid": "2789a197-9ea4-43bb-b693-1fae53aed279",
                 "order": 10
               }
@@ -818,6 +818,19 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование/Штрихкодирование ячеек хранения",
+      "file": "shtrikhkodirovanie-yacheek-khraneniya.md",
+      "id": "shtrikhkodirovanie-yacheek-khraneniya",
+      "sha": "741dff9b4b879b485052d15777c7a3ab18a93872",
+      "title": "Штрихкодирование ячеек хранения",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2026-10-12",
+      "date_kind": "created",
+      "added_at": "2026-10-12",
+      "reading_time": 6
+    },
+    {
       "path": "articles/5S AUTO/Прочее/Подписки компании в программе",
       "file": "podpiski-kompanii-v-programme.md",
       "id": "podpiski-kompanii-v-programme",
@@ -1003,7 +1016,7 @@
       "path": "articles/5S AUTO/Полезное/Релизы/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "e0cf27c75bdb1ba7caa7039e38b7f632a036dc90",
+      "sha": "9e6c1f6d0e85eefb23b2c010850e1dd405a81ade",
       "title": "Ожидаемые обновления в релизе 5S AUTO 2.8.5",
       "type": "articles",
       "order": 0,
@@ -1260,7 +1273,7 @@
       "path": "tips/5S AUTO/Практики/Как организовать порядок на складе",
       "file": "organizaciya-poryadka-na-sklade.md",
       "id": "organizaciya-poryadka-na-sklade",
-      "sha": "cf1b0ae86ace6e5b91303a96830c2b6e3227c164",
+      "sha": "04f772ac55d478c74e9245925f3b2f0413b8ce6d",
       "title": "Как организовать порядок на складе",
       "type": "tips",
       "order": 10,
@@ -3840,7 +3853,7 @@
       "path": "articles/5S AUTO/Полезное/Последние добавленные статьи",
       "file": "poslednie-dobavlennye-stati.md",
       "id": "poslednie-dobavlennye-stati",
-      "sha": "53048d2456fb07757b042b3470672f78b976a640",
+      "sha": "e490a919c235dac40ba6986ad9e6c63392c04786",
       "title": "Последние добавленные статьи",
       "type": "articles",
       "order": 1,
@@ -4698,7 +4711,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/API 5S AUTO",
       "file": "api-5s-auto.md",
       "id": "api-5s-auto",
-      "sha": "4955b16eb1d5330256893e03f4575e06275c1637",
+      "sha": "3ca6f8cc451f326546c0ab65803240cbe3af63e8",
       "title": "API 5S AUTO",
       "type": "articles",
       "order": 17,
@@ -6902,7 +6915,7 @@
       "path": "articles/5S AUTO/Склад и запчасти/Работа с приложением 5S TSD",
       "file": "rabota-s-prilozheniem-5s-tsd.md",
       "id": "rabota-s-prilozheniem-5s-tsd",
-      "sha": "f8928c673149c88970641ac683daa230e1341b50",
+      "sha": "4588e957502cc624277bd832cc7ee7621fd993ed",
       "title": "Работа с приложением 5S TSD",
       "type": "articles",
       "order": 18,
@@ -6929,7 +6942,7 @@
       "path": "articles/5S AUTO/Склад и запчасти/Интерфейс для ТСД",
       "file": "interfeys-dlya-tsd.md",
       "id": "interfeys-dlya-tsd",
-      "sha": "79ba446bd3168b26cf4c2e2191d368d763a54caa",
+      "sha": "efe6908201b24a5e5da7bd77c7deb4c9e2f297a9",
       "title": "Интерфейс для ТСД",
       "type": "articles",
       "order": 17,
@@ -7067,23 +7080,10 @@
       "reading_time": 8
     },
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Назначение штрихкодов товарам",
-      "file": "naznachenie-shtrikhkodov-tovaram.md",
-      "id": "naznachenie-shtrikhkodov-tovaram",
-      "sha": "8d4a1dd088975f746fcac1d24e87c3989814fd64",
-      "title": "Назначение штрихкодов товарам",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2024-10-30",
-      "date_kind": "updated",
-      "added_at": "2026-09-02T13:59:06+03:00",
-      "reading_time": 4
-    },
-    {
       "path": "articles/5S AUTO/Торговое оборудование/Подключение сканера штрихкодов",
       "file": "podklyuchenie-skanera-shtrikhkodov.md",
       "id": "podklyuchenie-skanera-shtrikhkodov",
-      "sha": "f090905bad330b9c95199aec99e1ae80e09ce905",
+      "sha": "b81705b1abe201ff1bdc853ce666112906952495",
       "title": "Подключение сканера штрихкодов",
       "type": "articles",
       "order": 5,
@@ -7093,23 +7093,10 @@
       "reading_time": 8,
       "also_in": [
         {
-          "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры",
+          "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование",
           "order": 1
         }
       ]
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование номенклатуры/Сканирование штрихкодов",
-      "file": "skanirovanie-shtrikhkodov-tovarov.md",
-      "id": "skanirovanie-shtrikhkodov-tovarov",
-      "sha": "033edceaa8db3a6d7afad4f32bddeda22005f474",
-      "title": "Сканирование штрихкодов товаров",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2025-01-17",
-      "date_kind": "updated",
-      "added_at": "2026-09-02T13:23:53+03:00",
-      "reading_time": 16
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Инвентаризация",
@@ -7128,7 +7115,7 @@
       "path": "articles/5S AUTO/Склад и запчасти/Виды склада",
       "file": "vidy-sklada.md",
       "id": "vidy-sklada",
-      "sha": "c15d17250dd1e989adf29a9216c70a6e6b464e62",
+      "sha": "80d874bddac08c84c9b113795f8a2ef7278b9070",
       "title": "Виды склада",
       "type": "articles",
       "order": 8,
@@ -8521,7 +8508,7 @@
       "path": "articles/5S AUTO/CRM/Работа с уведомлениями",
       "file": "rabota-s-uvedomleniyami.md",
       "id": "rabota-s-uvedomleniyami",
-      "sha": "a933a6d7a1d2e99f28415f7c0356d2724c90afa3",
+      "sha": "94ad217196695291707d0ebdb405d4211be27e19",
       "title": "Работа с уведомлениями",
       "type": "articles",
       "order": 7,
@@ -9379,6 +9366,32 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование/Сканирование штрихкодов",
+      "file": "skanirovanie-shtrikhkodov-tovarov.md",
+      "id": "skanirovanie-shtrikhkodov-tovarov",
+      "sha": "033edceaa8db3a6d7afad4f32bddeda22005f474",
+      "title": "Сканирование штрихкодов товаров",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-01-17",
+      "date_kind": "updated",
+      "added_at": "2025-01-17",
+      "reading_time": 16
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование/Назначение штрихкодов товарам",
+      "file": "naznachenie-shtrikhkodov-tovaram.md",
+      "id": "naznachenie-shtrikhkodov-tovaram",
+      "sha": "8d4a1dd088975f746fcac1d24e87c3989814fd64",
+      "title": "Назначение штрихкодов товарам",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-10-30",
+      "date_kind": "updated",
+      "added_at": "2024-10-30",
+      "reading_time": 4
     }
   ]
 }
