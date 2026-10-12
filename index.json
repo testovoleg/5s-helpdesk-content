@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T14:59:22+03:00",
+  "generated_at": "2026-10-12T15:57:20+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -809,6 +809,19 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/История релизов/Архив обновлений",
+      "file": "arkhiv-obnovleniy.md",
+      "id": "arkhiv-obnovleniy",
+      "sha": "0c58887769052022cc0578c72b2b7c598033b516",
+      "title": "Архив обновлений",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2022-07-19",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:59:02+03:00",
+      "reading_time": 16
+    },
+    {
       "path": "articles/5S AUTO/История релизов/Новый релиз 2.2.7",
       "file": "novyy-reliz-227.md",
       "id": "novyy-reliz-227",
@@ -1189,7 +1202,7 @@
       "path": "articles/5S AUTO/История релизов/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "384b0e52f61cc0076d52bafde712dedf22ef4b59",
+      "sha": "ab31151c575ad5eb150729471e551171a8113628",
       "title": "Beta-релиз 2.8.5 (готовится к выпуску)",
       "type": "articles",
       "order": 0,
@@ -9554,19 +9567,6 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
-    },
-    {
-      "path": "articles/5S AUTO/История релизов/Архив обновлений",
-      "file": "arkhiv-obnovleniy.md",
-      "id": "arkhiv-obnovleniy",
-      "sha": "0c58887769052022cc0578c72b2b7c598033b516",
-      "title": "Архив обновлений",
-      "type": "articles",
-      "order": 15,
-      "updated_at": "2022-07-19",
-      "date_kind": "updated",
-      "added_at": "2022-07-19",
-      "reading_time": 16
     }
   ]
 }
