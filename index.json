@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:57:20+03:00",
+  "generated_at": "2026-10-12T16:15:21+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -808,19 +808,6 @@
     ]
   },
   "materials": [
-    {
-      "path": "articles/5S AUTO/История релизов/Архив обновлений",
-      "file": "arkhiv-obnovleniy.md",
-      "id": "arkhiv-obnovleniy",
-      "sha": "0c58887769052022cc0578c72b2b7c598033b516",
-      "title": "Архив обновлений",
-      "type": "articles",
-      "order": 15,
-      "updated_at": "2022-07-19",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:59:02+03:00",
-      "reading_time": 16
-    },
     {
       "path": "articles/5S AUTO/История релизов/Новый релиз 2.2.7",
       "file": "novyy-reliz-227.md",
@@ -9567,6 +9554,19 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Архив обновлений 2021–2022",
+      "file": "arkhiv-obnovleniy-2021-2022.md",
+      "id": "arkhiv-obnovleniy-2021-2022",
+      "sha": "b460383620b32a7fab5804d66df1cdca6c1a7cc7",
+      "title": "Архив обновлений 2021–2022",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2022-07-19",
+      "date_kind": "updated",
+      "added_at": "2022-07-19",
+      "reading_time": 16
     }
   ]
 }
