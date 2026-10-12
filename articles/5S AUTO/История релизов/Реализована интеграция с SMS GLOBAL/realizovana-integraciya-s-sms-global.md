@@ -1,0 +1,14 @@
+# Реализована интеграция с SMS GLOBAL
+
+<table><tr><td><b>Время чтения:</b> 1 мин.</td><td><b>Обновлено:</b> 16.01.2022</td></tr></table>
+
+<sub>Источник: https://www.5systems.ru/news/realizovana-integraciya-s-sms-global</sub>
+
+Реализована интеграция с sms-провайдером "SMS GLOBAL" для компаний Молдавии и Украины.
+
+Подробнее см. на сайте: [https://www.smsglobal.com/](https://www.smsglobal.com/).
+
+---
+
+**Теги:** обновления, новые возможности, реализована интеграция с SMS GLOBAL
+
