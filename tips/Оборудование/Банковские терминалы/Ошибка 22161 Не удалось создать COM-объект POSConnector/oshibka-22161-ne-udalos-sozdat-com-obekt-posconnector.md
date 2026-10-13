@@ -26,7 +26,7 @@
 
 ## Материалы для изучения
 
-- [Подключение терминала эквайринга через POSConnector](../../../../articles/5S%20AUTO/Торговое%20оборудование/Подключение%20терминала%20эквайринга%20через%20POSConnector/podklyuchenie-terminala-ekvayringa-cherez-posconnector.md)
+- [Интеграция с терминалами оплаты UniTodi](../../../../articles/5S%20AUTO/Торговое%20оборудование/Интеграция%20с%20терминалами%20оплаты%20UniTodi/integraciya-s-terminalami-oplaty-unitodi.md)
 
 ## См. также
 
