@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:51:15+03:00",
+  "generated_at": "2026-10-13T10:00:15+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -903,7 +903,7 @@
       "path": "articles/5S AUTO/История релизов/Новый релиз 2.7.1",
       "file": "novyy-reliz-271.md",
       "id": "novyy-reliz-271",
-      "sha": "6f21cf205d662490078c5e827f0beaffb208ba85",
+      "sha": "826f6dcd6af10b0302d6848843a782c54ecde3d9",
       "title": "Новый релиз 2.7.1",
       "type": "articles",
       "order": 7,
