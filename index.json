@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:01:56+03:00",
+  "generated_at": "2026-10-13T16:12:51+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1144,7 +1144,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Интеграция с терминалами оплаты UniTodi",
       "file": "integraciya-s-terminalami-oplaty-unitodi.md",
       "id": "integraciya-s-terminalami-oplaty-unitodi",
-      "sha": "e568ac4c990a5ed3b1e5f778aa5afa5b53135bf2",
+      "sha": "483ce1c9c8095c1bcc1d9bc15817e0d505725ceb",
       "title": "Интеграция с терминалами оплаты UniTodi",
       "type": "articles",
       "order": 7,
