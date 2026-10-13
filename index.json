@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T10:00:15+03:00",
+  "generated_at": "2026-10-13T10:20:43+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -942,7 +942,7 @@
       "path": "articles/5S AUTO/История релизов/Новый релиз 2.8.2",
       "file": "novyy-reliz-282.md",
       "id": "novyy-reliz-282",
-      "sha": "ecf619e43cee8481ffefa327b30e97fa1b742123",
+      "sha": "801b8f57d5a103cefbc01603ddd61fee263ad28f",
       "title": "Новый релиз 2.8.2",
       "type": "articles",
       "order": 3,
