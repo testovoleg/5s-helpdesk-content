@@ -55,7 +55,9 @@
 
 [POSConnector](attachments/POSConnector.zip) (.zip, 2909 КБ)
 
-> 🛠 Комментарий для черновика: *Архив пересобран 13.10.2026: присланный файл был копией уже установленной папки C:\POSConnector с рабочего компьютера – в логах и тестовых настройках были персональные данные (слип-чеки с реквизитами продавца, номер терминала, RRN операций). Удалены log2026-05-26.txt, PbfProxy\202605260001.txt, posconnector_test.ini, tmp.ini, port_list.txt, tmptest.txt; оставлены POSConnector.dll, тестер poscon_tester_gui.exe, client.ini, PbfProxy с config.ini и bat-файлами службы, USB-драйвер, Uninstall.exe. Версии по логам: POSConnector 0.1.11, PbfProxy 0.4.4. Официальной ссылки на скачивание не нашлось: ссылка PBF (service.pbfgroup.ru), которую приводят на Infostart, по отзывам недоступна с апреля 2026; у «АРТ Магазина» лежит POSConnector 0.1.15 – сторонняя копия.*
+> 🛠 Комментарий для черновика: *Дистрибутив:*
+> - *Архив пересобран 13.10.2026: присланный файл был копией уже установленной папки C:\POSConnector с рабочего компьютера – в логах и тестовых настройках были персональные данные (слип-чеки с реквизитами продавца, номер терминала, RRN операций). Удалены log2026-05-26.txt, PbfProxy\202605260001.txt, posconnector_test.ini, tmp.ini, port_list.txt, tmptest.txt; оставлены POSConnector.dll, тестер poscon_tester_gui.exe, client.ini, PbfProxy с config.ini и bat-файлами службы, USB-драйвер, Uninstall.exe. Версии по логам: POSConnector 0.1.11, PbfProxy 0.4.4.*
+> - *Официальной ссылки на скачивание не нашлось: ссылка PBF (service.pbfgroup.ru), которую приводят на Infostart, по отзывам недоступна с апреля 2026; у «АРТ Магазина» лежит POSConnector 0.1.15 – сторонняя копия.*
 
 Также для работы терминала:
 
