@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:34:32+03:00",
+  "generated_at": "2026-10-14T16:46:56+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1096,7 +1096,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 22162 Нет связи с процессингом",
       "file": "oshibka-22162-net-svyazi-s-processingom.md",
       "id": "oshibka-22162-net-svyazi-s-processingom",
-      "sha": "dd391b0077beffefd0edf8ecfbdd7a646e6d11a6",
+      "sha": "04533709f02e50d5bddfead1832431aed16b3abb",
       "title": "Ошибка 22162 Нет связи с процессингом",
       "type": "tips",
       "order": 1,
