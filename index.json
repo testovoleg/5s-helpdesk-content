@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:01:53+03:00",
+  "generated_at": "2026-10-14T17:16:09+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1120,7 +1120,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 22168 Не указан номер терминала (TID)",
       "file": "oshibka-22168-ne-ukazan-nomer-terminala-tid.md",
       "id": "oshibka-22168-ne-ukazan-nomer-terminala-tid",
-      "sha": "26dc655f565e05dfe71220fe5f4064f06bd4b428",
+      "sha": "d106bbebc0dffae13d849f68e2ab4319f7c71a50",
       "title": "Ошибка 22168 Не указан номер терминала (TID)",
       "type": "tips",
       "order": 2,
@@ -4613,7 +4613,7 @@
       "path": "articles/5S AUTO/Маркировка/Настройка интеграции с Честным знаком",
       "file": "nastroyka-integracii-s-chestnym-znakom.md",
       "id": "nastroyka-integracii-s-chestnym-znakom",
-      "sha": "bd612d1d0c6d58d5fee09506e50eb02fa6832559",
+      "sha": "48f3c864181b47884461066ebfeb92b2acb59249",
       "title": "Настройка интеграции с Честным знаком",
       "type": "articles",
       "order": 6,
