@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:23:58+03:00",
+  "generated_at": "2026-10-14T14:34:34+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1096,7 +1096,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 22162 Нет связи с процессингом",
       "file": "oshibka-22162-net-svyazi-s-processingom.md",
       "id": "oshibka-22162-net-svyazi-s-processingom",
-      "sha": "f488dbc8913074855cde461ca8541df304ae86b3",
+      "sha": "7f3b16d6d56e23677d3a061357171f0776ed49c3",
       "title": "Ошибка 22162 Нет связи с процессингом",
       "type": "tips",
       "order": 1,
@@ -1120,7 +1120,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 22168 Не указан номер терминала (TID)",
       "file": "oshibka-22168-ne-ukazan-nomer-terminala-tid.md",
       "id": "oshibka-22168-ne-ukazan-nomer-terminala-tid",
-      "sha": "e8f9c2238650e67209b2dc83d48608c0a09b0763",
+      "sha": "45633ae9573b97e4c5873e2992a577a94d13e906",
       "title": "Ошибка 22168 Не указан номер терминала (TID)",
       "type": "tips",
       "order": 2,
