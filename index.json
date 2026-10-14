@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:34:34+03:00",
+  "generated_at": "2026-10-14T15:13:57+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1084,7 +1084,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 22161 Не удалось создать COM-объект POSConnector",
       "file": "oshibka-22161-ne-udalos-sozdat-com-obekt-posconnector.md",
       "id": "oshibka-22161-ne-udalos-sozdat-com-obekt-posconnector",
-      "sha": "1de247dbcf26eec109a1ed60c4d265b7119f93ec",
+      "sha": "873c87c3aa2493ba541b5811ad17fb8066c21c7b",
       "title": "Ошибка 22161 Не удалось создать COM-объект POSConnector",
       "type": "tips",
       "order": 0,
