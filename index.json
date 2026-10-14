@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:11:42+03:00",
+  "generated_at": "2026-10-14T14:13:25+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1144,7 +1144,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Интеграция с терминалами оплаты UniTodi",
       "file": "integraciya-s-terminalami-oplaty-unitodi.md",
       "id": "integraciya-s-terminalami-oplaty-unitodi",
-      "sha": "e0c68f8106134f8eba39b4d10e7dc8143fc0f7b9",
+      "sha": "1266eaefacfdd9980141b489f8c0146b0860206e",
       "title": "Интеграция с терминалами оплаты UniTodi",
       "type": "articles",
       "order": 7,
@@ -1202,7 +1202,7 @@
       "path": "articles/5S AUTO/История релизов/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "8cddcdfba2cf95e3e020ecdca2cee35e9483eadc",
+      "sha": "4dbe8894475825ff14e5d1e900e3fc253e95164a",
       "title": "Бета-релиз 2.8.5 (готовится к выпуску)",
       "type": "articles",
       "order": 0,
