@@ -60,7 +60,7 @@
 
 Дистрибутив POSConnector:
 
-[POSConnector](attachments/POSConnector.zip) (.zip, 2909 КБ)
+[posconnector.zip](attachments/posconnector.zip) (.zip, 2909 КБ)
 
 > 🛠 Комментарий для черновика: *Дистрибутив:*
 > - *Архив пересобран 13.10.2026: присланный файл был копией уже установленной папки C:\POSConnector с рабочего компьютера – в логах и тестовых настройках были персональные данные (слип-чеки с реквизитами продавца, номер терминала, RRN операций). Удалены log2026-05-26.txt, PbfProxy\202605260001.txt, posconnector_test.ini, tmp.ini, port_list.txt, tmptest.txt; оставлены POSConnector.dll, тестер poscon_tester_gui.exe, client.ini, PbfProxy с config.ini и bat-файлами службы, USB-драйвер, Uninstall.exe. Версии по логам: POSConnector 0.1.11, PbfProxy 0.4.4.*
@@ -174,6 +174,10 @@
 - [Операция одобрена банком, но результат не удалось передать в 1С](../../../../tips/Оборудование/Банковские%20терминалы/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%D0%B4%D0%BE%D0%B1%D1%80%D0%B5%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%BE%D0%BC%2C%20%D0%BD%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%20%D0%BD%D0%B5%20%D1%83%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%8C%20%D0%B2%201%D0%A1/operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s.md)
 - [Результат операции неизвестен – списание могло пройти](../../../../tips/Оборудование/Банковские%20терминалы/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B5%D0%BD%20%E2%80%93%20%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%BE%D0%B3%D0%BB%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B9%D1%82%D0%B8/rezultat-operacii-neizvesten-spisanie-moglo-proyti.md)
 - [Ошибка 22166 Сверка итогов не выполнена](../../../../tips/Оборудование/Банковские%20терминалы/%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%2022166%20%D0%A1%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%20%D0%BD%D0%B5%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B0/oshibka-22166-sverka-itogov-ne-vypolnena.md)
+
+## Файл для скачивания
+
+- [posconnector.zip](attachments/posconnector.zip) (.zip, 2909 КБ)
 
 ---
 
