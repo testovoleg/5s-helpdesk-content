@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:15:17+03:00",
+  "generated_at": "2026-10-14T14:24:28+03:00",
   "count": 644,
   "sections": {
     "tips": [
@@ -809,6 +809,19 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Торговое оборудование/Интеграция с терминалами оплаты UniTodi",
+      "file": "integraciya-s-terminalami-oplaty-unitodi.md",
+      "id": "integraciya-s-terminalami-oplaty-unitodi",
+      "sha": "b56696dea2a6af07d153c05fcaf281221f0c191d",
+      "title": "Интеграция с терминалами оплаты UniTodi",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-10-14T14:14:58+03:00",
+      "reading_time": 10
+    },
+    {
       "path": "articles/5S AUTO/История релизов/Архив обновлений 2021–2022",
       "file": "arkhiv-obnovleniy-2021-2022.md",
       "id": "arkhiv-obnovleniy-2021-2022",
@@ -1041,19 +1054,6 @@
       "date_kind": "created",
       "added_at": "2026-09-30T09:18:17+03:00",
       "reading_time": 15
-    },
-    {
-      "path": "articles/5S AUTO/Торговое оборудование/Интеграция с терминалами оплаты UniTodi",
-      "file": "integraciya-s-terminalami-oplaty-unitodi.md",
-      "id": "integraciya-s-terminalami-oplaty-unitodi",
-      "sha": "a78936df1c556feac30dc87db395a99f72568fca",
-      "title": "Интеграция с терминалами оплаты UniTodi",
-      "type": "articles",
-      "order": 7,
-      "updated_at": "2026-09-30",
-      "date_kind": "created",
-      "added_at": "2026-09-30",
-      "reading_time": 10
     },
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Точка Банка",
