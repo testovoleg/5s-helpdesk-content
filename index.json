@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:35:58+03:00",
+  "generated_at": "2026-10-14T15:14:31+03:00",
   "count": 650,
   "sections": {
     "tips": [
@@ -809,6 +809,78 @@
   },
   "materials": [
     {
+      "path": "tips/Оборудование/Банковские терминалы/Операция одобрена банком, но результат не удалось передать в 1С",
+      "file": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s.md",
+      "id": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s",
+      "sha": "a7e28f525a8b9b4708adc56a3e803df70aa2e0a5",
+      "title": "Операция одобрена банком, но результат не удалось передать в 1С",
+      "type": "tips",
+      "order": 3,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-10-14T14:35:39+03:00"
+    },
+    {
+      "path": "tips/Оборудование/Банковские терминалы/Ошибка 22161 Не удалось создать COM-объект POSConnector",
+      "file": "oshibka-22161-ne-udalos-sozdat-com-obekt-posconnector.md",
+      "id": "oshibka-22161-ne-udalos-sozdat-com-obekt-posconnector",
+      "sha": "873c87c3aa2493ba541b5811ad17fb8066c21c7b",
+      "title": "Ошибка 22161 Не удалось создать COM-объект POSConnector",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-10-14T14:35:39+03:00"
+    },
+    {
+      "path": "tips/Оборудование/Банковские терминалы/Ошибка 22162 Нет связи с процессингом",
+      "file": "oshibka-22162-net-svyazi-s-processingom.md",
+      "id": "oshibka-22162-net-svyazi-s-processingom",
+      "sha": "d7ee71f56b4d9ed99d94db859c495aa6fc3cf696",
+      "title": "Ошибка 22162 Нет связи с процессингом",
+      "type": "tips",
+      "order": 1,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-10-14T14:35:39+03:00"
+    },
+    {
+      "path": "tips/Оборудование/Банковские терминалы/Ошибка 22166 Сверка итогов не выполнена",
+      "file": "oshibka-22166-sverka-itogov-ne-vypolnena.md",
+      "id": "oshibka-22166-sverka-itogov-ne-vypolnena",
+      "sha": "5c5bee6c29e81954428c07af9507e356559da9f0",
+      "title": "Ошибка 22166 Сверка итогов не выполнена",
+      "type": "tips",
+      "order": 5,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-10-14T14:35:39+03:00"
+    },
+    {
+      "path": "tips/Оборудование/Банковские терминалы/Ошибка 22168 Не указан номер терминала (TID)",
+      "file": "oshibka-22168-ne-ukazan-nomer-terminala-tid.md",
+      "id": "oshibka-22168-ne-ukazan-nomer-terminala-tid",
+      "sha": "45633ae9573b97e4c5873e2992a577a94d13e906",
+      "title": "Ошибка 22168 Не указан номер терминала (TID)",
+      "type": "tips",
+      "order": 2,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-10-14T14:35:39+03:00"
+    },
+    {
+      "path": "tips/Оборудование/Банковские терминалы/Результат операции неизвестен – списание могло пройти",
+      "file": "rezultat-operacii-neizvesten-spisanie-moglo-proyti.md",
+      "id": "rezultat-operacii-neizvesten-spisanie-moglo-proyti",
+      "sha": "3dc4ce7cab84b0eadc786961ec653d7a03615035",
+      "title": "Результат операции неизвестен – списание могло пройти",
+      "type": "tips",
+      "order": 4,
+      "updated_at": "2026-09-30",
+      "date_kind": "created",
+      "added_at": "2026-10-14T14:35:39+03:00"
+    },
+    {
       "path": "articles/5S AUTO/Торговое оборудование/Интеграция с терминалами оплаты UniTodi",
       "file": "integraciya-s-terminalami-oplaty-unitodi.md",
       "id": "integraciya-s-terminalami-oplaty-unitodi",
@@ -1054,78 +1126,6 @@
       "date_kind": "created",
       "added_at": "2026-09-30T09:18:17+03:00",
       "reading_time": 15
-    },
-    {
-      "path": "tips/Оборудование/Банковские терминалы/Операция одобрена банком, но результат не удалось передать в 1С",
-      "file": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s.md",
-      "id": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s",
-      "sha": "a7e28f525a8b9b4708adc56a3e803df70aa2e0a5",
-      "title": "Операция одобрена банком, но результат не удалось передать в 1С",
-      "type": "tips",
-      "order": 3,
-      "updated_at": "2026-09-30",
-      "date_kind": "created",
-      "added_at": "2026-09-30"
-    },
-    {
-      "path": "tips/Оборудование/Банковские терминалы/Ошибка 22161 Не удалось создать COM-объект POSConnector",
-      "file": "oshibka-22161-ne-udalos-sozdat-com-obekt-posconnector.md",
-      "id": "oshibka-22161-ne-udalos-sozdat-com-obekt-posconnector",
-      "sha": "1de247dbcf26eec109a1ed60c4d265b7119f93ec",
-      "title": "Ошибка 22161 Не удалось создать COM-объект POSConnector",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-09-30",
-      "date_kind": "created",
-      "added_at": "2026-09-30"
-    },
-    {
-      "path": "tips/Оборудование/Банковские терминалы/Ошибка 22162 Нет связи с процессингом",
-      "file": "oshibka-22162-net-svyazi-s-processingom.md",
-      "id": "oshibka-22162-net-svyazi-s-processingom",
-      "sha": "d7ee71f56b4d9ed99d94db859c495aa6fc3cf696",
-      "title": "Ошибка 22162 Нет связи с процессингом",
-      "type": "tips",
-      "order": 1,
-      "updated_at": "2026-09-30",
-      "date_kind": "created",
-      "added_at": "2026-09-30"
-    },
-    {
-      "path": "tips/Оборудование/Банковские терминалы/Ошибка 22166 Сверка итогов не выполнена",
-      "file": "oshibka-22166-sverka-itogov-ne-vypolnena.md",
-      "id": "oshibka-22166-sverka-itogov-ne-vypolnena",
-      "sha": "5c5bee6c29e81954428c07af9507e356559da9f0",
-      "title": "Ошибка 22166 Сверка итогов не выполнена",
-      "type": "tips",
-      "order": 5,
-      "updated_at": "2026-09-30",
-      "date_kind": "created",
-      "added_at": "2026-09-30"
-    },
-    {
-      "path": "tips/Оборудование/Банковские терминалы/Ошибка 22168 Не указан номер терминала (TID)",
-      "file": "oshibka-22168-ne-ukazan-nomer-terminala-tid.md",
-      "id": "oshibka-22168-ne-ukazan-nomer-terminala-tid",
-      "sha": "45633ae9573b97e4c5873e2992a577a94d13e906",
-      "title": "Ошибка 22168 Не указан номер терминала (TID)",
-      "type": "tips",
-      "order": 2,
-      "updated_at": "2026-09-30",
-      "date_kind": "created",
-      "added_at": "2026-09-30"
-    },
-    {
-      "path": "tips/Оборудование/Банковские терминалы/Результат операции неизвестен – списание могло пройти",
-      "file": "rezultat-operacii-neizvesten-spisanie-moglo-proyti.md",
-      "id": "rezultat-operacii-neizvesten-spisanie-moglo-proyti",
-      "sha": "3dc4ce7cab84b0eadc786961ec653d7a03615035",
-      "title": "Результат операции неизвестен – списание могло пройти",
-      "type": "tips",
-      "order": 4,
-      "updated_at": "2026-09-30",
-      "date_kind": "created",
-      "added_at": "2026-09-30"
     },
     {
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Точка Банка",
