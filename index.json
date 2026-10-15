@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:16:09+03:00",
+  "generated_at": "2026-10-15T09:00:10+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1084,7 +1084,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 22161 Не удалось создать COM-объект POSConnector",
       "file": "oshibka-22161-ne-udalos-sozdat-com-obekt-posconnector.md",
       "id": "oshibka-22161-ne-udalos-sozdat-com-obekt-posconnector",
-      "sha": "635cd5fb230e1f37aab6223773b7093c85dfda74",
+      "sha": "11ed390b43b26c167f252e8187afd554aaba088c",
       "title": "Ошибка 22161 Не удалось создать COM-объект POSConnector",
       "type": "tips",
       "order": 0,
@@ -1120,7 +1120,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 22168 Не указан номер терминала (TID)",
       "file": "oshibka-22168-ne-ukazan-nomer-terminala-tid.md",
       "id": "oshibka-22168-ne-ukazan-nomer-terminala-tid",
-      "sha": "d106bbebc0dffae13d849f68e2ab4319f7c71a50",
+      "sha": "a1ed29ab256ef34a679971bdb622b77b92779ba0",
       "title": "Ошибка 22168 Не указан номер терминала (TID)",
       "type": "tips",
       "order": 2,
