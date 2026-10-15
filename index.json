@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:39:39+03:00",
+  "generated_at": "2026-10-15T14:09:37+03:00",
   "count": 650,
   "sections": {
     "tips": [
@@ -872,7 +872,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Результат операции неизвестен – списание могло пройти",
       "file": "rezultat-operacii-neizvesten-spisanie-moglo-proyti.md",
       "id": "rezultat-operacii-neizvesten-spisanie-moglo-proyti",
-      "sha": "89ed27391f1c095372962d4c583e8d2a16933b08",
+      "sha": "740fd6d33bedb024ffc29c89fd2a16fb4cea2d87",
       "title": "Результат операции неизвестен – списание могло пройти",
       "type": "tips",
       "order": 4,
