@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:45:48+03:00",
+  "generated_at": "2026-10-15T13:31:24+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1108,7 +1108,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 22166 Сверка итогов не выполнена",
       "file": "oshibka-22166-sverka-itogov-ne-vypolnena.md",
       "id": "oshibka-22166-sverka-itogov-ne-vypolnena",
-      "sha": "8b892c22cd593be439b6e185d8119f0331e853f7",
+      "sha": "ee81d081369bb1751899a8b15e70b6297afcf492",
       "title": "Ошибка 22166 Сверка итогов не выполнена",
       "type": "tips",
       "order": 5,
@@ -1144,7 +1144,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Интеграция с терминалами оплаты UniTodi",
       "file": "integraciya-s-terminalami-oplaty-unitodi.md",
       "id": "integraciya-s-terminalami-oplaty-unitodi",
-      "sha": "0d3ddd6232c63e3e4194a20d9665e0e1634ab64f",
+      "sha": "0d403b47e9d8fde86f8fac479ac9afc0b29ebf86",
       "title": "Интеграция с терминалами оплаты UniTodi",
       "type": "articles",
       "order": 7,
