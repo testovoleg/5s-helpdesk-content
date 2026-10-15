@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:08:22+03:00",
+  "generated_at": "2026-10-15T10:19:09+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1108,7 +1108,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 22166 Сверка итогов не выполнена",
       "file": "oshibka-22166-sverka-itogov-ne-vypolnena.md",
       "id": "oshibka-22166-sverka-itogov-ne-vypolnena",
-      "sha": "a10bf852896140e5f78eb0c179310eecf620c572",
+      "sha": "aac70be520e9651928e3869e122ac81fe14d846e",
       "title": "Ошибка 22166 Сверка итогов не выполнена",
       "type": "tips",
       "order": 5,
