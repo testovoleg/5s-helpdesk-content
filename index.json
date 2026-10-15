@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:28:23+03:00",
+  "generated_at": "2026-10-15T14:50:29+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1096,7 +1096,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 22162 Нет связи с процессингом",
       "file": "oshibka-22162-net-svyazi-s-processingom.md",
       "id": "oshibka-22162-net-svyazi-s-processingom",
-      "sha": "e0b401e1da70c9c4569f65debcd5eabbf5fc7703",
+      "sha": "1db8e4c044314dd68a4af11aeeb7ec0edc416ccb",
       "title": "Ошибка 22162 Нет связи с процессингом",
       "type": "tips",
       "order": 1,
@@ -1108,7 +1108,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 22166 Сверка итогов не выполнена",
       "file": "oshibka-22166-sverka-itogov-ne-vypolnena.md",
       "id": "oshibka-22166-sverka-itogov-ne-vypolnena",
-      "sha": "c5ec8555d026b74e0fc38cd4b955c60a526a1051",
+      "sha": "61f8b134cbdbfd811be9258c688f0715a31eb2ba",
       "title": "Ошибка 22166 Сверка итогов не выполнена",
       "type": "tips",
       "order": 5,
@@ -1144,7 +1144,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Интеграция с терминалами оплаты UniTodi",
       "file": "integraciya-s-terminalami-oplaty-unitodi.md",
       "id": "integraciya-s-terminalami-oplaty-unitodi",
-      "sha": "d3e9870a48be86a78657807fe575555e104279af",
+      "sha": "3762b7db107a0503bd5d6c1c5ccfee9542448ced",
       "title": "Интеграция с терминалами оплаты UniTodi",
       "type": "articles",
       "order": 7,
