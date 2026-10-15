@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:06:50+03:00",
+  "generated_at": "2026-10-15T10:08:51+03:00",
   "count": 650,
   "sections": {
     "tips": [
@@ -860,7 +860,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка 22168 Не указан номер терминала (TID)",
       "file": "oshibka-22168-ne-ukazan-nomer-terminala-tid.md",
       "id": "oshibka-22168-ne-ukazan-nomer-terminala-tid",
-      "sha": "a1ed29ab256ef34a679971bdb622b77b92779ba0",
+      "sha": "548fd9ba561d1998a44d6a2d8efeb7b9d7709896",
       "title": "Ошибка 22168 Не указан номер терминала (TID)",
       "type": "tips",
       "order": 2,
