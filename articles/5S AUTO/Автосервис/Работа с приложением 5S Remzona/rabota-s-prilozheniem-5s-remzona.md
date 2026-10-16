@@ -4,6 +4,8 @@
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.5**.*
 
+> 🛠 Комментарий для черновика: *Опубликована 16.10.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/rabota-s-prilozheniem-5s-remzona](https://kb.5systems.ru/articles/5s-auto/avtoservis/rabota-s-prilozheniem-5s-remzona)*
+
 > [!NOTE]
 > Функционал приложения дорабатывается: внешний вид и возможности могут меняться, описание будет дополняться.
 

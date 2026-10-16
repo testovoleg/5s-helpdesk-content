@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:06:25+03:00",
+  "generated_at": "2026-10-16T15:38:13+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1029,7 +1029,7 @@
       "path": "articles/5S AUTO/Прочее/Техподдержка/Подписки компании в программе",
       "file": "podpiski-kompanii-v-programme.md",
       "id": "podpiski-kompanii-v-programme",
-      "sha": "de2f34b7d17b8c5b152575b42f3c4474eb7963cd",
+      "sha": "3d314ffbcf6b1fc6b24156f08b7cf2598f6376e3",
       "title": "Подписки компании в программе",
       "type": "articles",
       "order": 2,
@@ -1061,7 +1061,7 @@
       "path": "articles/5S AUTO/Прочее/Техподдержка/Переход к Базе знаний из программы",
       "file": "perekhod-k-baze-znaniy-iz-programmy.md",
       "id": "perekhod-k-baze-znaniy-iz-programmy",
-      "sha": "a905dea194348fbdd45580860093f30f1c9a4637",
+      "sha": "3c59b27b0d00ac1c162fb4dad1504d2c7447300a",
       "title": "Переход к Базе знаний из программы",
       "type": "articles",
       "order": 1,
@@ -1165,7 +1165,7 @@
       "path": "articles/5S AUTO/Торговое оборудование/Интеграция с терминалами оплаты UniTodi",
       "file": "integraciya-s-terminalami-oplaty-unitodi.md",
       "id": "integraciya-s-terminalami-oplaty-unitodi",
-      "sha": "54dd137d491256a7e127d0df0619a57fa01a6821",
+      "sha": "80afff843b39d1fb1081f416edd2418324ebddb4",
       "title": "Интеграция с терминалами оплаты UniTodi",
       "type": "articles",
       "order": 7,
@@ -1204,7 +1204,7 @@
       "path": "articles/5S AUTO/Автосервис/Работа с приложением 5S Remzona",
       "file": "rabota-s-prilozheniem-5s-remzona.md",
       "id": "rabota-s-prilozheniem-5s-remzona",
-      "sha": "f84a0134e4c476b3e706de2d5a5697a14dfcae5e",
+      "sha": "e2a1e1afd7bfa5d051d3f031308831194b47c0ba",
       "title": "Работа с приложением 5S Remzona",
       "type": "articles",
       "order": 17,
