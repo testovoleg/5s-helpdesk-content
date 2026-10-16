@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/inventarizaciya</sub>
 
+Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/inventarizaciya](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/inventarizaciya)
+
 ## Содержание
 
 - [Введение](#введение)

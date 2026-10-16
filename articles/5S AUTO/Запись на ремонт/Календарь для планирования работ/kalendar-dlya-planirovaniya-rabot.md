@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/kalendar-dlya-planirovaniya-rabot</sub>
 
+Опубликовано 31.08.2026: [https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/kalendar-dlya-planirovaniya-rabot](https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/kalendar-dlya-planirovaniya-rabot)
+
 ## Содержание
 
 - [Интерфейс планировщика](#интерфейс-планировщика)

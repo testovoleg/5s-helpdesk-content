@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 31.07.2026: [https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-avtorizacii-ekvayringa-1001](https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-avtorizacii-ekvayringa-1001)
+
 ## Проблема
 
 Не получается принять оплату с типом «Платежная карта»: чек не печатается, потеряна связь с терминалом эквайринга. Терминал при этом может перезагружаться. На компьютере появляется ошибка:

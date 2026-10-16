@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 10.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-prodazhi-za-period-po-proizvoditelyu](https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-prodazhi-za-period-po-proizvoditelyu)
+
 ## Вопрос
 
 Как посмотреть продажи за определенный период по конкретному производителю?

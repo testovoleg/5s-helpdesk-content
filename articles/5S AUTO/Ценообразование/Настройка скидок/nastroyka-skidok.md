@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-skidok</sub>
 
+Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/cenoobrazovanie/nastroyka-skidok](https://kb.5systems.ru/articles/5s-auto/cenoobrazovanie/nastroyka-skidok)
+
 ## Содержание
 
 1. [Основные права, влияющие на применение цен и скидок](#основные-права-влияющие-на-применение-цен-и-скидок)

@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/primenyaemost-po-tipu-dvigatelya-i-tipu-kpp</sub>
 
+Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/primenyaemost-po-tipu-dvigatelya-i-tipu-kpp](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/primenyaemost-po-tipu-dvigatelya-i-tipu-kpp)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.3.1** (версия конфигурации 2.3.1.1).*
 
 ## Содержание

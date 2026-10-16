@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/shinnyy-otel</sub>
 
+Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/shinnyy-otel](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/shinnyy-otel)
+
 ## Содержание
 
 1. [Введение](#введение)

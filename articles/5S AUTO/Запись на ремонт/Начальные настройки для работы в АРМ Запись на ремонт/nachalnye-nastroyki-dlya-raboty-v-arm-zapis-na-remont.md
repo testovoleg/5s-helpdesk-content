@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/nachalnye-nastroyki-dlya-raboty-v-arm-zapis-na-remont</sub>
 
+Опубликовано 31.08.2026: [https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/nachalnye-nastroyki-dlya-raboty-v-arm-zapis-na-remont](https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/nachalnye-nastroyki-dlya-raboty-v-arm-zapis-na-remont)
+
 ## Содержание
 
 - [Введение](#введение)

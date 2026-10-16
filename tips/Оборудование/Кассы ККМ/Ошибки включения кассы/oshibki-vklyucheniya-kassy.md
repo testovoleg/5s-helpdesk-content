@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/deystviya-v-sluchae-esli-kassa-ne-rabotaet</sub>
 
+Опубликовано 31.07.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/oshibki-vklyucheniya-kassy](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/oshibki-vklyucheniya-kassy)
+
 ## Содержание
 
 - [Проблема](#проблема)

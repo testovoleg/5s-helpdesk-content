@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh</sub>
 
+Опубликовано 09.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh](https://kb.5systems.ru/tips/5s-auto/praktiki/uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh)
+
 ## Вопрос
 
 Как вести учет выработки специалистов по запчастям в Заказ-нарядах, если подбором запчастей занимается отдельный сотрудник?

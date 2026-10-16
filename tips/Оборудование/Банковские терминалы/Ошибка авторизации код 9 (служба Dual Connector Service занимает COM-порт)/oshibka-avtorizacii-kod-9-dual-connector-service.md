@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 29.07.2026: [https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-avtorizacii-kod-9-dual-connector-service](https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-avtorizacii-kod-9-dual-connector-service)
+
 ## Проблема
 
 При попытке принять оплату картой выходит ошибка кассы:

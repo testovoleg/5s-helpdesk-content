@@ -4,6 +4,8 @@
 
 > ![Повышенный уровень сложности](attachments/00-uroven-slozhnosti.png) **Статья для опытных пользователей!**
 
+Опубликовано 14.08.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/udalenie-starykh-dannykh](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/udalenie-starykh-dannykh)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.8.5**.*
 
 > 🛠 Комментарий для черновика: *функционал доступен с релиза 2.8.4.23; в описании релиза и в статье указан 2.8.5.*

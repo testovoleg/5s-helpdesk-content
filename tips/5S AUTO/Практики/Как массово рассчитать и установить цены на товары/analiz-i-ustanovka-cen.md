@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/analiz-i-ustanovka-cen</sub>
 
+Опубликовано 09.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/analiz-i-ustanovka-cen](https://kb.5systems.ru/tips/5s-auto/praktiki/analiz-i-ustanovka-cen)
+
 ## Вопрос
 
 Как массово рассчитать и установить новые цены на товары, например с учетом прайс-листов поставщиков и нужной наценки?

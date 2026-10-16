@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/prava-na-redaktirovanie-dokumentov</sub>
 
+Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/prava-na-redaktirovanie-dokumentov](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/prava-na-redaktirovanie-dokumentov)
+
 ## Содержание
 
 1. [Введение](#введение)

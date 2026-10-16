@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-api-sberbanka-dlya-zagruzki-vypisok</sub>
 
+Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/nastroyka-api-sberbanka-dlya-zagruzki-vypisok](https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/nastroyka-api-sberbanka-dlya-zagruzki-vypisok)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.8.2**.*
 
 ## Содержание

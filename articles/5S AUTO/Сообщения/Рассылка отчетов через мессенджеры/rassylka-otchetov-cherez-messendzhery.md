@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/rassylka-otchetov-cherez-messendzhery</sub>
 
+Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/soobscheniya/rassylka-otchetov-cherez-messendzhery](https://kb.5systems.ru/articles/5s-auto/soobscheniya/rassylka-otchetov-cherez-messendzhery)
+
 ## Содержание
 
 1. [Введение](#введение)

@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help (раздел «Вопрос-ответ»)</sub>
 
+Опубликовано 07.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/chto-delat-v-avariynoy-situacii](https://kb.5systems.ru/tips/tekhpodderzhka/chto-delat-v-avariynoy-situacii)
+
 ## Вопрос
 
 Что считается аварийной ситуацией и как обратиться в техподдержку, если она возникла?

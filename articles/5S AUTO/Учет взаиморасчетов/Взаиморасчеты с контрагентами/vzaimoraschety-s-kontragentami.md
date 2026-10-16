@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/vzaimoraschety-s-kontragentami</sub>
 
+Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/vzaimoraschety-s-kontragentami](https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/vzaimoraschety-s-kontragentami)
+
 ## Содержание
 
 1. [Понятие взаиморасчетов с контрагентами](#понятие-взаиморасчетов-с-контрагентами)

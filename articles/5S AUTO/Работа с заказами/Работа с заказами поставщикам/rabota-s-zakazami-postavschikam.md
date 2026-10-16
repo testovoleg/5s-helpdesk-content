@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-zakazami-postavschikam</sub>
 
+Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-zakazami/rabota-s-zakazami-postavschikam](https://kb.5systems.ru/articles/5s-auto/rabota-s-zakazami/rabota-s-zakazami-postavschikam)
+
 ## Содержание
 
 1. [Введение](#введение)

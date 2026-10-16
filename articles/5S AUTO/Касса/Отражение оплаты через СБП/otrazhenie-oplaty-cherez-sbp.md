@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/otrazhenie-oplaty-cherez-sbp</sub>
 
+Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/kassa/otrazhenie-oplaty-cherez-sbp](https://kb.5systems.ru/articles/5s-auto/kassa/otrazhenie-oplaty-cherez-sbp)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.002.005**.*
 
 ## Содержание

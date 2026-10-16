@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/sokhranenie-nastroek-arm-zapis-na-remont</sub>
 
+Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/sokhranenie-nastroek-arm-zapis-na-remont](https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/sokhranenie-nastroek-arm-zapis-na-remont)
+
 ## Содержание
 
 - [Сохранение настройки](#сохранение-настройки)

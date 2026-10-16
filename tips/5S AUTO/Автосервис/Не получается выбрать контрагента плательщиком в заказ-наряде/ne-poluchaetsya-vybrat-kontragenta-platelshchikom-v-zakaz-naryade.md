@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Создано:</b> 23.09.2026</td></tr></table>
 
+Опубликовано 23.09.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade](https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade)
+
 ## Проблема
 
 В заказ-наряде не получается указать нужного контрагента в поле «Плательщик»: поле остается пустым, а в служебных сообщениях программа пишет:

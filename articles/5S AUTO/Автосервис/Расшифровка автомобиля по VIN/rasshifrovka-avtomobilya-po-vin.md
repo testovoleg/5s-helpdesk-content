@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/rasshifrovka-avtomobilya-po-vin</sub>
 
+Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/rasshifrovka-avtomobilya-po-vin](https://kb.5systems.ru/articles/5s-auto/avtoservis/rasshifrovka-avtomobilya-po-vin)
+
 ## Содержание
 
 - [Введение](#введение)

@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy</sub>
 
+Опубликовано 29.07.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/raskhozhdenie-summ](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/raskhozhdenie-summ)
+
 ## Проблема
 
 При закрытии смены в кассе ККМ и на ФР обнаруживаются разные суммы — открывается окно «Расхождение сумм». Выводятся данные «Оборот по ККМ» и «Оборот по ФР». Программа, как правило, находит в базе чек на сумму расхождения и выводит его в таблице «Документы»:

@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 21.08.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-zadat-sklad-po-umolchaniyu](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-zadat-sklad-po-umolchaniyu)
+
 ## Вопрос
 
 При создании [инвентаризации](../../../../articles/5S%20AUTO/Склад%20и%20запчасти/Инвентаризация/inventarizaciya.md) по одной организации в поле **«Склад компании»** подставляется определенный склад:

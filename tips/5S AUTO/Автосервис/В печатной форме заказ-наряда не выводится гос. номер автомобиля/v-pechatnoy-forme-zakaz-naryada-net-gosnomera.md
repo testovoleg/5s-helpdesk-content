@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 19.08.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/v-pechatnoy-forme-zakaz-naryada-net-gosnomera](https://kb.5systems.ru/tips/5s-auto/avtoservis/v-pechatnoy-forme-zakaz-naryada-net-gosnomera)
+
 ## Проблема
 
 В печатной форме [заказ-наряда](../../../../articles/5S%20AUTO/Автосервис/Работа%20с%20Заказ-нарядами/Заказ-наряды/zakaz-naryady.md) поле **«гос. номер»** пустое, хотя в карточке автомобиля номер заполнен.

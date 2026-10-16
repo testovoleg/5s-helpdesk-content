@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/priglashenie-v-telegram</sub>
 
+Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/priglashenie-v-telegram](https://kb.5systems.ru/articles/5s-auto/crm/priglashenie-v-telegram)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.3.1** (версия конфигурации 2.3.1.1) (шаблон сообщения приглашения в Telegram автоматически добавится при обновлении конфигурации).*
 
 *Примечание:* предварительно в системе должна быть настроена [интеграция с Telegram](../../Сообщения/Интеграция%20с%20Telegram/integraciya-s-telegram.md), а у клиента должно быть установлено приложение Telegram.

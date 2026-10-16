@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/informirovanie-klienta-o-sostoyanii-zakaza-pokupatelya</sub>
 
+Опубликовано 27.08.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/informirovanie-klienta-o-sostoyanii-zakaza-pokupatelya](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/informirovanie-klienta-o-sostoyanii-zakaza-pokupatelya)
+
 ## Введение
 
 В программе есть регламентное задание, при исполнении которого проверяются активные заказы покупателей. В зависимости от текущего состояния заказа автоматически формируется задача для информирования клиента о поступлении товаров или о задержке в поставке.

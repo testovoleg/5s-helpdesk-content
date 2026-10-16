@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/modeli-avtomobiley-i-drugie-spravochniki</sub>
 
+Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/modeli-avtomobiley-i-drugie-spravochniki](https://kb.5systems.ru/articles/5s-auto/avtoservis/modeli-avtomobiley-i-drugie-spravochniki)
+
 ## Содержание
 
 - [Справочник Модели автомобилей](#справочник-модели-автомобилей)

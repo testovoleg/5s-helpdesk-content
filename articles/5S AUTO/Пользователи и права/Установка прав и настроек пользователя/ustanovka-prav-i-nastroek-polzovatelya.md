@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/ustanovka-prav-i-nastroek-polzovatelya</sub>
 
+Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/polzovateli-i-prava/ustanovka-prav-i-nastroek-polzovatelya](https://kb.5systems.ru/articles/5s-auto/polzovateli-i-prava/ustanovka-prav-i-nastroek-polzovatelya)
+
 ## Содержание
 
 1. [Введение](#введение)

@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/akt-sverki-vzaimoraschetov</sub>
 
+Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/akt-sverki-vzaimoraschetov](https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/akt-sverki-vzaimoraschetov)
+
 ## Содержание
 
 1. [Назначение](#назначение)

@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/obedinenie-sdelok</sub>
 
+Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/obedinenie-sdelok](https://kb.5systems.ru/articles/5s-auto/crm/obedinenie-sdelok)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.7.1**.*
 
 > *Статья редактируется, релиз готовится к выходу.*

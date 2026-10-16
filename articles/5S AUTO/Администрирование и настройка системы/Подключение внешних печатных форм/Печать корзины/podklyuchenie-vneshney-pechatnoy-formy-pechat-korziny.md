@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-vneshney-pechatnoy-formy-pechat-korziny</sub>
 
+Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/podklyuchenie-vneshney-pechatnoy-formy-pechat-korziny](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/podklyuchenie-vneshney-pechatnoy-formy-pechat-korziny)
+
 ## Содержание
 
 1. [Порядок подключения](#порядок-подключения)

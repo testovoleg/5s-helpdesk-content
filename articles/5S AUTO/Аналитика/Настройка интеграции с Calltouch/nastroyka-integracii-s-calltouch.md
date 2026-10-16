@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-integracii-s-calltouch</sub>
 
+Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/analitika/nastroyka-integracii-s-calltouch](https://kb.5systems.ru/articles/5s-auto/analitika/nastroyka-integracii-s-calltouch)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.7.1**.*
 
 ## Содержание

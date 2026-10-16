@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 13.08.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/oshibka-pri-probitii-cheka-144](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/oshibka-pri-probitii-cheka-144)
+
 ## Проблема
 
 При пробитии чека выходит ошибка кассы:

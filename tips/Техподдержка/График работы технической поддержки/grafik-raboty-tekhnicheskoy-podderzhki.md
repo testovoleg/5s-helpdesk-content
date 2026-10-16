@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help (раздел «Вопрос-ответ»)</sub>
 
+Опубликовано 07.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/grafik-raboty-tekhnicheskoy-podderzhki](https://kb.5systems.ru/tips/tekhpodderzhka/grafik-raboty-tekhnicheskoy-podderzhki)
+
 ## Вопрос
 
 В какие часы и дни работает техническая поддержка 5SYSTEMS и когда можно оставить заявку?

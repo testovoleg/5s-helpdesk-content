@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 17.08.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-zapolnyaetsya-master-v-zakaz-naryadah](https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-zapolnyaetsya-master-v-zakaz-naryadah)
+
 ## Проблема
 
 При создании документа **«Заказ-наряд»** реквизит **«Мастер»** не подставляется автоматически — поле остается пустым, и мастера приходится каждый раз выбирать из списка вручную.

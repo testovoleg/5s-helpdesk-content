@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/avtoraboty-0</sub>
 
+Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/avtoraboty](https://kb.5systems.ru/articles/5s-auto/avtoservis/avtoraboty)
+
 ## Содержание
 
 - [Справочник Автоработы](#справочник-автоработы)

@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/kontaktnye-lica</sub>
 
+Опубликовано 27.08.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/kontaktnye-lica](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/kontaktnye-lica)
+
 ## Содержание
 
 - [Введение](#введение)

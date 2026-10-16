@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 18.08.2026: [https://kb.5systems.ru/tips/5s-auto/kassa/pri-zakrytii-smeny-sozdayutsya-novye-dogovory](https://kb.5systems.ru/tips/5s-auto/kassa/pri-zakrytii-smeny-sozdayutsya-novye-dogovory)
+
 ## Проблема
 
 При [закрытии кассовой смены](../../../../articles/5S%20AUTO/Касса/Обработка%20Закрытие%20кассовой%20смены/obrabotka-zakrytie-kassovoy-smeny.md) формируется документ **«Изъятие из кассы (Инкассация)»**, и на этом шаге создается новый договор по контрагенту. Каждый день создается новый договор, их накапливается по одному на смену.

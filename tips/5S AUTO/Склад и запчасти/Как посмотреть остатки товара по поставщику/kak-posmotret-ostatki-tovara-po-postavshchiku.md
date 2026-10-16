@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 20.08.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-posmotret-ostatki-tovara-po-postavshchiku](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-posmotret-ostatki-tovara-po-postavshchiku)
+
 ## Вопрос
 
 Как посмотреть остатки товара по конкретному поставщику?

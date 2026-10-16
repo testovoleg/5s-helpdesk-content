@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/master-bystrogo-vvoda-polzovateley-i-sotrudnikov</sub>
 
+Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/polzovateli-i-prava/master-bystrogo-vvoda-polzovateley-i-sotrudnikov](https://kb.5systems.ru/articles/5s-auto/polzovateli-i-prava/master-bystrogo-vvoda-polzovateley-i-sotrudnikov)
+
 ## Содержание
 
 1. [Создание нового пользователя](#создание-нового-пользователя)

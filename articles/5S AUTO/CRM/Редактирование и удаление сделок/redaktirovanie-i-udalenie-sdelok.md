@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/redaktirovanie-i-udalenie-sdelok</sub>
 
+Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/redaktirovanie-i-udalenie-sdelok](https://kb.5systems.ru/articles/5s-auto/crm/redaktirovanie-i-udalenie-sdelok)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.001.001**. Обновленная форма сделки реализована в релизе **2.5.2** (версия конфигурации 2.5.2.1).*
 
 ## Содержание

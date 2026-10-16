@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Создано:</b> 28.09.2026</td></tr></table>
 
+Опубликовано 28.09.2026: [https://kb.5systems.ru/articles/5s-auto/kassa/nastroyka-kassirov-fr](https://kb.5systems.ru/articles/5s-auto/kassa/nastroyka-kassirov-fr)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.8.5**.*
 
 > 🛠 Комментарий для черновика: *функционал доступен с релиза 2.8.4.7; в описании релиза и в статье указан 2.8.5.*

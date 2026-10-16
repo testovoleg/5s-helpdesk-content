@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-parametrov-uvedomleniy</sub>
 
+Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/nastroyka-parametrov-uvedomleniy](https://kb.5systems.ru/articles/5s-auto/crm/nastroyka-parametrov-uvedomleniy)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.001.001**.*
 
 ## Содержание

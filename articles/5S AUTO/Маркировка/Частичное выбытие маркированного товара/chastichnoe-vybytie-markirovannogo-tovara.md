@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/chastichnoe-vybytie-markirovannogo-tovara</sub>
 
+Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/chastichnoe-vybytie-markirovannogo-tovara](https://kb.5systems.ru/articles/5s-auto/markirovka/chastichnoe-vybytie-markirovannogo-tovara)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3** (версия конфигурации 2.8.3.1). Функционал дорабатывается.*
 
 ## Содержание

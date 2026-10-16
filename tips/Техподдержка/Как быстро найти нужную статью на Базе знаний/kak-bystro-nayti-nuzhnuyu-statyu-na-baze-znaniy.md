@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help (раздел «Вопрос-ответ»)</sub>
 
+Опубликовано 07.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/kak-bystro-nayti-nuzhnuyu-statyu-na-baze-znaniy](https://kb.5systems.ru/tips/tekhpodderzhka/kak-bystro-nayti-nuzhnuyu-statyu-na-baze-znaniy)
+
 ## Вопрос
 
 Как быстро найти нужную статью на Базе знаний?

@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/prinyatie-resheniya-po-nelikvidam</sub>
 
+Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/kontrol-nelikvidov/prinyatie-resheniya-po-nelikvidam](https://kb.5systems.ru/articles/5s-auto/kontrol-nelikvidov/prinyatie-resheniya-po-nelikvidam)
+
 ## Содержание
 
 1. [Введение](#введение)

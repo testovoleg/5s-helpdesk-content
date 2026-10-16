@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/planirovanie-rabot-i-podgotovka-k-zaezdu</sub>
 
+Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/planirovanie-rabot-i-podgotovka-k-zaezdu](https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/planirovanie-rabot-i-podgotovka-k-zaezdu)
+
 ## Взаимосвязь планирования и калькуляции работ
 
 В **АРМ Запись на ремонт** идет работа с документом «Заявка на ремонт». На форме документа «Заявка на ремонт» есть две вкладки для наполнения работ:

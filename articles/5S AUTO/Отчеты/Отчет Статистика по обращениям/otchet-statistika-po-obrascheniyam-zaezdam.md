@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/otchet-statistika-po-obrascheniyam-zaezdam</sub>
 
+Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/otchety/otchet-statistika-po-obrascheniyam-zaezdam](https://kb.5systems.ru/articles/5s-auto/otchety/otchet-statistika-po-obrascheniyam-zaezdam)
+
 ## Содержание
 
 1. [Введение](#введение)

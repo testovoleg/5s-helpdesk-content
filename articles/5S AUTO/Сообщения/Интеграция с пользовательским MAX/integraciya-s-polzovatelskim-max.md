@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-polzovatelskim-max</sub>
 
+Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/soobscheniya/integraciya-s-polzovatelskim-max](https://kb.5systems.ru/articles/5s-auto/soobscheniya/integraciya-s-polzovatelskim-max)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.8.4** в рамках [подписки "Контакт-центр 5S Chat"](https://www.5systems.ru/services/kontakt-centr-5s-chat) (актуальные тарифы см. в [Каталоге услуг](https://www.5systems.ru/services?field_tags_target_id%5B21%5D=21&sort_by=created&sort_order=ASC)).*
 
 ## Содержание

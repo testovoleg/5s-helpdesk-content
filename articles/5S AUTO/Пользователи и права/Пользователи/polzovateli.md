@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/polzovateli</sub>
 
+Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/polzovateli-i-prava/polzovateli](https://kb.5systems.ru/articles/5s-auto/polzovateli-i-prava/polzovateli)
+
 ## Содержание
 
 1. [Введение](#введение)

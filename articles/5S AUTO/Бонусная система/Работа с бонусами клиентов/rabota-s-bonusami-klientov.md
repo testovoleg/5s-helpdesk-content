@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-bonusami-klientov</sub>
 
+Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/bonusnaya-sistema/rabota-s-bonusami-klientov](https://kb.5systems.ru/articles/5s-auto/bonusnaya-sistema/rabota-s-bonusami-klientov)
+
 ## Содержание
 
 1. [Введение](#введение)

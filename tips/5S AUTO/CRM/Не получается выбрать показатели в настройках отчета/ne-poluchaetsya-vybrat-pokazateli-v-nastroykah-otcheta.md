@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 18.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-poluchaetsya-vybrat-pokazateli-v-nastroykah-otcheta](https://kb.5systems.ru/tips/5s-auto/crm/ne-poluchaetsya-vybrat-pokazateli-v-nastroykah-otcheta)
+
 ## Проблема
 
 В настройках отчета **«Выработка исполнителей»** у пользователя не получается включить денежные показатели — **«Сумма скидки (упр.)»**, **«% скидки»** и другие: галочки в области **«Показатели»** не ставятся.

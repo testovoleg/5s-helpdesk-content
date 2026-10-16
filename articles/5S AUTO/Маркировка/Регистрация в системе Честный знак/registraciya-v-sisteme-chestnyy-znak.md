@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/registraciya-v-sisteme-chestnyy-znak</sub>
 
+Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/registraciya-v-sisteme-chestnyy-znak](https://kb.5systems.ru/articles/5s-auto/markirovka/registraciya-v-sisteme-chestnyy-znak)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3**.*
 
 ## Содержание

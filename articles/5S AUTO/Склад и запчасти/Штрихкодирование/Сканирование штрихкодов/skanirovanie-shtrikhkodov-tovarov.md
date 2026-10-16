@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/skanirovanie-shtrikhkodov-tovarov</sub>
 
+Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/skanirovanie-shtrikhkodov-tovarov](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/skanirovanie-shtrikhkodov-tovarov)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.8.1**.*
 
 ## Содержание

@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/zapret-otgruzki-bez-oplaty</sub>
 
+Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/zapret-otgruzki-bez-oplaty](https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/zapret-otgruzki-bez-oplaty)
+
 ## Содержание
 
 1. [Введение](#введение)

@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 13.08.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/v-postuplenii-ne-ta-stavka-nds](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/v-postuplenii-ne-ta-stavka-nds)
+
 ## Проблема
 
 При оформлении поступления товаров в документе автоматически подставляется не та ставка НДС — например, 20 % вместо 22 %. Организация и подразделение при этом выбраны верно.

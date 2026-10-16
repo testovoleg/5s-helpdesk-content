@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Создано:</b> 16.09.2026</td></tr></table>
 
+Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/kak-ogranichit-redaktirovanie-dokumentov](https://kb.5systems.ru/tips/5s-auto/praktiki/kak-ogranichit-redaktirovanie-dokumentov)
+
 ## Вопрос
 
 Как запретить сотрудникам редактировать документы за закрытый период, проведенные документы и закрытые заказ-наряды?

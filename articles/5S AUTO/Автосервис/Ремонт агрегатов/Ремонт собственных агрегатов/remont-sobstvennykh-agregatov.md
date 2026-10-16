@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/remont-sobstvennykh-agregatov</sub>
 
+Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/remont-sobstvennykh-agregatov](https://kb.5systems.ru/articles/5s-auto/avtoservis/remont-sobstvennykh-agregatov)
+
 #### Описание
 
 Данный функционал используется для отображения операций по ремонту неисправных агрегатов, выкупленных автосервисом у клиентов или у третьих лиц.

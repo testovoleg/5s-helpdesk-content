@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/obrabotka-ispravleniya-oshibok-v-skladskom-uchete</sub>
 
+Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/obrabotka-ispravleniya-oshibok-v-skladskom-uchete](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/obrabotka-ispravleniya-oshibok-v-skladskom-uchete)
+
 ## Содержание
 
 1. [Введение](#введение)

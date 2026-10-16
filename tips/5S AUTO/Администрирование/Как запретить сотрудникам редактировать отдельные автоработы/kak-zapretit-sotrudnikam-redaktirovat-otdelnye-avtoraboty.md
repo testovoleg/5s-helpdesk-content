@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Создано:</b> 21.09.2026</td></tr></table>
 
+Опубликовано 21.09.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty)
+
 ## Вопрос
 
 Как запретить мастерам-приемщикам и другим сотрудникам редактировать наименования и характеристики отдельных авторабот, которые задал администратор, но оставить им возможность работать с остальными автоработами?

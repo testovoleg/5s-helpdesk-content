@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Создано:</b> 22.09.2026</td></tr></table>
 
+Опубликовано 22.09.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/ne-provoditsya-dokument-s-markirovannym-tovarom](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-provoditsya-dokument-s-markirovannym-tovarom)
+
 ## Проблема
 
 Не проводится документ с маркированным товаром – «Перемещение товаров в производство» или «Реализация товаров». Программа выдает сообщение «Не удалось провести …», а в служебных сообщениях пишет, что товар с маркировкой не был введен в оборот или был выведен из оборота ранее:

@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-raskhodnymi-materialami</sub>
 
+Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/rabota-s-raskhodnymi-materialami](https://kb.5systems.ru/articles/5s-auto/avtoservis/rabota-s-raskhodnymi-materialami)
+
 ## Содержание
 
 - [Введение](#введение)

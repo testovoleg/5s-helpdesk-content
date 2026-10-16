@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-imeni-kassira-dlya-cheka-kkm</sub>
 
+Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/kassa/nastroyka-imeni-kassira-dlya-cheka-kkm](https://kb.5systems.ru/articles/5s-auto/kassa/nastroyka-imeni-kassira-dlya-cheka-kkm)
+
 ## Содержание
 
 1. [Введение](#введение)

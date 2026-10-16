@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-skanera-shtrikhkodov</sub>
 
+Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/podklyuchenie-skanera-shtrikhkodov](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/podklyuchenie-skanera-shtrikhkodov)
+
 ## Содержание
 
 - [Введение](#введение)

@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/dostupnye-veb-servisy-postavschikov</sub>
 
+Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/dostupnye-veb-servisy-postavschikov](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/dostupnye-veb-servisy-postavschikov)
+
 О создании и настройке веб прайс-листа см. *[статью](../Создание%20и%20настройка%20Веб%20прайс-листа/sozdanie-i-nastroyka-veb-prays-lista.md)*.
 
 - [77Volvo](../../Перечень%20доступных%20Веб-сервисов%20поставщиков/77Volvo/nastroyka-veb-servisa-77volvo.md)

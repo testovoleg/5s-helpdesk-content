@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/zapusk-proizvolnykh-obrabotok-v-reglamentnom-zadanii</sub>
 
+Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/zapusk-proizvolnykh-obrabotok-v-reglamentnom-zadanii](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/zapusk-proizvolnykh-obrabotok-v-reglamentnom-zadanii)
+
 ## Содержание
 
 1. [Введение](#введение)

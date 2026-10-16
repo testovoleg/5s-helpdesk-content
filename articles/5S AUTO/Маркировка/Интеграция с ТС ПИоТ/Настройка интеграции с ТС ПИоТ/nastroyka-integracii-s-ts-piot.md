@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-ts-piot</sub>
 
+Опубликовано 31.07.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/nastroyka-integracii-s-ts-piot](https://kb.5systems.ru/articles/5s-auto/markirovka/nastroyka-integracii-s-ts-piot)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.8.4** (версия конфигурации 2.8.3.58).*
 
 ## Содержание

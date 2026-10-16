@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-v-arm-kommunikator</sub>
 
+Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/rabota-v-arm-kommunikator](https://kb.5systems.ru/articles/5s-auto/crm/rabota-v-arm-kommunikator)
+
 ## Содержание
 
 - [Введение](#введение)

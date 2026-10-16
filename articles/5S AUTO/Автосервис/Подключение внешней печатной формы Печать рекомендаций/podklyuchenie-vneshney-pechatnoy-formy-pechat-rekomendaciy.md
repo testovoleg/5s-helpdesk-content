@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-vneshney-pechatnoy-formy-pechat-rekomendaciy</sub>
 
+Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/podklyuchenie-vneshney-pechatnoy-formy-pechat-rekomendaciy](https://kb.5systems.ru/articles/5s-auto/avtoservis/podklyuchenie-vneshney-pechatnoy-formy-pechat-rekomendaciy)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.7.1**.*
 
 ## Содержание

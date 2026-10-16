@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/sostoyanie-otkaz-zakaz-naryada</sub>
 
+Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/sostoyanie-otkaz-zakaz-naryada](https://kb.5systems.ru/articles/5s-auto/avtoservis/sostoyanie-otkaz-zakaz-naryada)
+
 В ситуации, когда клиент заехал в СТО и был открыт [Заказ-наряд](../Заказ-наряды/zakaz-naryady.md), но по каким-то причинам ремонт выполнить не удалось: клиент отказался или невозможно выполнить ремонт со стороны СТО, — нужно перевести Заказ-наряд в [состояние](../Состояния%20Заказ-наряда/sostoyaniya-zakaz-naryada.md) «Отказ»:
 
 ![Состояние Отказ Заказ-наряда](attachments/01-sostoyanie-otkaz.png)

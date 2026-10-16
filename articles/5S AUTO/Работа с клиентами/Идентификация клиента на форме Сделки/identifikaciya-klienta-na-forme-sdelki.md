@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/identifikaciya-klienta-na-forme-sdelki</sub>
 
+Опубликовано 27.08.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/identifikaciya-klienta-na-forme-sdelki](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/identifikaciya-klienta-na-forme-sdelki)
+
 При звонке клиента в первую очередь требуется его идентифицировать.
 
 При обращении **первичного клиента**, т. е. того, который позвонил или приехал первый раз, требуется заполнить [карточку клиента](../Контрагенты%20и%20контакты/kontragenty-i-kontakty.md). В сделке отобразится только номер его телефона: остальные данные потребуется ввести — либо сразу, либо после записи на ремонт, при непосредственном заезде клиента.

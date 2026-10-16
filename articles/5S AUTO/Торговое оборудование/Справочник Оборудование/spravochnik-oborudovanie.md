@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Время чтения:</b> 10 мин.</td><td><b>Обновлено:</b> 24.09.2026</td></tr></table>
 
+Опубликовано 25.08.2026: [https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/spravochnik-oborudovanie](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/spravochnik-oborudovanie)
+
 ## Содержание
 
 - [Введение](#введение)

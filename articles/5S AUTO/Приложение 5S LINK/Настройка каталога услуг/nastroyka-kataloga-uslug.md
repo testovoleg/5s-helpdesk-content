@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-kataloga-uslug</sub>
 
+Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/nastroyka-kataloga-uslug](https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/nastroyka-kataloga-uslug)
+
 > *Актуально для 5S LINK версии* ***v2***.  *Доступно начиная с версии релиза 2.8.1.*
 
 ## Содержание

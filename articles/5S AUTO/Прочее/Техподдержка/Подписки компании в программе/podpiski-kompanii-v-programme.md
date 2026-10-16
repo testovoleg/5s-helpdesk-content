@@ -2,9 +2,9 @@
 
 <table><tr><td><b>Время чтения:</b> 2 мин.</td><td><b>Создано:</b> 16.10.2026</td></tr></table>
 
-> *Актуально начиная с версии релиза 5S AUTO **2.8.5**.*
+Опубликовано 16.10.2026: [https://kb.5systems.ru/articles/5s-auto/prochee/podpiski-kompanii-v-programme](https://kb.5systems.ru/articles/5s-auto/prochee/podpiski-kompanii-v-programme)
 
-> 🛠 Комментарий для черновика: *Опубликована 16.10.2026: [https://kb.5systems.ru/articles/5s-auto/prochee/podpiski-kompanii-v-programme](https://kb.5systems.ru/articles/5s-auto/prochee/podpiski-kompanii-v-programme)*
+> *Актуально начиная с версии релиза 5S AUTO **2.8.5**.*
 
 > 🛠 Комментарий для черновика: *Реализовано в конфигурации версии 2.8.4.57.*
 

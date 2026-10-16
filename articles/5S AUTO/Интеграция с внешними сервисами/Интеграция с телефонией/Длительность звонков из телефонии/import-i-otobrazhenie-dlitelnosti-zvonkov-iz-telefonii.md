@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/import-i-otobrazhenie-dlitelnosti-zvonkov-iz-telefonii</sub>
 
+Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/import-i-otobrazhenie-dlitelnosti-zvonkov-iz-telefonii](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/import-i-otobrazhenie-dlitelnosti-zvonkov-iz-telefonii)
+
 ## Содержание
 
 1. [Введение](#введение)

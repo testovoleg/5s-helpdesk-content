@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/diagnosticheskie-ankety-dlya-agregatov</sub>
 
+Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/diagnosticheskie-ankety-dlya-agregatov](https://kb.5systems.ru/articles/5s-auto/avtoservis/diagnosticheskie-ankety-dlya-agregatov)
+
 #### Формирование анкеты для нескольких серийных номеров
 
 В Заказ-наряде на ремонт агрегата выводится *Акт дефектовки,* то есть Диагностическая анкета агрегата:

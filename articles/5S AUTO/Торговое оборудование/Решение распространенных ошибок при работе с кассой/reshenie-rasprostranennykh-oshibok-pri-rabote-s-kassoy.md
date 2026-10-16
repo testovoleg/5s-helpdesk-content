@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy</sub>
 
+Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy)
+
 ## Содержание
 
 1. [Касса не включается](#касса-не-включается)

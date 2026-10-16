@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 21.08.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-popolnit-balans-dlya-rasshifrovki-avto](https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-popolnit-balans-dlya-rasshifrovki-avto)
+
 ## Вопрос
 
 Месячный лимит запросов [расшифровки автомобиля по гос. номеру](../../../../lessons/Урок%2011.%20Расшифровка%20VIN%20и%20гос.номера/Как%20расшифровать%20автомобиль%20по%20гос.%20номеру/kak-rasshifrovat-avtomobil-po-gos-nomeru.md), доступный в рамках тарифа, закончился. Как пополнить баланс запросов?

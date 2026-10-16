@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-edo</sub>
 
+Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-edo](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-edo)
+
 ## Содержание
 
 1. [Понятие электронного документооборота](#понятие-электронного-документооборота)

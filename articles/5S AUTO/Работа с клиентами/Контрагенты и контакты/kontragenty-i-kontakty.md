@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/kontragenty-i-kontakty-0</sub>
 
+Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/kontragenty-i-kontakty](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/kontragenty-i-kontakty)
+
 ## Содержание
 
 - [Справочник «Контрагенты и контакты»](#справочник-контрагенты-и-контакты)

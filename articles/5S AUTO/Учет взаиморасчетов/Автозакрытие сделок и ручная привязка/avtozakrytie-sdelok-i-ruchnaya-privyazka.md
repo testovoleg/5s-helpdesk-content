@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/avtozakrytie-sdelok-i-ruchnaya-privyazka</sub>
 
+Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/avtozakrytie-sdelok-i-ruchnaya-privyazka](https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/avtozakrytie-sdelok-i-ruchnaya-privyazka)
+
 ## Содержание
 
 - [Введение](#введение)

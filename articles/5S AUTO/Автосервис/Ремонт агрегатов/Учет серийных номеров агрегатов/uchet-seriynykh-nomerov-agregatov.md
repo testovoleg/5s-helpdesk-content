@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/uchet-seriynykh-nomerov-agregatov</sub>
 
+Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/uchet-seriynykh-nomerov-agregatov](https://kb.5systems.ru/articles/5s-auto/avtoservis/uchet-seriynykh-nomerov-agregatov)
+
 ## Содержание
 
 - [Введение](#введение)

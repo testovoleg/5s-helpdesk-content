@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-sbp</sub>
 
+Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/rabota-s-sbp](https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/rabota-s-sbp)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.7.2**, обновление настроек – с релиза **2.8.2**.*
 
 ## Содержание

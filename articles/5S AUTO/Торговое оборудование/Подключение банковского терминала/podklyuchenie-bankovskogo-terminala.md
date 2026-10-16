@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-bankovskogo-terminala</sub>
 
+Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/podklyuchenie-bankovskogo-terminala](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/podklyuchenie-bankovskogo-terminala)
+
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **Статья для опытных пользователей!**
 
 ## Содержание

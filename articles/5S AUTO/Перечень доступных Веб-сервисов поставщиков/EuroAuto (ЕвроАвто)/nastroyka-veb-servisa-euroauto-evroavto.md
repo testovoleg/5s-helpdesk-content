@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-veb-servisa-euroauto-evroavto</sub>
 
+Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-euroauto-evroavto](https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-euroauto-evroavto)
+
 ## Содержание
 
 1. [Описание](#описание)

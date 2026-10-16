@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-webkassakz</sub>
 
+Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/kassa/integraciya-s-webkassakz](https://kb.5systems.ru/articles/5s-auto/kassa/integraciya-s-webkassakz)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.8.2** (версия конфигурации 2.8.2.1).*
 
 ## Содержание

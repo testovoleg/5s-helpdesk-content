@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/otchet-effektivnost-masterov</sub>
 
+Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/otchety/otchet-effektivnost-masterov](https://kb.5systems.ru/articles/5s-auto/otchety/otchet-effektivnost-masterov)
+
 ## Содержание
 
 1. [Введение](#введение)

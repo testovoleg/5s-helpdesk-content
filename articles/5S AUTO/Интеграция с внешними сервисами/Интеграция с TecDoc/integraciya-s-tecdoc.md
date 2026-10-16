@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-tecdoc</sub>
 
+Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-tecdoc](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-tecdoc)
+
 В программе предусмотрена прямая интеграция с сервисами [Tecdoc](http://tecdoc.ru/), которые предоставляют информацию об автомобилях из своих каталогов. Интеграция осуществляется через сервер компании "Пять систем".
 
 *В рамках интеграции с сервисами Tecdoc* по VIN-номеру расшифровывается автомобиль с сохранением информации о нем в программе с помощью обработки *[Расшифровка автомобиля по VIN](../../Автосервис/Расшифровка%20автомобиля%20по%20VIN/rasshifrovka-avtomobilya-po-vin.md)*.

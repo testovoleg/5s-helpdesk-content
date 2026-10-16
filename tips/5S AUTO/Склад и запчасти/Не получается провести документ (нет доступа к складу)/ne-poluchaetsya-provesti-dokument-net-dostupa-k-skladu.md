@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 17.08.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-poluchaetsya-provesti-dokument-net-dostupa-k-skladu](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-poluchaetsya-provesti-dokument-net-dostupa-k-skladu)
+
 ## Проблема
 
 При попытке провести документ (или внести изменения в уже проведенный документ) у пользователя выходит служебное сообщение о запрете проведения документов с текущим складом:

@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy</sub>
 
+Опубликовано 29.07.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/nulevaya-summa-v-cheke](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/nulevaya-summa-v-cheke)
+
 ## Проблема
 
 Касса не пропускает документ: в чеке есть строка, где сумма «Всего» равна нулю.

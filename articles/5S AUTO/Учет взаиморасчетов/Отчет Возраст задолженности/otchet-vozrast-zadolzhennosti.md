@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/otchet-vozrast-zadolzhennosti</sub>
 
+Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/otchet-vozrast-zadolzhennosti](https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/otchet-vozrast-zadolzhennosti)
+
 ## Содержание
 
 1. [Введение](#введение)

@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/news/novyy-reliz-251</sub>
 
+Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-251](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-251)
+
 📢 У нас вышел **новый релиз 2.5.1**! Знакомьтесь с новыми функциями:
 
 ---

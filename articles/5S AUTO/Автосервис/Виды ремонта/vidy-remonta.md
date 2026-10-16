@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/vidy-remonta</sub>
 
+Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/vidy-remonta](https://kb.5systems.ru/articles/5s-auto/avtoservis/vidy-remonta)
+
 ## Содержание
 
 - [Введение](#введение)

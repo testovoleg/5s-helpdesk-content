@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/uchet-agregatnogo-remonta</sub>
 
+Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/uchet-agregatnogo-remonta](https://kb.5systems.ru/articles/5s-auto/avtoservis/uchet-agregatnogo-remonta)
+
 ## Содержание
 
 - [Введение](#введение)

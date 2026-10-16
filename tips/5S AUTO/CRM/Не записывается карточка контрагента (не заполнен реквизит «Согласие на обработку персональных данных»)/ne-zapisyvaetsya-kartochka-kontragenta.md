@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 17.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-zapisyvaetsya-kartochka-kontragenta](https://kb.5systems.ru/tips/5s-auto/crm/ne-zapisyvaetsya-kartochka-kontragenta)
+
 ## Проблема
 
 При записи карточки контрагента с типом клиента **«Частное лицо»** выходит ошибка, и в служебных сообщениях выводится причина:

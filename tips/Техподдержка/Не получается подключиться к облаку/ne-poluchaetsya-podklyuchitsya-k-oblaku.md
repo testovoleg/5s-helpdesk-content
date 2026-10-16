@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help (раздел «Вопрос-ответ»)</sub>
 
+Опубликовано 07.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/ne-poluchaetsya-podklyuchitsya-k-oblaku](https://kb.5systems.ru/tips/tekhpodderzhka/ne-poluchaetsya-podklyuchitsya-k-oblaku)
+
 ## Проблема
 
 При открытии ярлыка [приложения](../../../lessons/Интерфейс%20программы/Как%20зайти%20в%20программу/kak-zayti-v-programmu.md#1-подключение-к-удаленному-приложению-remoteapp) запуск программы не происходит в течение нескольких минут либо окно запуска сеанса не открывается.

@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/poluchenie-tokena-dostupa-k-api-chestnogo-znaka</sub>
 
+Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/poluchenie-tokena-dostupa-k-api-chestnogo-znaka](https://kb.5systems.ru/articles/5s-auto/markirovka/poluchenie-tokena-dostupa-k-api-chestnogo-znaka)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3**, новая форма обработки и локальное обновление – начиная с релиза **2.8.4** (версия конфигурации 2.8.3.42).*
 
 ## Содержание

@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help (раздел «Вопрос-ответ»)</sub>
 
+Опубликовано 07.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/chto-takoe-tekhnicheskaya-podderzhka](https://kb.5systems.ru/tips/tekhpodderzhka/chto-takoe-tekhnicheskaya-podderzhka)
+
 ## Вопрос
 
 Что такое техническая поддержка 5SYSTEMS и что в нее входит?

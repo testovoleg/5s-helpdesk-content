@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 19.08.2026: [https://kb.5systems.ru/tips/5s-auto/personal/dannye-sotrudnika-ne-popadayut-v-tabel](https://kb.5systems.ru/tips/5s-auto/personal/dannye-sotrudnika-ne-popadayut-v-tabel)
+
 ## Проблема
 
 По сотруднику не заполняется табель рабочего времени, хотя отметки о проходах в BioTime есть.

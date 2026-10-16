@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/avtomaticheskoe-sozdanie-dogovora-s-kontragentom</sub>
 
+Опубликовано 09.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/avtomaticheskoe-sozdanie-dogovora-s-kontragentom](https://kb.5systems.ru/tips/5s-auto/praktiki/avtomaticheskoe-sozdanie-dogovora-s-kontragentom)
+
 ## Вопрос
 
 Как сделать, чтобы договор с контрагентом создавался автоматически и соответствовал организации и подразделению документа?

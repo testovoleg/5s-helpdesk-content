@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/otchet-otbor-po-kontragentam</sub>
 
+Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/otchety/otchet-otbor-po-kontragentam](https://kb.5systems.ru/articles/5s-auto/otchety/otchet-otbor-po-kontragentam)
+
 ## Содержание
 
 1. [Введение](#введение)

@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Создано:</b> 23.09.2026</td></tr></table>
 
+Опубликовано 23.09.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-masteru-konsultantu-videt-sdelki-smenshchika](https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-masteru-konsultantu-videt-sdelki-smenshchika)
+
 ## Вопрос
 
 Как сделать, чтобы мастер-консультант видел свои сделки и сделки своего сменщика? Можно ли указать в отборе сделок по менеджеру два значения?

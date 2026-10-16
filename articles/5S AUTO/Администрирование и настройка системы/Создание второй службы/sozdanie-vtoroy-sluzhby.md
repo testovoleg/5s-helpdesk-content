@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/sozdanie-vtoroy-sluzhby</sub>
 
+Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sozdanie-vtoroy-sluzhby](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sozdanie-vtoroy-sluzhby)
+
 ## Содержание
 
 1. [Подготовительный этап](#подготовительный-этап)

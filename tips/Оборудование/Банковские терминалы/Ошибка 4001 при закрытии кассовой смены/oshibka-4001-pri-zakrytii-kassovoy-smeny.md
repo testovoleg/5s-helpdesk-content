@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 11.08.2026: [https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-4001-pri-zakrytii-kassovoy-smeny](https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-4001-pri-zakrytii-kassovoy-smeny)
+
 ## Проблема
 
 При закрытии кассовой смены на терминале начинается обновление, но до конца не доходит: программа зависает либо выдает ошибку 4001, после чего 1С аварийно завершает работу. Терминал при этом остается необновленным. Также может выходить подобное окно:

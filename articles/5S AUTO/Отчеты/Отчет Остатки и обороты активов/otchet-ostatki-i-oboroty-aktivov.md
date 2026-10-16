@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/otchet-ostatki-i-oboroty-aktivov</sub>
 
+Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/otchety/otchet-ostatki-i-oboroty-aktivov](https://kb.5systems.ru/articles/5s-auto/otchety/otchet-ostatki-i-oboroty-aktivov)
+
 ## Содержание
 
 1. [Введение](#введение)

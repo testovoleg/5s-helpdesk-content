@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+Опубликовано 18.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-otkryvayutsya-kartochki-pri-podnyatii-trubki](https://kb.5systems.ru/tips/5s-auto/crm/ne-otkryvayutsya-kartochki-pri-podnyatii-trubki)
+
 ## Проблема
 
 У одного из сотрудников перестали автоматически открываться карточки лидов и сделок при поднятии телефонной трубки. У остальных сотрудников все работает штатно.

@@ -4,6 +4,8 @@
 
 > 🛠 Комментарий для черновика: *черновик.*
 
+Опубликовано 28.09.2026: [https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/podklyuchenie-zagruzki-vypisok-tochka-banka](https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/podklyuchenie-zagruzki-vypisok-tochka-banka)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.8.5**.*
 
 > *Статья редактируется, релиз готовится к выходу.*

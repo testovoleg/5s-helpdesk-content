@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu</sub>
 
+Опубликовано 09.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu](https://kb.5systems.ru/tips/5s-auto/praktiki/uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu)
+
 ## Вопрос
 
 Как настроить учет выработки исполнителей по нормочасам, если у авторабот фиксированная стоимость?

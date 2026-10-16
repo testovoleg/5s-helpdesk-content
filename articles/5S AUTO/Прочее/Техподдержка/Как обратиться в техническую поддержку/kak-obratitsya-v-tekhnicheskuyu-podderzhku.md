@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/kak-obratitsya-v-tekhnicheskuyu-podderzhku</sub>
 
+Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/prochee/kak-obratitsya-v-tekhnicheskuyu-podderzhku](https://kb.5systems.ru/articles/5s-auto/prochee/kak-obratitsya-v-tekhnicheskuyu-podderzhku)
+
 ## Содержание
 
 1. [Введение](#введение)

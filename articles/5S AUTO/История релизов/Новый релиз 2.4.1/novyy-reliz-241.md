@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/news/novyy-reliz-241</sub>
 
+Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-241](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-241)
+
 В начале **апреля 2023 г.** у нас вышел **новый релиз 2.4.1.** Знакомьтесь с обновлениями:
 
 ---

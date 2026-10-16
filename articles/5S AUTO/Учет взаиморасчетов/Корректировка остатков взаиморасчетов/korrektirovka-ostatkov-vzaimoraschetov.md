@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/korrektirovka-ostatkov-vzaimoraschetov</sub>
 
+Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/korrektirovka-ostatkov-vzaimoraschetov](https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/korrektirovka-ostatkov-vzaimoraschetov)
+
 ## Содержание
 
 1. [Введение](#введение)

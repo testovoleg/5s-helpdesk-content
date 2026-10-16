@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Создано:</b> 14.10.2026</td></tr></table>
 
+Опубликовано 14.10.2026: [https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/rezultat-operacii-neizvesten-spisanie-moglo-proyti](https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/rezultat-operacii-neizvesten-spisanie-moglo-proyti)
+
 > *Актуально начиная с версии релиза 5S AUTO **2.8.5**.*
 
 ## Проблема

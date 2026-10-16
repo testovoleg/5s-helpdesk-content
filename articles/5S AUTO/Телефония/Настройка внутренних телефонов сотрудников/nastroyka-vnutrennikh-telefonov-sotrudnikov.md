@@ -4,6 +4,8 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-vnutrennikh-telefonov-sotrudnikov</sub>
 
+Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/telefoniya/nastroyka-vnutrennikh-telefonov-sotrudnikov](https://kb.5systems.ru/articles/5s-auto/telefoniya/nastroyka-vnutrennikh-telefonov-sotrudnikov)
+
 ## Содержание
 
 1. [Описание](#описание)
