@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/operacii-s-kodami-markirovki</sub>
 
-Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/operacii-s-kodami-markirovki](https://kb.5systems.ru/articles/5s-auto/markirovka/operacii-s-kodami-markirovki)
+<sub>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/operacii-s-kodami-markirovki](https://kb.5systems.ru/articles/5s-auto/markirovka/operacii-s-kodami-markirovki)*</sub>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3**. Функционал индикации проверки "криптохвостов" – начиная с релиза **2.8.4** (версия конфигурации 2.8.3.26). Разрешительный режим — начиная с релиза **2.8.1**, реализация ТС ПИоТ — в релизе **2.8.4** (версия конфигурации 2.8.3.58). Функционал дорабатывается.*
 

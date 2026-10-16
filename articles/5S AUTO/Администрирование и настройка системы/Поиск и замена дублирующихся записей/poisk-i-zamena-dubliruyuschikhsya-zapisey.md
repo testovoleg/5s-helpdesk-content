@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/poisk-i-zamena-dubliruyuschikhsya-zapisey</sub>
 
-Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/poisk-i-zamena-dubliruyuschikhsya-zapisey](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/poisk-i-zamena-dubliruyuschikhsya-zapisey)
+<sub>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/poisk-i-zamena-dubliruyuschikhsya-zapisey](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/poisk-i-zamena-dubliruyuschikhsya-zapisey)*</sub>
 
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **Статья для опытных пользователей!**
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-servisom-bezbumazhnyy-ofis-fdoc</sub>
 
-Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-servisom-bezbumazhnyy-ofis-fdoc](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-servisom-bezbumazhnyy-ofis-fdoc)
+<sub>*Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-servisom-bezbumazhnyy-ofis-fdoc](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-servisom-bezbumazhnyy-ofis-fdoc)*</sub>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.6.1** (версия конфигурации 2.6.1.1).*
 

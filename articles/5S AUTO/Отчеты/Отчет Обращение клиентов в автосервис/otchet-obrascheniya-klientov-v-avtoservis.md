@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/otchet-obrascheniya-klientov-v-avtoservis</sub>
 
-Опубликовано 29.07.2026: [https://kb.5systems.ru/articles/5s-auto/otchety/otchet-obrascheniya-klientov-v-avtoservis](https://kb.5systems.ru/articles/5s-auto/otchety/otchet-obrascheniya-klientov-v-avtoservis)
+<sub>*Опубликовано 29.07.2026: [https://kb.5systems.ru/articles/5s-auto/otchety/otchet-obrascheniya-klientov-v-avtoservis](https://kb.5systems.ru/articles/5s-auto/otchety/otchet-obrascheniya-klientov-v-avtoservis)*</sub>
 
 ## Содержание
 

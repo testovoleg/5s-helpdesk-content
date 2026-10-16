@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-Опубликовано 24.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-spisok-vseh-otpravlennyh-soobshcheniy](https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-spisok-vseh-otpravlennyh-soobshcheniy)
+<sub>*Опубликовано 24.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-spisok-vseh-otpravlennyh-soobshcheniy](https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-spisok-vseh-otpravlennyh-soobshcheniy)*</sub>
 
 ## Вопрос
 

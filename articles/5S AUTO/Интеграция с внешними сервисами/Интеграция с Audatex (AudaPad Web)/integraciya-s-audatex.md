@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 21.08.2026</td></tr></table>
 
-Опубликовано 20.08.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-audatex](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-audatex)
+<sub>*Опубликовано 20.08.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-audatex](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-audatex)*</sub>
 
 ## Содержание
 

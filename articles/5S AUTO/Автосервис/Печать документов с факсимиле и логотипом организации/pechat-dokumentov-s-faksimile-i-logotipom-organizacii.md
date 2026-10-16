@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/pechat-dokumentov-s-faksimile-i-logotipom-organizacii</sub>
 
-Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/pechat-dokumentov-s-faksimile-i-logotipom-organizacii](https://kb.5systems.ru/articles/5s-auto/avtoservis/pechat-dokumentov-s-faksimile-i-logotipom-organizacii)
+<sub>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/pechat-dokumentov-s-faksimile-i-logotipom-organizacii](https://kb.5systems.ru/articles/5s-auto/avtoservis/pechat-dokumentov-s-faksimile-i-logotipom-organizacii)*</sub>
 
 ## Содержание
 

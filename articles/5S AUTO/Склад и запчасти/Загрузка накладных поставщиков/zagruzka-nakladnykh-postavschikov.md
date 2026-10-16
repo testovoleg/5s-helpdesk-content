@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/zagruzka-nakladnykh-postavschikov</sub>
 
-Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/zagruzka-nakladnykh-postavschikov](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/zagruzka-nakladnykh-postavschikov)
+<sub>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/zagruzka-nakladnykh-postavschikov](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/zagruzka-nakladnykh-postavschikov)*</sub>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.7.1**.*
 

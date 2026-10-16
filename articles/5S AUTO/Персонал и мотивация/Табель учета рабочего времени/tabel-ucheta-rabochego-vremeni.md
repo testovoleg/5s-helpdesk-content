@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/tabel-ucheta-rabochego-vremeni</sub>
 
-Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/personal-i-motivaciya/tabel-ucheta-rabochego-vremeni](https://kb.5systems.ru/articles/5s-auto/personal-i-motivaciya/tabel-ucheta-rabochego-vremeni)
+<sub>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/personal-i-motivaciya/tabel-ucheta-rabochego-vremeni](https://kb.5systems.ru/articles/5s-auto/personal-i-motivaciya/tabel-ucheta-rabochego-vremeni)*</sub>
 
 ## Содержание
 

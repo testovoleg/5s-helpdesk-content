@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/obuchayuschie-videoroliki</sub>
 
-Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/prochee/obuchayuschie-videoroliki](https://kb.5systems.ru/articles/5s-auto/prochee/obuchayuschie-videoroliki)
+<sub>*Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/prochee/obuchayuschie-videoroliki](https://kb.5systems.ru/articles/5s-auto/prochee/obuchayuschie-videoroliki)*</sub>
 
 ## Содержание
 

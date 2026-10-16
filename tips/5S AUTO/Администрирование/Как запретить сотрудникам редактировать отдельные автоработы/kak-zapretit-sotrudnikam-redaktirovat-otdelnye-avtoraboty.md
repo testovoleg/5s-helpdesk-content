@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 21.09.2026</td></tr></table>
 
-Опубликовано 21.09.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty)
+<sub>*Опубликовано 21.09.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty)*</sub>
 
 ## Вопрос
 

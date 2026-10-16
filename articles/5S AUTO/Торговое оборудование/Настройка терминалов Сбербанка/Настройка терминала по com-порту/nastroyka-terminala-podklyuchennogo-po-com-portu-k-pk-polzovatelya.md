@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-terminala-podklyuchennogo-po-com-portu-k-pk-polzovatelya</sub>
 
-Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/nastroyka-terminala-podklyuchennogo-po-com-portu-k-pk-polzovatelya](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/nastroyka-terminala-podklyuchennogo-po-com-portu-k-pk-polzovatelya)
+<sub>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/nastroyka-terminala-podklyuchennogo-po-com-portu-k-pk-polzovatelya](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/nastroyka-terminala-podklyuchennogo-po-com-portu-k-pk-polzovatelya)*</sub>
 
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **Статья для опытных пользователей!**
 

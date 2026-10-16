@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/materialy-dlya-obmena-s-1s-bukhgalteriya</sub>
 
-Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/prochee/materialy-dlya-obmena-s-1s-bukhgalteriya](https://kb.5systems.ru/articles/5s-auto/prochee/materialy-dlya-obmena-s-1s-bukhgalteriya)
+<sub>*Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/prochee/materialy-dlya-obmena-s-1s-bukhgalteriya](https://kb.5systems.ru/articles/5s-auto/prochee/materialy-dlya-obmena-s-1s-bukhgalteriya)*</sub>
 
 ## Содержание
 

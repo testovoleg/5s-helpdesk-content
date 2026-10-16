@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-Опубликовано 11.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-istoriyu-izmeneniy-dokumenta](https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-istoriyu-izmeneniy-dokumenta)
+<sub>*Опубликовано 11.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-istoriyu-izmeneniy-dokumenta](https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-istoriyu-izmeneniy-dokumenta)*</sub>
 
 ## Вопрос
 

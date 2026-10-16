@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/ustanovka-edinogo-servisnogo-modulya-esm</sub>
 
-Опубликовано 31.07.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/ustanovka-edinogo-servisnogo-modulya-esm](https://kb.5systems.ru/articles/5s-auto/markirovka/ustanovka-edinogo-servisnogo-modulya-esm)
+<sub>*Опубликовано 31.07.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/ustanovka-edinogo-servisnogo-modulya-esm](https://kb.5systems.ru/articles/5s-auto/markirovka/ustanovka-edinogo-servisnogo-modulya-esm)*</sub>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.4** (версия конфигурации 2.8.3.58).*
 

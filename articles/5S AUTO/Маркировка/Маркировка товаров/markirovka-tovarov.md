@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/markirovka-tovarov</sub>
 
-Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/markirovka-tovarov](https://kb.5systems.ru/articles/5s-auto/markirovka/markirovka-tovarov)
+<sub>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/markirovka-tovarov](https://kb.5systems.ru/articles/5s-auto/markirovka/markirovka-tovarov)*</sub>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3** (версия конфигурации 2.8.3.1). Функционал индикации проверки "криптохвостов" – начиная с релиза **2.8.4** (версия конфигурации 2.8.3.26, обновлено в версии 2.8.3.58). Восстановление кода при вводе клавиатурным сканером и подбор кодов маркировки – начиная с релиза **2.8.5**.*
 

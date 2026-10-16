@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/korrektirovka-probega-avtomobilya</sub>
 
-Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/korrektirovka-probega-avtomobilya](https://kb.5systems.ru/articles/5s-auto/avtoservis/korrektirovka-probega-avtomobilya)
+<sub>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/korrektirovka-probega-avtomobilya](https://kb.5systems.ru/articles/5s-auto/avtoservis/korrektirovka-probega-avtomobilya)*</sub>
 
 ## Содержание
 

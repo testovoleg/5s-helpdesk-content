@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/planirovanie-rabot-i-podgotovka-k-zaezdu</sub>
 
-Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/planirovanie-rabot-i-podgotovka-k-zaezdu](https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/planirovanie-rabot-i-podgotovka-k-zaezdu)
+<sub>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/planirovanie-rabot-i-podgotovka-k-zaezdu](https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/planirovanie-rabot-i-podgotovka-k-zaezdu)*</sub>
 
 ## Взаимосвязь планирования и калькуляции работ
 

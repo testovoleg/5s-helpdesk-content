@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/news/novyy-reliz-284</sub>
 
-Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-284](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-284)
+<sub>*Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-284](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-284)*</sub>
 
 📢 Вышел **новый релиз 5S AUTO 2.8.4.** Встречайте обновления:
 

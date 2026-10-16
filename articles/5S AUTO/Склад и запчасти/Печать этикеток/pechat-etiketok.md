@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/pechat-etiketok</sub>
 
-Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/pechat-etiketok](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/pechat-etiketok)
+<sub>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/pechat-etiketok](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/pechat-etiketok)*</sub>
 
 ## Содержание
 

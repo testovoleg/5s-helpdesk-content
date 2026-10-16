@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/umnaya-marshrutizaciya-vkhodyaschego-zvonka</sub>
 
-Опубликовано 27.08.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/umnaya-marshrutizaciya-vkhodyaschego-zvonka](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/umnaya-marshrutizaciya-vkhodyaschego-zvonka)
+<sub>*Опубликовано 27.08.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/umnaya-marshrutizaciya-vkhodyaschego-zvonka](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/umnaya-marshrutizaciya-vkhodyaschego-zvonka)*</sub>
 
 При внедрении телефонии в программе есть возможность подключить и настроить Умную маршрутизацию звонков.
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/naznachenie-shtrikhkodov-tovaram</sub>
 
-Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/naznachenie-shtrikhkodov-tovaram](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/naznachenie-shtrikhkodov-tovaram)
+<sub>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/naznachenie-shtrikhkodov-tovaram](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/naznachenie-shtrikhkodov-tovaram)*</sub>
 
 ## Содержание
 

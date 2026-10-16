@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise</sub>
 
-Опубликовано 09.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise](https://kb.5systems.ru/tips/5s-auto/praktiki/zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise)
+<sub>*Опубликовано 09.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise](https://kb.5systems.ru/tips/5s-auto/praktiki/zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise)*</sub>
 
 ## Вопрос
 

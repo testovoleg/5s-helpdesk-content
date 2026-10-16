@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/interfeys-dlya-tsd</sub>
 
-Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/interfeys-dlya-tsd](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/interfeys-dlya-tsd)
+<sub>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/interfeys-dlya-tsd](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/interfeys-dlya-tsd)*</sub>
 
 ## Содержание
 

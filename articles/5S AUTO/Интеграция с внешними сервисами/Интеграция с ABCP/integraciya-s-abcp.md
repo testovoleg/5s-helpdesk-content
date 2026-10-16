@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-abcp</sub>
 
-Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-abcp](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-abcp)
+<sub>*Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-abcp](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-abcp)*</sub>
 
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **Статья для опытных пользователей!**
 

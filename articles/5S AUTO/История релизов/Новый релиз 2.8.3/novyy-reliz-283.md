@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/news/novyy-reliz-283</sub>
 
-Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-283](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-283)
+<sub>*Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-283](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-283)*</sub>
 
 📢 Мы выпустили **новый релиз 2.8.3**. Встречайте обновления:
 

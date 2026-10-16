@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/organizaciya-poryadka-na-sklade</sub>
 
-Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/organizaciya-poryadka-na-sklade](https://kb.5systems.ru/tips/5s-auto/praktiki/organizaciya-poryadka-na-sklade)
+<sub>*Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/organizaciya-poryadka-na-sklade](https://kb.5systems.ru/tips/5s-auto/praktiki/organizaciya-poryadka-na-sklade)*</sub>
 
 ## Вопрос
 

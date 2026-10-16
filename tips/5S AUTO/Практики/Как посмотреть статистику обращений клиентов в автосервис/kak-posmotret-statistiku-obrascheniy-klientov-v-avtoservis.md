@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 16.09.2026</td></tr></table>
 
-Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis](https://kb.5systems.ru/tips/5s-auto/praktiki/kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis)
+<sub>*Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis](https://kb.5systems.ru/tips/5s-auto/praktiki/kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis)*</sub>
 
 ## Вопрос
 

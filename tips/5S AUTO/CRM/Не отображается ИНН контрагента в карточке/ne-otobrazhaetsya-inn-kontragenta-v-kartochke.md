@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-Опубликовано 20.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-otobrazhaetsya-inn-kontragenta-v-kartochke](https://kb.5systems.ru/tips/5s-auto/crm/ne-otobrazhaetsya-inn-kontragenta-v-kartochke)
+<sub>*Опубликовано 20.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-otobrazhaetsya-inn-kontragenta-v-kartochke](https://kb.5systems.ru/tips/5s-auto/crm/ne-otobrazhaetsya-inn-kontragenta-v-kartochke)*</sub>
 
 ## Проблема
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/dokumentaciya-ot-1s-rarus</sub>
 
-Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/prochee/dokumentaciya-ot-1s-rarus](https://kb.5systems.ru/articles/5s-auto/prochee/dokumentaciya-ot-1s-rarus)
+<sub>*Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/prochee/dokumentaciya-ot-1s-rarus](https://kb.5systems.ru/articles/5s-auto/prochee/dokumentaciya-ot-1s-rarus)*</sub>
 
 - [Методическое пособие](attachments/metodicheskoe-posobie.pdf)
 - [Описание функционала дисконтных карт](attachments/opisanie-funkcionala-diskontnyh-kart.docx)

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help (раздел «Вопрос-ответ»)</sub>
 
-Опубликовано 07.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/grafik-raboty-tekhnicheskoy-podderzhki](https://kb.5systems.ru/tips/tekhpodderzhka/grafik-raboty-tekhnicheskoy-podderzhki)
+<sub>*Опубликовано 07.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/grafik-raboty-tekhnicheskoy-podderzhki](https://kb.5systems.ru/tips/tekhpodderzhka/grafik-raboty-tekhnicheskoy-podderzhki)*</sub>
 
 ## Вопрос
 

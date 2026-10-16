@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/sozdanie-i-nastroyka-prays-lista-kontragenta</sub>
 
-Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/sozdanie-i-nastroyka-prays-lista-kontragenta](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/sozdanie-i-nastroyka-prays-lista-kontragenta)
+<sub>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/sozdanie-i-nastroyka-prays-lista-kontragenta](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/sozdanie-i-nastroyka-prays-lista-kontragenta)*</sub>
 
 #### Введение
 

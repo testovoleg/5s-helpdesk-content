@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/cvetovoe-oformlenie-planirovschika</sub>
 
-Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/cvetovoe-oformlenie-planirovschika](https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/cvetovoe-oformlenie-planirovschika)
+<sub>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/cvetovoe-oformlenie-planirovschika](https://kb.5systems.ru/articles/5s-auto/zapis-na-remont/cvetovoe-oformlenie-planirovschika)*</sub>
 
 ## Содержание
 

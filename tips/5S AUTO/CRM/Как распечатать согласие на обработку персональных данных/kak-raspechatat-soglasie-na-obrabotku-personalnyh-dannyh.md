@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 16.09.2026</td></tr></table>
 
-Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/crm/kak-raspechatat-soglasie-na-obrabotku-personalnyh-dannyh](https://kb.5systems.ru/tips/5s-auto/crm/kak-raspechatat-soglasie-na-obrabotku-personalnyh-dannyh)
+<sub>*Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/crm/kak-raspechatat-soglasie-na-obrabotku-personalnyh-dannyh](https://kb.5systems.ru/tips/5s-auto/crm/kak-raspechatat-soglasie-na-obrabotku-personalnyh-dannyh)*</sub>
 
 ## Вопрос
 

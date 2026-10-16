@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/otchet-voronka-prodazh-po-zakrytym-sdelkam</sub>
 
-Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/otchety/otchet-voronka-prodazh-po-zakrytym-sdelkam](https://kb.5systems.ru/articles/5s-auto/otchety/otchet-voronka-prodazh-po-zakrytym-sdelkam)
+<sub>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/otchety/otchet-voronka-prodazh-po-zakrytym-sdelkam](https://kb.5systems.ru/articles/5s-auto/otchety/otchet-voronka-prodazh-po-zakrytym-sdelkam)*</sub>
 
 ## Содержание
 

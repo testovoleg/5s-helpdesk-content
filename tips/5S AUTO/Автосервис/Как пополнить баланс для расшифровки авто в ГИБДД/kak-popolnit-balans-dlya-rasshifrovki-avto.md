@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-Опубликовано 21.08.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-popolnit-balans-dlya-rasshifrovki-avto](https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-popolnit-balans-dlya-rasshifrovki-avto)
+<sub>*Опубликовано 21.08.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-popolnit-balans-dlya-rasshifrovki-avto](https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-popolnit-balans-dlya-rasshifrovki-avto)*</sub>
 
 ## Вопрос
 

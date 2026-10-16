@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/paketnaya-pechat</sub>
 
-Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/paketnaya-pechat](https://kb.5systems.ru/articles/5s-auto/avtoservis/paketnaya-pechat)
+<sub>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/paketnaya-pechat](https://kb.5systems.ru/articles/5s-auto/avtoservis/paketnaya-pechat)*</sub>
 
 Функционал *пакетной, или групповой, печати документов* предусмотрен, чтобы не печатать последовательно каждый документ, а печатать сразу комплект необходимых документов.
 

@@ -6,7 +6,7 @@
 
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **<u>Статья для опытных пользователей</u>!**
 
-Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/nastroyka-integracii-s-chestnym-znakom](https://kb.5systems.ru/articles/5s-auto/markirovka/nastroyka-integracii-s-chestnym-znakom)
+<sub>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/nastroyka-integracii-s-chestnym-znakom](https://kb.5systems.ru/articles/5s-auto/markirovka/nastroyka-integracii-s-chestnym-znakom)*</sub>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3** (версия конфигурации 2.8.3.1), обновление формы дополнительных настроек – начиная с релиза **2.8.4** (версия конфигурации 2.8.3.42).*
 

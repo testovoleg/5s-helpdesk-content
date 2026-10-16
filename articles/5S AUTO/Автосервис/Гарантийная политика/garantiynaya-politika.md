@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/garantiynaya-politika</sub>
 
-Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/garantiynaya-politika](https://kb.5systems.ru/articles/5s-auto/avtoservis/garantiynaya-politika)
+<sub>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/garantiynaya-politika](https://kb.5systems.ru/articles/5s-auto/avtoservis/garantiynaya-politika)*</sub>
 
 ## Содержание
 

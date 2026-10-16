@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 17.09.2026</td></tr></table>
 
-Опубликовано 17.09.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/propala-vkladka-ostatki-po-yacheykam](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/propala-vkladka-ostatki-po-yacheykam)
+<sub>*Опубликовано 17.09.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/propala-vkladka-ostatki-po-yacheykam](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/propala-vkladka-ostatki-po-yacheykam)*</sub>
 
 ## Проблема
 

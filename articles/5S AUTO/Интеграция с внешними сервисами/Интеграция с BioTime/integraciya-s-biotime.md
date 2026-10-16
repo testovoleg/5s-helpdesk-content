@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-biotime</sub>
 
-Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-biotime](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-biotime)
+<sub>*Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-biotime](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-biotime)*</sub>
 
 ## Содержание
 

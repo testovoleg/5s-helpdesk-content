@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Время чтения:</b> 4 мин.</td><td><b>Обновлено:</b> 12.10.2026</td></tr></table>
 
-Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/reliz-5s-auto-2-8-5](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/reliz-5s-auto-2-8-5)
+<sub>*Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/reliz-5s-auto-2-8-5](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/reliz-5s-auto-2-8-5)*</sub>
 
 📢 Готовится к выходу **релиз 5S AUTO 2.8.5.** Обновление устанавливается постепенно: описанные ниже возможности станут доступны после обновления вашей программы до версии 2.8.5.
 

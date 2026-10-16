@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/shablony-soobscheniy</sub>
 
-Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/soobscheniya/shablony-soobscheniy](https://kb.5systems.ru/articles/5s-auto/soobscheniya/shablony-soobscheniy)
+<sub>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/soobscheniya/shablony-soobscheniy](https://kb.5systems.ru/articles/5s-auto/soobscheniya/shablony-soobscheniy)*</sub>
 
 ## Содержание
 

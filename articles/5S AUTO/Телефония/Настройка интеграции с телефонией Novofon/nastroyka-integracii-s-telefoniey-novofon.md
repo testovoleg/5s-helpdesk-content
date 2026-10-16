@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-integracii-s-telefoniey-novofon</sub>
 
-Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/telefoniya/nastroyka-integracii-s-telefoniey-novofon](https://kb.5systems.ru/articles/5s-auto/telefoniya/nastroyka-integracii-s-telefoniey-novofon)
+<sub>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/telefoniya/nastroyka-integracii-s-telefoniey-novofon](https://kb.5systems.ru/articles/5s-auto/telefoniya/nastroyka-integracii-s-telefoniey-novofon)*</sub>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3**.*
 

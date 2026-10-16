@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 16.09.2026</td></tr></table>
 
-Опубликовано 21.08.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/kak-zadat-kassira-po-umolchaniyu](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/kak-zadat-kassira-po-umolchaniyu)
+<sub>*Опубликовано 21.08.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/kak-zadat-kassira-po-umolchaniyu](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/kak-zadat-kassira-po-umolchaniyu)*</sub>
 
 ## Вопрос
 

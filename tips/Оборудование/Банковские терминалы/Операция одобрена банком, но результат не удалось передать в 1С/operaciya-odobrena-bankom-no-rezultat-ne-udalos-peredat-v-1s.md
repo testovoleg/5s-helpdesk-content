@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 14.10.2026</td></tr></table>
 
-Опубликовано 14.10.2026: [https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s](https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s)
+<sub>*Опубликовано 14.10.2026: [https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s](https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s)*</sub>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.5**.*
 

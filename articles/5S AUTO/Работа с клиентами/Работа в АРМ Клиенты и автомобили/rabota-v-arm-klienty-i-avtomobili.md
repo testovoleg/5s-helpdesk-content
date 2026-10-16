@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-v-arm-klienty-i-avtomobili</sub>
 
-Опубликовано 27.08.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/rabota-v-arm-klienty-i-avtomobili](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/rabota-v-arm-klienty-i-avtomobili)
+<sub>*Опубликовано 27.08.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/rabota-v-arm-klienty-i-avtomobili](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/rabota-v-arm-klienty-i-avtomobili)*</sub>
 
 ## Содержание
 

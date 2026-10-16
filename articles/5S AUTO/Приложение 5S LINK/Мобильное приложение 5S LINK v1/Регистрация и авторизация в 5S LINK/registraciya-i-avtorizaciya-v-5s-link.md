@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/registraciya-i-avtorizaciya-v-5s-link</sub>
 
-Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/registraciya-i-avtorizaciya-v-5s-link](https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/registraciya-i-avtorizaciya-v-5s-link)
+<sub>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/registraciya-i-avtorizaciya-v-5s-link](https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/registraciya-i-avtorizaciya-v-5s-link)*</sub>
 
 > *Актуально для 5S LINK версии* ***v1***.
 

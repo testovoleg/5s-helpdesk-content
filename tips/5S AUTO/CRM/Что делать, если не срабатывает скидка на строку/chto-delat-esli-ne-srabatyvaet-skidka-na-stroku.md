@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-Опубликовано 10.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/chto-delat-esli-ne-srabatyvaet-skidka-na-stroku](https://kb.5systems.ru/tips/5s-auto/crm/chto-delat-esli-ne-srabatyvaet-skidka-na-stroku)
+<sub>*Опубликовано 10.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/chto-delat-esli-ne-srabatyvaet-skidka-na-stroku](https://kb.5systems.ru/tips/5s-auto/crm/chto-delat-esli-ne-srabatyvaet-skidka-na-stroku)*</sub>
 
 ## Проблема
 

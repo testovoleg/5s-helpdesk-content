@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-Опубликовано 18.08.2026: [https://kb.5systems.ru/tips/5s-auto/kassa/pri-zakrytii-smeny-sozdayutsya-novye-dogovory](https://kb.5systems.ru/tips/5s-auto/kassa/pri-zakrytii-smeny-sozdayutsya-novye-dogovory)
+<sub>*Опубликовано 18.08.2026: [https://kb.5systems.ru/tips/5s-auto/kassa/pri-zakrytii-smeny-sozdayutsya-novye-dogovory](https://kb.5systems.ru/tips/5s-auto/kassa/pri-zakrytii-smeny-sozdayutsya-novye-dogovory)*</sub>
 
 ## Проблема
 

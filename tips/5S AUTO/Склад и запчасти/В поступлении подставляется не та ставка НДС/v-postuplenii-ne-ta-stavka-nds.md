@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-Опубликовано 13.08.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/v-postuplenii-ne-ta-stavka-nds](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/v-postuplenii-ne-ta-stavka-nds)
+<sub>*Опубликовано 13.08.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/v-postuplenii-ne-ta-stavka-nds](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/v-postuplenii-ne-ta-stavka-nds)*</sub>
 
 ## Проблема
 
