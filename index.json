@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:50:00+03:00",
+  "generated_at": "2026-10-16T10:54:45+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1061,7 +1061,7 @@
       "path": "articles/5S AUTO/Прочее/Техподдержка/Переход к Базе знаний из программы",
       "file": "perekhod-k-baze-znaniy-iz-programmy.md",
       "id": "perekhod-k-baze-znaniy-iz-programmy",
-      "sha": "4e68f4f42e95d4d25f56a4df99f00339d038d39c",
+      "sha": "e7c70cb3957675787f957ee86f916958dd745038",
       "title": "Переход к Базе знаний из программы",
       "type": "articles",
       "order": 1,
