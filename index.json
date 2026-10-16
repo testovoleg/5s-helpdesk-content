@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:04:11+03:00",
+  "generated_at": "2026-10-16T17:05:23+03:00",
   "count": 654,
   "sections": {
     "tips": [
@@ -818,32 +818,6 @@
   },
   "materials": [
     {
-      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование/Назначение штрихкодов товарам",
-      "file": "naznachenie-shtrikhkodov-tovaram.md",
-      "id": "naznachenie-shtrikhkodov-tovaram",
-      "sha": "a8afaa6ef646fb4d936e7cba9ebea118819e670a",
-      "title": "Назначение штрихкодов товарам",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2024-10-30",
-      "date_kind": "updated",
-      "added_at": "2026-10-16T17:03:49+03:00",
-      "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование/Сканирование штрихкодов",
-      "file": "skanirovanie-shtrikhkodov-tovarov.md",
-      "id": "skanirovanie-shtrikhkodov-tovarov",
-      "sha": "9a589d9e61192c604bfc002f61bf167e605bfd55",
-      "title": "Сканирование штрихкодов товаров",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2025-01-17",
-      "date_kind": "updated",
-      "added_at": "2026-10-16T17:03:49+03:00",
-      "reading_time": 16
-    },
-    {
       "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование/Штрихкодирование ячеек хранения",
       "file": "shtrikhkodirovanie-yacheek-khraneniya.md",
       "id": "shtrikhkodirovanie-yacheek-khraneniya",
@@ -853,7 +827,7 @@
       "order": 3,
       "updated_at": "2026-10-16",
       "date_kind": "created",
-      "added_at": "2026-10-16T17:03:49+03:00",
+      "added_at": "2026-10-16T17:03:30+03:00",
       "reading_time": 6
     },
     {
@@ -7238,6 +7212,19 @@
       "reading_time": 8
     },
     {
+      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование/Назначение штрихкодов товарам",
+      "file": "naznachenie-shtrikhkodov-tovaram.md",
+      "id": "naznachenie-shtrikhkodov-tovaram",
+      "sha": "a8afaa6ef646fb4d936e7cba9ebea118819e670a",
+      "title": "Назначение штрихкодов товарам",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2024-10-30",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T13:59:06+03:00",
+      "reading_time": 4
+    },
+    {
       "path": "articles/5S AUTO/Торговое оборудование/Подключение сканера штрихкодов",
       "file": "podklyuchenie-skanera-shtrikhkodov.md",
       "id": "podklyuchenie-skanera-shtrikhkodov",
@@ -7255,6 +7242,19 @@
           "order": 1
         }
       ]
+    },
+    {
+      "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование/Сканирование штрихкодов",
+      "file": "skanirovanie-shtrikhkodov-tovarov.md",
+      "id": "skanirovanie-shtrikhkodov-tovarov",
+      "sha": "9a589d9e61192c604bfc002f61bf167e605bfd55",
+      "title": "Сканирование штрихкодов товаров",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2025-01-17",
+      "date_kind": "updated",
+      "added_at": "2026-09-02T13:23:53+03:00",
+      "reading_time": 16
     },
     {
       "path": "articles/5S AUTO/Склад и запчасти/Инвентаризация",

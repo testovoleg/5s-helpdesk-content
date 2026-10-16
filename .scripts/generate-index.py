@@ -356,7 +356,7 @@ def collect_borrowed() -> dict[str, list[dict]]:
     return borrowed
 
 
-def cached_added_dates() -> dict[str, str]:
+def cached_added_dates() -> dict:
     """Даты появления материалов из прежнего index.json.
 
     Дата появления у пути не меняется, а git log --follow по каждому из
@@ -369,11 +369,17 @@ def cached_added_dates() -> dict[str, str]:
         old = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
     except (OSError, ValueError):
         return {}
-    return {
-        m["path"]: m["added_at"]
-        for m in old.get("materials", [])
-        if isinstance(m.get("added_at"), str) and "T" in m["added_at"]
-    }
+    dates = {}
+    for m in old.get("materials", []):
+        if isinstance(m.get("added_at"), str) and "T" in m["added_at"]:
+            dates[m["path"]] = m["added_at"]
+            # Запасной ключ — id в своем корне (он уникален, см. проверку
+            # дублей): при переносе в другую папку путь меняется, а git
+            # в хуке pre-commit новый путь еще не знает, и дата сбросилась
+            # бы на текущую — материал попал бы в «Что нового» (16.10.2026)
+            if m.get("type") and m.get("id"):
+                dates[(m["type"], m["id"])] = m["added_at"]
+    return dates
 
 
 def collect_materials() -> list[dict]:
@@ -441,6 +447,7 @@ def collect_materials() -> list[dict]:
                 "date_kind": meta.get("date_kind", "updated"),
                 # Когда материал появился у нас — по ней порядок в индексе
                 "added_at": cached.get(rel)
+                or cached.get((root, main_file[:-3]))
                 or git_added_date(md_path.relative_to(ROOT).as_posix())
                 # Материал добавляется этим самым коммитом (хук pre-commit),
                 # git его еще не знает — берем текущее время с поясом: оно
