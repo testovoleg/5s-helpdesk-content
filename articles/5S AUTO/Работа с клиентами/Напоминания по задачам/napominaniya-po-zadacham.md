@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/napominaniya-po-zadacham</sub>
 
-<sub>*Опубликовано 27.08.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/napominaniya-po-zadacham](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/napominaniya-po-zadacham)*</sub>
+<small>*Опубликовано 27.08.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/napominaniya-po-zadacham](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/napominaniya-po-zadacham)*</small>
 
 ## Введение
 

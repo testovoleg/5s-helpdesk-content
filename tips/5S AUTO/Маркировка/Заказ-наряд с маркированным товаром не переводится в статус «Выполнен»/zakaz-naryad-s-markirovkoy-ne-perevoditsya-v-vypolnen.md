@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>*Опубликовано 13.08.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/zakaz-naryad-s-markirovkoy-ne-perevoditsya-v-vypolnen](https://kb.5systems.ru/tips/5s-auto/markirovka/zakaz-naryad-s-markirovkoy-ne-perevoditsya-v-vypolnen)*</sub>
+<small>*Опубликовано 13.08.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/zakaz-naryad-s-markirovkoy-ne-perevoditsya-v-vypolnen](https://kb.5systems.ru/tips/5s-auto/markirovka/zakaz-naryad-s-markirovkoy-ne-perevoditsya-v-vypolnen)*</small>
 
 ## Проблема
 

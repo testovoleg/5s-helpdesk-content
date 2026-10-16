@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/versionirovanie</sub>
 
-<sub>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/versionirovanie](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/versionirovanie)*</sub>
+<small>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/versionirovanie](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/versionirovanie)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.001.001**.*
 

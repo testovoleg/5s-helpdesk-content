@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 16.09.2026</td></tr></table>
 
-<sub>*Опубликовано 31.07.2026: [https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-kolichestvo-unikalnyh-klientov](https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-kolichestvo-unikalnyh-klientov)*</sub>
+<small>*Опубликовано 31.07.2026: [https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-kolichestvo-unikalnyh-klientov](https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-kolichestvo-unikalnyh-klientov)*</small>
 
 ## Содержание
 

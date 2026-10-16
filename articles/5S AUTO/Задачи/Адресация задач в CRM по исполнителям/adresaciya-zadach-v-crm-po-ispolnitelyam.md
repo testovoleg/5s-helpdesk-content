@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/adresaciya-zadach-v-crm-po-ispolnitelyam</sub>
 
-<sub>*Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/zadachi/adresaciya-zadach-v-crm-po-ispolnitelyam](https://kb.5systems.ru/articles/5s-auto/zadachi/adresaciya-zadach-v-crm-po-ispolnitelyam)*</sub>
+<small>*Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/zadachi/adresaciya-zadach-v-crm-po-ispolnitelyam](https://kb.5systems.ru/articles/5s-auto/zadachi/adresaciya-zadach-v-crm-po-ispolnitelyam)*</small>
 
 ## Содержание
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-prilozheniya-5s-link-v2</sub>
 
-<sub>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/nastroyka-prilozheniya-5s-link-v2](https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/nastroyka-prilozheniya-5s-link-v2)*</sub>
+<small>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/nastroyka-prilozheniya-5s-link-v2](https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/nastroyka-prilozheniya-5s-link-v2)*</small>
 
 > *Актуально для 5S LINK версии* ***v2***.  *Доступно начиная с версии релиза 2.8.1 в рамках [отдельной подписки "Приложение 5S LINK"](https://www.5systems.ru/services/prilozhenie-5s-link)* *либо в рамках [комплексной подписки "Контакт-центр 5S Chat"](https://www.5systems.ru/services/kontakt-centr-5s-chat) (актуальные тарифы см. в [Каталоге услуг](https://www.5systems.ru/services?field_tags_target_id%5B21%5D=21&sort_by=created&sort_order=ASC))*
 

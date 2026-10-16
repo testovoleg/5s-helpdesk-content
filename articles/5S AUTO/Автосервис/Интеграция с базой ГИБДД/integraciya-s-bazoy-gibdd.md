@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-bazoy-gibdd</sub>
 
-<sub>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/integraciya-s-bazoy-gibdd](https://kb.5systems.ru/articles/5s-auto/avtoservis/integraciya-s-bazoy-gibdd)*</sub>
+<small>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/integraciya-s-bazoy-gibdd](https://kb.5systems.ru/articles/5s-auto/avtoservis/integraciya-s-bazoy-gibdd)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.7.1**.*
 

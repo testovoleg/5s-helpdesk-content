@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/vygruzka-prays-listov</sub>
 
-<sub>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/vygruzka-prays-listov](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/vygruzka-prays-listov)*</sub>
+<small>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/vygruzka-prays-listov](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/vygruzka-prays-listov)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.001.003**.*
 

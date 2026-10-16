@@ -4,7 +4,7 @@
 
 > 🛠 Комментарий для черновика: *черновик.*
 
-<sub>*Опубликовано 28.09.2026: [https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/podklyuchenie-sbp-tochka-banka](https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/podklyuchenie-sbp-tochka-banka)*</sub>
+<small>*Опубликовано 28.09.2026: [https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/podklyuchenie-sbp-tochka-banka](https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/podklyuchenie-sbp-tochka-banka)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.5**.*
 

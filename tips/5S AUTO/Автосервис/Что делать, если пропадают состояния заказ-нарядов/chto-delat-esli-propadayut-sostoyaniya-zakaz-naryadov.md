@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>*Опубликовано 10.08.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/chto-delat-esli-propadayut-sostoyaniya-zakaz-naryadov](https://kb.5systems.ru/tips/5s-auto/avtoservis/chto-delat-esli-propadayut-sostoyaniya-zakaz-naryadov)*</sub>
+<small>*Опубликовано 10.08.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/chto-delat-esli-propadayut-sostoyaniya-zakaz-naryadov](https://kb.5systems.ru/tips/5s-auto/avtoservis/chto-delat-esli-propadayut-sostoyaniya-zakaz-naryadov)*</small>
 
 ## Проблема
 

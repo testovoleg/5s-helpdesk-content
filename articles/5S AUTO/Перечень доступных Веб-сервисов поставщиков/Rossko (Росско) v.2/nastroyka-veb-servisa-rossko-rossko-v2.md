@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-veb-servisa-rossko-rossko-v2</sub>
 
-<sub>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-rossko-rossko-v2](https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-rossko-rossko-v2)*</sub>
+<small>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-rossko-rossko-v2](https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-rossko-rossko-v2)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.2**.*
 

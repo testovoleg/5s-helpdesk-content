@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/zakaz-naryady</sub>
 
-<sub>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/zakaz-naryady](https://kb.5systems.ru/articles/5s-auto/avtoservis/zakaz-naryady)*</sub>
+<small>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/zakaz-naryady](https://kb.5systems.ru/articles/5s-auto/avtoservis/zakaz-naryady)*</small>
 
 ## Содержание
 

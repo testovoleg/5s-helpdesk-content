@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Создано:</b> 07.10.2026</td></tr></table>
 
-<sub>*Опубликовано 07.10.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/podbor-i-avtopodstanovka-kodov-markirovki](https://kb.5systems.ru/articles/5s-auto/markirovka/podbor-i-avtopodstanovka-kodov-markirovki)*</sub>
+<small>*Опубликовано 07.10.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/podbor-i-avtopodstanovka-kodov-markirovki](https://kb.5systems.ru/articles/5s-auto/markirovka/podbor-i-avtopodstanovka-kodov-markirovki)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.5**.*
 

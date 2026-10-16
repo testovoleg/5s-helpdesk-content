@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>*Опубликовано 21.08.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-zadat-sklad-po-umolchaniyu](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-zadat-sklad-po-umolchaniyu)*</sub>
+<small>*Опубликовано 21.08.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-zadat-sklad-po-umolchaniyu](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-zadat-sklad-po-umolchaniyu)*</small>
 
 ## Вопрос
 

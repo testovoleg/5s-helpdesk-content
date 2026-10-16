@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/avtomobili-0</sub>
 
-<sub>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/avtomobili](https://kb.5systems.ru/articles/5s-auto/avtoservis/avtomobili)*</sub>
+<small>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/avtomobili](https://kb.5systems.ru/articles/5s-auto/avtoservis/avtomobili)*</small>
 
 ## Содержание
 

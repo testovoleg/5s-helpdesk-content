@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/news/tekhnicheskiy-reliz-273</sub>
 
-<sub>*Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/tekhnicheskiy-reliz-273](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/tekhnicheskiy-reliz-273)*</sub>
+<small>*Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/tekhnicheskiy-reliz-273](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/tekhnicheskiy-reliz-273)*</small>
 
 📢 Мы выпустили **технический релиз 2.7.3**, в который вошли следующие изменения в программе:
 

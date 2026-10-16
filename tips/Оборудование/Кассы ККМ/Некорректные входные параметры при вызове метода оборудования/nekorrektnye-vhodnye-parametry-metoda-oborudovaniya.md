@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy</sub>
 
-<sub>*Опубликовано 29.07.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/nekorrektnye-vhodnye-parametry-metoda-oborudovaniya](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/nekorrektnye-vhodnye-parametry-metoda-oborudovaniya)*</sub>
+<small>*Опубликовано 29.07.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/nekorrektnye-vhodnye-parametry-metoda-oborudovaniya](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/nekorrektnye-vhodnye-parametry-metoda-oborudovaniya)*</small>
 
 ## Проблема
 

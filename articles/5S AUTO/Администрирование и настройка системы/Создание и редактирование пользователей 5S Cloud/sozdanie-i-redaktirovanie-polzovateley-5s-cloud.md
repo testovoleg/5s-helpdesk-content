@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/sozdanie-i-redaktirovanie-polzovateley-5s-cloud</sub>
 
-<sub>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sozdanie-i-redaktirovanie-polzovateley-5s-cloud](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sozdanie-i-redaktirovanie-polzovateley-5s-cloud)*</sub>
+<small>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sozdanie-i-redaktirovanie-polzovateley-5s-cloud](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sozdanie-i-redaktirovanie-polzovateley-5s-cloud)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.2**.*
 

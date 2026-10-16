@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/polzovateli</sub>
 
-<sub>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/polzovateli-i-prava/polzovateli](https://kb.5systems.ru/articles/5s-auto/polzovateli-i-prava/polzovateli)*</sub>
+<small>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/polzovateli-i-prava/polzovateli](https://kb.5systems.ru/articles/5s-auto/polzovateli-i-prava/polzovateli)*</small>
 
 ## Содержание
 

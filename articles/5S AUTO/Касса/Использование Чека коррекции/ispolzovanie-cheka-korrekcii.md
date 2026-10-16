@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/ispolzovanie-cheka-korrekcii</sub>
 
-<sub>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/kassa/ispolzovanie-cheka-korrekcii](https://kb.5systems.ru/articles/5s-auto/kassa/ispolzovanie-cheka-korrekcii)*</sub>
+<small>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/kassa/ispolzovanie-cheka-korrekcii](https://kb.5systems.ru/articles/5s-auto/kassa/ispolzovanie-cheka-korrekcii)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.1**.*
 

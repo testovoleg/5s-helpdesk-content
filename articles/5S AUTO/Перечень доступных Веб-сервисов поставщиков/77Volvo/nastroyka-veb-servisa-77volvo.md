@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-veb-servisa-77volvo</sub>
 
-<sub>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-77volvo](https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-77volvo)*</sub>
+<small>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-77volvo](https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-77volvo)*</small>
 
 ## Содержание
 

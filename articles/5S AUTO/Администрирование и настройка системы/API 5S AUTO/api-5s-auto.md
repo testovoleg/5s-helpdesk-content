@@ -6,7 +6,7 @@
 
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **Статья для технических специалистов!**
 
-<sub>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/api-5s-auto](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/api-5s-auto)*</sub>
+<small>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/api-5s-auto](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/api-5s-auto)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.4** (доступно начиная с версии **2.8.1**).*
 

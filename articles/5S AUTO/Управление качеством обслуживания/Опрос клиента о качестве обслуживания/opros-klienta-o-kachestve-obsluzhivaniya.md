@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/opros-klienta-o-kachestve-obsluzhivaniya</sub>
 
-<sub>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/upravlenie-kachestvom-obsluzhivaniya/opros-klienta-o-kachestve-obsluzhivaniya](https://kb.5systems.ru/articles/5s-auto/upravlenie-kachestvom-obsluzhivaniya/opros-klienta-o-kachestve-obsluzhivaniya)*</sub>
+<small>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/upravlenie-kachestvom-obsluzhivaniya/opros-klienta-o-kachestve-obsluzhivaniya](https://kb.5systems.ru/articles/5s-auto/upravlenie-kachestvom-obsluzhivaniya/opros-klienta-o-kachestve-obsluzhivaniya)*</small>
 
 ## Содержание
 

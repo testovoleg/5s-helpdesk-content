@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami</sub>
 
-<sub>*Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami](https://kb.5systems.ru/tips/5s-auto/praktiki/osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami)*</sub>
+<small>*Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami](https://kb.5systems.ru/tips/5s-auto/praktiki/osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami)*</small>
 
 ## Вопрос
 

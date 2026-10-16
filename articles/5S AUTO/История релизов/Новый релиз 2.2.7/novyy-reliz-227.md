@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/news/novyy-reliz-227</sub>
 
-<sub>*Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-227](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-227)*</sub>
+<small>*Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-227](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-227)*</small>
 
 🍁 В сентябре вышел 💻 **новый релиз 5S AUTO 2.2.7**. Встречайте обновления:
 

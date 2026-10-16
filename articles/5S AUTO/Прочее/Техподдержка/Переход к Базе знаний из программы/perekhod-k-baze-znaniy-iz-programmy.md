@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Создано:</b> 16.10.2026</td></tr></table>
 
-<sub>*Опубликовано 16.10.2026: [https://kb.5systems.ru/articles/5s-auto/prochee/perekhod-k-baze-znaniy-iz-programmy](https://kb.5systems.ru/articles/5s-auto/prochee/perekhod-k-baze-znaniy-iz-programmy)*</sub>
+<small>*Опубликовано 16.10.2026: [https://kb.5systems.ru/articles/5s-auto/prochee/perekhod-k-baze-znaniy-iz-programmy](https://kb.5systems.ru/articles/5s-auto/prochee/perekhod-k-baze-znaniy-iz-programmy)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.5**.*
 

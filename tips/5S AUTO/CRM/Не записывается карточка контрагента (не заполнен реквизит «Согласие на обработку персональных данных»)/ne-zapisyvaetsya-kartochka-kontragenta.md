@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>*Опубликовано 17.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-zapisyvaetsya-kartochka-kontragenta](https://kb.5systems.ru/tips/5s-auto/crm/ne-zapisyvaetsya-kartochka-kontragenta)*</sub>
+<small>*Опубликовано 17.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-zapisyvaetsya-kartochka-kontragenta](https://kb.5systems.ru/tips/5s-auto/crm/ne-zapisyvaetsya-kartochka-kontragenta)*</small>
 
 ## Проблема
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/bot-tekhpodderzhki-v-max</sub>
 
-<sub>*Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/prochee/bot-tekhpodderzhki-v-max](https://kb.5systems.ru/articles/5s-auto/prochee/bot-tekhpodderzhki-v-max)*</sub>
+<small>*Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/prochee/bot-tekhpodderzhki-v-max](https://kb.5systems.ru/articles/5s-auto/prochee/bot-tekhpodderzhki-v-max)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.4**.*
 

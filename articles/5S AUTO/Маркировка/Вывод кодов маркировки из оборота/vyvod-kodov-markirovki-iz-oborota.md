@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/vyvod-kodov-markirovki-iz-oborota</sub>
 
-<sub>*Опубликовано 29.07.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/vyvod-kodov-markirovki-iz-oborota](https://kb.5systems.ru/articles/5s-auto/markirovka/vyvod-kodov-markirovki-iz-oborota)*</sub>
+<small>*Опубликовано 29.07.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/vyvod-kodov-markirovki-iz-oborota](https://kb.5systems.ru/articles/5s-auto/markirovka/vyvod-kodov-markirovki-iz-oborota)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.4** (версия конфигурации 2.8.3.42).*
 

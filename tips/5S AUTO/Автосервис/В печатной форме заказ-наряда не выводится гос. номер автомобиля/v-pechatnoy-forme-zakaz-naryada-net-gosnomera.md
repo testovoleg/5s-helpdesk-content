@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>*Опубликовано 19.08.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/v-pechatnoy-forme-zakaz-naryada-net-gosnomera](https://kb.5systems.ru/tips/5s-auto/avtoservis/v-pechatnoy-forme-zakaz-naryada-net-gosnomera)*</sub>
+<small>*Опубликовано 19.08.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/v-pechatnoy-forme-zakaz-naryada-net-gosnomera](https://kb.5systems.ru/tips/5s-auto/avtoservis/v-pechatnoy-forme-zakaz-naryada-net-gosnomera)*</small>
 
 ## Проблема
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyki-5s-link-v-lichnom-kabinete</sub>
 
-<sub>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/nastroyki-5s-link-v-lichnom-kabinete](https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/nastroyki-5s-link-v-lichnom-kabinete)*</sub>
+<small>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/nastroyki-5s-link-v-lichnom-kabinete](https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/nastroyki-5s-link-v-lichnom-kabinete)*</small>
 
 > *Актуально для 5S LINK версии* ***v1***.
 

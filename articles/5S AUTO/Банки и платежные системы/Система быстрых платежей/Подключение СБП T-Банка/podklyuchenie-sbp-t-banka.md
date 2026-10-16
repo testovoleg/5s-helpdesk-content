@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-sbp-t-banka</sub>
 
-<sub>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/podklyuchenie-sbp-t-banka](https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/podklyuchenie-sbp-t-banka)*</sub>
+<small>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/podklyuchenie-sbp-t-banka](https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/podklyuchenie-sbp-t-banka)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.7.2**.*
 

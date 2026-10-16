@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/pomoschnik-oformleniya-zakaza-pokupatelya</sub>
 
-<sub>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-zakazami/pomoschnik-oformleniya-zakaza-pokupatelya](https://kb.5systems.ru/articles/5s-auto/rabota-s-zakazami/pomoschnik-oformleniya-zakaza-pokupatelya)*</sub>
+<small>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-zakazami/pomoschnik-oformleniya-zakaza-pokupatelya](https://kb.5systems.ru/articles/5s-auto/rabota-s-zakazami/pomoschnik-oformleniya-zakaza-pokupatelya)*</small>
 
 ## Содержание
 

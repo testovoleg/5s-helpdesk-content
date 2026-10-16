@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>*Опубликовано 18.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya](https://kb.5systems.ru/tips/tekhpodderzhka/problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya)*</sub>
+<small>*Опубликовано 18.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya](https://kb.5systems.ru/tips/tekhpodderzhka/problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya)*</small>
 
 ## Проблема
 

@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>*Опубликовано 31.07.2026: [https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-avtorizacii-ekvayringa-1001](https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-avtorizacii-ekvayringa-1001)*</sub>
+<small>*Опубликовано 31.07.2026: [https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-avtorizacii-ekvayringa-1001](https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-avtorizacii-ekvayringa-1001)*</small>
 
 ## Проблема
 

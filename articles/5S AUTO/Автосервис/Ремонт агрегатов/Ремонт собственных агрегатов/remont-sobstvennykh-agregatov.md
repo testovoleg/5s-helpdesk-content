@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/remont-sobstvennykh-agregatov</sub>
 
-<sub>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/remont-sobstvennykh-agregatov](https://kb.5systems.ru/articles/5s-auto/avtoservis/remont-sobstvennykh-agregatov)*</sub>
+<small>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/remont-sobstvennykh-agregatov](https://kb.5systems.ru/articles/5s-auto/avtoservis/remont-sobstvennykh-agregatov)*</small>
 
 #### Описание
 

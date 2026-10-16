@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-vidimosti-skladov</sub>
 
-<sub>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/nastroyka-vidimosti-skladov](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/nastroyka-vidimosti-skladov)*</sub>
+<small>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/nastroyka-vidimosti-skladov](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/nastroyka-vidimosti-skladov)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.2**. Разделение настройки видимости остатков и права проведения документов – с релиза **2.8.3**.*
 

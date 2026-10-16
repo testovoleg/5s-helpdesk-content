@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/kontrol-debitorskoy-zadolzhennosti-yur-lic</sub>
 
-<sub>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/kontrol-debitorskoy-zadolzhennosti-yur-lic](https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/kontrol-debitorskoy-zadolzhennosti-yur-lic)*</sub>
+<small>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/kontrol-debitorskoy-zadolzhennosti-yur-lic](https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/kontrol-debitorskoy-zadolzhennosti-yur-lic)*</small>
 
 ## Содержание
 

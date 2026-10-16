@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/poryadok-raboty-s-kassami-kkm</sub>
 
-<sub>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/kassa/poryadok-raboty-s-kassami-kkm](https://kb.5systems.ru/articles/5s-auto/kassa/poryadok-raboty-s-kassami-kkm)*</sub>
+<small>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/kassa/poryadok-raboty-s-kassami-kkm](https://kb.5systems.ru/articles/5s-auto/kassa/poryadok-raboty-s-kassami-kkm)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.7.1**.*
 

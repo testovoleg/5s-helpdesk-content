@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/dostup-k-dannym-po-podrazdeleniyam-rls</sub>
 
-<sub>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/dostup-k-dannym-po-podrazdeleniyam-rls](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/dostup-k-dannym-po-podrazdeleniyam-rls)*</sub>
+<small>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/dostup-k-dannym-po-podrazdeleniyam-rls](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/dostup-k-dannym-po-podrazdeleniyam-rls)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.1**.*
 

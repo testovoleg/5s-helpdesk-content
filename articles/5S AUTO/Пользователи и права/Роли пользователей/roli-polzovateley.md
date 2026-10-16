@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/roli-polzovateley</sub>
 
-<sub>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/polzovateli-i-prava/roli-polzovateley](https://kb.5systems.ru/articles/5s-auto/polzovateli-i-prava/roli-polzovateley)*</sub>
+<small>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/polzovateli-i-prava/roli-polzovateley](https://kb.5systems.ru/articles/5s-auto/polzovateli-i-prava/roli-polzovateley)*</small>
 
 ## Содержание
 

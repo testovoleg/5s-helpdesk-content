@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh</sub>
 
-<sub>*Опубликовано 09.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh](https://kb.5systems.ru/tips/5s-auto/praktiki/uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh)*</sub>
+<small>*Опубликовано 09.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh](https://kb.5systems.ru/tips/5s-auto/praktiki/uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh)*</small>
 
 ## Вопрос
 

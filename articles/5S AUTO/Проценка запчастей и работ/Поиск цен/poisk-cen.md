@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/poisk-cen</sub>
 
-<sub>*Опубликовано 28.08.2026: [https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/poisk-cen](https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/poisk-cen)*</sub>
+<small>*Опубликовано 28.08.2026: [https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/poisk-cen](https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/poisk-cen)*</small>
 
 ## Содержание
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/spravochnik-organizacii</sub>
 
-<sub>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/struktura-kompanii/spravochnik-organizacii](https://kb.5systems.ru/articles/5s-auto/struktura-kompanii/spravochnik-organizacii)*</sub>
+<small>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/struktura-kompanii/spravochnik-organizacii](https://kb.5systems.ru/articles/5s-auto/struktura-kompanii/spravochnik-organizacii)*</small>
 
 ## Содержание
 

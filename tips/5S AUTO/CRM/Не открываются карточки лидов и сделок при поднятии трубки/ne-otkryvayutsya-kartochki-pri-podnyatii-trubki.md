@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>*Опубликовано 18.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-otkryvayutsya-kartochki-pri-podnyatii-trubki](https://kb.5systems.ru/tips/5s-auto/crm/ne-otkryvayutsya-kartochki-pri-podnyatii-trubki)*</sub>
+<small>*Опубликовано 18.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-otkryvayutsya-kartochki-pri-podnyatii-trubki](https://kb.5systems.ru/tips/5s-auto/crm/ne-otkryvayutsya-kartochki-pri-podnyatii-trubki)*</small>
 
 ## Проблема
 

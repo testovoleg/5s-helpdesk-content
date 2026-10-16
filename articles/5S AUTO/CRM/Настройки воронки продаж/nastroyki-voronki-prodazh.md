@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyki-voronki-prodazh</sub>
 
-<sub>*Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/nastroyki-voronki-prodazh](https://kb.5systems.ru/articles/5s-auto/crm/nastroyki-voronki-prodazh)*</sub>
+<small>*Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/nastroyki-voronki-prodazh](https://kb.5systems.ru/articles/5s-auto/crm/nastroyki-voronki-prodazh)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.001.001**. Настройки формы сделки, карточки канбана и списка сделок доступны начиная с релиза **2.7.1**. Настройка режимов отбора на вкладке «Сущность» доступна начиная с релиза **2.8.1**.*
 

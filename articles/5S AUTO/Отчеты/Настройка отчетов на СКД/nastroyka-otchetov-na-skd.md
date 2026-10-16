@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-otchetov-na-skd</sub>
 
-<sub>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/otchety/nastroyka-otchetov-na-skd](https://kb.5systems.ru/articles/5s-auto/otchety/nastroyka-otchetov-na-skd)*</sub>
+<small>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/otchety/nastroyka-otchetov-na-skd](https://kb.5systems.ru/articles/5s-auto/otchety/nastroyka-otchetov-na-skd)*</small>
 
 ## Содержание
 

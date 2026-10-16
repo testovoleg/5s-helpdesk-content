@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/otchet-registraciya-vneshnikh-polzovateley</sub>
 
-<sub>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/otchety/otchet-registraciya-vneshnikh-polzovateley](https://kb.5systems.ru/articles/5s-auto/otchety/otchet-registraciya-vneshnikh-polzovateley)*</sub>
+<small>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/otchety/otchet-registraciya-vneshnikh-polzovateley](https://kb.5systems.ru/articles/5s-auto/otchety/otchet-registraciya-vneshnikh-polzovateley)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.4**.*
 

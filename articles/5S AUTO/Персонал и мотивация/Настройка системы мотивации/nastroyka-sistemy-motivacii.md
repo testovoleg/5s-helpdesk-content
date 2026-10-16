@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-sistemy-motivacii</sub>
 
-<sub>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/personal-i-motivaciya/nastroyka-sistemy-motivacii](https://kb.5systems.ru/articles/5s-auto/personal-i-motivaciya/nastroyka-sistemy-motivacii)*</sub>
+<small>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/personal-i-motivaciya/nastroyka-sistemy-motivacii](https://kb.5systems.ru/articles/5s-auto/personal-i-motivaciya/nastroyka-sistemy-motivacii)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.001.001**.*
 

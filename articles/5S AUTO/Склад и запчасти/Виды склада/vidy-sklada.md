@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/vidy-sklada</sub>
 
-<sub>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/vidy-sklada](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/vidy-sklada)*</sub>
+<small>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/vidy-sklada](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/vidy-sklada)*</small>
 
 ## Содержание
 

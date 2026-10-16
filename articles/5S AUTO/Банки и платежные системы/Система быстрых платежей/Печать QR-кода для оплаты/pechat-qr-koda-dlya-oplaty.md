@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/pechat-qr-koda-dlya-oplaty</sub>
 
-<sub>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/pechat-qr-koda-dlya-oplaty](https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/pechat-qr-koda-dlya-oplaty)*</sub>
+<small>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/pechat-qr-koda-dlya-oplaty](https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/pechat-qr-koda-dlya-oplaty)*</small>
 
 ## Содержание
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/sostoyaniya-zakaz-naryada</sub>
 
-<sub>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/sostoyaniya-zakaz-naryada](https://kb.5systems.ru/articles/5s-auto/avtoservis/sostoyaniya-zakaz-naryada)*</sub>
+<small>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/sostoyaniya-zakaz-naryada](https://kb.5systems.ru/articles/5s-auto/avtoservis/sostoyaniya-zakaz-naryada)*</small>
 
 ## Содержание
 

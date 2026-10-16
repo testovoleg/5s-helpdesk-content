@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/popolnenie-skladskikh-zapasov</sub>
 
-<sub>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/popolnenie-skladskikh-zapasov](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/popolnenie-skladskikh-zapasov)*</sub>
+<small>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/popolnenie-skladskikh-zapasov](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/popolnenie-skladskikh-zapasov)*</small>
 
 ## Содержание
 

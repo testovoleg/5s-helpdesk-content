@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/primenyaemost-dlya-agregatov</sub>
 
-<sub>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/primenyaemost-dlya-agregatov](https://kb.5systems.ru/articles/5s-auto/avtoservis/primenyaemost-dlya-agregatov)*</sub>
+<small>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/primenyaemost-dlya-agregatov](https://kb.5systems.ru/articles/5s-auto/avtoservis/primenyaemost-dlya-agregatov)*</small>
 
 ## Содержание
 

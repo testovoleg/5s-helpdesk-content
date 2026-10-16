@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-cvetovogo-oformleniya-statusov-i-sostoyaniy</sub>
 
-<sub>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/nastroyka-cvetovogo-oformleniya-statusov-i-sostoyaniy](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/nastroyka-cvetovogo-oformleniya-statusov-i-sostoyaniy)*</sub>
+<small>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/nastroyka-cvetovogo-oformleniya-statusov-i-sostoyaniy](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/nastroyka-cvetovogo-oformleniya-statusov-i-sostoyaniy)*</small>
 
 ## Содержание
 

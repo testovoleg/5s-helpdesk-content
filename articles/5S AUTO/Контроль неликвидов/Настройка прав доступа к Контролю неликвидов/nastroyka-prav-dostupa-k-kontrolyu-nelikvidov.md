@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-prav-dostupa-k-kontrolyu-nelikvidov</sub>
 
-<sub>*Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/kontrol-nelikvidov/nastroyka-prav-dostupa-k-kontrolyu-nelikvidov](https://kb.5systems.ru/articles/5s-auto/kontrol-nelikvidov/nastroyka-prav-dostupa-k-kontrolyu-nelikvidov)*</sub>
+<small>*Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/kontrol-nelikvidov/nastroyka-prav-dostupa-k-kontrolyu-nelikvidov](https://kb.5systems.ru/articles/5s-auto/kontrol-nelikvidov/nastroyka-prav-dostupa-k-kontrolyu-nelikvidov)*</small>
 
 ## Содержание
 

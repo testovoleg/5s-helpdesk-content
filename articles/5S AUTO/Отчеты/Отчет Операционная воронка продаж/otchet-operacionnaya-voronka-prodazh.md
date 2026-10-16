@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/otchet-operacionnaya-voronka-prodazh</sub>
 
-<sub>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/otchety/otchet-operacionnaya-voronka-prodazh](https://kb.5systems.ru/articles/5s-auto/otchety/otchet-operacionnaya-voronka-prodazh)*</sub>
+<small>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/otchety/otchet-operacionnaya-voronka-prodazh](https://kb.5systems.ru/articles/5s-auto/otchety/otchet-operacionnaya-voronka-prodazh)*</small>
 
 ## Содержание
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/prednastroennye-znachimye-sobytiya</sub>
 
-<sub>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/soobscheniya/prednastroennye-znachimye-sobytiya](https://kb.5systems.ru/articles/5s-auto/soobscheniya/prednastroennye-znachimye-sobytiya)*</sub>
+<small>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/soobscheniya/prednastroennye-znachimye-sobytiya](https://kb.5systems.ru/articles/5s-auto/soobscheniya/prednastroennye-znachimye-sobytiya)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.7.1**.*
 

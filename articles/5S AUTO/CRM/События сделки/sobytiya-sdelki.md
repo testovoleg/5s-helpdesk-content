@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/sobytiya-sdelki</sub>
 
-<sub>*Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/sobytiya-sdelki](https://kb.5systems.ru/articles/5s-auto/crm/sobytiya-sdelki)*</sub>
+<small>*Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/sobytiya-sdelki](https://kb.5systems.ru/articles/5s-auto/crm/sobytiya-sdelki)*</small>
 
 > *Актуально начиная с версии релиза 5S AUTO **2.001.001**. Обновленная форма сделки реализована в релизе **2.5.2** (версия конфигурации 2.5.2.1).*
 

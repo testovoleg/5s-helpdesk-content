@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 23.09.2026</td></tr></table>
 
-<sub>*Опубликовано 23.09.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-masteru-konsultantu-videt-sdelki-smenshchika](https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-masteru-konsultantu-videt-sdelki-smenshchika)*</sub>
+<small>*Опубликовано 23.09.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-masteru-konsultantu-videt-sdelki-smenshchika](https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-masteru-konsultantu-videt-sdelki-smenshchika)*</small>
 
 ## Вопрос
 

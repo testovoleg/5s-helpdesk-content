@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-v-arm-korzina</sub>
 
-<sub>*Опубликовано 27.08.2026: [https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/rabota-v-arm-korzina](https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/rabota-v-arm-korzina)*</sub>
+<small>*Опубликовано 27.08.2026: [https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/rabota-v-arm-korzina](https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/rabota-v-arm-korzina)*</small>
 
 ## Содержание
 

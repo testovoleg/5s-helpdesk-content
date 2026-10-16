@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-primenyaemostyu</sub>
 
-<sub>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/rabota-s-primenyaemostyu](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/rabota-s-primenyaemostyu)*</sub>
+<small>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/rabota-s-primenyaemostyu](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/rabota-s-primenyaemostyu)*</small>
 
 ## Содержание
 

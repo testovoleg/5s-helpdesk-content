@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/vyyavlenie-nelikvidov</sub>
 
-<sub>*Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/kontrol-nelikvidov/vyyavlenie-nelikvidov](https://kb.5systems.ru/articles/5s-auto/kontrol-nelikvidov/vyyavlenie-nelikvidov)*</sub>
+<small>*Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/kontrol-nelikvidov/vyyavlenie-nelikvidov](https://kb.5systems.ru/articles/5s-auto/kontrol-nelikvidov/vyyavlenie-nelikvidov)*</small>
 
 ## Содержание
 
