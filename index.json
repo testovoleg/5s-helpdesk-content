@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T08:54:02+03:00",
+  "generated_at": "2026-10-16T08:59:41+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -463,7 +463,16 @@
             "path": "articles/5S AUTO/Прочее",
             "id": "prochee",
             "uuid": "48a33cbd-ac7e-4598-a9a5-5c8b96c9ca10",
-            "order": 29
+            "order": 29,
+            "sections": [
+              {
+                "name": "Техподдержка",
+                "path": "articles/5S AUTO/Прочее/Техподдержка",
+                "id": "tekhpodderzhka",
+                "uuid": "ae0b00dd-6da3-4ff2-b5f2-b5bce217baa8",
+                "order": 0
+              }
+            ]
           },
           {
             "name": "Внешние обработки",
@@ -1017,7 +1026,7 @@
       "reading_time": 6
     },
     {
-      "path": "articles/5S AUTO/Прочее/Подписки компании в программе",
+      "path": "articles/5S AUTO/Прочее/Техподдержка/Подписки компании в программе",
       "file": "podpiski-kompanii-v-programme.md",
       "id": "podpiski-kompanii-v-programme",
       "sha": "8c9a5c8835e88060115b81ab7e8fa189fc6b34c5",
@@ -1026,7 +1035,7 @@
       "order": 2,
       "updated_at": "2026-10-09",
       "date_kind": "created",
-      "added_at": "2026-10-09T10:03:45+03:00",
+      "added_at": "2026-10-09",
       "reading_time": 2,
       "also_in": [
         {
@@ -1049,7 +1058,7 @@
       "reading_time": 4
     },
     {
-      "path": "articles/5S AUTO/Прочее/Переход к Базе знаний из программы",
+      "path": "articles/5S AUTO/Прочее/Техподдержка/Переход к Базе знаний из программы",
       "file": "perekhod-k-baze-znaniy-iz-programmy.md",
       "id": "perekhod-k-baze-znaniy-iz-programmy",
       "sha": "779ae73f85c1a0f3e767254dc80ab47978c0f546",
@@ -1058,7 +1067,7 @@
       "order": 1,
       "updated_at": "2026-10-06",
       "date_kind": "updated",
-      "added_at": "2026-10-06T09:59:26+03:00",
+      "added_at": "2026-10-06",
       "reading_time": 3,
       "also_in": [
         {
@@ -1066,6 +1075,19 @@
           "order": 19
         }
       ]
+    },
+    {
+      "path": "articles/5S AUTO/Прочее/Техподдержка/Как обратиться в техническую поддержку",
+      "file": "kak-obratitsya-v-tekhnicheskuyu-podderzhku.md",
+      "id": "kak-obratitsya-v-tekhnicheskuyu-podderzhku",
+      "sha": "17d45a7a6cf6ad56ee362f088a7292af28888445",
+      "title": "Как обратиться в техническую поддержку",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2026-10-05",
+      "date_kind": "updated",
+      "added_at": "2026-10-05",
+      "reading_time": 9
     },
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Платежный календарь",
@@ -3998,7 +4020,7 @@
       "sha": "8b6688ca261664e4da39f33bdf6b1bb88fca23a9",
       "title": "Обучающие видеоролики",
       "type": "articles",
-      "order": 6,
+      "order": 3,
       "updated_at": "2024-09-17",
       "date_kind": "updated",
       "added_at": "2026-09-10T16:22:20+03:00",
@@ -4061,39 +4083,13 @@
       "hidden": true
     },
     {
-      "path": "articles/5S AUTO/Прочее/Как обратиться в техническую поддержку",
-      "file": "kak-obratitsya-v-tekhnicheskuyu-podderzhku.md",
-      "id": "kak-obratitsya-v-tekhnicheskuyu-podderzhku",
-      "sha": "17d45a7a6cf6ad56ee362f088a7292af28888445",
-      "title": "Как обратиться в техническую поддержку",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2026-10-05",
-      "date_kind": "updated",
-      "added_at": "2026-09-10T11:42:31+03:00",
-      "reading_time": 9
-    },
-    {
-      "path": "articles/5S AUTO/Прочее/Бот техподдержки в Max",
-      "file": "bot-tekhpodderzhki-v-max.md",
-      "id": "bot-tekhpodderzhki-v-max",
-      "sha": "a3e1777b33c678b2aa9e7f8f25d70d0db60475cb",
-      "title": "Бот техподдержки в Max",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2026-06-24",
-      "date_kind": "updated",
-      "added_at": "2026-09-10T11:31:55+03:00",
-      "reading_time": 7
-    },
-    {
       "path": "articles/5S AUTO/Прочее/Документация от 1С-Рарус",
       "file": "dokumentaciya-ot-1s-rarus.md",
       "id": "dokumentaciya-ot-1s-rarus",
       "sha": "4b0803673a5a5666a92d6fb81847cb11848b6f71",
       "title": "Документация от 1С-Рарус",
       "type": "articles",
-      "order": 4,
+      "order": 1,
       "updated_at": "2022-06-20",
       "date_kind": "updated",
       "added_at": "2026-09-10T11:31:55+03:00",
@@ -4106,7 +4102,7 @@
       "sha": "21ae685ed79d2be2851d834d61005add408a199f",
       "title": "Материалы для обмена с 1С Бухгалтерия",
       "type": "articles",
-      "order": 5,
+      "order": 2,
       "updated_at": "2024-11-20",
       "date_kind": "updated",
       "added_at": "2026-09-10T11:31:55+03:00",
@@ -9579,6 +9575,19 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Прочее/Техподдержка/Бот техподдержки в Max",
+      "file": "bot-tekhpodderzhki-v-max.md",
+      "id": "bot-tekhpodderzhki-v-max",
+      "sha": "a3e1777b33c678b2aa9e7f8f25d70d0db60475cb",
+      "title": "Бот техподдержки в Max",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2026-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-06-24",
+      "reading_time": 7
     }
   ]
 }
