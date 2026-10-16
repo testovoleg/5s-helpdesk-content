@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Время чтения:</b> 10 мин.</td><td><b>Создано:</b> 14.10.2026</td></tr></table>
 
-<small>*Опубликовано 14.10.2026: [https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/integraciya-s-terminalami-oplaty-unitodi](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/integraciya-s-terminalami-oplaty-unitodi)*</small>
+###### *Опубликовано 14.10.2026: [https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/integraciya-s-terminalami-oplaty-unitodi](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/integraciya-s-terminalami-oplaty-unitodi)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.5**.*
 

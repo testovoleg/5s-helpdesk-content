@@ -59,7 +59,7 @@
 
 Реализован функционал ***загрузки банковской выписки*** из файла, предварительно полученного из банка.
 
-<small>*Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/arkhiv-obnovleniy-2021-2022](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/arkhiv-obnovleniy-2021-2022)*</small>
+###### *Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/arkhiv-obnovleniy-2021-2022](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/arkhiv-obnovleniy-2021-2022)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.002.007**.*
 

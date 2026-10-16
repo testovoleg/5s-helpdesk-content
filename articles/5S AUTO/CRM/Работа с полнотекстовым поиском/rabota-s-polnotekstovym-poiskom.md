@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-polnotekstovym-poiskom</sub>
 
-<small>*Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/rabota-s-polnotekstovym-poiskom](https://kb.5systems.ru/articles/5s-auto/crm/rabota-s-polnotekstovym-poiskom)*</small>
+###### *Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/rabota-s-polnotekstovym-poiskom](https://kb.5systems.ru/articles/5s-auto/crm/rabota-s-polnotekstovym-poiskom)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.001.001**.*
 

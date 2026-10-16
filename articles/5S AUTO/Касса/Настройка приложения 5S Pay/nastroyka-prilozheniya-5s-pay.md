@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-prilozheniya-5s-pay</sub>
 
-<small>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/kassa/nastroyka-prilozheniya-5s-pay](https://kb.5systems.ru/articles/5s-auto/kassa/nastroyka-prilozheniya-5s-pay)*</small>
+###### *Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/kassa/nastroyka-prilozheniya-5s-pay](https://kb.5systems.ru/articles/5s-auto/kassa/nastroyka-prilozheniya-5s-pay)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.2** (версия конфигурации 2.8.2.1).*
 

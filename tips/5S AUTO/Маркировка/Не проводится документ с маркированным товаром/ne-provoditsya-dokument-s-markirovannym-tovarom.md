@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 22.09.2026</td></tr></table>
 
-<small>*Опубликовано 22.09.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/ne-provoditsya-dokument-s-markirovannym-tovarom](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-provoditsya-dokument-s-markirovannym-tovarom)*</small>
+###### *Опубликовано 22.09.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/ne-provoditsya-dokument-s-markirovannym-tovarom](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-provoditsya-dokument-s-markirovannym-tovarom)*
 
 ## Проблема
 

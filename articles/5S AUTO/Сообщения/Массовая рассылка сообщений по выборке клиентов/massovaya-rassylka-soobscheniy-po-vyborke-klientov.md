@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/massovaya-rassylka-soobscheniy-po-vyborke-klientov</sub>
 
-<small>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/soobscheniya/massovaya-rassylka-soobscheniy-po-vyborke-klientov](https://kb.5systems.ru/articles/5s-auto/soobscheniya/massovaya-rassylka-soobscheniy-po-vyborke-klientov)*</small>
+###### *Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/soobscheniya/massovaya-rassylka-soobscheniy-po-vyborke-klientov](https://kb.5systems.ru/articles/5s-auto/soobscheniya/massovaya-rassylka-soobscheniy-po-vyborke-klientov)*
 
 ## Содержание
 

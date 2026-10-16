@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/rezhimy-pechati-chekov</sub>
 
-<small>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/kassa/rezhimy-pechati-chekov](https://kb.5systems.ru/articles/5s-auto/kassa/rezhimy-pechati-chekov)*</small>
+###### *Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/kassa/rezhimy-pechati-chekov](https://kb.5systems.ru/articles/5s-auto/kassa/rezhimy-pechati-chekov)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.3**.*
 

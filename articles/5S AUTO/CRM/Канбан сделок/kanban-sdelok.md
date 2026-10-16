@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/kanban-sdelok</sub>
 
-<small>*Опубликовано 25.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/kanban-sdelok](https://kb.5systems.ru/articles/5s-auto/crm/kanban-sdelok)*</small>
+###### *Опубликовано 25.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/kanban-sdelok](https://kb.5systems.ru/articles/5s-auto/crm/kanban-sdelok)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.6.1** (версия конфигурации 2.6.1.1).*
 

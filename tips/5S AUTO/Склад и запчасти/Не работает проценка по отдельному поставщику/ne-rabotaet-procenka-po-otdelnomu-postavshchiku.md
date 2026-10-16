@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 16.09.2026</td></tr></table>
 
-<small>*Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-rabotaet-procenka-po-otdelnomu-postavshchiku](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-rabotaet-procenka-po-otdelnomu-postavshchiku)*</small>
+###### *Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-rabotaet-procenka-po-otdelnomu-postavshchiku](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-rabotaet-procenka-po-otdelnomu-postavshchiku)*
 
 > 🛠 Комментарий для черновика: *совет нужно проверить у специалистов техподдержки — причины, порядок действий и фразу про ключ API вместо пароля у части поставщиков.*
 

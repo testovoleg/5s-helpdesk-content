@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-propuschennymi-zvonkami</sub>
 
-<small>*Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/telefoniya/rabota-s-propuschennymi-zvonkami](https://kb.5systems.ru/articles/5s-auto/telefoniya/rabota-s-propuschennymi-zvonkami)*</small>
+###### *Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/telefoniya/rabota-s-propuschennymi-zvonkami](https://kb.5systems.ru/articles/5s-auto/telefoniya/rabota-s-propuschennymi-zvonkami)*
 
 ## Содержание
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy</sub>
 
-<small>*Опубликовано 29.07.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/nulevaya-summa-v-cheke](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/nulevaya-summa-v-cheke)*</small>
+###### *Опубликовано 29.07.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/nulevaya-summa-v-cheke](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/nulevaya-summa-v-cheke)*
 
 ## Проблема
 

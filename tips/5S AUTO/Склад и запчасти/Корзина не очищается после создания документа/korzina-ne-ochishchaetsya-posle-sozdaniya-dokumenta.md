@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<small>*Опубликовано 19.08.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/korzina-ne-ochishchaetsya-posle-sozdaniya-dokumenta](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/korzina-ne-ochishchaetsya-posle-sozdaniya-dokumenta)*</small>
+###### *Опубликовано 19.08.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/korzina-ne-ochishchaetsya-posle-sozdaniya-dokumenta](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/korzina-ne-ochishchaetsya-posle-sozdaniya-dokumenta)*
 
 ## Проблема
 

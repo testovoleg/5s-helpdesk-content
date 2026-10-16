@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/news/novyy-reliz-231</sub>
 
-<small>*Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-231](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-231)*</small>
+###### *Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-231](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-231)*
 
 🎄 **Новый 2023 год** у **5SYSTEMS** начался с выхода **нового релиза 2.3.1**.
 

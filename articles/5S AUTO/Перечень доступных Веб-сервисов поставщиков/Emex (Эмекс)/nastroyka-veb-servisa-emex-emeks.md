@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-veb-servisa-emex-emeks</sub>
 
-<small>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-emex-emeks](https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-emex-emeks)*</small>
+###### *Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-emex-emeks](https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-emex-emeks)*
 
 ## Содержание
 

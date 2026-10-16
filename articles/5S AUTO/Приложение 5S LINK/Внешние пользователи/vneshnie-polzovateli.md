@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/vneshnie-polzovateli</sub>
 
-<small>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/vneshnie-polzovateli](https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/vneshnie-polzovateli)*</small>
+###### *Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/vneshnie-polzovateli](https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/vneshnie-polzovateli)*
 
 ## Содержание
 

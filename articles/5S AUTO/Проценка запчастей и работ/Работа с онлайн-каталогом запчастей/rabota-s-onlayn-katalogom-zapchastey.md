@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-onlayn-katalogom-zapchastey</sub>
 
-<small>*Опубликовано 28.08.2026: [https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/rabota-s-onlayn-katalogom-zapchastey](https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/rabota-s-onlayn-katalogom-zapchastey)*</small>
+###### *Опубликовано 28.08.2026: [https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/rabota-s-onlayn-katalogom-zapchastey](https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/rabota-s-onlayn-katalogom-zapchastey)*
 
 **1. [Обзор интерфейса онлайн-каталога](../../../../lessons/Урок%207.%20Онлайн-каталог%20запчастей/Обзор%20интерфейса%20Онлайн-каталога/obzor-interfeysa-onlayn-kataloga.md):**
 

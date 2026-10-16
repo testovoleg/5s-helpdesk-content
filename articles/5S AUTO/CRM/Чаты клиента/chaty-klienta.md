@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/chaty-klienta</sub>
 
-<small>*Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/chaty-klienta](https://kb.5systems.ru/articles/5s-auto/crm/chaty-klienta)*</small>
+###### *Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/chaty-klienta](https://kb.5systems.ru/articles/5s-auto/crm/chaty-klienta)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.3.1** (версия конфигурации 2.2.7.2).*
 

@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<small>*Опубликовано 31.07.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/oshibka-probit-chek-22005](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/oshibka-probit-chek-22005)*</small>
+###### *Опубликовано 31.07.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/oshibka-probit-chek-22005](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/oshibka-probit-chek-22005)*
 
 ## Проблема
 

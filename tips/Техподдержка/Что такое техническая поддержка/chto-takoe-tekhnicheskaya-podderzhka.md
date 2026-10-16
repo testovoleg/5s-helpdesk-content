@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help (раздел «Вопрос-ответ»)</sub>
 
-<small>*Опубликовано 07.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/chto-takoe-tekhnicheskaya-podderzhka](https://kb.5systems.ru/tips/tekhpodderzhka/chto-takoe-tekhnicheskaya-podderzhka)*</small>
+###### *Опубликовано 07.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/chto-takoe-tekhnicheskaya-podderzhka](https://kb.5systems.ru/tips/tekhpodderzhka/chto-takoe-tekhnicheskaya-podderzhka)*
 
 ## Вопрос
 

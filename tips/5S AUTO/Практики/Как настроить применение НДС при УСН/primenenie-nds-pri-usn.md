@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/primenenie-nds-pri-usn</sub>
 
-<small>*Опубликовано 09.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/primenenie-nds-pri-usn](https://kb.5systems.ru/tips/5s-auto/praktiki/primenenie-nds-pri-usn)*</small>
+###### *Опубликовано 09.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/primenenie-nds-pri-usn](https://kb.5systems.ru/tips/5s-auto/praktiki/primenenie-nds-pri-usn)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.4** (версия конфигурации 2.8.3.12).*
 

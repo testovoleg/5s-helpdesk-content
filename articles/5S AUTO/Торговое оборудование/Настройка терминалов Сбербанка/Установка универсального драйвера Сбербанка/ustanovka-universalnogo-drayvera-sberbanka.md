@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/ustanovka-universalnogo-drayvera-sberbanka</sub>
 
-<small>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/ustanovka-universalnogo-drayvera-sberbanka](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/ustanovka-universalnogo-drayvera-sberbanka)*</small>
+###### *Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/ustanovka-universalnogo-drayvera-sberbanka](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/ustanovka-universalnogo-drayvera-sberbanka)*
 
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **Статья для опытных пользователей!**
 

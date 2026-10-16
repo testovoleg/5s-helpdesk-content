@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<small>*Опубликовано 18.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-poluchaetsya-vybrat-pokazateli-v-nastroykah-otcheta](https://kb.5systems.ru/tips/5s-auto/crm/ne-poluchaetsya-vybrat-pokazateli-v-nastroykah-otcheta)*</small>
+###### *Опубликовано 18.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-poluchaetsya-vybrat-pokazateli-v-nastroykah-otcheta](https://kb.5systems.ru/tips/5s-auto/crm/ne-poluchaetsya-vybrat-pokazateli-v-nastroykah-otcheta)*
 
 ## Проблема
 

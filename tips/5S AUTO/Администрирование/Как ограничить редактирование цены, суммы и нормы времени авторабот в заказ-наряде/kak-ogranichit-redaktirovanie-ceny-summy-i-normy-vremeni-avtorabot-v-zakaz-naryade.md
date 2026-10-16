@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 21.09.2026</td></tr></table>
 
-<small>*Опубликовано 21.09.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade)*</small>
+###### *Опубликовано 21.09.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade)*
 
 ## Вопрос
 

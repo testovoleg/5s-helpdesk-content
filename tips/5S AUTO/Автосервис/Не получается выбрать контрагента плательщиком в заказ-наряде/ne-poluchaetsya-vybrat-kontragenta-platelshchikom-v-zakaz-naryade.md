@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 23.09.2026</td></tr></table>
 
-<small>*Опубликовано 23.09.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade](https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade)*</small>
+###### *Опубликовано 23.09.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade](https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade)*
 
 ## Проблема
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-zametkami</sub>
 
-<small>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/rabota-s-zametkami](https://kb.5systems.ru/articles/5s-auto/avtoservis/rabota-s-zametkami)*</small>
+###### *Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/rabota-s-zametkami](https://kb.5systems.ru/articles/5s-auto/avtoservis/rabota-s-zametkami)*
 
 ## Содержание
 

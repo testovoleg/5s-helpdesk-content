@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/rabota-s-subpodryadami</sub>
 
-<small>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/rabota-s-subpodryadami](https://kb.5systems.ru/articles/5s-auto/avtoservis/rabota-s-subpodryadami)*</small>
+###### *Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/rabota-s-subpodryadami](https://kb.5systems.ru/articles/5s-auto/avtoservis/rabota-s-subpodryadami)*
 
 ## Содержание
 

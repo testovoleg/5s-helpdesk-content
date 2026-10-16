@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/lenta-sobytiy</sub>
 
-<small>*Опубликовано 27.08.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/lenta-sobytiy](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/lenta-sobytiy)*</small>
+###### *Опубликовано 27.08.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/lenta-sobytiy](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/lenta-sobytiy)*
 
 ## Содержание
 

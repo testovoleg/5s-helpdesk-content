@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/obrabotka-dlya-zagruzki-bankovskikh-vypisok</sub>
 
-<small>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/obrabotka-dlya-zagruzki-bankovskikh-vypisok](https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/obrabotka-dlya-zagruzki-bankovskikh-vypisok)*</small>
+###### *Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/obrabotka-dlya-zagruzki-bankovskikh-vypisok](https://kb.5systems.ru/articles/5s-auto/banki-i-platezhnye-sistemy/obrabotka-dlya-zagruzki-bankovskikh-vypisok)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.002.007**, загрузка через API банка – с релиза **2.8.2**.*
 

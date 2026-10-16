@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help (раздел «Вопрос-ответ»)</sub>
 
-<small>*Опубликовано 07.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/chto-delat-v-avariynoy-situacii](https://kb.5systems.ru/tips/tekhpodderzhka/chto-delat-v-avariynoy-situacii)*</small>
+###### *Опубликовано 07.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/chto-delat-v-avariynoy-situacii](https://kb.5systems.ru/tips/tekhpodderzhka/chto-delat-v-avariynoy-situacii)*
 
 ## Вопрос
 

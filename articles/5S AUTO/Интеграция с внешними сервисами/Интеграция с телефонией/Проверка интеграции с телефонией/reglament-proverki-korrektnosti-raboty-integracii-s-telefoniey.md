@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/reglament-proverki-korrektnosti-raboty-integracii-s-telefoniey</sub>
 
-<small>*Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/reglament-proverki-korrektnosti-raboty-integracii-s-telefoniey](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/reglament-proverki-korrektnosti-raboty-integracii-s-telefoniey)*</small>
+###### *Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/reglament-proverki-korrektnosti-raboty-integracii-s-telefoniey](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/reglament-proverki-korrektnosti-raboty-integracii-s-telefoniey)*
 
 Для проверки корректности работы интеграции CRM и телефонии необходимо проверить следующие моменты.
 

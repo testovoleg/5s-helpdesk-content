@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-integracii-s-telefoniey</sub>
 
-<small>*Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/nastroyka-integracii-s-telefoniey](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/nastroyka-integracii-s-telefoniey)*</small>
+###### *Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/nastroyka-integracii-s-telefoniey](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/nastroyka-integracii-s-telefoniey)*
 
 ## Содержание
 

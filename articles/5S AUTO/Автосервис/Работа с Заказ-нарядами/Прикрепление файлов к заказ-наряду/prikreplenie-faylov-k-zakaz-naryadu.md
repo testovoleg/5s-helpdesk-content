@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/prikreplenie-faylov-k-zakaz-naryadu</sub>
 
-<small>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/prikreplenie-faylov-k-zakaz-naryadu](https://kb.5systems.ru/articles/5s-auto/avtoservis/prikreplenie-faylov-k-zakaz-naryadu)*</small>
+###### *Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/prikreplenie-faylov-k-zakaz-naryadu](https://kb.5systems.ru/articles/5s-auto/avtoservis/prikreplenie-faylov-k-zakaz-naryadu)*
 
 В программе предусмотрена возможность прикреплять файлы к документу «[Заказ-наряд](../Заказ-наряды/zakaz-naryady.md)»: фотографии автомобиля, сканы документов, результаты диагностики и т. п.
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/push-soobscheniya</sub>
 
-<small>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/push-soobscheniya](https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/push-soobscheniya)*</small>
+###### *Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/push-soobscheniya](https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/push-soobscheniya)*
 
 > *Актуально для 5S LINK версии* ***v1***.
 

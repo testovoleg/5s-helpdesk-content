@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/elektronnaya-pochta</sub>
 
-<small>*Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/elektronnaya-pochta](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/elektronnaya-pochta)*</small>
+###### *Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/elektronnaya-pochta](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/elektronnaya-pochta)*
 
 ## Содержание
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyki-processa-kontrolya-nelikvidov</sub>
 
-<small>*Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/kontrol-nelikvidov/nastroyki-processa-kontrolya-nelikvidov](https://kb.5systems.ru/articles/5s-auto/kontrol-nelikvidov/nastroyki-processa-kontrolya-nelikvidov)*</small>
+###### *Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/kontrol-nelikvidov/nastroyki-processa-kontrolya-nelikvidov](https://kb.5systems.ru/articles/5s-auto/kontrol-nelikvidov/nastroyki-processa-kontrolya-nelikvidov)*
 
 ## Содержание
 

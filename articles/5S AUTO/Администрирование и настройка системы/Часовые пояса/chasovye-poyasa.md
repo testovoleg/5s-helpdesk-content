@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/chasovye-poyasa</sub>
 
-<small>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/chasovye-poyasa](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/chasovye-poyasa)*</small>
+###### *Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/chasovye-poyasa](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/chasovye-poyasa)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.7.1**.*
 

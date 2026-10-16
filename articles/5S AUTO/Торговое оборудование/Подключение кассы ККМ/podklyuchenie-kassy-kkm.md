@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/podklyuchenie-kassy-kkm</sub>
 
-<small>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/podklyuchenie-kassy-kkm](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/podklyuchenie-kassy-kkm)*</small>
+###### *Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/podklyuchenie-kassy-kkm](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/podklyuchenie-kassy-kkm)*
 
 ## Содержание
 

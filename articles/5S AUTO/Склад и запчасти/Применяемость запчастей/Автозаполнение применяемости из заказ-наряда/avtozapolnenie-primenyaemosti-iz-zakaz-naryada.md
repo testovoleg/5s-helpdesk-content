@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/avtozapolnenie-primenyaemosti-iz-zakaz-naryada</sub>
 
-<small>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/avtozapolnenie-primenyaemosti-iz-zakaz-naryada](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/avtozapolnenie-primenyaemosti-iz-zakaz-naryada)*</small>
+###### *Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/avtozapolnenie-primenyaemosti-iz-zakaz-naryada](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/avtozapolnenie-primenyaemosti-iz-zakaz-naryada)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.6.1** (версия конфигурации 2.6.1.1).*
 

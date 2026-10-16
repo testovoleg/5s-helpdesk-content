@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 24.09.2026</td></tr></table>
 
-<small>*Опубликовано 24.09.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/ne-prohodit-proverka-koda-markirovki](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-prohodit-proverka-koda-markirovki)*</small>
+###### *Опубликовано 24.09.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/ne-prohodit-proverka-koda-markirovki](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-prohodit-proverka-koda-markirovki)*
 
 ## Проблема
 

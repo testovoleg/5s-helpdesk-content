@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/vyyavlenie-i-razbor-narusheniy</sub>
 
-<small>*Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/personal-i-motivaciya/vyyavlenie-i-razbor-narusheniy](https://kb.5systems.ru/articles/5s-auto/personal-i-motivaciya/vyyavlenie-i-razbor-narusheniy)*</small>
+###### *Опубликовано 07.09.2026: [https://kb.5systems.ru/articles/5s-auto/personal-i-motivaciya/vyyavlenie-i-razbor-narusheniy](https://kb.5systems.ru/articles/5s-auto/personal-i-motivaciya/vyyavlenie-i-razbor-narusheniy)*
 
 ## Содержание
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/diagnosticheskie-ankety-dlya-agregatov</sub>
 
-<small>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/diagnosticheskie-ankety-dlya-agregatov](https://kb.5systems.ru/articles/5s-auto/avtoservis/diagnosticheskie-ankety-dlya-agregatov)*</small>
+###### *Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/diagnosticheskie-ankety-dlya-agregatov](https://kb.5systems.ru/articles/5s-auto/avtoservis/diagnosticheskie-ankety-dlya-agregatov)*
 
 #### Формирование анкеты для нескольких серийных номеров
 

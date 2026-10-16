@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/sozdanie-tipovoy-ankety</sub>
 
-<small>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sozdanie-tipovoy-ankety](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sozdanie-tipovoy-ankety)*</small>
+###### *Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sozdanie-tipovoy-ankety](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sozdanie-tipovoy-ankety)*
 
 ## Содержание
 

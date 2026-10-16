@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/vosstanovlenie-posledovatelnostey-dokumentov</sub>
 
-<small>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/vosstanovlenie-posledovatelnostey-dokumentov](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/vosstanovlenie-posledovatelnostey-dokumentov)*</small>
+###### *Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/vosstanovlenie-posledovatelnostey-dokumentov](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/vosstanovlenie-posledovatelnostey-dokumentov)*
 
 ## Содержание
 

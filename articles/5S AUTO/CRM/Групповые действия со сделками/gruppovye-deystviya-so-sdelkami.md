@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/gruppovye-deystviya-so-sdelkami</sub>
 
-<small>*Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/gruppovye-deystviya-so-sdelkami](https://kb.5systems.ru/articles/5s-auto/crm/gruppovye-deystviya-so-sdelkami)*</small>
+###### *Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/gruppovye-deystviya-so-sdelkami](https://kb.5systems.ru/articles/5s-auto/crm/gruppovye-deystviya-so-sdelkami)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.5.2** (версия конфигурации 2.5.2.1).*
 

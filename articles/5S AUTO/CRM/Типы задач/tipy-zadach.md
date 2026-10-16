@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/tipy-zadach</sub>
 
-<small>*Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/tipy-zadach](https://kb.5systems.ru/articles/5s-auto/crm/tipy-zadach)*</small>
+###### *Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/tipy-zadach](https://kb.5systems.ru/articles/5s-auto/crm/tipy-zadach)*
 
 ## Содержание
 

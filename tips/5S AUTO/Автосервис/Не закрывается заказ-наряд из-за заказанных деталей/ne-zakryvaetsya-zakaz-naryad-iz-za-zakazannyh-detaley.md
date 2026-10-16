@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 23.09.2026</td></tr></table>
 
-<small>*Опубликовано 23.09.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley](https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley)*</small>
+###### *Опубликовано 23.09.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley](https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley)*
 
 ## Проблема
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-veb-servisa-adeopro</sub>
 
-<small>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-adeopro](https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-adeopro)*</small>
+###### *Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-adeopro](https://kb.5systems.ru/articles/5s-auto/perechen-dostupnykh-veb-servisov-postavschikov/nastroyka-veb-servisa-adeopro)*
 
 ## Содержание
 

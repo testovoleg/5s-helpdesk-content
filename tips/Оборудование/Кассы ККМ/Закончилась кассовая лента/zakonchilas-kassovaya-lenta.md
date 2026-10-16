@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy</sub>
 
-<small>*Опубликовано 29.07.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/zakonchilas-kassovaya-lenta](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/zakonchilas-kassovaya-lenta)*</small>
+###### *Опубликовано 29.07.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/zakonchilas-kassovaya-lenta](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/zakonchilas-kassovaya-lenta)*
 
 ## Проблема
 

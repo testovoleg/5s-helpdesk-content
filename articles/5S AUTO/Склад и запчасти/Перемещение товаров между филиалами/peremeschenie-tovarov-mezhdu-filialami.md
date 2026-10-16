@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/peremeschenie-tovarov-mezhdu-filialami</sub>
 
-<small>*Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/peremeschenie-tovarov-mezhdu-filialami](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/peremeschenie-tovarov-mezhdu-filialami)*</small>
+###### *Опубликовано 02.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/peremeschenie-tovarov-mezhdu-filialami](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/peremeschenie-tovarov-mezhdu-filialami)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.2.7** (версия конфигурации 2.2.7.2).*
 

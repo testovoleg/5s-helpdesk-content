@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/inventarizaciya-kodov-markirovki</sub>
 
-<small>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/inventarizaciya-kodov-markirovki](https://kb.5systems.ru/articles/5s-auto/markirovka/inventarizaciya-kodov-markirovki)*</small>
+###### *Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/inventarizaciya-kodov-markirovki](https://kb.5systems.ru/articles/5s-auto/markirovka/inventarizaciya-kodov-markirovki)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.4** (версия конфигурации 2.8.3.50).*
 

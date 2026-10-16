@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 14.10.2026</td></tr></table>
 
-<small>*Опубликовано 14.10.2026: [https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-22162-net-svyazi-s-processingom](https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-22162-net-svyazi-s-processingom)*</small>
+###### *Опубликовано 14.10.2026: [https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-22162-net-svyazi-s-processingom](https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-22162-net-svyazi-s-processingom)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.5**.*
 

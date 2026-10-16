@@ -6,7 +6,7 @@
 
 > ![уровень сложности статьи](attachments/01-uroven-slozhnosti-stati.png) **Статья для опытных пользователей!**
 
-<small>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/nastroyka-podklyucheniya-terminala-ekvayringa-sberbanka-po-seti](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/nastroyka-podklyucheniya-terminala-ekvayringa-sberbanka-po-seti)*</small>
+###### *Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/nastroyka-podklyucheniya-terminala-ekvayringa-sberbanka-po-seti](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/nastroyka-podklyucheniya-terminala-ekvayringa-sberbanka-po-seti)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.1**.*
 

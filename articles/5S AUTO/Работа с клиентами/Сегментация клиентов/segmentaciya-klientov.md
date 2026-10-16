@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Время чтения:</b> 15 мин.</td><td><b>Создано:</b> 30.08.2026</td></tr></table>
 
-<small>*Опубликовано 30.09.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/segmentaciya-klientov](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/segmentaciya-klientov)*</small>
+###### *Опубликовано 30.09.2026: [https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/segmentaciya-klientov](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/segmentaciya-klientov)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.4**.*
 

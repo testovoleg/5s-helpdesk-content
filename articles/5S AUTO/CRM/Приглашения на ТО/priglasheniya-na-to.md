@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/priglasheniya-na</sub>
 
-<small>*Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/priglasheniya-na-to](https://kb.5systems.ru/articles/5s-auto/crm/priglasheniya-na-to)*</small>
+###### *Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/priglasheniya-na-to](https://kb.5systems.ru/articles/5s-auto/crm/priglasheniya-na-to)*
 
 ## Содержание
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/news/tekhnicheskiy-reliz-2273</sub>
 
-<small>*Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/tekhnicheskiy-reliz-2273](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/tekhnicheskiy-reliz-2273)*</small>
+###### *Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/tekhnicheskiy-reliz-2273](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/tekhnicheskiy-reliz-2273)*
 
 Выпущен ***технический релиз 2.2.7.3**,* в который вошли исправления выявленных проблем *релиза 2.2.7.2*.
 

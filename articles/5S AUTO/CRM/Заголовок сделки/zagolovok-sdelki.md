@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/zagolovok-sdelki</sub>
 
-<small>*Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/zagolovok-sdelki](https://kb.5systems.ru/articles/5s-auto/crm/zagolovok-sdelki)*</small>
+###### *Опубликовано 26.08.2026: [https://kb.5systems.ru/articles/5s-auto/crm/zagolovok-sdelki](https://kb.5systems.ru/articles/5s-auto/crm/zagolovok-sdelki)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.6.1** (версия конфигурации 2.6.1.1).*
 

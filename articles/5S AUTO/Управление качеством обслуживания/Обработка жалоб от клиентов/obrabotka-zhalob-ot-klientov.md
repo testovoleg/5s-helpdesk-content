@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/obrabotka-zhalob-ot-klientov</sub>
 
-<small>*Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/upravlenie-kachestvom-obsluzhivaniya/obrabotka-zhalob-ot-klientov](https://kb.5systems.ru/articles/5s-auto/upravlenie-kachestvom-obsluzhivaniya/obrabotka-zhalob-ot-klientov)*</small>
+###### *Опубликовано 08.09.2026: [https://kb.5systems.ru/articles/5s-auto/upravlenie-kachestvom-obsluzhivaniya/obrabotka-zhalob-ot-klientov](https://kb.5systems.ru/articles/5s-auto/upravlenie-kachestvom-obsluzhivaniya/obrabotka-zhalob-ot-klientov)*
 
 ## Содержание
 

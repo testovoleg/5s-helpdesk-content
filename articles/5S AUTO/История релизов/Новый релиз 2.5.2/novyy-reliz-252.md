@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/news/novyy-reliz-252</sub>
 
-<small>*Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-252](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-252)*</small>
+###### *Опубликовано 12.10.2026: [https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-252](https://kb.5systems.ru/articles/5s-auto/istoriya-relizov/novyy-reliz-252)*
 
 📢 Мы выпустили **новый релиз 2.5.2**. Знакомьтесь с изменениями в CRM:
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/nastroyka-skidok</sub>
 
-<small>*Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/cenoobrazovanie/nastroyka-skidok](https://kb.5systems.ru/articles/5s-auto/cenoobrazovanie/nastroyka-skidok)*</small>
+###### *Опубликовано 03.09.2026: [https://kb.5systems.ru/articles/5s-auto/cenoobrazovanie/nastroyka-skidok](https://kb.5systems.ru/articles/5s-auto/cenoobrazovanie/nastroyka-skidok)*
 
 ## Содержание
 

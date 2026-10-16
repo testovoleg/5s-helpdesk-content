@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/opisanie-rekvizitov-prays-lista</sub>
 
-<small>*Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/opisanie-rekvizitov-prays-lista](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/opisanie-rekvizitov-prays-lista)*</small>
+###### *Опубликовано 10.09.2026: [https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/opisanie-rekvizitov-prays-lista](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/opisanie-rekvizitov-prays-lista)*
 
 <div style="display: inline-block; max-width: 100%">
 

@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/peredacha-smen</sub>
 
-<small>*Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/peredacha-smen](https://kb.5systems.ru/articles/5s-auto/avtoservis/peredacha-smen)*</small>
+###### *Опубликовано 01.09.2026: [https://kb.5systems.ru/articles/5s-auto/avtoservis/peredacha-smen](https://kb.5systems.ru/articles/5s-auto/avtoservis/peredacha-smen)*
 
 > *Функционал обновлен в релизе 5S AUTO **2.8.5**: доступ сменщика к переданным процессам, период передачи смены.*
 

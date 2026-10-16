@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 17.09.2026</td></tr></table>
 
-<small>*Опубликовано 17.09.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-dobavit-obrabotku-drugim-polzovatelyam](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-dobavit-obrabotku-drugim-polzovatelyam)*</small>
+###### *Опубликовано 17.09.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-dobavit-obrabotku-drugim-polzovatelyam](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-dobavit-obrabotku-drugim-polzovatelyam)*
 
 ## Проблема
 

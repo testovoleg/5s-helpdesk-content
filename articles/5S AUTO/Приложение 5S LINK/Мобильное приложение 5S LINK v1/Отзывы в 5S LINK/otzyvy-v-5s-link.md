@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/otzyvy-v-5s-link</sub>
 
-<small>*Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/otzyvy-v-5s-link](https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/otzyvy-v-5s-link)*</small>
+###### *Опубликовано 09.09.2026: [https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/otzyvy-v-5s-link](https://kb.5systems.ru/articles/5s-auto/prilozhenie-5s-link/otzyvy-v-5s-link)*
 
 > *Актуально для 5S LINK версии* ***v1***.
 

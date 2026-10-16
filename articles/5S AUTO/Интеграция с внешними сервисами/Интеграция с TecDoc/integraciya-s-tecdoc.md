@@ -4,7 +4,7 @@
 
 <sub>Источник: https://www.5systems.ru/help/integraciya-s-tecdoc</sub>
 
-<small>*Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-tecdoc](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-tecdoc)*</small>
+###### *Опубликовано 04.09.2026: [https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-tecdoc](https://kb.5systems.ru/articles/5s-auto/integraciya-s-vneshnimi-servisami/integraciya-s-tecdoc)*
 
 В программе предусмотрена прямая интеграция с сервисами [Tecdoc](http://tecdoc.ru/), которые предоставляют информацию об автомобилях из своих каталогов. Интеграция осуществляется через сервер компании "Пять систем".
 

@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 25.09.2026</td></tr></table>
 
-<small>*Опубликовано 25.09.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad)*</small>
+###### *Опубликовано 25.09.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad)*
 
 ## Проблема
 
