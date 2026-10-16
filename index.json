@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:52:32+03:00",
+  "generated_at": "2026-10-16T17:00:49+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1016,11 +1016,11 @@
       "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование/Штрихкодирование ячеек хранения",
       "file": "shtrikhkodirovanie-yacheek-khraneniya.md",
       "id": "shtrikhkodirovanie-yacheek-khraneniya",
-      "sha": "0328ef63cefb71744de09192e20f9d0e1b96d088",
+      "sha": "e06490a1a427dfab1a51db44a32ab7a6e148e391",
       "title": "Штрихкодирование ячеек хранения",
       "type": "articles",
       "order": 3,
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-16",
       "date_kind": "created",
       "added_at": "2026-10-12T14:08:14+03:00",
       "reading_time": 6
@@ -1223,7 +1223,7 @@
       "path": "articles/5S AUTO/История релизов/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "8829a0cd48e133545645ac3e2f8c860ebfc15603",
+      "sha": "56499f0f06656b7b7f1ba4cad3ce1d6cf05b048c",
       "title": "Бета-релиз 2.8.5 (готовится к выпуску)",
       "type": "articles",
       "order": 0,
