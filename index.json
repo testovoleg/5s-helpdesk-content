@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T09:08:14+03:00",
-  "count": 650,
+  "generated_at": "2026-10-16T11:33:12+03:00",
+  "count": 652,
   "sections": {
     "tips": [
       {
@@ -463,7 +463,16 @@
             "path": "articles/5S AUTO/Прочее",
             "id": "prochee",
             "uuid": "48a33cbd-ac7e-4598-a9a5-5c8b96c9ca10",
-            "order": 29
+            "order": 29,
+            "sections": [
+              {
+                "name": "Техподдержка",
+                "path": "articles/5S AUTO/Прочее/Техподдержка",
+                "id": "tekhpodderzhka",
+                "uuid": "ae0b00dd-6da3-4ff2-b5f2-b5bce217baa8",
+                "order": 0
+              }
+            ]
           },
           {
             "name": "Внешние обработки",
@@ -809,6 +818,44 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Прочее/Техподдержка/Переход к Базе знаний из программы",
+      "file": "perekhod-k-baze-znaniy-iz-programmy.md",
+      "id": "perekhod-k-baze-znaniy-iz-programmy",
+      "sha": "217c3faf728bb5666e6e61fa24d355dc2a3aa414",
+      "title": "Переход к Базе знаний из программы",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-10-16",
+      "date_kind": "created",
+      "added_at": "2026-10-16",
+      "reading_time": 3,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/CRM",
+          "order": 19
+        }
+      ]
+    },
+    {
+      "path": "articles/5S AUTO/Прочее/Техподдержка/Подписки компании в программе",
+      "file": "podpiski-kompanii-v-programme.md",
+      "id": "podpiski-kompanii-v-programme",
+      "sha": "6ef4a00be7a1cddc4425ffbc5c23f60ef421a07d",
+      "title": "Подписки компании в программе",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-10-16",
+      "date_kind": "created",
+      "added_at": "2026-10-16",
+      "reading_time": 2,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/CRM",
+          "order": 20
+        }
+      ]
+    },
+    {
       "path": "tips/Оборудование/Банковские терминалы/Операция одобрена банком, но результат не удалось передать в 1С",
       "file": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s.md",
       "id": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s",
@@ -1113,6 +1160,19 @@
       "date_kind": "created",
       "added_at": "2026-10-07T12:11:33+03:00",
       "reading_time": 8
+    },
+    {
+      "path": "articles/5S AUTO/Прочее/Техподдержка/Как обратиться в техническую поддержку",
+      "file": "kak-obratitsya-v-tekhnicheskuyu-podderzhku.md",
+      "id": "kak-obratitsya-v-tekhnicheskuyu-podderzhku",
+      "sha": "cc139ece42d4ecd0c649d75ad51761661f48e041",
+      "title": "Как обратиться в техническую поддержку",
+      "type": "articles",
+      "order": 0,
+      "updated_at": "2026-10-05",
+      "date_kind": "updated",
+      "added_at": "2026-10-05",
+      "reading_time": 9
     },
     {
       "path": "articles/5S AUTO/Работа с клиентами/Сегментация клиентов",
@@ -3877,7 +3937,7 @@
       "sha": "21fe1f41ffac0b1ba6122b83f77a432d7cf5539b",
       "title": "Обучающие видеоролики",
       "type": "articles",
-      "order": 4,
+      "order": 3,
       "updated_at": "2024-09-17",
       "date_kind": "updated",
       "added_at": "2026-09-10T16:22:20+03:00",
@@ -3927,39 +3987,13 @@
       "hidden": true
     },
     {
-      "path": "articles/5S AUTO/Прочее/Как обратиться в техническую поддержку",
-      "file": "kak-obratitsya-v-tekhnicheskuyu-podderzhku.md",
-      "id": "kak-obratitsya-v-tekhnicheskuyu-podderzhku",
-      "sha": "cc139ece42d4ecd0c649d75ad51761661f48e041",
-      "title": "Как обратиться в техническую поддержку",
-      "type": "articles",
-      "order": 0,
-      "updated_at": "2026-10-05",
-      "date_kind": "updated",
-      "added_at": "2026-09-10T11:42:31+03:00",
-      "reading_time": 9
-    },
-    {
-      "path": "articles/5S AUTO/Прочее/Бот техподдержки в Max",
-      "file": "bot-tekhpodderzhki-v-max.md",
-      "id": "bot-tekhpodderzhki-v-max",
-      "sha": "eb9739ddd9be4abbfd5e12f2c9d256e3e771c627",
-      "title": "Бот техподдержки в Max",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2026-06-24",
-      "date_kind": "updated",
-      "added_at": "2026-09-10T11:31:55+03:00",
-      "reading_time": 7
-    },
-    {
       "path": "articles/5S AUTO/Прочее/Документация от 1С-Рарус",
       "file": "dokumentaciya-ot-1s-rarus.md",
       "id": "dokumentaciya-ot-1s-rarus",
       "sha": "ee436bcc76d274f87d71775497dc6fa870ce4f44",
       "title": "Документация от 1С-Рарус",
       "type": "articles",
-      "order": 2,
+      "order": 1,
       "updated_at": "2022-06-20",
       "date_kind": "updated",
       "added_at": "2026-09-10T11:31:55+03:00",
@@ -3972,7 +4006,7 @@
       "sha": "7638796ca9fefaa5cdbcd136b4b4a10ecfbee29c",
       "title": "Материалы для обмена с 1С Бухгалтерия",
       "type": "articles",
-      "order": 3,
+      "order": 2,
       "updated_at": "2024-11-20",
       "date_kind": "updated",
       "added_at": "2026-09-10T11:31:55+03:00",
@@ -8403,7 +8437,7 @@
       "sha": "4e927340d9cafdbca8a9351d8bd21c825ba3b9f7",
       "title": "Работа в АРМ Коммуникатор",
       "type": "articles",
-      "order": 21,
+      "order": 23,
       "updated_at": "2022-06-23",
       "date_kind": "updated",
       "added_at": "2026-08-26T13:45:08+03:00",
@@ -8416,7 +8450,7 @@
       "sha": "c570567a88f9ffdae8571e8010618eb1ff7ebb92",
       "title": "Приглашения на ТО",
       "type": "articles",
-      "order": 20,
+      "order": 22,
       "updated_at": "2024-08-14",
       "date_kind": "updated",
       "added_at": "2026-08-26T13:23:47+03:00",
@@ -8429,7 +8463,7 @@
       "sha": "6359d7ab104b9ad22a64226e2654832605d4af6a",
       "title": "Работа с полнотекстовым поиском",
       "type": "articles",
-      "order": 19,
+      "order": 21,
       "updated_at": "2025-12-26",
       "date_kind": "updated",
       "added_at": "2026-08-26T12:51:19+03:00",
@@ -9445,6 +9479,19 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    },
+    {
+      "path": "articles/5S AUTO/Прочее/Техподдержка/Бот техподдержки в Max",
+      "file": "bot-tekhpodderzhki-v-max.md",
+      "id": "bot-tekhpodderzhki-v-max",
+      "sha": "eb9739ddd9be4abbfd5e12f2c9d256e3e771c627",
+      "title": "Бот техподдержки в Max",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2026-06-24",
+      "date_kind": "updated",
+      "added_at": "2026-06-24",
+      "reading_time": 7
     }
   ],
   "redirects": [
