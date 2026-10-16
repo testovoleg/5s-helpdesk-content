@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T11:34:51+03:00",
-  "count": 652,
+  "generated_at": "2026-10-16T11:50:20+03:00",
+  "count": 653,
   "sections": {
     "tips": [
       {
@@ -175,7 +175,7 @@
                 "path": "articles/5S AUTO/Автосервис/Ремонт агрегатов",
                 "id": "remont-agregatov",
                 "uuid": "7a55e6f4-2a5a-4768-89f1-75a737f20fe6",
-                "order": 21
+                "order": 22
               }
             ]
           },
@@ -856,6 +856,25 @@
       ]
     },
     {
+      "path": "articles/5S AUTO/Автосервис/Работа с приложением 5S Remzona",
+      "file": "rabota-s-prilozheniem-5s-remzona.md",
+      "id": "rabota-s-prilozheniem-5s-remzona",
+      "sha": "a89a5d3e8b4ae53d2e77275644295a61736724af",
+      "title": "Работа с приложением 5S Remzona",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2026-10-16",
+      "date_kind": "created",
+      "added_at": "2026-10-16",
+      "reading_time": 24,
+      "also_in": [
+        {
+          "path": "articles/5S Remzona",
+          "order": 0
+        }
+      ]
+    },
+    {
       "path": "tips/Оборудование/Банковские терминалы/Операция одобрена банком, но результат не удалось передать в 1С",
       "file": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s.md",
       "id": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s",
@@ -1113,7 +1132,7 @@
       "path": "articles/5S AUTO/История релизов/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "c46ce41b50578108938790e7daa6d1dd5aaa67cc",
+      "sha": "b4519c4607bc19395236bd9190a24f32fc5a707e",
       "title": "Бета-релиз 2.8.5 (готовится к выпуску)",
       "type": "articles",
       "order": 0,
@@ -7419,7 +7438,7 @@
       "sha": "ca2debcf6a1e1c1a3af00adeed3eec565d731181",
       "title": "Корректировка пробега автомобиля",
       "type": "articles",
-      "order": 20,
+      "order": 21,
       "updated_at": "2024-09-16",
       "date_kind": "updated",
       "added_at": "2026-09-01T17:13:55+03:00",
@@ -7432,7 +7451,7 @@
       "sha": "35e448964621eab01edcba65040ac5524e8d4026",
       "title": "Установка норм времени по моделям двигателей и КПП",
       "type": "articles",
-      "order": 19,
+      "order": 20,
       "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-01T17:06:58+03:00",
@@ -7445,7 +7464,7 @@
       "sha": "c795ec8971d3c29d619119b080d28ceb6b2d98f5",
       "title": "Модели двигателей и КПП",
       "type": "articles",
-      "order": 18,
+      "order": 19,
       "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-01T17:01:23+03:00",
@@ -7458,7 +7477,7 @@
       "sha": "c739d33cab95b54d6a92540035791cb31620f73e",
       "title": "Сводный акт",
       "type": "articles",
-      "order": 17,
+      "order": 18,
       "updated_at": "2025-12-12",
       "date_kind": "updated",
       "added_at": "2026-09-01T16:53:39+03:00",
