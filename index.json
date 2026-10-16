@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:11:59+03:00",
+  "generated_at": "2026-10-16T08:54:02+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1027,7 +1027,13 @@
       "updated_at": "2026-10-09",
       "date_kind": "created",
       "added_at": "2026-10-09T10:03:45+03:00",
-      "reading_time": 2
+      "reading_time": 2,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/CRM",
+          "order": 20
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Автоматическая выгрузка данных в 1С Бухгалтерию",
@@ -1053,7 +1059,13 @@
       "updated_at": "2026-10-06",
       "date_kind": "updated",
       "added_at": "2026-10-06T09:59:26+03:00",
-      "reading_time": 3
+      "reading_time": 3,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/CRM",
+          "order": 19
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/Учет взаиморасчетов/Платежный календарь",
@@ -8525,7 +8537,7 @@
       "sha": "df91bdf2825d37159d37732977716a435e8ef4f9",
       "title": "Работа в АРМ Коммуникатор",
       "type": "articles",
-      "order": 21,
+      "order": 23,
       "updated_at": "2022-06-23",
       "date_kind": "updated",
       "added_at": "2026-08-26T13:45:08+03:00",
@@ -8538,7 +8550,7 @@
       "sha": "f6c473f1bd4b737f72b135d0c2d7377d51889632",
       "title": "Приглашения на ТО",
       "type": "articles",
-      "order": 20,
+      "order": 22,
       "updated_at": "2024-08-14",
       "date_kind": "updated",
       "added_at": "2026-08-26T13:23:47+03:00",
@@ -8551,7 +8563,7 @@
       "sha": "87752e4f98f4e3e655a5a25c7ae198cd7cb94b23",
       "title": "Работа с полнотекстовым поиском",
       "type": "articles",
-      "order": 19,
+      "order": 21,
       "updated_at": "2025-12-26",
       "date_kind": "updated",
       "added_at": "2026-08-26T12:51:19+03:00",
