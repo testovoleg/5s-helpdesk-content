@@ -462,13 +462,69 @@ def collect_materials() -> list[dict]:
     return materials
 
 
+def find_duplicate_ids(materials: list[dict]) -> list[str]:
+    """Повторы id внутри одного корня.
+
+    Сайт находит перенесенный материал по последней части старого адреса
+    (README-site.md, п. 6), поэтому id материала обязан быть уникальным во
+    всем корне (articles, tips, lessons), а не только внутри раздела."""
+    seen: dict[tuple[str, str], str] = {}
+    problems = []
+    for m in materials:
+        key = (m["type"], m["id"])
+        if key in seen:
+            problems.append(f"{m['type']}/{m['id']}: {seen[key]} и {m['path']}")
+        else:
+            seen[key] = m["path"]
+    return problems
+
+
+def read_redirects(materials: list[dict]) -> list[dict]:
+    """Строки "корень/старый-id -> корень/новый-id" из redirects.txt.
+
+    Цель должна быть действующим материалом, а старый адрес — не совпадать
+    с действующим, иначе перенаправление перекрыло бы живую страницу.
+    Ошибочные строки пропускаем с предупреждением, коммит не останавливаем."""
+    path = ROOT / "redirects.txt"
+    if not path.exists():
+        return []
+    current = {f"{m['type']}/{m['id']}" for m in materials}
+    result = []
+    for num, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = [p.strip() for p in line.split("->")]
+        if len(parts) != 2 or not all("/" in p for p in parts):
+            print(f"redirects.txt:{num}: не разобрана строка «{line}»", file=sys.stderr)
+            continue
+        src, dst = parts
+        if dst not in current:
+            print(f"redirects.txt:{num}: нет материала {dst}", file=sys.stderr)
+            continue
+        if src in current:
+            print(f"redirects.txt:{num}: {src} — действующий материал", file=sys.stderr)
+            continue
+        result.append({"from": src, "to": dst})
+    return result
+
+
 def main() -> int:
     materials = collect_materials()
+    duplicates = find_duplicate_ids(materials)
+    if duplicates:
+        print("Повторяются id материалов (имена md-файлов):", file=sys.stderr)
+        for d in duplicates:
+            print(f"  {d}", file=sys.stderr)
+        return 1
     index = {
         "generated_at": now_iso(),
         "count": len(materials),
         "sections": {root: collect_sections(ROOT / root) for root in CONTENT_ROOTS},
         "materials": materials,
+        # Старые адреса материалов, у которых сменился id или корень
+        # (README-site.md, п. 6); источник — redirects.txt
+        "redirects": read_redirects(materials),
     }
     INDEX_PATH.write_text(
         json.dumps(index, ensure_ascii=False, indent=2) + "\n",

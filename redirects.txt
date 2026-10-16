@@ -1,0 +1,57 @@
+# Перенаправления со старых адресов материалов на сайте kb.5systems.ru.
+#
+# Сюда записываем материалы, у которых сменился идентификатор (имя md-файла)
+# или корень (статья стала советом), а также материалы, объединенные в один.
+# Перенос материала в другой раздел сюда НЕ записываем: идентификатор при
+# этом не меняется, и сайт находит материал по последней части адреса
+# (см. README-site.md, п. 6).
+#
+# Формат строки: корень/старый-id -> корень/новый-id
+# Корень: articles | tips | lessons. Строки с # и пустые пропускаются.
+# generate-index.py кладет список в index.json (поле "redirects").
+
+# 10.09.2026: урок переименован
+lessons/naznachenie-i-interfeys-arm-zapis-na-remont -> lessons/obzor-interfeysa-arm-zapis-na-remont
+
+# 16.09.2026: раздел статей «Практики» стал группой советов «Практики»
+articles/analiz-i-ustanovka-cen -> tips/analiz-i-ustanovka-cen
+articles/avtomaticheskoe-sozdanie-dogovora-s-kontragentom -> tips/avtomaticheskoe-sozdanie-dogovora-s-kontragentom
+articles/organizaciya-poryadka-na-sklade -> tips/organizaciya-poryadka-na-sklade
+articles/osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami -> tips/osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami
+articles/osobennosti-realizacii-podakciznykh-tovarov -> tips/osobennosti-realizacii-podakciznykh-tovarov
+articles/paketnye-predlozheniya -> tips/paketnye-predlozheniya
+articles/primenenie-nds-pri-usn -> tips/primenenie-nds-pri-usn
+articles/razdelenie-chekov-kkm -> tips/razdelenie-chekov-kkm
+articles/uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu -> tips/uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu
+articles/uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh -> tips/uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh
+articles/zamena-tovara-uslugoy-pri-probitii-cheka -> tips/zamena-tovara-uslugoy-pri-probitii-cheka
+articles/zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise -> tips/zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise
+
+# 12.10.2026: «Архив обновлений» переименован, 26 новостей 2021–2022 объединены в него
+articles/arkhiv-obnovleniy -> articles/arkhiv-obnovleniy-2021-2022
+articles/dlina-inn -> articles/arkhiv-obnovleniy-2021-2022
+articles/dobavlen-funkcional-dlya-otrazheniya-oplat-cherez-sbp -> articles/arkhiv-obnovleniy-2021-2022
+articles/dobavlen-funkcional-dlya-vygruzki-prays-listov -> articles/arkhiv-obnovleniy-2021-2022
+articles/dobavlen-funkcional-raboty-s-zametkami -> articles/arkhiv-obnovleniy-2021-2022
+articles/dobavlen-mekhanizm-zapuska-proizvolnykh-obrabotok-v-reglamentnykh-zadaniyakh -> articles/arkhiv-obnovleniy-2021-2022
+articles/dobavlen-priznak-zapret-prodazhi -> articles/arkhiv-obnovleniy-2021-2022
+articles/dobavlena-funkciya-poiska-avtorabot -> articles/arkhiv-obnovleniy-2021-2022
+articles/dobavlena-khoz-operaciya-svodnyy-akt -> articles/arkhiv-obnovleniy-2021-2022
+articles/dorabotan-akt-sverki-vzaimoraschetov -> articles/arkhiv-obnovleniy-2021-2022
+articles/gruppovoe-otklonenie-rekomendaciy -> articles/arkhiv-obnovleniy-2021-2022
+articles/inventarizaciya-tovarov-po-yacheykam-khraneniya -> articles/arkhiv-obnovleniy-2021-2022
+articles/izmenena-logika-zapolneniya-otvetstvennogo-v-sdelke -> articles/arkhiv-obnovleniy-2021-2022
+articles/normy-vremeni-po-tipu-dvigatelya-i-tipu-kpp -> articles/arkhiv-obnovleniy-2021-2022
+articles/novyy-funkcional-dlya-agregatnogo-remonta -> articles/arkhiv-obnovleniy-2021-2022
+articles/novyy-mekhanizm-sozdaniya-polzovateley -> articles/arkhiv-obnovleniy-2021-2022
+articles/optimizirovany-algoritmy-kanbana -> articles/arkhiv-obnovleniy-2021-2022
+articles/predprosmotr-soderzhimogo-zakaza-pri-perenose-v-zakaz-naryad -> articles/arkhiv-obnovleniy-2021-2022
+articles/primenyaemost-k-agregatam -> articles/arkhiv-obnovleniy-2021-2022
+articles/realizovana-integraciya-s-sms-global -> articles/arkhiv-obnovleniy-2021-2022
+articles/udobnaya-zagruzka-i-raznesenie-bankovskoy-vypiski -> articles/arkhiv-obnovleniy-2021-2022
+articles/ukazanie-kataloga-uslug-v-nastroyke-integracii -> articles/arkhiv-obnovleniy-2021-2022
+articles/ukazanie-patenta-v-dokumentakh -> articles/arkhiv-obnovleniy-2021-2022
+articles/uproschena-nastroyka-prav-polzovateley -> articles/arkhiv-obnovleniy-2021-2022
+articles/uproschenie-nastroyki-sistemy-nalogooblozheniya -> articles/arkhiv-obnovleniy-2021-2022
+articles/uvedomlenie-o-sozdanii-sdelki-bez-otvetstvennogo -> articles/arkhiv-obnovleniy-2021-2022
+articles/vneshnie-pechatnye-formy-diagnosticheskoy-ankety-i-korziny -> articles/arkhiv-obnovleniy-2021-2022

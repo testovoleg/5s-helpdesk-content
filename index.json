@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T09:01:01+03:00",
+  "generated_at": "2026-10-16T09:07:32+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -9588,6 +9588,168 @@
       "updated_at": "2026-08-24",
       "date_kind": "updated",
       "added_at": "2026-07-29T08:36:08+03:00"
+    }
+  ],
+  "redirects": [
+    {
+      "from": "lessons/naznachenie-i-interfeys-arm-zapis-na-remont",
+      "to": "lessons/obzor-interfeysa-arm-zapis-na-remont"
+    },
+    {
+      "from": "articles/analiz-i-ustanovka-cen",
+      "to": "tips/analiz-i-ustanovka-cen"
+    },
+    {
+      "from": "articles/avtomaticheskoe-sozdanie-dogovora-s-kontragentom",
+      "to": "tips/avtomaticheskoe-sozdanie-dogovora-s-kontragentom"
+    },
+    {
+      "from": "articles/organizaciya-poryadka-na-sklade",
+      "to": "tips/organizaciya-poryadka-na-sklade"
+    },
+    {
+      "from": "articles/osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami",
+      "to": "tips/osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami"
+    },
+    {
+      "from": "articles/osobennosti-realizacii-podakciznykh-tovarov",
+      "to": "tips/osobennosti-realizacii-podakciznykh-tovarov"
+    },
+    {
+      "from": "articles/paketnye-predlozheniya",
+      "to": "tips/paketnye-predlozheniya"
+    },
+    {
+      "from": "articles/primenenie-nds-pri-usn",
+      "to": "tips/primenenie-nds-pri-usn"
+    },
+    {
+      "from": "articles/razdelenie-chekov-kkm",
+      "to": "tips/razdelenie-chekov-kkm"
+    },
+    {
+      "from": "articles/uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu",
+      "to": "tips/uchet-vyrabotki-ispolniteley-po-normochasam-dlya-rabot-s-fiksirovannoy-stoimostyu"
+    },
+    {
+      "from": "articles/uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh",
+      "to": "tips/uchet-vyrabotki-specialistov-po-zapchastyam-v-zakaz-naryadakh"
+    },
+    {
+      "from": "articles/zamena-tovara-uslugoy-pri-probitii-cheka",
+      "to": "tips/zamena-tovara-uslugoy-pri-probitii-cheka"
+    },
+    {
+      "from": "articles/zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise",
+      "to": "tips/zapros-na-otzyv-dovolnogo-klienta-ob-avtoservise"
+    },
+    {
+      "from": "articles/arkhiv-obnovleniy",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/dlina-inn",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/dobavlen-funkcional-dlya-otrazheniya-oplat-cherez-sbp",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/dobavlen-funkcional-dlya-vygruzki-prays-listov",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/dobavlen-funkcional-raboty-s-zametkami",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/dobavlen-mekhanizm-zapuska-proizvolnykh-obrabotok-v-reglamentnykh-zadaniyakh",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/dobavlen-priznak-zapret-prodazhi",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/dobavlena-funkciya-poiska-avtorabot",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/dobavlena-khoz-operaciya-svodnyy-akt",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/dorabotan-akt-sverki-vzaimoraschetov",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/gruppovoe-otklonenie-rekomendaciy",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/inventarizaciya-tovarov-po-yacheykam-khraneniya",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/izmenena-logika-zapolneniya-otvetstvennogo-v-sdelke",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/normy-vremeni-po-tipu-dvigatelya-i-tipu-kpp",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/novyy-funkcional-dlya-agregatnogo-remonta",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/novyy-mekhanizm-sozdaniya-polzovateley",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/optimizirovany-algoritmy-kanbana",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/predprosmotr-soderzhimogo-zakaza-pri-perenose-v-zakaz-naryad",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/primenyaemost-k-agregatam",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/realizovana-integraciya-s-sms-global",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/udobnaya-zagruzka-i-raznesenie-bankovskoy-vypiski",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/ukazanie-kataloga-uslug-v-nastroyke-integracii",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/ukazanie-patenta-v-dokumentakh",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/uproschena-nastroyka-prav-polzovateley",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/uproschenie-nastroyki-sistemy-nalogooblozheniya",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/uvedomlenie-o-sozdanii-sdelki-bez-otvetstvennogo",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
+    },
+    {
+      "from": "articles/vneshnie-pechatnye-formy-diagnosticheskoy-ankety-i-korziny",
+      "to": "articles/arkhiv-obnovleniy-2021-2022"
     }
   ]
 }

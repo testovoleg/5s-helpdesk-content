@@ -18,7 +18,7 @@ fi
 # core.quotepath=false: иначе git экранирует кириллицу в путях и берёт их в
 # кавычки, из-за чего привязанный к началу строки шаблон ниже не совпадает
 changed="$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMRD)"
-if ! grep -Eq '^(tips|articles|lessons)/|^\.scripts/generate-index\.py$' <<<"$changed"; then
+if ! grep -Eq '^(tips|articles|lessons)/|^\.scripts/generate-index\.py$|^redirects\.txt$' <<<"$changed"; then
   exit 0
 fi
 
