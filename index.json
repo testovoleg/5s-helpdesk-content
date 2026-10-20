@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:52:06+03:00",
+  "generated_at": "2026-10-20T11:55:34+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1285,12 +1285,12 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Отбор номенклатуры по подразделениям",
       "file": "otbor-nomenklatury-po-podrazdeleniyam.md",
       "id": "otbor-nomenklatury-po-podrazdeleniyam",
-      "sha": "fa921f986d5652f0cce4317b52016613bb21fa7d",
+      "sha": "26ed01493d98bde7f2b095ae050751e45021a32d",
       "title": "Отбор номенклатуры по подразделениям",
       "type": "articles",
       "order": 11,
-      "updated_at": "2026-09-23",
-      "date_kind": "created",
+      "updated_at": "2026-10-20",
+      "date_kind": "updated",
       "added_at": "2026-09-23T15:04:20+03:00",
       "reading_time": 10
     },
@@ -7778,11 +7778,11 @@
       "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Заказ-наряды",
       "file": "zakaz-naryady.md",
       "id": "zakaz-naryady",
-      "sha": "f82fe7ac681ced2b4adb96b95d3a4cb8b8458bd8",
+      "sha": "e338c4a3505efeafa4fa8c46fa32e50d05fb3a8e",
       "title": "Заказ-наряды",
       "type": "articles",
       "order": 0,
-      "updated_at": "2025-02-06",
+      "updated_at": "2026-10-20",
       "date_kind": "updated",
       "added_at": "2026-09-01T15:01:04+03:00",
       "reading_time": 25
