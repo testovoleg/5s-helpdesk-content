@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T13:57:42+03:00",
+  "generated_at": "2026-10-20T14:38:39+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1285,7 +1285,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Отбор номенклатуры по подразделениям",
       "file": "otbor-nomenklatury-po-podrazdeleniyam.md",
       "id": "otbor-nomenklatury-po-podrazdeleniyam",
-      "sha": "c14a7ed44785d0a8a03d34fe997f691a70b1896e",
+      "sha": "20f774e09ba76b976b1da1dbd0f1af41ce9831d2",
       "title": "Отбор номенклатуры по подразделениям",
       "type": "articles",
       "order": 11,
@@ -7778,7 +7778,7 @@
       "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Заказ-наряды",
       "file": "zakaz-naryady.md",
       "id": "zakaz-naryady",
-      "sha": "f69c3a683aa520ee5a38cc9ccdb9e38dd6798438",
+      "sha": "722894f3cf416f251200b384bdf68671605eae62",
       "title": "Заказ-наряды",
       "type": "articles",
       "order": 0,
