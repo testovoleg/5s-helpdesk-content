@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T09:55:48+03:00",
+  "generated_at": "2026-10-20T10:02:18+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1285,7 +1285,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Отбор номенклатуры по подразделениям",
       "file": "otbor-nomenklatury-po-podrazdeleniyam.md",
       "id": "otbor-nomenklatury-po-podrazdeleniyam",
-      "sha": "c279742452cf29213cf0fdcb46415dd6f33b67f1",
+      "sha": "379de9ffa67646e0caa35da235d5af4ae769f4aa",
       "title": "Отбор номенклатуры по подразделениям",
       "type": "articles",
       "order": 11,
