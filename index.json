@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T09:53:33+03:00",
+  "generated_at": "2026-10-20T09:55:48+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -1285,14 +1285,14 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Отбор номенклатуры по подразделениям",
       "file": "otbor-nomenklatury-po-podrazdeleniyam.md",
       "id": "otbor-nomenklatury-po-podrazdeleniyam",
-      "sha": "9477f8ce748c315fa180be20e18a398b8aec4798",
+      "sha": "c279742452cf29213cf0fdcb46415dd6f33b67f1",
       "title": "Отбор номенклатуры по подразделениям",
       "type": "articles",
       "order": 11,
       "updated_at": "2026-09-23",
       "date_kind": "created",
       "added_at": "2026-09-23T15:04:20+03:00",
-      "reading_time": 8
+      "reading_time": 10
     },
     {
       "path": "tips/5S AUTO/Автосервис/Как мастеру-консультанту видеть сделки сменщика",
