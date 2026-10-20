@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T14:38:39+03:00",
-  "count": 659,
+  "generated_at": "2026-10-20T15:26:11+03:00",
+  "count": 660,
   "sections": {
     "tips": [
       {
@@ -818,6 +818,18 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Склад и запчасти/Товар не добавляется при сканировании недоступен в ваших подразделениях",
+      "file": "tovar-ne-dobavlyaetsya-pri-skanirovanii-nedostupen-v-podrazdeleniyah.md",
+      "id": "tovar-ne-dobavlyaetsya-pri-skanirovanii-nedostupen-v-podrazdeleniyah",
+      "sha": "06afd9471f468aa381bb3654a71e294167e2757f",
+      "title": "Товар не добавляется при сканировании: недоступен в ваших подразделениях",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-10-20",
+      "date_kind": "created",
+      "added_at": "2026-10-20T15:26:10+03:00"
+    },
+    {
       "path": "articles/5S AUTO/История релизов/Архив обновлений 2021–2022",
       "file": "arkhiv-obnovleniy-2021-2022.md",
       "id": "arkhiv-obnovleniy-2021-2022",
@@ -1285,7 +1297,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Отбор номенклатуры по подразделениям",
       "file": "otbor-nomenklatury-po-podrazdeleniyam.md",
       "id": "otbor-nomenklatury-po-podrazdeleniyam",
-      "sha": "20f774e09ba76b976b1da1dbd0f1af41ce9831d2",
+      "sha": "3443e27fe2cd26e1421ec662637c5b5e35c88d94",
       "title": "Отбор номенклатуры по подразделениям",
       "type": "articles",
       "order": 11,
@@ -7778,7 +7790,7 @@
       "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Заказ-наряды",
       "file": "zakaz-naryady.md",
       "id": "zakaz-naryady",
-      "sha": "722894f3cf416f251200b384bdf68671605eae62",
+      "sha": "30b043daf4f4365a0bb09067cf7de32743d88300",
       "title": "Заказ-наряды",
       "type": "articles",
       "order": 0,
@@ -9052,7 +9064,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Не получается провести документ (нет доступа к складу)",
       "file": "ne-poluchaetsya-provesti-dokument-net-dostupa-k-skladu.md",
       "id": "ne-poluchaetsya-provesti-dokument-net-dostupa-k-skladu",
-      "sha": "8abaadd306daf0154d08586576cc11f6a02faec3",
+      "sha": "8ec07466e37e639406bd6f9057d6f5a2c74d3523",
       "title": "Не получается провести документ (нет доступа к складу)",
       "type": "tips",
       "order": 0,
