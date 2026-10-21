@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T17:05:23+03:00",
-  "count": 654,
+  "generated_at": "2026-10-21T15:00:25+03:00",
+  "count": 655,
   "sections": {
     "tips": [
       {
@@ -818,6 +818,18 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки в разрешительном режиме",
+      "file": "ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime.md",
+      "id": "ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime",
+      "sha": "b53d794a10c0dd16eb8ff6f6e170d17893d5b7cc",
+      "title": "Не проходит проверка кода маркировки в разрешительном режиме",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-10-21",
+      "date_kind": "created",
+      "added_at": "2026-10-21T15:00:23+03:00"
+    },
+    {
       "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование/Штрихкодирование ячеек хранения",
       "file": "shtrikhkodirovanie-yacheek-khraneniya.md",
       "id": "shtrikhkodirovanie-yacheek-khraneniya",
@@ -1261,7 +1273,7 @@
       "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки",
       "file": "ne-prohodit-proverka-koda-markirovki.md",
       "id": "ne-prohodit-proverka-koda-markirovki",
-      "sha": "0437e8798a2806fdbeacd6197f4662827db13c04",
+      "sha": "4e3a71257f8c35d241b38a97bc0bcefc462ec402",
       "title": "Не проходит проверка кода маркировки",
       "type": "tips",
       "order": 0,
