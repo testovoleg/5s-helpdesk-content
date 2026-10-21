@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:36:50+03:00",
+  "generated_at": "2026-10-21T12:03:30+03:00",
   "count": 660,
   "sections": {
     "tips": [
@@ -7790,7 +7790,7 @@
       "path": "articles/5S AUTO/Автосервис/Работа с Заказ-нарядами/Заказ-наряды",
       "file": "zakaz-naryady.md",
       "id": "zakaz-naryady",
-      "sha": "4e3205674e08b5455e19333caa0141ffdd9101c5",
+      "sha": "32ba58a930077ae80416e720809a85eb8df235b7",
       "title": "Заказ-наряды",
       "type": "articles",
       "order": 0,
