@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:26:14+03:00",
+  "generated_at": "2026-10-22T09:27:56+03:00",
   "count": 661,
   "sections": {
     "tips": [
@@ -1072,7 +1072,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Автоматическая выгрузка данных в 1С Бухгалтерию",
       "file": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu.md",
       "id": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu",
-      "sha": "227222cce92a9152c515b009ab530ec1f9e47d3b",
+      "sha": "2a3cc7f4033e13dfe5b6afc09eb1bdc8b07514ff",
       "title": "Автоматическая выгрузка данных в 1С:Бухгалтерию",
       "type": "articles",
       "order": 26,
@@ -1247,7 +1247,7 @@
       "path": "articles/5S AUTO/История релизов/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "0da79d6e6e00420a7635620bcfea7f7611f71d66",
+      "sha": "c3074b596d21da788c2af158b45137f38e15b5c8",
       "title": "Бета-релиз 2.8.5 (готовится к выпуску)",
       "type": "articles",
       "order": 0,
