@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:28:43+03:00",
+  "generated_at": "2026-10-22T10:49:49+03:00",
   "count": 661,
   "sections": {
     "tips": [
@@ -1072,7 +1072,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Автоматическая выгрузка данных в 1С Бухгалтерию",
       "file": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu.md",
       "id": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu",
-      "sha": "2a3cc7f4033e13dfe5b6afc09eb1bdc8b07514ff",
+      "sha": "5110591a29704fb59042098499ba30260e7d00cd",
       "title": "Автоматическая выгрузка данных в 1С:Бухгалтерию",
       "type": "articles",
       "order": 26,
