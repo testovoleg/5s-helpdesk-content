@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T17:22:30+03:00",
-  "count": 655,
+  "generated_at": "2026-10-22T09:27:09+03:00",
+  "count": 656,
   "sections": {
     "tips": [
       {
@@ -353,7 +353,7 @@
                 "path": "articles/5S AUTO/Администрирование и настройка системы/Исправление ошибок версий",
                 "id": "ispravlenie-oshibok-versiy",
                 "uuid": "c6388733-06cc-40fb-8edc-59e46bea9321",
-                "order": 25
+                "order": 26
               }
             ]
           },
@@ -818,6 +818,19 @@
   },
   "materials": [
     {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Автоматическая выгрузка данных в 1С Бухгалтерию",
+      "file": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu.md",
+      "id": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu",
+      "sha": "2d436c64b67ade14b49c74429f41ee4070b4f2f5",
+      "title": "Автоматическая выгрузка данных в 1С:Бухгалтерию",
+      "type": "articles",
+      "order": 25,
+      "updated_at": "2026-10-22",
+      "date_kind": "created",
+      "added_at": "2026-10-22T09:27:08+03:00",
+      "reading_time": 4
+    },
+    {
       "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки в разрешительном режиме",
       "file": "ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime.md",
       "id": "ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime",
@@ -1157,7 +1170,7 @@
       "path": "articles/5S AUTO/История релизов/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "a2c6c3e899506fc3384b6be46f5b06e08787694e",
+      "sha": "c0ac0d16e0568348f269c17cf7f3fa69ba413f0f",
       "title": "Бета-релиз 2.8.5 (готовится к выпуску)",
       "type": "articles",
       "order": 0,
