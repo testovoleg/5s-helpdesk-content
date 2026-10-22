@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:27:56+03:00",
+  "generated_at": "2026-10-22T10:28:43+03:00",
   "count": 661,
   "sections": {
     "tips": [
@@ -1104,14 +1104,14 @@
       "path": "articles/5S AUTO/Учет взаиморасчетов/Платежный календарь",
       "file": "platezhnyy-kalendar.md",
       "id": "platezhnyy-kalendar",
-      "sha": "c699450886a27b2e91075902547a2f6240156c6d",
+      "sha": "c8eadb03ce822c58368ec8fa80c1762a0c2d0a1b",
       "title": "Платежный календарь",
       "type": "articles",
       "order": 8,
       "updated_at": "2026-10-01",
       "date_kind": "created",
       "added_at": "2026-10-01T15:57:33+03:00",
-      "reading_time": 12
+      "reading_time": 14
     },
     {
       "path": "tips/Оборудование/Банковские терминалы/Операция одобрена банком, но результат не удалось передать в 1С",
