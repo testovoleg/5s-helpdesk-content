@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T16:56:58+03:00",
+  "generated_at": "2026-10-23T08:53:55+03:00",
   "count": 661,
   "sections": {
     "tips": [
@@ -1104,7 +1104,7 @@
       "path": "articles/5S AUTO/Учет взаиморасчетов/Платежный календарь",
       "file": "platezhnyy-kalendar.md",
       "id": "platezhnyy-kalendar",
-      "sha": "5a124744867eb5eb24092b0379105ad0d49e83e1",
+      "sha": "a007bd5ae0b084f7f769e87af4b5ad2380135315",
       "title": "Платежный календарь",
       "type": "articles",
       "order": 8,
