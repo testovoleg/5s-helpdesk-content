@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T10:37:39+03:00",
-  "count": 661,
+  "generated_at": "2026-10-26T11:06:21+03:00",
+  "count": 662,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,18 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Склад и запчасти/Товар списался в производство по другой себестоимости",
+      "file": "tovar-spisalsya-v-proizvodstvo-po-drugoy-sebestoimosti.md",
+      "id": "tovar-spisalsya-v-proizvodstvo-po-drugoy-sebestoimosti",
+      "sha": "dd7461c712e42112eb9b235b6b681c779a2a545c",
+      "title": "Товар списался в производство по другой себестоимости",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-10-26",
+      "date_kind": "created",
+      "added_at": "2026-10-26T11:06:19+03:00"
+    },
     {
       "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки в разрешительном режиме",
       "file": "ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime.md",
