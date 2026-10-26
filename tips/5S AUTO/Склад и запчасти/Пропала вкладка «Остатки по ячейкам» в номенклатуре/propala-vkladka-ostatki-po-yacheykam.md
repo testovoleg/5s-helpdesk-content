@@ -32,7 +32,7 @@
 
 ## См. также
 
-- «[При заполнении инвентаризации по ячейкам хранения попадают не все товары](../При%20заполнении%20инвентаризации%20по%20ячейкам%20хранения%20попадают%20не%20все%20товары/pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary.md)»
+- «[При заполнении инвентаризации по ячейкам хранения попадают не все товары](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary)»
 
 ## Материалы для изучения
 

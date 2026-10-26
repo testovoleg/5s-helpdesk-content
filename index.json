@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:35:30+03:00",
+  "generated_at": "2026-10-26T10:37:39+03:00",
   "count": 661,
   "sections": {
     "tips": [
@@ -1260,7 +1260,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/При заполнении инвентаризации по ячейкам хранения попадают не все товары",
       "file": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary.md",
       "id": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary",
-      "sha": "c7f7f385d26e7e2c425c30a42f3929dc26b26d62",
+      "sha": "ad3ccb9a86ef7c63d7cfd96ad3ced068b52d6902",
       "title": "При заполнении инвентаризации по ячейкам хранения попадают не все товары",
       "type": "tips",
       "order": 0,
@@ -1420,7 +1420,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Пропала вкладка «Остатки по ячейкам» в номенклатуре",
       "file": "propala-vkladka-ostatki-po-yacheykam.md",
       "id": "propala-vkladka-ostatki-po-yacheykam",
-      "sha": "d3dbae6927d64eb86ee1a9310dbbf6c045be9af4",
+      "sha": "418341b33193d79def0d4058f7329b4b996fb5cd",
       "title": "Пропала вкладка «Остатки по ячейкам» в номенклатуре",
       "type": "tips",
       "order": 0,

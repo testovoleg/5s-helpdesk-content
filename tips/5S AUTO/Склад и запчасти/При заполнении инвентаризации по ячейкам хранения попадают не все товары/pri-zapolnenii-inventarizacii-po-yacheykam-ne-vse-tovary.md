@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Создано:</b> 26.10.2026</td></tr></table>
 
+###### *Опубликовано 26.10.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary)*
+
 ## Проблема
 
 В документе «Инвентаризация товаров» указаны ячейки хранения, но при заполнении кнопкой **«Заполнение → Заполнить по ячейкам хранения»** в таблицу попадает всего несколько позиций. Если заполнить документ командой **«Заполнить складскими остатками»**, в таблицу попадают все товары, которые фактически лежат в этих ячейках.
