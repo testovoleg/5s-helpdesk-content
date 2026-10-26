@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T13:36:15+03:00",
+  "generated_at": "2026-10-26T13:38:55+03:00",
   "count": 662,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Товар списался в производство по другой себестоимости",
       "file": "tovar-spisalsya-v-proizvodstvo-po-drugoy-sebestoimosti.md",
       "id": "tovar-spisalsya-v-proizvodstvo-po-drugoy-sebestoimosti",
-      "sha": "17943a8a8b2ee6e5887051144568691bd62b8abc",
+      "sha": "64d9fc7145bc4593500fda65b2c2df1415d281ce",
       "title": "Товар списался в производство по другой себестоимости",
       "type": "tips",
       "order": 0,
@@ -8944,7 +8944,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Как посмотреть остатки товара по поставщику",
       "file": "kak-posmotret-ostatki-tovara-po-postavshchiku.md",
       "id": "kak-posmotret-ostatki-tovara-po-postavshchiku",
-      "sha": "c92a5aa8c772cd0ac57b5083e2ee547d1d860f1c",
+      "sha": "e96441ffeb011d0a331df206638e21f920acd29d",
       "title": "Как посмотреть остатки товара по поставщику",
       "type": "tips",
       "order": 0,

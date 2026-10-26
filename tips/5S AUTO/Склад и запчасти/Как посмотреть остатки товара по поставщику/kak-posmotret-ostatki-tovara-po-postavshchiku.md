@@ -44,7 +44,7 @@
 
 ## См. также
 
-- «[Товар списался в производство по другой себестоимости](../Товар%20списался%20в%20производство%20по%20другой%20себестоимости/tovar-spisalsya-v-proizvodstvo-po-drugoy-sebestoimosti.md)»
+- «[Товар списался в производство по другой себестоимости](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/tovar-spisalsya-v-proizvodstvo-po-drugoy-sebestoimosti)»
 
 ## Похожие вопросы
 
