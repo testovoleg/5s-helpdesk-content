@@ -40,7 +40,7 @@
 
 ## См. также
 
-- «[Как посмотреть остатки товара по поставщику](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-posmotret-ostatki-tovara-po-postavshchiku)» – отчет «Остатки и обороты партий товаров»
+- «[Как посмотреть остатки товара по поставщику](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-posmotret-ostatki-tovara-po-postavshchiku)»
 
 ## Материалы для изучения
 
