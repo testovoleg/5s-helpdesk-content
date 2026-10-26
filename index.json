@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:23:11+03:00",
+  "generated_at": "2026-10-26T10:24:17+03:00",
   "count": 661,
   "sections": {
     "tips": [
@@ -1260,7 +1260,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/При заполнении инвентаризации по ячейкам хранения попадают не все товары",
       "file": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary.md",
       "id": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary",
-      "sha": "c155c25ae7347ddc03424ca9782d1295da144c01",
+      "sha": "88c0a32dae055fea3ad93ce021356c768c39b28a",
       "title": "При заполнении инвентаризации по ячейкам хранения попадают не все товары",
       "type": "tips",
       "order": 0,
