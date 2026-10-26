@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T10:37:00+03:00",
-  "count": 657,
+  "generated_at": "2026-10-26T13:38:10+03:00",
+  "count": 658,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,18 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Склад и запчасти/Товар списался в производство по другой себестоимости",
+      "file": "tovar-spisalsya-v-proizvodstvo-po-drugoy-sebestoimosti.md",
+      "id": "tovar-spisalsya-v-proizvodstvo-po-drugoy-sebestoimosti",
+      "sha": "d3644642cfaac19270e94b85f7d5fce0c097e7f9",
+      "title": "Товар списался в производство по другой себестоимости",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-10-26",
+      "date_kind": "created",
+      "added_at": "2026-10-26T13:38:08+03:00"
+    },
     {
       "path": "tips/5S AUTO/Склад и запчасти/При заполнении инвентаризации по ячейкам хранения попадают не все товары",
       "file": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary.md",
@@ -8881,7 +8893,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Как посмотреть остатки товара по поставщику",
       "file": "kak-posmotret-ostatki-tovara-po-postavshchiku.md",
       "id": "kak-posmotret-ostatki-tovara-po-postavshchiku",
-      "sha": "4048ca5873ca352af2b0fe8f5e674accbf8a866a",
+      "sha": "baca6634b65f2fc5b897580e0230a6b01a590d58",
       "title": "Как посмотреть остатки товара по поставщику",
       "type": "tips",
       "order": 0,
