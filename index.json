@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T13:39:53+03:00",
-  "count": 656,
+  "generated_at": "2026-10-26T10:36:10+03:00",
+  "count": 657,
   "sections": {
     "tips": [
       {
@@ -818,6 +818,18 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Склад и запчасти/При заполнении инвентаризации по ячейкам хранения попадают не все товары",
+      "file": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary.md",
+      "id": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary",
+      "sha": "08b0d09ab89bc724c1f7fbfb85a20d485cc0dfec",
+      "title": "При заполнении инвентаризации по ячейкам хранения попадают не все товары",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-10-26",
+      "date_kind": "created",
+      "added_at": "2026-10-26T10:36:08+03:00"
+    },
+    {
       "path": "articles/5S AUTO/Администрирование и настройка системы/Автоматическая выгрузка данных в 1С Бухгалтерию",
       "file": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu.md",
       "id": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu",
@@ -1370,12 +1382,12 @@
       "path": "tips/5S AUTO/Склад и запчасти/Пропала вкладка «Остатки по ячейкам» в номенклатуре",
       "file": "propala-vkladka-ostatki-po-yacheykam.md",
       "id": "propala-vkladka-ostatki-po-yacheykam",
-      "sha": "4804aa60fac44b73be0d4232a9bcf6dec8a56547",
+      "sha": "0aa466882458471cb37601dab2b4ebf1b9450ea3",
       "title": "Пропала вкладка «Остатки по ячейкам» в номенклатуре",
       "type": "tips",
       "order": 0,
-      "updated_at": "2026-09-17",
-      "date_kind": "created",
+      "updated_at": "2026-10-26",
+      "date_kind": "updated",
       "added_at": "2026-09-17T10:31:02+03:00"
     },
     {
