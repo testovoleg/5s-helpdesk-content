@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T13:20:37+03:00",
+  "generated_at": "2026-10-26T13:36:15+03:00",
   "count": 662,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Товар списался в производство по другой себестоимости",
       "file": "tovar-spisalsya-v-proizvodstvo-po-drugoy-sebestoimosti.md",
       "id": "tovar-spisalsya-v-proizvodstvo-po-drugoy-sebestoimosti",
-      "sha": "e7e6ffa705d741ad8a3e819f621702dfbe4327e3",
+      "sha": "17943a8a8b2ee6e5887051144568691bd62b8abc",
       "title": "Товар списался в производство по другой себестоимости",
       "type": "tips",
       "order": 0,
