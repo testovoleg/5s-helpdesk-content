@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T14:34:43+03:00",
-  "count": 664,
+  "generated_at": "2026-10-27T15:24:42+03:00",
+  "count": 665,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,18 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Касса/Не получается принять частичную оплату в реализации",
+      "file": "ne-poluchaetsya-prinyat-chastichnuyu-oplatu-v-realizacii.md",
+      "id": "ne-poluchaetsya-prinyat-chastichnuyu-oplatu-v-realizacii",
+      "sha": "e4a3162cbb5af44fd44f6d0bd5e85f39cd5eed22",
+      "title": "Не получается принять частичную оплату в реализации",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-10-27",
+      "date_kind": "created",
+      "added_at": "2026-10-27T15:24:40+03:00"
+    },
     {
       "path": "tips/5S AUTO/Администрирование/Как передавать данные из облачной базы во внешнюю систему",
       "file": "kak-peredavat-dannye-iz-oblachnoy-bazy-vo-vneshnyuyu-sistemu.md",
