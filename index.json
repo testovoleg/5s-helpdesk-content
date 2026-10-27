@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T10:36:30+03:00",
+  "generated_at": "2026-10-27T10:45:38+03:00",
   "count": 663,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Администрирование/Как объединить дублирующиеся карточки контрагентов",
       "file": "kak-obedinit-dubliruyushchiesya-kartochki-kontragentov.md",
       "id": "kak-obedinit-dubliruyushchiesya-kartochki-kontragentov",
-      "sha": "02ab6a3ce96f9145ee14c4fc1c4e72b7d11ee1cd",
+      "sha": "555e77f969f61ee56ddf290533833f913b36c476",
       "title": "Как объединить дублирующиеся карточки контрагентов",
       "type": "tips",
       "order": 0,
