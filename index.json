@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T13:59:48+03:00",
-  "count": 663,
+  "generated_at": "2026-10-27T14:34:43+03:00",
+  "count": 664,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,18 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Администрирование/Как передавать данные из облачной базы во внешнюю систему",
+      "file": "kak-peredavat-dannye-iz-oblachnoy-bazy-vo-vneshnyuyu-sistemu.md",
+      "id": "kak-peredavat-dannye-iz-oblachnoy-bazy-vo-vneshnyuyu-sistemu",
+      "sha": "fafc7a9fdce41a6d79a52b934e6ed7e7a81482c5",
+      "title": "Как передавать данные из облачной базы во внешнюю систему",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-10-27",
+      "date_kind": "created",
+      "added_at": "2026-10-27T14:34:41+03:00"
+    },
     {
       "path": "tips/5S AUTO/Администрирование/Как объединить дублирующиеся карточки контрагентов",
       "file": "kak-obedinit-dubliruyushchiesya-kartochki-kontragentov.md",
