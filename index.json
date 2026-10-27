@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:58:09+03:00",
+  "generated_at": "2026-10-27T13:59:48+03:00",
   "count": 663,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Администрирование/Как объединить дублирующиеся карточки контрагентов",
       "file": "kak-obedinit-dubliruyushchiesya-kartochki-kontragentov.md",
       "id": "kak-obedinit-dubliruyushchiesya-kartochki-kontragentov",
-      "sha": "b498c1a6e8e627c7600ebaabef4d49da6e6bf922",
+      "sha": "13f7c37d8704052e039d23e210813f2370e9b7f5",
       "title": "Как объединить дублирующиеся карточки контрагентов",
       "type": "tips",
       "order": 0,
@@ -5176,7 +5176,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Поиск и замена дублирующихся записей",
       "file": "poisk-i-zamena-dubliruyuschikhsya-zapisey.md",
       "id": "poisk-i-zamena-dubliruyuschikhsya-zapisey",
-      "sha": "936c0515e8dd0dbedef50589b3ef708efcccf0ba",
+      "sha": "07310fca690647818aa148cf9855323714690028",
       "title": "Поиск и замена дублирующихся записей",
       "type": "articles",
       "order": 7,
