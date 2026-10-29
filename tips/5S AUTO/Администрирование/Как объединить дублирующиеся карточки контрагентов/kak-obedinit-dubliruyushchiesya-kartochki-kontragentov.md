@@ -1,6 +1,6 @@
 # Как объединить дублирующиеся карточки контрагентов
 
-<table><tr><td><b>Создано:</b> 26.10.2026</td></tr></table>
+<table><tr><td><b>Обновлено:</b> 29.10.2026</td></tr></table>
 
 ###### *Опубликовано 26.10.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-obedinit-dubliruyushchiesya-kartochki-kontragentov](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-obedinit-dubliruyushchiesya-kartochki-kontragentov)*
 
@@ -68,7 +68,9 @@
 
 ![Открытие карточки из результатов поиска](attachments/06-otkryt-kartochku-1.png)
 
-Если карточка не является дублем, удалите ее из списка. Если в карточке-дубле есть данные, которых нет в правильной (например, второй телефон или e-mail), перенесите их в правильную карточку до объединения.
+Если карточка не является дублем, выделите строку и нажмите **«Удалить»** – карточка пропадет из списка.
+
+При объединении контактная информация разных видов переносится в правильную карточку автоматически: например, если в одной карточке указан мобильный телефон, а в другой – рабочий, в итоговой карточке останутся оба. Остальные данные, которых нет в правильной карточке, перенесите в нее вручную до объединения.
 
 **4. Объедините карточки.**
 
@@ -80,7 +82,7 @@
 
 ![Выполнение замены элементов](attachments/08-vypolnit-zamenu-elementov-1.png)
 
-Подробнее о работе с обработкой – в статье «[Поиск и замена дублирующихся записей → Параметры поиска](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/poisk-i-zamena-dubliruyuschikhsya-zapisey#параметры-поиска)».
+Если нужно объединить много групп сразу, воспользуйтесь групповой заменой – см. статью «[Поиск и замена дублирующихся записей → Вариант 2. Групповая обработка всего справочника](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/poisk-i-zamena-dubliruyuschikhsya-zapisey#вариант-2-групповая-обработка-всего-справочника)».
 
 ### Что нельзя объединять
 
@@ -95,7 +97,7 @@
 
 ## Материалы для изучения
 
-- «[Поиск и замена дублирующихся записей](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/poisk-i-zamena-dubliruyuschikhsya-zapisey)» – обработка поиска и объединения дублей: поиск дублей, выбор правильного элемента, замена ссылок.
+- «[Поиск и замена дублирующихся записей](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/poisk-i-zamena-dubliruyuschikhsya-zapisey)» – обработка поиска и объединения дублей: поиск дублей, выбор правильного элемента, замена ссылок, групповая замена.
 - «[Контрагенты и контакты](https://kb.5systems.ru/articles/5s-auto/rabota-s-klientami/kontragenty-i-kontakty)» – справочник контрагентов и карточка контрагента.
 - «[Объединение сделок](https://kb.5systems.ru/articles/5s-auto/crm/obedinenie-sdelok)» – объединение дублирующихся сделок.
 
