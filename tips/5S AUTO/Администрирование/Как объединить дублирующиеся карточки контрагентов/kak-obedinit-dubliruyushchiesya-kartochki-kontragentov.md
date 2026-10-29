@@ -1,6 +1,6 @@
 # Как объединить дублирующиеся карточки контрагентов
 
-<table><tr><td><b>Обновлено:</b> 29.10.2026</td></tr></table>
+<table><tr><td><b>Создано:</b> 26.10.2026</td></tr></table>
 
 ###### *Опубликовано 26.10.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-obedinit-dubliruyushchiesya-kartochki-kontragentov](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-obedinit-dubliruyushchiesya-kartochki-kontragentov)*
 
