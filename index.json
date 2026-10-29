@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T15:57:58+03:00",
+  "generated_at": "2026-10-29T16:06:45+03:00",
   "count": 659,
   "sections": {
     "tips": [
@@ -821,12 +821,12 @@
       "path": "tips/5S AUTO/Администрирование/Как объединить дублирующиеся карточки контрагентов",
       "file": "kak-obedinit-dubliruyushchiesya-kartochki-kontragentov.md",
       "id": "kak-obedinit-dubliruyushchiesya-kartochki-kontragentov",
-      "sha": "72c218c0ab9cfd2c1a6d92a8448aca9ca4613aa5",
+      "sha": "a71798bf076df305e8a700ddd515cdaef2f11b4b",
       "title": "Как объединить дублирующиеся карточки контрагентов",
       "type": "tips",
       "order": 0,
-      "updated_at": "2026-10-26",
-      "date_kind": "created",
+      "updated_at": "2026-10-29",
+      "date_kind": "updated",
       "added_at": "2026-10-26T17:00:52+03:00"
     },
     {
@@ -5125,7 +5125,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Поиск и замена дублирующихся записей",
       "file": "poisk-i-zamena-dubliruyuschikhsya-zapisey.md",
       "id": "poisk-i-zamena-dubliruyuschikhsya-zapisey",
-      "sha": "d63083505e2ee77e0c6168ee51c42846e4801ffd",
+      "sha": "74cc8be411dee1077b05098fb119f5098a1697c5",
       "title": "Поиск и замена дублирующихся записей",
       "type": "articles",
       "order": 7,
