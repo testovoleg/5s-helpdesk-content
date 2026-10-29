@@ -1,6 +1,6 @@
 # Как объединить дублирующиеся карточки контрагентов
 
-<table><tr><td><b>Создано:</b> 26.10.2026</td></tr></table>
+<table><tr><td><b>Обновлено:</b> 29.10.2026</td></tr></table>
 
 ###### *Опубликовано 26.10.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-obedinit-dubliruyushchiesya-kartochki-kontragentov](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-obedinit-dubliruyushchiesya-kartochki-kontragentov)*
 
@@ -80,7 +80,7 @@
 
 ![Выполнение замены элементов](attachments/08-vypolnit-zamenu-elementov-1.png)
 
-Подробнее о работе с обработкой – в статье «[Поиск и замена дублирующихся записей → Пример работы](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/poisk-i-zamena-dubliruyuschikhsya-zapisey#пример-работы)».
+Подробнее о работе с обработкой – в статье «[Поиск и замена дублирующихся записей → Параметры поиска](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/poisk-i-zamena-dubliruyuschikhsya-zapisey#параметры-поиска)».
 
 ### Что нельзя объединять
 
