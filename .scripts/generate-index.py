@@ -382,9 +382,43 @@ def cached_added_dates() -> dict:
     return dates
 
 
+def cached_histories() -> dict:
+    """История дат материалов из прежнего index.json (поле history).
+
+    Для «Что нового» сайту нужна не только последняя дата из шапки, но и
+    прежние: материал, обновленный 27.10 и 29.10, должен остаться и в ленте
+    за 27.10 (Катя, 29.10.2026). Историю копим от генерации к генерации, как
+    и added_at; начальное заполнение — .scripts/backfill-history.py по git."""
+    try:
+        old = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    hist = {}
+    for m in old.get("materials", []):
+        if isinstance(m.get("history"), list):
+            hist[m["path"]] = m["history"]
+            if m.get("type") and m.get("id"):
+                hist[(m["type"], m["id"])] = m["history"]
+    return hist
+
+
+def merge_history(old: list[dict] | None, date: str, kind: str) -> list[dict]:
+    """Добавить текущую дату из шапки к истории материала.
+
+    Одна запись на дату (вид — последний). Если дату в шапке вернули назад
+    (исправление ошибочно сдвинутой даты), более поздние записи отбрасываем:
+    правка, которую отменили, в ленте показываться не должна."""
+    day = date[:10]
+    entries = {e["date"]: e["kind"] for e in (old or []) if e.get("date")}
+    entries = {d: k for d, k in entries.items() if d <= day}
+    entries[day] = kind
+    return [{"date": d, "kind": entries[d]} for d in sorted(entries)]
+
+
 def collect_materials() -> list[dict]:
     borrowed = collect_borrowed()
     cached = cached_added_dates()
+    histories = cached_histories()
     materials: list[dict] = []
 
     for root in CONTENT_ROOTS:
@@ -455,6 +489,13 @@ def collect_materials() -> list[dict]:
                 # (раньше здесь стояла дата из статьи без времени)
                 or now_iso(),
             }
+            # Все даты из шапки, которые материал имел на сайте: created — первая
+            # («Создано»), updated — каждое значимое обновление («Обновлено»)
+            material["history"] = merge_history(
+                histories.get(rel) or histories.get((root, main_file[:-3])),
+                updated_at,
+                material["date_kind"],
+            )
             if meta.get("reading_time"):
                 material["reading_time"] = meta["reading_time"]
             if "test_time" in meta:
