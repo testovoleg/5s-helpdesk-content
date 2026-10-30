@@ -223,6 +223,14 @@ def head_ids() -> set[tuple[str, str]]:
     return _HEAD_IDS
 
 
+def existed_before(root: str, mid: str) -> bool:
+    """Был ли материал с таким id в этом корне когда-либо в истории ветки.
+
+    Нужен, чтобы отличать возврат из архива (ветка archive) от первой
+    публикации: у возвращенного материала остается его прежняя дата."""
+    return bool(run_git("log", "-1", "--format=%H", "HEAD", "--", f":(glob){root}/**/{mid}.md"))
+
+
 def apply(
     path: Path, today: date, keep_dates: bool = False, from_git: bool = False
 ) -> str | None:
@@ -248,9 +256,15 @@ def apply(
     # иначе на сайте он попадет в «Что нового» как «Перенесена» или «Дополнена»
     # (Катя, 30.10.2026). Перенесенные со старой базы сохраняют сайтовую дату
     root_id = (rel.split("/", 1)[0], path.stem)
-    first_publish = old is None and not transferred and bool(head_ids()) and root_id not in head_ids()
+    new_in_branch = old is None and not transferred and bool(head_ids()) and root_id not in head_ids()
+    # Возврат из архива – материал уже был в ветке раньше: дату из шапки
+    # не трогаем (Катя, 30.10.2026)
+    returned = new_in_branch and bool(updated) and existed_before(*root_id)
+    first_publish = new_in_branch and not returned
 
-    if first_publish and not from_git:
+    if returned and not from_git:
+        pass
+    elif first_publish and not from_git:
         updated = today.strftime("%d.%m.%Y")
         label = LABEL_NEW
     elif from_git:
