@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T12:05:28+03:00",
-  "count": 661,
+  "generated_at": "2026-10-30T13:56:16+03:00",
+  "count": 662,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/Оборудование/Кассы ККМ/Касса АТОЛ печатает «ККТ прекратит работу»",
+      "file": "kassa-atol-pechataet-kkt-prekratit-rabotu.md",
+      "id": "kassa-atol-pechataet-kkt-prekratit-rabotu",
+      "sha": "b9ecb2b33d51649f039e28df6aad9b2757e0692b",
+      "title": "Касса АТОЛ печатает «ККТ прекратит работу»",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-10-30",
+      "date_kind": "created",
+      "added_at": "2026-10-30T13:56:14+03:00",
+      "history": [
+        {
+          "date": "2026-10-30",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/Администрирование/Как скрыть лишнюю печатную форму в списке",
       "file": "kak-skryt-lishnyuyu-pechatnuyu-formu-v-spiske.md",
@@ -14133,7 +14151,7 @@
       "path": "tips/Оборудование/Кассы ККМ/Исчерпан ресурс ФН",
       "file": "ischerpan-resurs-fn.md",
       "id": "ischerpan-resurs-fn",
-      "sha": "f808bbaf70221efc7f5b32b4b3f84358ed8eab37",
+      "sha": "cf63e1360fe03003305fe3d65564b51e414e438d",
       "title": "Исчерпан ресурс ФН",
       "type": "tips",
       "order": 0,
