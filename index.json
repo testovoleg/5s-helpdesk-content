@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:31:56+03:00",
+  "generated_at": "2026-10-30T13:47:32+03:00",
   "count": 667,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/Оборудование/Кассы ККМ/Касса АТОЛ печатает «ККТ прекратит работу»",
       "file": "kassa-atol-pechataet-kkt-prekratit-rabotu.md",
       "id": "kassa-atol-pechataet-kkt-prekratit-rabotu",
-      "sha": "24017bf517b2a43b831ecb9993ba149212e59e18",
+      "sha": "381b800da02f1096b6e9a44e617c8cb4afb5b2dd",
       "title": "Касса АТОЛ печатает «ККТ прекратит работу»",
       "type": "tips",
       "order": 0,
@@ -14324,7 +14324,7 @@
       "path": "tips/Оборудование/Кассы ККМ/Исчерпан ресурс ФН",
       "file": "ischerpan-resurs-fn.md",
       "id": "ischerpan-resurs-fn",
-      "sha": "815db711dcf7859bce2dca3692cb6e8665c2ef2a",
+      "sha": "bf074facb363dbd44edde6f7470c5b607bfcb5d1",
       "title": "Исчерпан ресурс ФН",
       "type": "tips",
       "order": 0,
