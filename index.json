@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T14:41:01+03:00",
-  "count": 662,
+  "generated_at": "2026-10-30T15:49:28+03:00",
+  "count": 663,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Склад и запчасти/Как убрать поставщика из Поиска цен",
+      "file": "kak-ubrat-postavshchika-iz-poiska-cen.md",
+      "id": "kak-ubrat-postavshchika-iz-poiska-cen",
+      "sha": "cee0580ccaf9bf3a59393ed1dba198bd00d4c73d",
+      "title": "Как убрать поставщика из Поиска цен",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-10-30",
+      "date_kind": "created",
+      "added_at": "2026-10-30T15:49:27+03:00",
+      "history": [
+        {
+          "date": "2026-10-30",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/Оборудование/Кассы ККМ/Касса АТОЛ печатает «ККТ прекратит работу»",
       "file": "kassa-atol-pechataet-kkt-prekratit-rabotu.md",
