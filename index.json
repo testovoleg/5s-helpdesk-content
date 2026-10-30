@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T12:04:02+03:00",
-  "count": 666,
+  "generated_at": "2026-10-30T13:31:56+03:00",
+  "count": 667,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/Оборудование/Кассы ККМ/Касса АТОЛ печатает «ККТ прекратит работу»",
+      "file": "kassa-atol-pechataet-kkt-prekratit-rabotu.md",
+      "id": "kassa-atol-pechataet-kkt-prekratit-rabotu",
+      "sha": "24017bf517b2a43b831ecb9993ba149212e59e18",
+      "title": "Касса АТОЛ печатает «ККТ прекратит работу»",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-10-30",
+      "date_kind": "created",
+      "added_at": "2026-10-30T13:31:55+03:00",
+      "history": [
+        {
+          "date": "2026-10-30",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/Администрирование/Как скрыть лишнюю печатную форму в списке",
       "file": "kak-skryt-lishnyuyu-pechatnuyu-formu-v-spiske.md",
