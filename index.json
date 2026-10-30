@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:56:16+03:00",
+  "generated_at": "2026-10-30T14:08:22+03:00",
   "count": 662,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/Оборудование/Кассы ККМ/Касса АТОЛ печатает «ККТ прекратит работу»",
       "file": "kassa-atol-pechataet-kkt-prekratit-rabotu.md",
       "id": "kassa-atol-pechataet-kkt-prekratit-rabotu",
-      "sha": "b9ecb2b33d51649f039e28df6aad9b2757e0692b",
+      "sha": "515edc837a8a88a0e714971bac15311fe0518b8a",
       "title": "Касса АТОЛ печатает «ККТ прекратит работу»",
       "type": "tips",
       "order": 0,
