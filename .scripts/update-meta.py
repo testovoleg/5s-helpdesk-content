@@ -14,6 +14,7 @@
 
 from __future__ import annotations
 
+import json
 import math
 import os
 import re
@@ -201,6 +202,27 @@ def build_block(reading: str | None, updated: str, label: str, layout: str) -> s
     return "\n".join(lines)
 
 
+_HEAD_IDS: set[tuple[str, str]] | None = None
+
+
+def head_ids() -> set[tuple[str, str]]:
+    """Материалы (корень, id), которые уже есть в ветке – по index.json в HEAD.
+
+    По id, а не по пути: перенос материала в другую папку меняет путь, но
+    это не новая публикация."""
+    global _HEAD_IDS
+    if _HEAD_IDS is None:
+        _HEAD_IDS = set()
+        raw = run_git("show", "HEAD:index.json")
+        try:
+            for m in json.loads(raw).get("materials", []) if raw else []:
+                if m.get("type") and m.get("id"):
+                    _HEAD_IDS.add((m["type"], m["id"]))
+        except ValueError:
+            pass
+    return _HEAD_IDS
+
+
 def apply(
     path: Path, today: date, keep_dates: bool = False, from_git: bool = False
 ) -> str | None:
@@ -221,7 +243,17 @@ def apply(
     # дату оставляем сайтовую, ее проставили руками при переносе
     first_transfer = transferred and old is None and bool(updated)
 
-    if from_git:
+    # Первая публикация материала в ветке (его id еще нет в index.json HEAD):
+    # всегда «Создано: сегодня», даже с KEEP_DATES и старой датой черновика –
+    # иначе на сайте он попадет в «Что нового» как «Перенесена» или «Дополнена»
+    # (Катя, 30.10.2026). Перенесенные со старой базы сохраняют сайтовую дату
+    root_id = (rel.split("/", 1)[0], path.stem)
+    first_publish = old is None and not transferred and bool(head_ids()) and root_id not in head_ids()
+
+    if first_publish and not from_git:
+        updated = today.strftime("%d.%m.%Y")
+        label = LABEL_NEW
+    elif from_git:
         history = content_history(rel)
         updated = (history[-1] if history else today).strftime("%d.%m.%Y")
         label = LABEL_OLD if len(history) > 1 else LABEL_NEW
