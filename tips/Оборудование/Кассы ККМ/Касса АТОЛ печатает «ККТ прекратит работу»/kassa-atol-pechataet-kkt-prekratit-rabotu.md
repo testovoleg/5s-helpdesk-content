@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Создано:</b> 30.10.2026</td></tr></table>
 
+###### *Опубликовано 30.10.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/kassa-atol-pechataet-kkt-prekratit-rabotu](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/kassa-atol-pechataet-kkt-prekratit-rabotu)*
+
 ## Проблема
 
 Касса АТОЛ печатает отдельный чек с сообщением «№17 Доп. функционал Печать. ККТ прекратит работу» и датой.
