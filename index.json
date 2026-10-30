@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T10:20:07+03:00",
+  "generated_at": "2026-10-30T10:46:10+03:00",
   "count": 666,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Администрирование/Как скрыть лишнюю печатную форму в списке",
       "file": "kak-skryt-lishnyuyu-pechatnuyu-formu-v-spiske.md",
       "id": "kak-skryt-lishnyuyu-pechatnuyu-formu-v-spiske",
-      "sha": "5effaf4c3a79003db5c392889eae55bf198e469d",
+      "sha": "d8988e92d2b7f5e18c371418215272da1fc08908",
       "title": "Как скрыть лишнюю печатную форму в списке",
       "type": "tips",
       "order": 0,
