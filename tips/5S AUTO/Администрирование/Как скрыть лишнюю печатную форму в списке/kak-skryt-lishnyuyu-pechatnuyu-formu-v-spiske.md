@@ -1,6 +1,8 @@
 # Как скрыть лишнюю печатную форму в списке
 
-<table><tr><td><b>Обновлено:</b> 30.10.2026</td></tr></table>
+<table><tr><td><b>Создано:</b> 30.10.2026</td></tr></table>
+
+###### *Опубликовано 30.10.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-skryt-lishnyuyu-pechatnuyu-formu-v-spiske](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-skryt-lishnyuyu-pechatnuyu-formu-v-spiske)*
 
 ## Вопрос
 
