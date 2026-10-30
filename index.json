@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T09:11:29+03:00",
-  "count": 660,
+  "generated_at": "2026-10-30T11:56:58+03:00",
+  "count": 661,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Администрирование/Как скрыть лишнюю печатную форму в списке",
+      "file": "kak-skryt-lishnyuyu-pechatnuyu-formu-v-spiske.md",
+      "id": "kak-skryt-lishnyuyu-pechatnuyu-formu-v-spiske",
+      "sha": "78c74bf3dc406a21bb511b73014cbf51aa3c9cd1",
+      "title": "Как скрыть лишнюю печатную форму в списке",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-10-30",
+      "date_kind": "created",
+      "added_at": "2026-10-30T11:56:26+03:00",
+      "history": [
+        {
+          "date": "2026-10-30",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/Касса/Не получается принять частичную оплату в реализации",
       "file": "ne-poluchaetsya-prinyat-chastichnuyu-oplatu-v-realizacii.md",
