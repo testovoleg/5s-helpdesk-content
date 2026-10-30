@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 30.10.2026</td></tr></table>
 
+###### *Опубликовано 30.10.2026: [https://kb.5systems.ru/tips/5s-auto/kassa/ne-poluchaetsya-prinyat-chastichnuyu-oplatu-v-realizacii](https://kb.5systems.ru/tips/5s-auto/kassa/ne-poluchaetsya-prinyat-chastichnuyu-oplatu-v-realizacii)*
+
 ## Проблема
 
 В документе **«Реализация товаров»** при нажатии кнопки **«Оплата»** в окне ввода суммы оплаты поле **«Сумма чека на ФР»** равно сумме документа и не редактируется – принять у клиента только часть оплаты нельзя. При этом в заказ-наряде частичную оплату принять получалось.

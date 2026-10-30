@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T09:10:42+03:00",
+  "generated_at": "2026-10-30T09:12:05+03:00",
   "count": 665,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Касса/Не получается принять частичную оплату в реализации",
       "file": "ne-poluchaetsya-prinyat-chastichnuyu-oplatu-v-realizacii.md",
       "id": "ne-poluchaetsya-prinyat-chastichnuyu-oplatu-v-realizacii",
-      "sha": "33b08168521fcbf42a9cd44eda08122b99fffeed",
+      "sha": "d32d87e9df28a9b9326798d275bf5396713d8495",
       "title": "Не получается принять частичную оплату в реализации",
       "type": "tips",
       "order": 0,
