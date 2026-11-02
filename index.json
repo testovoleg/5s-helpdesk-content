@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T12:06:11+03:00",
+  "generated_at": "2026-11-02T12:08:11+03:00",
   "count": 669,
   "sections": {
     "tips": [
@@ -13077,11 +13077,11 @@
       "path": "articles/5S AUTO/CRM/Настройка параметров уведомлений",
       "file": "nastroyka-parametrov-uvedomleniy.md",
       "id": "nastroyka-parametrov-uvedomleniy",
-      "sha": "eb59f30503eec243263ec0aa7f0fbb09346cda8b",
+      "sha": "fa522dce15aadd3c96b8bcbaf1ad7374dcde9bb3",
       "title": "Настройка параметров уведомлений",
       "type": "articles",
       "order": 15,
-      "updated_at": "2026-07-29",
+      "updated_at": "2026-11-02",
       "date_kind": "updated",
       "added_at": "2026-08-26T11:04:43+03:00",
       "history": [
@@ -13091,6 +13091,10 @@
         },
         {
           "date": "2026-07-29",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-02",
           "kind": "updated"
         }
       ],
