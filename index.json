@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T09:09:26+03:00",
+  "generated_at": "2026-11-02T09:38:55+03:00",
   "count": 669,
   "sections": {
     "tips": [
@@ -821,17 +821,17 @@
       "path": "tips/5S AUTO/CRM/Где указать куратора контрагента",
       "file": "gde-ukazat-kuratora-kontragenta.md",
       "id": "gde-ukazat-kuratora-kontragenta",
-      "sha": "3c92f445993aba416883cff3edfe5e3a3faa5b82",
+      "sha": "43c187f5b966ef0356e624af0622c196830cb300",
       "title": "Где указать куратора контрагента",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-11-02",
-      "date_kind": "created",
+      "date_kind": "updated",
       "added_at": "2026-11-02T08:41:07+03:00",
       "history": [
         {
           "date": "2026-11-02",
-          "kind": "created"
+          "kind": "updated"
         }
       ]
     },
