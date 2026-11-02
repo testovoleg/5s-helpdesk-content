@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T10:56:04+03:00",
+  "generated_at": "2026-11-02T11:25:16+03:00",
   "count": 664,
   "sections": {
     "tips": [
@@ -7134,7 +7134,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/API 5S AUTO",
       "file": "api-5s-auto.md",
       "id": "api-5s-auto",
-      "sha": "cd80217f0a90d4bfcb1f5e0b30cc8130cd1ebe4e",
+      "sha": "4ae02f14feb394f5f9d763d2e683120f878abd57",
       "title": "API 5S AUTO",
       "type": "articles",
       "order": 16,
