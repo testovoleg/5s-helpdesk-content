@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:29:07+03:00",
+  "generated_at": "2026-11-02T12:06:11+03:00",
   "count": 669,
   "sections": {
     "tips": [
@@ -13232,11 +13232,11 @@
       "path": "articles/5S AUTO/CRM/Работа с уведомлениями",
       "file": "rabota-s-uvedomleniyami.md",
       "id": "rabota-s-uvedomleniyami",
-      "sha": "a8d489f23b59cbf9d68952b095400340e613d554",
+      "sha": "113b6fa37c8975a1ddb0fa383bc787924388e11a",
       "title": "Работа с уведомлениями",
       "type": "articles",
       "order": 7,
-      "updated_at": "2025-03-20",
+      "updated_at": "2026-11-02",
       "date_kind": "updated",
       "added_at": "2026-08-26T09:47:16+03:00",
       "history": [
@@ -13246,6 +13246,10 @@
         },
         {
           "date": "2025-03-20",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-02",
           "kind": "updated"
         }
       ],
