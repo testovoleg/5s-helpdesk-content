@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T10:50:18+03:00",
+  "generated_at": "2026-11-02T10:51:57+03:00",
   "count": 669,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/CRM/Где указать куратора контрагента",
       "file": "gde-ukazat-kuratora-kontragenta.md",
       "id": "gde-ukazat-kuratora-kontragenta",
-      "sha": "0237a576eb376c374294a5c0ba7de582dde1e69c",
+      "sha": "20ac90fcfe6516af5bd40e235dccabed5351aafb",
       "title": "Где указать куратора контрагента",
       "type": "tips",
       "order": 0,
@@ -13696,7 +13696,7 @@
       "path": "tips/5S AUTO/CRM/Не открываются карточки лидов и сделок при поднятии трубки",
       "file": "ne-otkryvayutsya-kartochki-pri-podnyatii-trubki.md",
       "id": "ne-otkryvayutsya-kartochki-pri-podnyatii-trubki",
-      "sha": "60d3b801d41aad9548fe5a1edd6d286c825ebcfc",
+      "sha": "476a2652c8b905060d9c9bfe243f8f39712b5077",
       "title": "Не открываются карточки лидов и сделок при поднятии трубки",
       "type": "tips",
       "order": 0,
