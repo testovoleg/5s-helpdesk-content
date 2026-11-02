@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T15:26:35+03:00",
-  "count": 669,
+  "generated_at": "2026-11-02T16:54:37+03:00",
+  "count": 670,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Маркировка/Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
+      "file": "ne-podpisyvaetsya-token-chestnogo-znaka.md",
+      "id": "ne-podpisyvaetsya-token-chestnogo-znaka",
+      "sha": "a0ea5747e5e11d72941d75c015edb537dfdeff88",
+      "title": "Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-02",
+      "date_kind": "created",
+      "added_at": "2026-11-02T16:54:35+03:00",
+      "history": [
+        {
+          "date": "2026-11-02",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/CRM/Где указать куратора контрагента",
       "file": "gde-ukazat-kuratora-kontragenta.md",
