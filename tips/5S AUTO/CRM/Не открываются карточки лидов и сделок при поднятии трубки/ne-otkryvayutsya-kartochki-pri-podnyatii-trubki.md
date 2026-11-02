@@ -1,6 +1,6 @@
 # Не открываются карточки лидов и сделок при поднятии трубки
 
-<table><tr><td><b>Обновлено:</b> 02.11.2026</td></tr></table>
+<table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
 ###### *Опубликовано 18.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-otkryvayutsya-kartochki-pri-podnyatii-trubki](https://kb.5systems.ru/tips/5s-auto/crm/ne-otkryvayutsya-kartochki-pri-podnyatii-trubki)*
 
@@ -91,6 +91,7 @@
 - Не открываются лиды
 - У одного сотрудника перестали открываться лиды при поднятии трубки
 - Окно сделки при входящем звонке всплывает у всех сотрудников
+- Всплывающее окно при входящем звонке
 
 ## Теги
 
