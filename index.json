@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T13:56:00+03:00",
+  "generated_at": "2026-11-02T14:35:23+03:00",
   "count": 669,
   "sections": {
     "tips": [
@@ -13704,7 +13704,7 @@
       "path": "tips/5S AUTO/CRM/Не открываются карточки лидов и сделок при поднятии трубки",
       "file": "ne-otkryvayutsya-kartochki-pri-podnyatii-trubki.md",
       "id": "ne-otkryvayutsya-kartochki-pri-podnyatii-trubki",
-      "sha": "9b6b392ea3e6724c62aafd160a4ced56fe13d45f",
+      "sha": "ecc612740b144dc5001681af8914ab393bad7cd8",
       "title": "Не открываются карточки лидов и сделок при поднятии трубки",
       "type": "tips",
       "order": 0,
