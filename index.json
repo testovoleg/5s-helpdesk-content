@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T09:09:55+03:00",
-  "count": 663,
+  "generated_at": "2026-11-02T10:51:14+03:00",
+  "count": 664,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/CRM/Где указать куратора контрагента",
+      "file": "gde-ukazat-kuratora-kontragenta.md",
+      "id": "gde-ukazat-kuratora-kontragenta",
+      "sha": "0237a576eb376c374294a5c0ba7de582dde1e69c",
+      "title": "Где указать куратора контрагента",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-02",
+      "date_kind": "created",
+      "added_at": "2026-11-02T10:51:13+03:00",
+      "history": [
+        {
+          "date": "2026-11-02",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/Склад и запчасти/Как убрать поставщика из Поиска цен",
       "file": "kak-ubrat-postavshchika-iz-poiska-cen.md",
@@ -13513,7 +13531,7 @@
       "path": "tips/5S AUTO/CRM/Не открываются карточки лидов и сделок при поднятии трубки",
       "file": "ne-otkryvayutsya-kartochki-pri-podnyatii-trubki.md",
       "id": "ne-otkryvayutsya-kartochki-pri-podnyatii-trubki",
-      "sha": "39034bb950b2ddb8f73eef6a72d0aa7d81504539",
+      "sha": "f84ff373552bfe98f87cc3509a29f17f12eba019",
       "title": "Не открываются карточки лидов и сделок при поднятии трубки",
       "type": "tips",
       "order": 0,
