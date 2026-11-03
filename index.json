@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T14:57:43+03:00",
-  "count": 665,
+  "generated_at": "2026-11-03T16:05:18+03:00",
+  "count": 666,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/Техподдержка/Проблема с лицензией удаленных рабочих столов",
+      "file": "problema-s-licenziey-udalennyh-rabochih-stolov.md",
+      "id": "problema-s-licenziey-udalennyh-rabochih-stolov",
+      "sha": "6488d118fb1bdac10d72d9b33a65021bf22a512d",
+      "title": "Проблема с лицензией удаленных рабочих столов",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-03",
+      "date_kind": "created",
+      "added_at": "2026-11-03T16:05:17+03:00",
+      "history": [
+        {
+          "date": "2026-11-03",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/Маркировка/Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
       "file": "ne-podpisyvaetsya-token-chestnogo-znaka.md",
@@ -13517,7 +13535,7 @@
       "path": "tips/Техподдержка/Проблема с подключением к серверу — ошибка приложения",
       "file": "problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya.md",
       "id": "problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya",
-      "sha": "109aaf6abdb1ae0101880d1f5f4ca3fbfaa5f79c",
+      "sha": "63f0d952d5fb15f4068deed41cedf2baf3d916a8",
       "title": "Проблема с подключением к серверу — ошибка приложения",
       "type": "tips",
       "order": 0,
@@ -13912,7 +13930,7 @@
       "path": "tips/Техподдержка/Не получается подключиться к облаку",
       "file": "ne-poluchaetsya-podklyuchitsya-k-oblaku.md",
       "id": "ne-poluchaetsya-podklyuchitsya-k-oblaku",
-      "sha": "2a83c80dfe3052af8b96d66ee51dc39cf440cbb5",
+      "sha": "a3d13fd3e8ea5d8a7074b7c78e13ef73fea7b797",
       "title": "Не получается подключиться к облаку",
       "type": "tips",
       "order": 0,
