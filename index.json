@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:47:44+03:00",
+  "generated_at": "2026-11-03T16:04:15+03:00",
   "count": 671,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/Техподдержка/Проблема с лицензией удаленных рабочих столов",
       "file": "problema-s-licenziey-udalennyh-rabochih-stolov.md",
       "id": "problema-s-licenziey-udalennyh-rabochih-stolov",
-      "sha": "c1b30540ec541089834e28db2a60f97c7669380e",
+      "sha": "6488d118fb1bdac10d72d9b33a65021bf22a512d",
       "title": "Проблема с лицензией удаленных рабочих столов",
       "type": "tips",
       "order": 0,
@@ -13712,7 +13712,7 @@
       "path": "tips/Техподдержка/Проблема с подключением к серверу — ошибка приложения",
       "file": "problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya.md",
       "id": "problema-s-podklyucheniem-k-serveru-oshibka-prilozheniya",
-      "sha": "7d75a3e1580b820ccab82002bc1b380659d8aac7",
+      "sha": "ba6a220736f3962e3fd0f08f19e2e752e979b26d",
       "title": "Проблема с подключением к серверу — ошибка приложения",
       "type": "tips",
       "order": 0,
@@ -14115,7 +14115,7 @@
       "path": "tips/Техподдержка/Не получается подключиться к облаку",
       "file": "ne-poluchaetsya-podklyuchitsya-k-oblaku.md",
       "id": "ne-poluchaetsya-podklyuchitsya-k-oblaku",
-      "sha": "704800fe59c47297905c685f6e0bbdd5d9d07211",
+      "sha": "22aa362a45a271dcf4988ef3a21892c0cfbabcb4",
       "title": "Не получается подключиться к облаку",
       "type": "tips",
       "order": 0,
