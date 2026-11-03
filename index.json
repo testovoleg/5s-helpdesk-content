@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T09:25:20+03:00",
+  "generated_at": "2026-11-03T09:48:00+03:00",
   "count": 670,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Маркировка/Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
       "file": "ne-podpisyvaetsya-token-chestnogo-znaka.md",
       "id": "ne-podpisyvaetsya-token-chestnogo-znaka",
-      "sha": "a0f2602eab2ba0eae939a0b4bc63aa0ab73cbffb",
+      "sha": "75dc64ba838eff89d8130894e6ce6f8ad0726bb6",
       "title": "Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
       "type": "tips",
       "order": 0,
