@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T14:54:52+03:00",
-  "count": 670,
+  "generated_at": "2026-11-03T15:24:29+03:00",
+  "count": 671,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/Техподдержка/Проблема с лицензией удаленных рабочих столов",
+      "file": "problema-s-licenziey-udalennyh-rabochih-stolov.md",
+      "id": "problema-s-licenziey-udalennyh-rabochih-stolov",
+      "sha": "25c2108b26a64c9f8303482af8e369612cc7a908",
+      "title": "Проблема с лицензией удаленных рабочих столов",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-03",
+      "date_kind": "created",
+      "added_at": "2026-11-03T15:24:27+03:00",
+      "history": [
+        {
+          "date": "2026-11-03",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/Маркировка/Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
       "file": "ne-podpisyvaetsya-token-chestnogo-znaka.md",
