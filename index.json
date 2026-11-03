@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:04:15+03:00",
+  "generated_at": "2026-11-03T16:06:03+03:00",
   "count": 671,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/Техподдержка/Проблема с лицензией удаленных рабочих столов",
       "file": "problema-s-licenziey-udalennyh-rabochih-stolov.md",
       "id": "problema-s-licenziey-udalennyh-rabochih-stolov",
-      "sha": "6488d118fb1bdac10d72d9b33a65021bf22a512d",
+      "sha": "1b78673fbbf93ac1ae742ce1dd8065d9db2e9ea7",
       "title": "Проблема с лицензией удаленных рабочих столов",
       "type": "tips",
       "order": 0,
