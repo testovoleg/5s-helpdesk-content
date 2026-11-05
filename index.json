@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T14:42:55+03:00",
-  "count": 673,
+  "generated_at": "2026-11-05T14:51:22+03:00",
+  "count": 674,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Склад и запчасти/Не удалось провести расходный складской ордер",
+      "file": "ne-udalos-provesti-rashodnyy-skladskoy-order.md",
+      "id": "ne-udalos-provesti-rashodnyy-skladskoy-order",
+      "sha": "6a7e432e3fcdccc0999c47f7a4f4d35febf377fc",
+      "title": "Не удалось провести расходный складской ордер",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-05",
+      "date_kind": "created",
+      "added_at": "2026-11-05T14:51:21+03:00",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/Администрирование/Пропала панель окон внизу экрана",
       "file": "propala-panel-okon.md",
