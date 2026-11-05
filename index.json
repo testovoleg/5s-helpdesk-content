@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T09:55:57+03:00",
-  "count": 666,
+  "generated_at": "2026-11-05T11:10:25+03:00",
+  "count": 667,
   "sections": {
     "tips": [
       {
@@ -818,6 +818,24 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Маркировка/Не обнаружено доступных интеграций для работы с Честным знаком",
+      "file": "ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak.md",
+      "id": "ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak",
+      "sha": "76b1537b3c7cb54ae6f12f0b5fb043807c8ac44f",
+      "title": "Не обнаружено доступных интеграций для работы с Честным знаком",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-05",
+      "date_kind": "created",
+      "added_at": "2026-11-05T11:10:24+03:00",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "kind": "created"
+        }
+      ]
+    },
+    {
       "path": "tips/Техподдержка/Проблема с лицензией удаленных рабочих столов",
       "file": "problema-s-licenziey-udalennyh-rabochih-stolov.md",
       "id": "problema-s-licenziey-udalennyh-rabochih-stolov",
@@ -843,7 +861,7 @@
       "path": "tips/5S AUTO/Маркировка/Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
       "file": "ne-podpisyvaetsya-token-chestnogo-znaka.md",
       "id": "ne-podpisyvaetsya-token-chestnogo-znaka",
-      "sha": "dd85ecdf40da8f56ea99575051c17d0871dc1c11",
+      "sha": "9fa2f38f1986276a35a82184c1339028aaafa4cc",
       "title": "Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
       "type": "tips",
       "order": 0,
@@ -1720,7 +1738,7 @@
       "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки",
       "file": "ne-prohodit-proverka-koda-markirovki.md",
       "id": "ne-prohodit-proverka-koda-markirovki",
-      "sha": "4e3a71257f8c35d241b38a97bc0bcefc462ec402",
+      "sha": "7c1aa1c318636b4212297eee888ab4694647f0c1",
       "title": "Не проходит проверка кода маркировки",
       "type": "tips",
       "order": 0,
