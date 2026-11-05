@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T11:07:47+03:00",
+  "generated_at": "2026-11-05T11:09:26+03:00",
   "count": 672,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Маркировка/Не обнаружено доступных интеграций для работы с Честным знаком",
       "file": "ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak.md",
       "id": "ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak",
-      "sha": "cc33121c79e0f29a5bbef5c8831e3c9a297429cd",
+      "sha": "e99bfd2788c467fd295f450b255a729fbf0e682c",
       "title": "Не обнаружено доступных интеграций для работы с Честным знаком",
       "type": "tips",
       "order": 0,
@@ -861,7 +861,7 @@
       "path": "tips/5S AUTO/Маркировка/Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
       "file": "ne-podpisyvaetsya-token-chestnogo-znaka.md",
       "id": "ne-podpisyvaetsya-token-chestnogo-znaka",
-      "sha": "37b59fd2b7f7b8f2e0cb04d118e9790f6e9799f4",
+      "sha": "2abe4c77f92c45c5fb7816e9bf626064469871b6",
       "title": "Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
       "type": "tips",
       "order": 0,
@@ -1788,7 +1788,7 @@
       "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки",
       "file": "ne-prohodit-proverka-koda-markirovki.md",
       "id": "ne-prohodit-proverka-koda-markirovki",
-      "sha": "155729cffbd26029057c49c6f5e4d99515f6c362",
+      "sha": "2ec6e19692af9a3340d6cceeb06601dc1dd6b045",
       "title": "Не проходит проверка кода маркировки",
       "type": "tips",
       "order": 0,
