@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T09:54:10+03:00",
-  "count": 671,
+  "generated_at": "2026-11-05T10:07:18+03:00",
+  "count": 672,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Маркировка/Не обнаружено доступных интеграций для работы с Честным знаком",
+      "file": "ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak.md",
+      "id": "ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak",
+      "sha": "68252fa67b03ee729ff56739720f32260d98d08f",
+      "title": "Не обнаружено доступных интеграций для работы с Честным знаком",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-05",
+      "date_kind": "created",
+      "added_at": "2026-11-05T10:07:16+03:00",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/Техподдержка/Проблема с лицензией удаленных рабочих столов",
       "file": "problema-s-licenziey-udalennyh-rabochih-stolov.md",
