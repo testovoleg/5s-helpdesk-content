@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T11:11:14+03:00",
-  "count": 672,
+  "generated_at": "2026-11-05T13:41:32+03:00",
+  "count": 673,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/CRM/Пропала панель окон внизу экрана",
+      "file": "propala-panel-okon.md",
+      "id": "propala-panel-okon",
+      "sha": "a45572eee68241683d0cd647b9865e7db6fa32fa",
+      "title": "Пропала панель окон внизу экрана",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-05",
+      "date_kind": "created",
+      "added_at": "2026-11-05T13:41:31+03:00",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/Маркировка/Не обнаружено доступных интеграций для работы с Честным знаком",
       "file": "ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak.md",
