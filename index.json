@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T13:41:32+03:00",
+  "generated_at": "2026-11-05T13:48:01+03:00",
   "count": 673,
   "sections": {
     "tips": [
@@ -818,10 +818,10 @@
   },
   "materials": [
     {
-      "path": "tips/5S AUTO/CRM/Пропала панель окон внизу экрана",
+      "path": "tips/5S AUTO/Администрирование/Пропала панель окон внизу экрана",
       "file": "propala-panel-okon.md",
       "id": "propala-panel-okon",
-      "sha": "a45572eee68241683d0cd647b9865e7db6fa32fa",
+      "sha": "1e7975e3b1f7a38198ff231bbabda212c6f05357",
       "title": "Пропала панель окон внизу экрана",
       "type": "tips",
       "order": 0,
