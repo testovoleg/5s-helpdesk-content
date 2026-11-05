@@ -1,6 +1,8 @@
 # Не обнаружено доступных интеграций для работы с Честным знаком
 
-<table><tr><td><b>Обновлено:</b> 05.11.2026</td></tr></table>
+<table><tr><td><b>Создано:</b> 05.11.2026</td></tr></table>
+
+###### *Опубликовано 05.11.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak)*
 
 ## Проблема
 
