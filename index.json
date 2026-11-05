@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:07:18+03:00",
+  "generated_at": "2026-11-05T10:51:11+03:00",
   "count": 672,
   "sections": {
     "tips": [
@@ -821,17 +821,17 @@
       "path": "tips/5S AUTO/Маркировка/Не обнаружено доступных интеграций для работы с Честным знаком",
       "file": "ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak.md",
       "id": "ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak",
-      "sha": "68252fa67b03ee729ff56739720f32260d98d08f",
+      "sha": "329a86ac6cf4d2be42c9341a8ec377004516bfc8",
       "title": "Не обнаружено доступных интеграций для работы с Честным знаком",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-11-05",
-      "date_kind": "created",
+      "date_kind": "updated",
       "added_at": "2026-11-05T10:07:16+03:00",
       "history": [
         {
           "date": "2026-11-05",
-          "kind": "created"
+          "kind": "updated"
         }
       ]
     },
