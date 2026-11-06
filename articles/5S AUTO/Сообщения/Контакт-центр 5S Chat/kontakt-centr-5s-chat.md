@@ -114,7 +114,7 @@
 
 При переходе в определенное пространство отображаются комнаты – т.е. все чаты по данному каналу переписки:
 
-![5S Chat - Пространство Telegram](attachments/12-5s-chat-prostranstvo-telegram.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![5S Chat - Пространство WABA](attachments/13-5s-chat-prostranstvo-waba.png)
+![5S Chat - Пространство Telegram](attachments/12-5s-chat-prostranstvo-telegram.png)
 
 Наименование комнаты формируется по принципу: *Имя клиента (Сделка #<номер сделки> + Статус сделки)* – см. [ниже](#1-наименование-чата).
 

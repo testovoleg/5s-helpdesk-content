@@ -10,13 +10,13 @@
 
 Перед прохождением тестирования необходимо изучить статьи:
 
-- в разделе [WhatsApp](https://www.5systems.ru/help/whatsapp):
-  - [Возможности бота WhatsApp Business API](https://www.5systems.ru/help/vozmozhnosti-bota-whatsapp-business-api);
-  - [Способы перехода в чат WhatsApp](https://www.5systems.ru/help/sposoby-perekhoda-v-chat-whatsapp);
-  - [Настройки интеграции с WhatsApp Business API](https://www.5systems.ru/help/nastroyki-integracii-s-whatsapp-business-api);
-  - [Оформление аккаунта WhatsApp Business API](https://www.5systems.ru/help/oformlenie-akkaunta-whatsapp-business-api);
-  - [Настройка интеграции с WhatsApp](https://www.5systems.ru/help/nastroyka-integracii-s-whatsapp);
-  - [Сравнение возможностей WABA и пользовательского WhatsApp](https://www.5systems.ru/help/sravnenie-vozmozhnostey-waba-i-polzovatelskogo-whatsapp);
+- в разделе WhatsApp (раздел и статьи архивные, сняты с публикации):
+  - Возможности бота WhatsApp Business API;
+  - Способы перехода в чат WhatsApp;
+  - Настройки интеграции с WhatsApp Business API;
+  - Оформление аккаунта WhatsApp Business API;
+  - Настройка интеграции с WhatsApp;
+  - Сравнение возможностей WABA и пользовательского WhatsApp;
 - [Создание и редактирование пользователей 5S Cloud](../../../articles/5S%20AUTO/Администрирование%20и%20настройка%20системы/Создание%20и%20редактирование%20пользователей%205S%20Cloud/sozdanie-i-redaktirovanie-polzovateley-5s-cloud.md);
 - [Настройка приложения 5S Pay](../../../articles/5S%20AUTO/Касса/Настройка%20приложения%205S%20Pay/nastroyka-prilozheniya-5s-pay.md);
 - в разделе [Банковские выписки](../../../articles/5S%20AUTO/Банки%20и%20платежные%20системы/Банковские%20выписки/):

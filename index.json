@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T10:11:38+03:00",
+  "generated_at": "2026-11-06T10:46:30+03:00",
   "count": 675,
   "sections": {
     "tips": [
@@ -2237,16 +2237,20 @@
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 05.2025",
       "file": "test-po-novomu-funkcionalu-na-052025.md",
       "id": "test-po-novomu-funkcionalu-na-052025",
-      "sha": "0286ebc4abe2d6f9f7611e62dd809d2d7b6adcbf",
+      "sha": "eefc4fed0ec2f725229b5532cefebe25167d82df",
       "title": "Тест по новому функционалу на 05.2025",
       "type": "lessons",
       "order": 6,
-      "updated_at": "2026-09-15T10:55:57+03:00",
+      "updated_at": "2026-11-06T10:46:30+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "history": [
         {
           "date": "2026-09-15",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-06",
           "kind": "updated"
         }
       ],
@@ -2275,16 +2279,20 @@
       "path": "lessons/Тесты на проверку знаний/Тест по новому функционалу на 08.2024",
       "file": "test-po-novomu-funkcionalu-na-082024.md",
       "id": "test-po-novomu-funkcionalu-na-082024",
-      "sha": "904767835c9dd233cf7c4e06fedac4baebec0839",
+      "sha": "47002bc4b8abef917d4bd9a349b0eb6e87d2ea8e",
       "title": "Тест по новому функционалу на 08.2024",
       "type": "lessons",
       "order": 5,
-      "updated_at": "2026-09-16T10:05:02+03:00",
+      "updated_at": "2026-11-06T10:46:30+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "history": [
         {
           "date": "2026-09-16",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-06",
           "kind": "updated"
         }
       ],
@@ -2660,7 +2668,7 @@
       "path": "lessons/Урок 25. Автоматические сообщения/Как указать ссылку на карту",
       "file": "kak-ukazat-ssylku-na-kartu.md",
       "id": "kak-ukazat-ssylku-na-kartu",
-      "sha": "2389efece3a9ad6b4ed3d6442d92dd87bf706c79",
+      "sha": "6b3c3dbe9f89c7aeb5203dd5349361aa3108be56",
       "title": "Как указать ссылку на карту",
       "type": "lessons",
       "order": 0,
@@ -9336,7 +9344,7 @@
       "path": "articles/5S AUTO/Сообщения/Контакт-центр 5S Chat",
       "file": "kontakt-centr-5s-chat.md",
       "id": "kontakt-centr-5s-chat",
-      "sha": "cc987ddb0fc0d67f208949ea1a8629043b45a7be",
+      "sha": "9ae61b3311f65c83ab3ddca81b2b5f10a971bd85",
       "title": "Контакт-центр 5S Chat",
       "type": "articles",
       "order": 14,
@@ -12893,7 +12901,7 @@
       "path": "articles/5S AUTO/Работа с клиентами/Лента событий",
       "file": "lenta-sobytiy.md",
       "id": "lenta-sobytiy",
-      "sha": "db93a4e0484b6a2b8ffb7b98158aace3689dcb3b",
+      "sha": "f1ecd557e41a8fb0551530419e7566bc5031c16d",
       "title": "Лента событий",
       "type": "articles",
       "order": 7,
