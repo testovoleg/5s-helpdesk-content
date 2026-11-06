@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:32:13+03:00",
+  "generated_at": "2026-11-06T14:46:41+03:00",
   "count": 669,
   "sections": {
     "tips": [
@@ -13699,7 +13699,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Не получается провести документ (нет доступа к складу)",
       "file": "ne-poluchaetsya-provesti-dokument-net-dostupa-k-skladu.md",
       "id": "ne-poluchaetsya-provesti-dokument-net-dostupa-k-skladu",
-      "sha": "ef0a6fda017d408c93c8b7f305de29b47ee2f8c0",
+      "sha": "c838ed9d55e6d86a4105c9a20ddd6d1961fdb125",
       "title": "Не получается провести документ (нет доступа к складу)",
       "type": "tips",
       "order": 0,
