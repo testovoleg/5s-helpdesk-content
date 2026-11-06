@@ -16,7 +16,7 @@
 
 - портал: https://support.5systems.ru
 - электронная почта: help@5systems.ru
-- Max-бот: https://max.ru/id3525450990_3_bot
+- MAX-бот: https://max.ru/id3525450990_3_bot
 - Telegram-бот: http://t.me/Help5SBot
 
 При возникновении *аварийной ситуации* вы можете установить приоритет «Аварийный» в обращении.

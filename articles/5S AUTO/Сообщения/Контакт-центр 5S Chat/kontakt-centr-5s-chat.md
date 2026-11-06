@@ -110,7 +110,7 @@
 
 При переходе в определенное пространство отображаются комнаты – т.е. все чаты по данному каналу переписки:
 
-![5S Chat - Пространство Telegram](attachments/12-5s-chat-prostranstvo-telegram.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![5S Chat - Пространство WABA](attachments/13-5s-chat-prostranstvo-waba.png)
+![5S Chat - Пространство Telegram](attachments/12-5s-chat-prostranstvo-telegram.png)
 
 Наименование комнаты формируется по принципу: *Имя клиента (Сделка #<номер сделки> + Статус сделки)* – см. [ниже](#1-наименование-чата).
 
@@ -210,7 +210,7 @@
    Для доступа в приложение потребуется ввести логин и пароль пользователя [5S Cloud](../../Администрирование%20и%20настройка%20системы/Создание%20и%20редактирование%20пользователей%205S%20Cloud/sozdanie-i-redaktirovanie-polzovateley-5s-cloud.md).
 
 3. **Настройка интеграции с каналами связи**<br>
-   Для использования разных каналов связи – [MAX](../Интеграция%20с%20мессенджером%20MAX/integraciya-s-messendzherom-max.md), [пользовательский MAX](../Интеграция%20с%20пользовательским%20MAX/integraciya-s-polzovatelskim-max.md), [ВКонтакте](../Интеграция%20с%20сообществом%20ВКонтакте%20%28VK%29/integraciya-s-soobschestvom-vkontakte-vk.md), [Telegram](../Интеграция%20с%20Telegram/integraciya-s-telegram.md), WABA, WhatsApp, [Авито](../Интеграция%20с%20мессенджером%20Авито/integraciya-s-messendzherom-avito.md) и т.д. – требуется предварительно настроить интеграцию с ними.
+   Для использования разных каналов связи – [MAX](../Интеграция%20с%20мессенджером%20MAX/integraciya-s-messendzherom-max.md), [пользовательский MAX](../Интеграция%20с%20пользовательским%20MAX/integraciya-s-polzovatelskim-max.md), [ВКонтакте](../Интеграция%20с%20сообществом%20ВКонтакте%20%28VK%29/integraciya-s-soobschestvom-vkontakte-vk.md), [Telegram](../Интеграция%20с%20Telegram/integraciya-s-telegram.md), [Авито](../Интеграция%20с%20мессенджером%20Авито/integraciya-s-messendzherom-avito.md) и т.д. – требуется предварительно настроить интеграцию с ними.
 
 ## Технология Matrix
 

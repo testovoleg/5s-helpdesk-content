@@ -10,7 +10,7 @@
 
 ![Выбор шаблона «Приглашение в Telegram»](attachments/01-vybor-shablona.png)
 
-Далее выберите канал доставки — например, WABA, WhatsApp, SMSC и т. д.:
+Далее выберите канал доставки — например, MAX, SMSC и т. д.:
 
 ![Выбор канала доставки](attachments/02-vybor-kanala.png)
 
