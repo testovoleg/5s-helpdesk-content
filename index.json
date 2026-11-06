@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T10:04:45+03:00",
+  "generated_at": "2026-11-06T10:11:38+03:00",
   "count": 675,
   "sections": {
     "tips": [
@@ -9336,7 +9336,7 @@
       "path": "articles/5S AUTO/Сообщения/Контакт-центр 5S Chat",
       "file": "kontakt-centr-5s-chat.md",
       "id": "kontakt-centr-5s-chat",
-      "sha": "8ce0863b832452b6afc12039c007cb830ad3e6c5",
+      "sha": "cc987ddb0fc0d67f208949ea1a8629043b45a7be",
       "title": "Контакт-центр 5S Chat",
       "type": "articles",
       "order": 14,
@@ -13182,7 +13182,7 @@
       "path": "articles/5S AUTO/CRM/Приглашение в Telegram",
       "file": "priglashenie-v-telegram.md",
       "id": "priglashenie-v-telegram",
-      "sha": "f65ac05a9fd09fc8682d6d48110c2a40e8924863",
+      "sha": "3ead4eb54e49eba85779e05c502dc2c6845d4f03",
       "title": "Приглашение в Telegram",
       "type": "articles",
       "order": 16,
