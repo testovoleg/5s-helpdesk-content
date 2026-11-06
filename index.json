@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T13:12:54+03:00",
-  "count": 668,
+  "generated_at": "2026-11-06T14:32:13+03:00",
+  "count": 669,
   "sections": {
     "tips": [
       {
@@ -818,6 +818,24 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Склад и запчасти/Не удалось провести расходный складской ордер",
+      "file": "ne-udalos-provesti-rashodnyy-skladskoy-order.md",
+      "id": "ne-udalos-provesti-rashodnyy-skladskoy-order",
+      "sha": "1ae5898bba04b4451462eb1a29c2d9ae855c722e",
+      "title": "Не удалось провести расходный складской ордер",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-06",
+      "date_kind": "created",
+      "added_at": "2026-11-06T14:32:11+03:00",
+      "history": [
+        {
+          "date": "2026-11-06",
+          "kind": "created"
+        }
+      ]
+    },
+    {
       "path": "tips/5S AUTO/Администрирование/Пропала панель окон внизу экрана",
       "file": "propala-panel-okon.md",
       "id": "propala-panel-okon",
@@ -1031,7 +1049,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/При заполнении инвентаризации по ячейкам хранения попадают не все товары",
       "file": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary.md",
       "id": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary",
-      "sha": "08b0d09ab89bc724c1f7fbfb85a20d485cc0dfec",
+      "sha": "954dec1f1f9d30bfdb90f315ca3f6c16bac3c1da",
       "title": "При заполнении инвентаризации по ячейкам хранения попадают не все товары",
       "type": "tips",
       "order": 0,
@@ -2049,7 +2067,7 @@
       "title": "Тест по новому функционалу на 05.2025",
       "type": "lessons",
       "order": 6,
-      "updated_at": "2026-09-15T10:55:57+03:00",
+      "updated_at": "2026-11-06T11:25:18+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "history": [
@@ -2091,7 +2109,7 @@
       "title": "Тест по новому функционалу на 08.2024",
       "type": "lessons",
       "order": 5,
-      "updated_at": "2026-09-16T10:05:02+03:00",
+      "updated_at": "2026-11-06T11:25:18+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "history": [

@@ -38,6 +38,7 @@
 ## См. также
 
 - «[Пропала вкладка «Остатки по ячейкам» в номенклатуре](../Пропала%20вкладка%20«Остатки%20по%20ячейкам»%20в%20номенклатуре/propala-vkladka-ostatki-po-yacheykam.md)»
+- «[Не удалось провести расходный складской ордер](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-udalos-provesti-rashodnyy-skladskoy-order)»
 
 ## Материалы для изучения
 
