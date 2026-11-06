@@ -415,10 +415,30 @@ def merge_history(old: list[dict] | None, date: str, kind: str) -> list[dict]:
     return [{"date": d, "kind": entries[d]} for d in sorted(entries)]
 
 
+def cached_updated() -> dict:
+    """updated_at материалов из прежнего index.json – для материалов без даты
+    в шапке (тесты с .nometa): при KEEP_DATES=1 их дата не должна сдвигаться
+    от служебной правки (Катя, 06.11.2026: тесты попали в «Что нового»
+    после замены WhatsApp на MAX)."""
+    try:
+        old = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    res = {}
+    for m in old.get("materials", []):
+        if m.get("updated_at"):
+            res[m["path"]] = m["updated_at"]
+            if m.get("type") and m.get("id"):
+                res[(m["type"], m["id"])] = m["updated_at"]
+    return res
+
+
 def collect_materials() -> list[dict]:
     borrowed = collect_borrowed()
     cached = cached_added_dates()
     histories = cached_histories()
+    prev_updated = cached_updated()
+    keep_dates = os.environ.get("KEEP_DATES") == "1"
     materials: list[dict] = []
 
     for root in CONTENT_ROOTS:
@@ -448,6 +468,9 @@ def collect_materials() -> list[dict]:
             # .scripts/update-meta.py и не поднимает на служебных правках,
             # тогда как git любую правку файла считает изменением
             updated_at = meta.get("updated_at")
+            if not updated_at and keep_dates:
+                # мелкая правка материала без даты в шапке – дату не двигаем
+                updated_at = prev_updated.get(rel) or prev_updated.get((root, main_file[:-3]))
             if not updated_at:
                 if is_dirty(rel):
                     updated_at = now_iso()
