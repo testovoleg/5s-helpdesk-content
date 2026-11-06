@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:20:09+03:00",
+  "generated_at": "2026-11-06T14:31:08+03:00",
   "count": 675,
   "sections": {
     "tips": [
@@ -845,16 +845,20 @@
       "path": "tips/5S AUTO/Склад и запчасти/Не удалось провести расходный складской ордер",
       "file": "ne-udalos-provesti-rashodnyy-skladskoy-order.md",
       "id": "ne-udalos-provesti-rashodnyy-skladskoy-order",
-      "sha": "4b82e645b2ca790e441f218f9054176c8ff19652",
+      "sha": "1ae5898bba04b4451462eb1a29c2d9ae855c722e",
       "title": "Не удалось провести расходный складской ордер",
       "type": "tips",
       "order": 0,
-      "updated_at": "2026-11-05",
+      "updated_at": "2026-11-06",
       "date_kind": "created",
       "added_at": "2026-11-05T14:51:21+03:00",
       "history": [
         {
           "date": "2026-11-05",
+          "kind": "created"
+        },
+        {
+          "date": "2026-11-06",
           "kind": "created"
         }
       ]
@@ -1804,7 +1808,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/При заполнении инвентаризации по ячейкам хранения попадают не все товары",
       "file": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary.md",
       "id": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary",
-      "sha": "ad3ccb9a86ef7c63d7cfd96ad3ced068b52d6902",
+      "sha": "c5ff27ff8d99dc3efd66fc8a1f9e403bf30e39fc",
       "title": "При заполнении инвентаризации по ячейкам хранения попадают не все товары",
       "type": "tips",
       "order": 0,
@@ -13900,7 +13904,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Не получается провести документ (нет доступа к складу)",
       "file": "ne-poluchaetsya-provesti-dokument-net-dostupa-k-skladu.md",
       "id": "ne-poluchaetsya-provesti-dokument-net-dostupa-k-skladu",
-      "sha": "8ec07466e37e639406bd6f9057d6f5a2c74d3523",
+      "sha": "ed01d0f9f484865adc2d0f15371b178421822737",
       "title": "Не получается провести документ (нет доступа к складу)",
       "type": "tips",
       "order": 0,
