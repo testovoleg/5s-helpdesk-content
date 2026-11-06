@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Создано:</b> 06.11.2026</td></tr></table>
 
+###### *Опубликовано 06.11.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-udalos-provesti-rashodnyy-skladskoy-order](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-udalos-provesti-rashodnyy-skladskoy-order)*
+
 ## Проблема
 
 При перемещении товаров в производство из заказ-наряда не проводится расходный складской ордер, хотя товара на складе хватает: в окне **«Материалы»** заказ-наряда (открывается из ячейки «Материалы» в таблице «Работы») в колонке **«Остаток»** указано больше, чем нужно списать:
