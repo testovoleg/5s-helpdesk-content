@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T15:43:56+03:00",
+  "generated_at": "2026-11-09T08:39:53+03:00",
   "count": 675,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/Оборудование/Сканеры штрихкодов/Маркировка не распознана при сканировании",
       "file": "markirovka-ne-raspoznana-pri-skanirovanii.md",
       "id": "markirovka-ne-raspoznana-pri-skanirovanii",
-      "sha": "b16fb6b8bc548e043b6642c4a09120d0f27b9c7c",
+      "sha": "1a17699a340c9c2e54066906e33f9945e52a77df",
       "title": "Маркировка не распознана при сканировании",
       "type": "tips",
       "order": 0,
