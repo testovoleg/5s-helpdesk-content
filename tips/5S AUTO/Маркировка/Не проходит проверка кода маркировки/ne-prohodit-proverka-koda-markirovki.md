@@ -21,6 +21,7 @@
 
 - «[Не проходит проверка кода маркировки в разрешительном режиме](../Не%20проходит%20проверка%20кода%20маркировки%20в%20разрешительном%20режиме/ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime.md)»
 - «[Не обнаружено доступных интеграций для работы с Честным знаком](../Не%20обнаружено%20доступных%20интеграций%20для%20работы%20с%20Честным%20знаком/ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak.md)»
+- «[Маркировка не распознана при сканировании](https://kb.5systems.ru/tips/oborudovanie/skanery-shtrikhkodov/markirovka-ne-raspoznana-pri-skanirovanii)»
 
 ## Материалы для изучения
 

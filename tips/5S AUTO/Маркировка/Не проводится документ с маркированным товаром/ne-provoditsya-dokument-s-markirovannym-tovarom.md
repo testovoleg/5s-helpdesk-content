@@ -42,6 +42,7 @@
 ## См. также
 
 - «[Заказ-наряд с маркированным товаром не переводится в статус «Выполнен»](../Заказ-наряд%20с%20маркированным%20товаром%20не%20переводится%20в%20статус%20«Выполнен»/zakaz-naryad-s-markirovkoy-ne-perevoditsya-v-vypolnen.md)»
+- «[Маркировка не распознана при сканировании](https://kb.5systems.ru/tips/oborudovanie/skanery-shtrikhkodov/markirovka-ne-raspoznana-pri-skanirovanii)»
 
 ## Материалы для изучения
 

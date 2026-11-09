@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T15:10:40+03:00",
-  "count": 669,
+  "generated_at": "2026-11-09T09:28:45+03:00",
+  "count": 670,
   "sections": {
     "tips": [
       {
@@ -818,6 +818,30 @@
   },
   "materials": [
     {
+      "path": "tips/Оборудование/Сканеры штрихкодов/Маркировка не распознана при сканировании",
+      "file": "markirovka-ne-raspoznana-pri-skanirovanii.md",
+      "id": "markirovka-ne-raspoznana-pri-skanirovanii",
+      "sha": "848abb06f68895508c48b7ef20dc489ee7165e0f",
+      "title": "Маркировка не распознана при сканировании",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-09",
+      "date_kind": "created",
+      "added_at": "2026-11-09T09:28:44+03:00",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "kind": "created"
+        }
+      ],
+      "also_in": [
+        {
+          "path": "tips/5S AUTO/Маркировка",
+          "order": 1
+        }
+      ]
+    },
+    {
       "path": "tips/5S AUTO/Склад и запчасти/Не удалось провести расходный складской ордер",
       "file": "ne-udalos-provesti-rashodnyy-skladskoy-order.md",
       "id": "ne-udalos-provesti-rashodnyy-skladskoy-order",
@@ -860,7 +884,7 @@
       "sha": "76b1537b3c7cb54ae6f12f0b5fb043807c8ac44f",
       "title": "Не обнаружено доступных интеграций для работы с Честным знаком",
       "type": "tips",
-      "order": 0,
+      "order": 2,
       "updated_at": "2026-11-05",
       "date_kind": "created",
       "added_at": "2026-11-05T11:10:24+03:00",
@@ -900,7 +924,7 @@
       "sha": "9fa2f38f1986276a35a82184c1339028aaafa4cc",
       "title": "Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
       "type": "tips",
-      "order": 0,
+      "order": 3,
       "updated_at": "2026-11-05",
       "date_kind": "updated",
       "added_at": "2026-11-03T10:21:14+03:00",
@@ -1089,7 +1113,7 @@
       "sha": "01ad6b812f44f521c230127fd0401ddcf195ce35",
       "title": "Не проходит проверка кода маркировки в разрешительном режиме",
       "type": "tips",
-      "order": 0,
+      "order": 6,
       "updated_at": "2026-10-21",
       "date_kind": "created",
       "added_at": "2026-10-21T15:00:23+03:00",
@@ -1774,10 +1798,10 @@
       "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки",
       "file": "ne-prohodit-proverka-koda-markirovki.md",
       "id": "ne-prohodit-proverka-koda-markirovki",
-      "sha": "7c1aa1c318636b4212297eee888ab4694647f0c1",
+      "sha": "be2bc13d4036973b65b8e1ebf65d3cb8fbac1888",
       "title": "Не проходит проверка кода маркировки",
       "type": "tips",
-      "order": 0,
+      "order": 5,
       "updated_at": "2026-09-24",
       "date_kind": "created",
       "added_at": "2026-09-24T15:43:30+03:00",
@@ -1846,10 +1870,10 @@
       "path": "tips/5S AUTO/Маркировка/Не проводится документ с маркированным товаром",
       "file": "ne-provoditsya-dokument-s-markirovannym-tovarom.md",
       "id": "ne-provoditsya-dokument-s-markirovannym-tovarom",
-      "sha": "5c928ceeefa9887b7879443260bf77b4fd1fb341",
+      "sha": "c8af1a3ee46b8d3803c34593858ac3b961e3d389",
       "title": "Не проводится документ с маркированным товаром",
       "type": "tips",
-      "order": 0,
+      "order": 4,
       "updated_at": "2026-09-22",
       "date_kind": "created",
       "added_at": "2026-09-22T14:57:02+03:00",
