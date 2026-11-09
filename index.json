@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T13:18:07+03:00",
+  "generated_at": "2026-11-09T14:35:37+03:00",
   "count": 676,
   "sections": {
     "tips": [
@@ -2267,12 +2267,16 @@
       "title": "Тест по новому функционалу на 05.2025",
       "type": "lessons",
       "order": 6,
-      "updated_at": "2026-09-15T10:55:57+03:00",
+      "updated_at": "2026-11-06T10:46:09+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "history": [
         {
           "date": "2026-09-15",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-06",
           "kind": "updated"
         }
       ],
@@ -2305,12 +2309,16 @@
       "title": "Тест по новому функционалу на 08.2024",
       "type": "lessons",
       "order": 5,
-      "updated_at": "2026-09-16T10:05:02+03:00",
+      "updated_at": "2026-11-06T10:46:09+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "history": [
         {
           "date": "2026-09-16",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-06",
           "kind": "updated"
         }
       ],
