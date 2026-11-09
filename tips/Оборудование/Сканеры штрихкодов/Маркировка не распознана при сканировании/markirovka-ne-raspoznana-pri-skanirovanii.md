@@ -1,6 +1,8 @@
 # Маркировка не распознана при сканировании
 
-<table><tr><td><b>Создано:</b> 05.11.2026</td></tr></table>
+<table><tr><td><b>Создано:</b> 09.11.2026</td></tr></table>
+
+###### *Опубликовано 09.11.2026: [https://kb.5systems.ru/tips/oborudovanie/skanery-shtrikhkodov/markirovka-ne-raspoznana-pri-skanirovanii](https://kb.5systems.ru/tips/oborudovanie/skanery-shtrikhkodov/markirovka-ne-raspoznana-pri-skanirovanii)*
 
 ## Проблема
 
