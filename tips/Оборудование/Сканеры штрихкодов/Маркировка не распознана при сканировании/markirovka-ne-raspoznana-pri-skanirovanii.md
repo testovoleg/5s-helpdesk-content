@@ -47,9 +47,9 @@
 
 ## Материалы для изучения
 
-- «[Справочник Оборудование → Порядок изменения настроек](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/spravochnik-oborudovanie#порядок-изменения-настроек)» – как выключить оборудование, изменить параметры и включить его снова.
+- «[Справочник Оборудование → Порядок изменения настроек](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/spravochnik-oborudovanie#poryadok-izmeneniya-nastroek)» – как выключить оборудование, изменить параметры и включить его снова.
 - «[Подключение сканера штрихкодов](https://kb.5systems.ru/articles/5s-auto/torgovoe-oborudovanie/podklyuchenie-skanera-shtrikhkodov)» – подключение сканера через COM-порт и клавиатурного сканера.
-- «[Операции с кодами маркировки → Сканирование кодов маркировки в документе](https://kb.5systems.ru/articles/5s-auto/markirovka/operacii-s-kodami-markirovki#2-сканирование-кодов-маркировки-в-документе)» – сверка отсканированных кодов с кодами поставщика в поступлении товаров.
+- «[Операции с кодами маркировки → Сканирование кодов маркировки в документе](https://kb.5systems.ru/articles/5s-auto/markirovka/operacii-s-kodami-markirovki#2-skanirovanie-kodov-markirovki-v-dokumente)» – сверка отсканированных кодов с кодами поставщика в поступлении товаров.
 
 ## Похожие вопросы
 
