@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:43:03+03:00",
+  "generated_at": "2026-11-10T09:50:12+03:00",
   "count": 676,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Автосервис/Не получается снять резерв, из-за которого не закрывается заказ-наряд",
       "file": "ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya.md",
       "id": "ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya",
-      "sha": "636e83403cdbc68080433109c6b18a7e630cae38",
+      "sha": "cc58a531d1beecf82f543ec2a16f5ef2208c4ba4",
       "title": "Не получается снять резерв, из-за которого не закрывается заказ-наряд",
       "type": "tips",
       "order": 0,
@@ -1974,7 +1974,7 @@
       "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд из-за заказанных деталей",
       "file": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley.md",
       "id": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley",
-      "sha": "2ab6b76263d91f5744eb08757db67636822e606e",
+      "sha": "20c7344d0e3aa6aaa81146745d738acd3631d484",
       "title": "Не закрывается заказ-наряд из-за заказанных деталей",
       "type": "tips",
       "order": 0,
