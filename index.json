@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T11:22:18+03:00",
-  "count": 677,
+  "generated_at": "2026-11-10T11:43:25+03:00",
+  "count": 676,
   "sections": {
     "tips": [
       {
@@ -818,24 +818,6 @@
   },
   "materials": [
     {
-      "path": "tips/5S AUTO/Касса/Как принять предоплату по реализации товаров",
-      "file": "kak-prinyat-predoplatu-po-realizacii-tovarov.md",
-      "id": "kak-prinyat-predoplatu-po-realizacii-tovarov",
-      "sha": "bdc99137c3315d2365f854c70bab0b8597abb321",
-      "title": "Как принять предоплату по реализации товаров",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-11-10",
-      "date_kind": "created",
-      "added_at": "2026-11-10T11:20:45+03:00",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "kind": "created"
-        }
-      ]
-    },
-    {
       "path": "tips/5S AUTO/Автосервис/Не получается снять резерв, из-за которого не закрывается заказ-наряд",
       "file": "ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya.md",
       "id": "ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya",
@@ -1067,7 +1049,7 @@
       "path": "tips/5S AUTO/Касса/Не получается принять частичную оплату в реализации",
       "file": "ne-poluchaetsya-prinyat-chastichnuyu-oplatu-v-realizacii.md",
       "id": "ne-poluchaetsya-prinyat-chastichnuyu-oplatu-v-realizacii",
-      "sha": "b1a8d1e7b0d363b2d16977e5d90d0529fece2102",
+      "sha": "d80542834d0d6d155b847ccac5ca10bba24c26d6",
       "title": "Не получается принять частичную оплату в реализации",
       "type": "tips",
       "order": 0,
