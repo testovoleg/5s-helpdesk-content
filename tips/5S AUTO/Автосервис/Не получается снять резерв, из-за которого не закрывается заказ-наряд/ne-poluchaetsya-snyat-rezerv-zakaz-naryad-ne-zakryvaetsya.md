@@ -1,6 +1,8 @@
 # Не получается снять резерв, из-за которого не закрывается заказ-наряд
 
-<table><tr><td><b>Обновлено:</b> 09.11.2026</td></tr></table>
+<table><tr><td><b>Создано:</b> 10.11.2026</td></tr></table>
+
+###### *Опубликовано 10.11.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya](https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya)*
 
 ## Проблема
 
