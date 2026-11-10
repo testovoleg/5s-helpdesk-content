@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T09:28:45+03:00",
-  "count": 670,
+  "generated_at": "2026-11-10T10:03:38+03:00",
+  "count": 671,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Автосервис/Не получается снять резерв, из-за которого не закрывается заказ-наряд",
+      "file": "ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya.md",
+      "id": "ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya",
+      "sha": "f84b7eaf7de24dd92dcf803dc27ae6b15f037c76",
+      "title": "Не получается снять резерв, из-за которого не закрывается заказ-наряд",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-10",
+      "date_kind": "created",
+      "added_at": "2026-11-10T09:54:12+03:00",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/Оборудование/Сканеры штрихкодов/Маркировка не распознана при сканировании",
       "file": "markirovka-ne-raspoznana-pri-skanirovanii.md",
@@ -1852,17 +1870,21 @@
       "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд из-за заказанных деталей",
       "file": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley.md",
       "id": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley",
-      "sha": "194c0f0a48acdaaac83fb078c498e9e23097656f",
+      "sha": "4bcbd2591d334d09115a313ea9609ad23305bb49",
       "title": "Не закрывается заказ-наряд из-за заказанных деталей",
       "type": "tips",
       "order": 0,
-      "updated_at": "2026-09-23",
-      "date_kind": "created",
+      "updated_at": "2026-11-10",
+      "date_kind": "updated",
       "added_at": "2026-09-23T09:15:07+03:00",
       "history": [
         {
           "date": "2026-09-23",
           "kind": "created"
+        },
+        {
+          "date": "2026-11-10",
+          "kind": "updated"
         }
       ]
     },
@@ -2091,12 +2113,16 @@
       "title": "Тест по новому функционалу на 05.2025",
       "type": "lessons",
       "order": 6,
-      "updated_at": "2026-09-15T10:55:57+03:00",
+      "updated_at": "2026-11-06T11:25:18+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "history": [
         {
           "date": "2026-09-15",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-06",
           "kind": "updated"
         }
       ],
@@ -2129,12 +2155,16 @@
       "title": "Тест по новому функционалу на 08.2024",
       "type": "lessons",
       "order": 5,
-      "updated_at": "2026-09-16T10:05:02+03:00",
+      "updated_at": "2026-11-06T11:25:18+03:00",
       "date_kind": "updated",
       "added_at": "2026-09-14T15:10:14+03:00",
       "history": [
         {
           "date": "2026-09-16",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-06",
           "kind": "updated"
         }
       ],
