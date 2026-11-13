@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:02:38+03:00",
+  "generated_at": "2026-11-13T16:03:43+03:00",
   "count": 676,
   "sections": {
     "tips": [
@@ -7818,7 +7818,7 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Поиск и замена дублирующихся записей",
       "file": "poisk-i-zamena-dubliruyuschikhsya-zapisey.md",
       "id": "poisk-i-zamena-dubliruyuschikhsya-zapisey",
-      "sha": "23f85c8fa71c9e85621b78fc35becccdaccfdab3",
+      "sha": "c8862829b54733028fde1f36a8f442a4a0835f2f",
       "title": "Поиск и замена дублирующихся записей",
       "type": "articles",
       "order": 7,
