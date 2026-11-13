@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:44:07+03:00",
+  "generated_at": "2026-11-13T11:41:32+03:00",
   "count": 676,
   "sections": {
     "tips": [
@@ -1141,17 +1141,21 @@
       "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки в разрешительном режиме",
       "file": "ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime.md",
       "id": "ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime",
-      "sha": "2eef4bda55ef09880b00b3cf9d3bc28e5939a6ec",
+      "sha": "d042a70e73c9c93da87ef33886a7b28304c00192",
       "title": "Не проходит проверка кода маркировки в разрешительном режиме",
       "type": "tips",
       "order": 6,
-      "updated_at": "2026-10-21",
-      "date_kind": "created",
+      "updated_at": "2026-11-13",
+      "date_kind": "updated",
       "added_at": "2026-10-21T12:54:05+03:00",
       "history": [
         {
           "date": "2026-10-21",
           "kind": "created"
+        },
+        {
+          "date": "2026-11-13",
+          "kind": "updated"
         }
       ]
     },
