@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Создано:</b> 05.11.2026</td></tr></table>
 
-###### *Опубликовано 05.11.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak)*
-
 ## Проблема
 
 При работе с кодами маркировки в документе – например, при проверке статуса кодов кнопкой **«Обновить информацию»** в окне **«Коды маркировки»** документа **«Вывод из оборота»** – появляется сообщение программы:

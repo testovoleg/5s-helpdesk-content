@@ -2,10 +2,6 @@
 
 <table><tr><td><b>Обновлено:</b> 24.06.2022</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/paketnye-predlozheniya</sub>
-
-###### *Опубликовано 09.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/paketnye-predlozheniya](https://kb.5systems.ru/tips/5s-auto/praktiki/paketnye-predlozheniya)*
-
 ## Вопрос
 
 Как настроить пакетные предложения, чтобы продавать набор работ и запчастей по единой цене?

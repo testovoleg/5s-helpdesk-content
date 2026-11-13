@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Обновлено:</b> 05.11.2026</td></tr></table>
 
-###### *Опубликовано 03.11.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/problema-s-licenziey-udalennyh-rabochih-stolov](https://kb.5systems.ru/tips/tekhpodderzhka/problema-s-licenziey-udalennyh-rabochih-stolov)*
-
 ## Проблема
 
 При [подключении к удаленному рабочему столу](../../../lessons/Интерфейс%20программы/Как%20зайти%20в%20программу/kak-zayti-v-programmu.md#2-подключение-к-удаленному-рабочему-столу-по-rdp) появляется окно Windows:

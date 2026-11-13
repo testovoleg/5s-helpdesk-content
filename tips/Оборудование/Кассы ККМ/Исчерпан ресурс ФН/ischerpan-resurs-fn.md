@@ -2,10 +2,6 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>Источник: https://www.5systems.ru/help/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy</sub>
-
-###### *Опубликовано 29.07.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/ischerpan-resurs-fn](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/ischerpan-resurs-fn)*
-
 ## Проблема
 
 Выходит ошибка «Исчерпан ресурс ФН», чек не пробивается.

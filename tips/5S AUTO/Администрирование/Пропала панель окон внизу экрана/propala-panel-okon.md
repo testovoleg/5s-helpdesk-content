@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Создано:</b> 05.11.2026</td></tr></table>
 
-###### *Опубликовано 05.11.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/propala-panel-okon](https://kb.5systems.ru/tips/5s-auto/administrirovanie/propala-panel-okon)*
-
 ## Проблема
 
 Внизу экрана больше не отображаются открытые и свернутые окна – заказ-наряды, отчеты, справочники и т. д. Переключаться между ними и разворачивать свернутые окна стало неудобно (как должно быть – см. [ниже](#rezultat)).
