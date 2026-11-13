@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T13:37:26+03:00",
+  "generated_at": "2026-11-13T13:53:35+03:00",
   "count": 676,
   "sections": {
     "tips": [
@@ -13645,7 +13645,7 @@
       "path": "tips/5S AUTO/Автосервис/Как пополнить баланс для расшифровки авто в ГИБДД",
       "file": "kak-popolnit-balans-dlya-rasshifrovki-avto.md",
       "id": "kak-popolnit-balans-dlya-rasshifrovki-avto",
-      "sha": "64913e8dfd743d9d3ea485f1c5ebb076dbdb1a89",
+      "sha": "ba0a2c0dac9411062aa0d95f6267f9693728784e",
       "title": "Как пополнить баланс для расшифровки авто в ГИБДД?",
       "type": "tips",
       "order": 0,
@@ -14384,7 +14384,7 @@
       "path": "tips/5S AUTO/CRM/Как посмотреть количество уникальных клиентов, обратившихся за период",
       "file": "kak-posmotret-kolichestvo-unikalnyh-klientov.md",
       "id": "kak-posmotret-kolichestvo-unikalnyh-klientov",
-      "sha": "8728ddcdf7277a8945c0f3ea20fc04d794c91ee1",
+      "sha": "fbb5b6e18ca4b3d6c74a8304731bd345d7d62ed8",
       "title": "Как посмотреть количество уникальных клиентов, обратившихся за период",
       "type": "tips",
       "order": 0,

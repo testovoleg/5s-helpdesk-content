@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22742 (BTG-71399)</sub>
+
 ###### *Опубликовано 21.08.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-popolnit-balans-dlya-rasshifrovki-avto](https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-popolnit-balans-dlya-rasshifrovki-avto)*
 
 ## Вопрос

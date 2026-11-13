@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 16.09.2026</td></tr></table>
 
-<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22672 (FPW-43848)</sub>
+<sub>Тикеты: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22672 (FPW-43848), https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22698 (BYL-93080)</sub>
 
 ###### *Опубликовано 31.07.2026: [https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-kolichestvo-unikalnyh-klientov](https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-kolichestvo-unikalnyh-klientov)*
 
