@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:37:06+03:00",
+  "generated_at": "2026-11-13T09:43:44+03:00",
   "count": 676,
   "sections": {
     "tips": [
@@ -977,7 +977,7 @@
       "path": "tips/5S AUTO/CRM/Где указать куратора контрагента",
       "file": "gde-ukazat-kuratora-kontragenta.md",
       "id": "gde-ukazat-kuratora-kontragenta",
-      "sha": "ae60a65d14d8f89ee72634ad187ac337b2246f4e",
+      "sha": "d742b820b56955ea9a27e20c606163d5da694458",
       "title": "Где указать куратора контрагента",
       "type": "tips",
       "order": 0,
@@ -12966,7 +12966,7 @@
       "path": "articles/5S AUTO/Работа с клиентами/Умная маршрутизация входящего звонка",
       "file": "umnaya-marshrutizaciya-vkhodyaschego-zvonka.md",
       "id": "umnaya-marshrutizaciya-vkhodyaschego-zvonka",
-      "sha": "dc324ab3f122c31dd54bbb9198476ab8a9d70f72",
+      "sha": "f15da39145bfd0921343b5f8bc7a38ef592956c3",
       "title": "Умная маршрутизация входящего звонка",
       "type": "articles",
       "order": 6,
