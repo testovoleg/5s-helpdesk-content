@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+<sub>Тикет 22690: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22690</sub>
+
+###### *Опубликовано 29.07.2026: [https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-avtorizacii-kod-9-dual-connector-service](https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-avtorizacii-kod-9-dual-connector-service)*
+
 ## Проблема
 
 При попытке принять оплату картой выходит ошибка кассы:

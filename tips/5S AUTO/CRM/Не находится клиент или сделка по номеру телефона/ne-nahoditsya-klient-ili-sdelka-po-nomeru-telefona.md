@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+<sub>Тикет 22936: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22936</sub>
+
+###### *Опубликовано 19.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-nahoditsya-klient-ili-sdelka-po-nomeru-telefona](https://kb.5systems.ru/tips/5s-auto/crm/ne-nahoditsya-klient-ili-sdelka-po-nomeru-telefona)*
+
 ## Проблема
 
 При поиске сделки на рабочем столе по номеру телефона (или другим параметрам) программа отвечает **«Ничего не нашли...»** (или выдает похожие результаты, но не находит нужный) — хотя сделка с этим номером есть и открывается вручную.

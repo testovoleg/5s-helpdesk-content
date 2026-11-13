@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Обновлено:</b> 06.02.2025</td></tr></table>
 
+<sub>Источник: https://www.5systems.ru/help/osobennosti-realizacii-podakciznykh-tovarov</sub>
+
+###### *Опубликовано 09.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/osobennosti-realizacii-podakciznykh-tovarov](https://kb.5systems.ru/tips/5s-auto/praktiki/osobennosti-realizacii-podakciznykh-tovarov)*
+
 *Статья редактируется*
 
 ## Вопрос

@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Создано:</b> 17.09.2026</td></tr></table>
 
+<sub>Тикет 22962: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22962</sub>
+
+###### *Опубликовано 17.09.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/propala-vkladka-ostatki-po-yacheykam](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/propala-vkladka-ostatki-po-yacheykam)*
+
 ## Проблема
 
 После загрузки нового релиза в справочнике «Номенклатура» пропала вкладка панели информации **«Остатки по ячейкам»**, на которой было видно, сколько товара в какой ячейке хранения находится. Можно ли вернуть этот функционал?

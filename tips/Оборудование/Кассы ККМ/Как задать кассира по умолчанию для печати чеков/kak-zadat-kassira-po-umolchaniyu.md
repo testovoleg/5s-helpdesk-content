@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Обновлено:</b> 16.09.2026</td></tr></table>
 
+<sub>Тикет 22714: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22714</sub>
+
+###### *Опубликовано 21.08.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/kak-zadat-kassira-po-umolchaniyu](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/kak-zadat-kassira-po-umolchaniyu)*
+
 ## Вопрос
 
 В чеках по подразделению нужно печатать одного и того же сотрудника. Сейчас подставляется тот пользователь, который работает в программе, а требуется, чтобы кассир всегда был один.

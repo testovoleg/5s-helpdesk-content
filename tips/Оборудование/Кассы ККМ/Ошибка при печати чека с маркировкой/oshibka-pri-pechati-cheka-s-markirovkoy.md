@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+<sub>Источник: https://www.5systems.ru/help/reshenie-rasprostranennykh-oshibok-pri-rabote-s-kassoy</sub>
+
+###### *Опубликовано 29.07.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/oshibka-pri-pechati-cheka-s-markirovkoy](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/oshibka-pri-pechati-cheka-s-markirovkoy)*
+
 ## Проблема
 
 При печати чека с маркированным товаром выходит ошибка.

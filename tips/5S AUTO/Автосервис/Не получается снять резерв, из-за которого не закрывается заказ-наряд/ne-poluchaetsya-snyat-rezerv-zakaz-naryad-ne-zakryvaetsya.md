@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Создано:</b> 10.11.2026</td></tr></table>
 
+<sub>Тикет 23227: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23227</sub>
+
+###### *Опубликовано 10.11.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya](https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya)*
+
 ## Проблема
 
 Заказ-наряд не переводится в состояние «Выполнен»: проведение прерывается, а в служебных сообщениях программа пишет, что по заказ-наряду существуют заказанные или зарезервированные детали, и просит произвести корректировку или снятие резервов. При этом самой детали в заказ-наряде уже нет – она осталась только в заказе покупателя:

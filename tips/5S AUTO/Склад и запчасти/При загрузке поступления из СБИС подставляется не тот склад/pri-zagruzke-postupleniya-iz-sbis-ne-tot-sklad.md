@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Создано:</b> 25.09.2026</td></tr></table>
 
+<sub>Тикет 22610: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22610</sub>
+
+###### *Опубликовано 25.09.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/pri-zagruzke-postupleniya-iz-sbis-ne-tot-sklad)*
+
 ## Проблема
 
 При загрузке документов «Поступление товаров» из СБИС (Saby) в документ подставляется не тот склад, который нужен.

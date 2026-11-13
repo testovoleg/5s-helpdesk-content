@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+<sub>Тикет 21396: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/21396</sub>
+
+###### *Опубликовано 13.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/ne-kopiruyutsya-dannye-iz-1s-bufer-obmena-pust](https://kb.5systems.ru/tips/tekhpodderzhka/ne-kopiruyutsya-dannye-iz-1s-bufer-obmena-pust)*
+
 ## Проблема
 
 Не работают сочетания клавиш Ctrl+C и Ctrl+V: данные не копируются ни из 1С, ни в обратную сторону, буфер обмена всегда пуст. Например, не удается скопировать пароль от почтового ящика, чтобы указать его в настройках почтовой программы для загрузки накладных.

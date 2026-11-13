@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Создано:</b> 17.09.2026</td></tr></table>
 
+<sub>Тикет 22807: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22807</sub>
+
+###### *Опубликовано 17.09.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-dobavit-obrabotku-drugim-polzovatelyam](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-dobavit-obrabotku-drugim-polzovatelyam)*
+
 ## Проблема
 
 Обработка для работы с внешним сервисом (например, «API Честный Знак» или «СБИС») есть на рабочем столе только у одного пользователя. Нужно, чтобы она была доступна и другим сотрудникам или всем пользователям подразделения.

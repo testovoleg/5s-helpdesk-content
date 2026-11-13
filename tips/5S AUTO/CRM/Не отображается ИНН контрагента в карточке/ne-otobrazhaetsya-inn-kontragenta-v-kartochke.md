@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+<sub>Тикет 22992: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22992</sub>
+
+###### *Опубликовано 20.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-otobrazhaetsya-inn-kontragenta-v-kartochke](https://kb.5systems.ru/tips/5s-auto/crm/ne-otobrazhaetsya-inn-kontragenta-v-kartochke)*
+
 ## Проблема
 
 В карточке [контрагента](../../../../articles/5S%20AUTO/Работа%20с%20клиентами/Контрагенты%20и%20контакты/kontragenty-i-kontakty.md) поле **«ИНН»** пустое, хотя ИНН у него заполнен: если вывести в справочнике колонку **«ИНН»**, значение в ней есть.

@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Создано:</b> 09.11.2026</td></tr></table>
 
+<sub>Тикет 23193: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23193</sub>
+
+###### *Опубликовано 09.11.2026: [https://kb.5systems.ru/tips/oborudovanie/skanery-shtrikhkodov/markirovka-ne-raspoznana-pri-skanirovanii](https://kb.5systems.ru/tips/oborudovanie/skanery-shtrikhkodov/markirovka-ne-raspoznana-pri-skanirovanii)*
+
 ## Проблема
 
 При сканировании кодов маркировки в документе «Поступление товаров» отсканированный код не сопоставляется с кодом, полученным от поставщика по ЭДО. Проблема может проявляться по-разному.

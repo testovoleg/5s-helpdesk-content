@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Обновлено:</b> 16.06.2022</td></tr></table>
 
+<sub>Источник: https://www.5systems.ru/help/osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami</sub>
+
+###### *Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami](https://kb.5systems.ru/tips/5s-auto/praktiki/osobennosti-nastroyki-dlya-kompaniy-s-neskolkimi-podrazdeleniyami)*
+
 ## Вопрос
 
 Какие права и настройки нужны компании с несколькими подразделениями, чтобы сотрудники работали только с данными своего подразделения?

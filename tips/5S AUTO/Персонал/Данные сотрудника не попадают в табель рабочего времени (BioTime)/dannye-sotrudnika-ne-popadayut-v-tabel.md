@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
+<sub>Тикет 22955: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22955</sub>
+
+###### *Опубликовано 19.08.2026: [https://kb.5systems.ru/tips/5s-auto/personal/dannye-sotrudnika-ne-popadayut-v-tabel](https://kb.5systems.ru/tips/5s-auto/personal/dannye-sotrudnika-ne-popadayut-v-tabel)*
+
 ## Проблема
 
 По сотруднику не заполняется табель рабочего времени, хотя отметки о проходах в BioTime есть.

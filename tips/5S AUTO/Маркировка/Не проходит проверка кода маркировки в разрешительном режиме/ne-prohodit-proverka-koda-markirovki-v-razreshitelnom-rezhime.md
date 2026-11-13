@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Создано:</b> 21.10.2026</td></tr></table>
 
+###### *Опубликовано 21.10.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime)*
+
 ## Проблема
 
 При пробитии чека с маркированным товаром код маркировки не проходит проверку в разрешительном режиме. В форме «Проверка кодов маркировки» в колонке «Состояние проверки» (проверка на ККТ) стоит «Выполнена», а в колонке «Состояние проверки разрешительного режима» – «Не проверено»:

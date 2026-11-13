@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Создано:</b> 23.09.2026</td></tr></table>
 
+<sub>Тикет 23058: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23058</sub>
+
+###### *Опубликовано 23.09.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-masteru-konsultantu-videt-sdelki-smenshchika](https://kb.5systems.ru/tips/5s-auto/avtoservis/kak-masteru-konsultantu-videt-sdelki-smenshchika)*
+
 ## Вопрос
 
 Как сделать, чтобы мастер-консультант видел свои сделки и сделки своего сменщика? Можно ли указать в отборе сделок по менеджеру два значения?
