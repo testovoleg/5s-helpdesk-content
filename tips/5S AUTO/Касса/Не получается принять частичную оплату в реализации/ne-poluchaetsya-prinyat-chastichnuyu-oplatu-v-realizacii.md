@@ -2,8 +2,6 @@
 
 <table><tr><td><b>Обновлено:</b> 10.11.2026</td></tr></table>
 
-<sub>Источник: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23244, https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23299</sub>
-
 <sub>Тикеты:</sub>
 
 - <sub>ZBF-60185: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23124</sub>
