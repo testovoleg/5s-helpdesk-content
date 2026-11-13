@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 09.11.2026</td></tr></table>
 
-<sub>Тикет ELW-71048: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23193</sub>
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23193 (ELW-71048)</sub>
 
 ###### *Опубликовано 09.11.2026: [https://kb.5systems.ru/tips/oborudovanie/skanery-shtrikhkodov/markirovka-ne-raspoznana-pri-skanirovanii](https://kb.5systems.ru/tips/oborudovanie/skanery-shtrikhkodov/markirovka-ne-raspoznana-pri-skanirovanii)*
 

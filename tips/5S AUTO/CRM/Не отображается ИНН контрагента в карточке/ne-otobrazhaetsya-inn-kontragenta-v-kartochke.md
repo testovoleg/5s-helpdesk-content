@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>Тикет MXR-65383: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22992</sub>
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22992 (MXR-65383)</sub>
 
 ###### *Опубликовано 20.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-otobrazhaetsya-inn-kontragenta-v-kartochke](https://kb.5systems.ru/tips/5s-auto/crm/ne-otobrazhaetsya-inn-kontragenta-v-kartochke)*
 

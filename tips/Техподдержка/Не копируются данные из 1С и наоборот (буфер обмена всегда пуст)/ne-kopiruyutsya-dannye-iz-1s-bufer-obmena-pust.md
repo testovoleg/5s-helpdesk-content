@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>Тикет BYD-16343: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/21396</sub>
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/21396 (BYD-16343)</sub>
 
 ###### *Опубликовано 13.08.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/ne-kopiruyutsya-dannye-iz-1s-bufer-obmena-pust](https://kb.5systems.ru/tips/tekhpodderzhka/ne-kopiruyutsya-dannye-iz-1s-bufer-obmena-pust)*
 

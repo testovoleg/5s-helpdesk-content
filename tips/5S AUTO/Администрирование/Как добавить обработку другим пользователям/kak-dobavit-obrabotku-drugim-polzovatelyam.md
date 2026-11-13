@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 17.09.2026</td></tr></table>
 
-<sub>Тикет EOR-50709: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22807</sub>
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22807 (EOR-50709)</sub>
 
 ###### *Опубликовано 17.09.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-dobavit-obrabotku-drugim-polzovatelyam](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-dobavit-obrabotku-drugim-polzovatelyam)*
 

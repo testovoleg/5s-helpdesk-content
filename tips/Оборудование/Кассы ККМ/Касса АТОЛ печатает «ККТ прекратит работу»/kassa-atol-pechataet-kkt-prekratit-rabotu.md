@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 30.10.2026</td></tr></table>
 
-<sub>Тикет QVJ-92780: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23172</sub>
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23172 (QVJ-92780)</sub>
 
 ###### *Опубликовано 30.10.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/kassa-atol-pechataet-kkt-prekratit-rabotu](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/kassa-atol-pechataet-kkt-prekratit-rabotu)*
 

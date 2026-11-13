@@ -2,11 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 10.11.2026</td></tr></table>
 
-<sub>Тикеты:</sub>
-
-- <sub>ZBF-60185: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23124</sub>
-- <sub>MTU-02976: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23244</sub>
-- <sub>TZX-92274: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23299</sub>
+<sub>Тикеты: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23124 (ZBF-60185), https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23244 (MTU-02976), https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23299 (TZX-92274)</sub>
 
 > 🛠 Комментарий для черновика: *Совет дополнен по тикетам 23244 и 23299 («Рассрочка», «Частичная оплата»): добавлены 2 варианта решения от техподдержки, цепочка документов с зачетом аванса и скриншоты «Проблема_70».*
 

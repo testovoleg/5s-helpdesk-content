@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 26.10.2026</td></tr></table>
 
-<sub>Тикет TEG-65943: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23118</sub>
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23118 (TEG-65943)</sub>
 
 ###### *Опубликовано 26.10.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/tovar-spisalsya-v-proizvodstvo-po-drugoy-sebestoimosti](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/tovar-spisalsya-v-proizvodstvo-po-drugoy-sebestoimosti)*
 

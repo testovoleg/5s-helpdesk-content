@@ -2,10 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 23.09.2026</td></tr></table>
 
-<sub>Тикеты:</sub>
-
-- <sub>ANE-75063: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23055</sub>
-- <sub>EGQ-16132: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23227</sub>
+<sub>Тикеты: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23055 (ANE-75063), https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23227 (EGQ-16132)</sub>
 
 ###### *Опубликовано 23.09.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley](https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley)*
 

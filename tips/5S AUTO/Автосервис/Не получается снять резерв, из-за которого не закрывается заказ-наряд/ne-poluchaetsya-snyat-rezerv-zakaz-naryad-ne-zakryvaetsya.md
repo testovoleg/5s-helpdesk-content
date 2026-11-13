@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 10.11.2026</td></tr></table>
 
-<sub>Тикет EGQ-16132: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23227</sub>
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23227 (EGQ-16132)</sub>
 
 ###### *Опубликовано 10.11.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya](https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya)*
 

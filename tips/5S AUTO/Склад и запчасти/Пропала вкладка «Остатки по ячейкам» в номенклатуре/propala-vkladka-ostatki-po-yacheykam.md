@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 17.09.2026</td></tr></table>
 
-<sub>Тикет QRO-63819: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22962</sub>
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22962 (QRO-63819)</sub>
 
 ###### *Опубликовано 17.09.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/propala-vkladka-ostatki-po-yacheykam](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/propala-vkladka-ostatki-po-yacheykam)*
 

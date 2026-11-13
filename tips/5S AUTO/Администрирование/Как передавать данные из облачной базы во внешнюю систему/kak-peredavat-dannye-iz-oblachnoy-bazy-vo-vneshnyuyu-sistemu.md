@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 27.10.2026</td></tr></table>
 
-<sub>Тикет NPM-11165: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22803</sub>
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22803 (NPM-11165)</sub>
 
 ## Вопрос
 

@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>Тикет ESM-55887: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22840</sub>
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22840 (ESM-55887)</sub>
 
 ###### *Опубликовано 14.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-otkryvaetsya-planirovshchik-arm-zapis-na-remont](https://kb.5systems.ru/tips/5s-auto/crm/ne-otkryvaetsya-planirovshchik-arm-zapis-na-remont)*
 

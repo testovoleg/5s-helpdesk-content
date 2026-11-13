@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>Тикет IPM-88423: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22763</sub>
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22763 (IPM-88423)</sub>
 
 ###### *Опубликовано 21.08.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-zadat-sklad-po-umolchaniyu](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-zadat-sklad-po-umolchaniyu)*
 

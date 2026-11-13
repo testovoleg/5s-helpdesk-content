@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 22.09.2026</td></tr></table>
 
-<sub>Тикет UJM-59454: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22902</sub>
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22902 (UJM-59454)</sub>
 
 ###### *Опубликовано 22.09.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/ne-provoditsya-dokument-s-markirovannym-tovarom](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-provoditsya-dokument-s-markirovannym-tovarom)*
 

@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 06.11.2026</td></tr></table>
 
-<sub>Тикет IFZ-73882: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23238</sub>
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23238 (IFZ-73882)</sub>
 
 ###### *Опубликовано 06.11.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-udalos-provesti-rashodnyy-skladskoy-order](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-udalos-provesti-rashodnyy-skladskoy-order)*
 

@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 21.09.2026</td></tr></table>
 
-<sub>Тикет RFC-63762: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23570</sub>
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23570 (RFC-63762)</sub>
 
 ###### *Опубликовано 21.09.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-zapretit-sotrudnikam-redaktirovat-otdelnye-avtoraboty)*
 
