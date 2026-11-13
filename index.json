@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:40:25+03:00",
+  "generated_at": "2026-11-13T16:48:19+03:00",
   "count": 677,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Маркировка/Ошибка 22109 Код маркировки не прошел проверку на сервере (ОИСМ)",
       "file": "oshibka-22109-kod-markirovki-ne-proshel-proverku-na-servere.md",
       "id": "oshibka-22109-kod-markirovki-ne-proshel-proverku-na-servere",
-      "sha": "fc62e034471f25bfa922b5d154cae914f1db3cfa",
+      "sha": "7055707e7cfa959cb0646de89567214dd2285345",
       "title": "Ошибка 22109: код маркировки не прошел проверку на сервере (ОИСМ)",
       "type": "tips",
       "order": 7,
