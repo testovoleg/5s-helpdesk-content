@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>Тикет 22919: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22919</sub>
+<sub>Тикет QAM-51184: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22919</sub>
 
 ###### *Опубликовано 18.08.2026: [https://kb.5systems.ru/tips/5s-auto/kassa/pri-zakrytii-smeny-sozdayutsya-novye-dogovory](https://kb.5systems.ru/tips/5s-auto/kassa/pri-zakrytii-smeny-sozdayutsya-novye-dogovory)*
 

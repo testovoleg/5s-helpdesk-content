@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>Тикет 22866: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22866</sub>
+<sub>Тикет VIK-59911: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22866</sub>
 
 ###### *Опубликовано 11.08.2026: [https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-4001-pri-zakrytii-kassovoy-smeny](https://kb.5systems.ru/tips/oborudovanie/bankovskie-terminaly/oshibka-4001-pri-zakrytii-kassovoy-smeny)*
 

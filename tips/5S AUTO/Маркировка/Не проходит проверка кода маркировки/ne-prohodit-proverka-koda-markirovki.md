@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 24.09.2026</td></tr></table>
 
-<sub>Тикет 23142: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23142</sub>
+<sub>Тикет JUH-87989: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23142</sub>
 
 ###### *Опубликовано 24.09.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/ne-prohodit-proverka-koda-markirovki](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-prohodit-proverka-koda-markirovki)*
 

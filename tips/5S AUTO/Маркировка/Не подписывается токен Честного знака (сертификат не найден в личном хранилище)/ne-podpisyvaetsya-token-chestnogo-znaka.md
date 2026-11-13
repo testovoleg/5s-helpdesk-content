@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 05.11.2026</td></tr></table>
 
-<sub>Тикет 23214: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23214</sub>
+<sub>Тикет HYV-98282: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23214</sub>
 
 ###### *Опубликовано 03.11.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/ne-podpisyvaetsya-token-chestnogo-znaka](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-podpisyvaetsya-token-chestnogo-znaka)*
 

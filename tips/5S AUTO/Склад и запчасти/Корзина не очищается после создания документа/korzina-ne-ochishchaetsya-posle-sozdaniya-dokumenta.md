@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>Тикет 22982: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22982</sub>
+<sub>Тикет RUQ-02891: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22982</sub>
 
 ###### *Опубликовано 19.08.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/korzina-ne-ochishchaetsya-posle-sozdaniya-dokumenta](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/korzina-ne-ochishchaetsya-posle-sozdaniya-dokumenta)*
 

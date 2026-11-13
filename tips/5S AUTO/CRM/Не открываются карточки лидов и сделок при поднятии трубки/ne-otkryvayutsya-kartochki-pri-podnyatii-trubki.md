@@ -2,7 +2,10 @@
 
 <table><tr><td><b>Обновлено:</b> 02.11.2026</td></tr></table>
 
-<sub>Тикеты 22905, 23154: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22905, https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23154</sub>
+<sub>Тикеты:</sub>
+
+- <sub>PQG-59012: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22905</sub>
+- <sub>UNG-95360: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23154</sub>
 
 ###### *Опубликовано 18.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-otkryvayutsya-kartochki-pri-podnyatii-trubki](https://kb.5systems.ru/tips/5s-auto/crm/ne-otkryvayutsya-kartochki-pri-podnyatii-trubki)*
 

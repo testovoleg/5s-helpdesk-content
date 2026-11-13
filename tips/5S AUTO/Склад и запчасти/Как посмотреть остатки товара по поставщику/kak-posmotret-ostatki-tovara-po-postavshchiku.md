@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>Тикет 22703: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22703</sub>
+<sub>Тикет AOI-13765: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22703</sub>
 
 ###### *Опубликовано 20.08.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-posmotret-ostatki-tovara-po-postavshchiku](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-posmotret-ostatki-tovara-po-postavshchiku)*
 

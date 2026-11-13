@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 05.11.2026</td></tr></table>
 
-<sub>Тикет 23237: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23237</sub>
+<sub>Тикет RFA-68547: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23237</sub>
 
 ###### *Опубликовано 05.11.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak)*
 

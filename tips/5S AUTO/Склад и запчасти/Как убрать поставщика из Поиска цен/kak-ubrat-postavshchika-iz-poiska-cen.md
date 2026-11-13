@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 30.10.2026</td></tr></table>
 
-<sub>Тикет 23179: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23179</sub>
+<sub>Тикет VCX-08694: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23179</sub>
 
 ###### *Опубликовано 30.10.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-ubrat-postavshchika-iz-poiska-cen](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/kak-ubrat-postavshchika-iz-poiska-cen)*
 

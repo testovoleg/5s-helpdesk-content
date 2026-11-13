@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>Тикет 20834: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/20834</sub>
+<sub>Тикет PLL-49619: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/20834</sub>
 
 ###### *Опубликовано 13.08.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/zakaz-naryad-s-markirovkoy-ne-perevoditsya-v-vypolnen](https://kb.5systems.ru/tips/5s-auto/markirovka/zakaz-naryad-s-markirovkoy-ne-perevoditsya-v-vypolnen)*
 

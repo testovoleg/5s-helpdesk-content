@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 26.10.2026</td></tr></table>
 
-<sub>Тикет 23091: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23091</sub>
+<sub>Тикет BJQ-43811: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23091</sub>
 
 ###### *Опубликовано 26.10.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary)*
 

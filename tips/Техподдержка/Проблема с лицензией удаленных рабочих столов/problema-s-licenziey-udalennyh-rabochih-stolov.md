@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 05.11.2026</td></tr></table>
 
-<sub>Тикет 23159: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23159</sub>
+<sub>Тикет EZO-41821: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23159</sub>
 
 ###### *Опубликовано 03.11.2026: [https://kb.5systems.ru/tips/tekhpodderzhka/problema-s-licenziey-udalennyh-rabochih-stolov](https://kb.5systems.ru/tips/tekhpodderzhka/problema-s-licenziey-udalennyh-rabochih-stolov)*
 

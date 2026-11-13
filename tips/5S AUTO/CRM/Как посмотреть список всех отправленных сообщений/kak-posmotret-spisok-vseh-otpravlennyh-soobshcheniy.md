@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Обновлено:</b> 24.08.2026</td></tr></table>
 
-<sub>Тикет 22912: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22912</sub>
+<sub>Тикет HMO-62610: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22912</sub>
 
 ###### *Опубликовано 24.08.2026: [https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-spisok-vseh-otpravlennyh-soobshcheniy](https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-spisok-vseh-otpravlennyh-soobshcheniy)*
 

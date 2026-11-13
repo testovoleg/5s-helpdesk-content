@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 30.10.2026</td></tr></table>
 
-<sub>Тикет 23202: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23202</sub>
+<sub>Тикет QJA-71890: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23202</sub>
 
 ###### *Опубликовано 30.10.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-skryt-lishnyuyu-pechatnuyu-formu-v-spiske](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-skryt-lishnyuyu-pechatnuyu-formu-v-spiske)*
 

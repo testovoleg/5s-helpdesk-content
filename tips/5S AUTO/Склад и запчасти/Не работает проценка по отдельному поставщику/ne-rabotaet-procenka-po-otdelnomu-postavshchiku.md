@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 16.09.2026</td></tr></table>
 
-<sub>Тикет 22593: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22593</sub>
+<sub>Тикет CXH-43648: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22593</sub>
 
 ###### *Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-rabotaet-procenka-po-otdelnomu-postavshchiku](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-rabotaet-procenka-po-otdelnomu-postavshchiku)*
 

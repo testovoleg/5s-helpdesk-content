@@ -2,7 +2,7 @@
 
 <table><tr><td><b>Создано:</b> 05.11.2026</td></tr></table>
 
-<sub>Тикет 23241: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23241</sub>
+<sub>Тикет YUG-18967: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23241</sub>
 
 ###### *Опубликовано 05.11.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/propala-panel-okon](https://kb.5systems.ru/tips/5s-auto/administrirovanie/propala-panel-okon)*
 
