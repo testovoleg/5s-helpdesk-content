@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:43:44+03:00",
+  "generated_at": "2026-11-13T09:44:07+03:00",
   "count": 676,
   "sections": {
     "tips": [
@@ -12966,11 +12966,11 @@
       "path": "articles/5S AUTO/Работа с клиентами/Умная маршрутизация входящего звонка",
       "file": "umnaya-marshrutizaciya-vkhodyaschego-zvonka.md",
       "id": "umnaya-marshrutizaciya-vkhodyaschego-zvonka",
-      "sha": "f15da39145bfd0921343b5f8bc7a38ef592956c3",
+      "sha": "a2c0174a1006a2036d23e0e76453c703a4fdbde5",
       "title": "Умная маршрутизация входящего звонка",
       "type": "articles",
       "order": 6,
-      "updated_at": "2026-03-31",
+      "updated_at": "2026-11-13",
       "date_kind": "updated",
       "added_at": "2026-08-27T13:50:59+03:00",
       "history": [
@@ -12980,6 +12980,10 @@
         },
         {
           "date": "2026-03-31",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-13",
           "kind": "updated"
         }
       ],
