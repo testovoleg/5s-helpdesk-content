@@ -1,8 +1,10 @@
 # Как сохранить документ в формате XML
 
-<table><tr><td><b>Обновлено:</b> 16.11.2026</td></tr></table>
+<table><tr><td><b>Создано:</b> 16.11.2026</td></tr></table>
 
 <sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23299 (TZX-92274)</sub>
+
+###### *Опубликовано 16.11.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-sohranit-dokument-v-formate-xml](https://kb.5systems.ru/tips/5s-auto/administrirovanie/kak-sohranit-dokument-v-formate-xml)*
 
 > 🛠 Комментарий для черновика: *Обработка сохраняет XML в формате обмена с 1С:Бухгалтерией, а не в формате ФНС (УПД и т. п.). Клиенту из тикета для ЭДО подошло, но примет ли такой файл любой оператор ЭДО – уточнить у коллег.*
 

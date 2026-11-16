@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T09:08:28+03:00",
+  "generated_at": "2026-11-16T09:59:52+03:00",
   "count": 678,
   "sections": {
     "tips": [
@@ -821,17 +821,17 @@
       "path": "tips/5S AUTO/Администрирование/Как сохранить документ в формате XML",
       "file": "kak-sohranit-dokument-v-formate-xml.md",
       "id": "kak-sohranit-dokument-v-formate-xml",
-      "sha": "1f01fa7c7d03117b3b4bd7a618422a5d390e4d7d",
+      "sha": "1db8d4be6b12a3c97cb0237217a8332a21061d06",
       "title": "Как сохранить документ в формате XML",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-11-16",
-      "date_kind": "updated",
+      "date_kind": "created",
       "added_at": "2026-11-16T09:05:46+03:00",
       "history": [
         {
           "date": "2026-11-16",
-          "kind": "updated"
+          "kind": "created"
         }
       ]
     },
