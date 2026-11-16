@@ -1,10 +1,10 @@
-# Где посмотреть причины отказов клиентов в сделках
+# Как посмотреть несостоявшиеся сделки и причины отказов клиентов
 
-<table><tr><td><b>Обновлено:</b> 16.11.2026</td></tr></table>
+<table><tr><td><b>Создано:</b> 16.11.2026</td></tr></table>
 
 <sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23412 (JBI-61085)</sub>
 
-###### *Опубликовано 16.11.2026: [https://kb.5systems.ru/tips/5s-auto/crm/gde-posmotret-prichiny-otkazov-klientov](https://kb.5systems.ru/tips/5s-auto/crm/gde-posmotret-prichiny-otkazov-klientov)*
+###### *Опубликовано 16.11.2026: [https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-nesostoyavshiesya-sdelki-i-prichiny-otkazov-klientov](https://kb.5systems.ru/tips/5s-auto/crm/kak-posmotret-nesostoyavshiesya-sdelki-i-prichiny-otkazov-klientov)*
 
 ## Проблема
 
