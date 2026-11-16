@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T09:59:52+03:00",
-  "count": 678,
+  "generated_at": "2026-11-16T10:21:11+03:00",
+  "count": 679,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/CRM/Не появляются уведомления о пропущенных звонках",
+      "file": "ne-poyavlyayutsya-uvedomleniya-o-propushchennyh-zvonkah.md",
+      "id": "ne-poyavlyayutsya-uvedomleniya-o-propushchennyh-zvonkah",
+      "sha": "7ce207d887389660de5ec171ecc2340b52187c13",
+      "title": "Не появляются уведомления о пропущенных звонках",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-16",
+      "date_kind": "created",
+      "added_at": "2026-11-16T10:20:10+03:00",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/Администрирование/Как сохранить документ в формате XML",
       "file": "kak-sohranit-dokument-v-formate-xml.md",
