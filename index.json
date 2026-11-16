@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:09:37+03:00",
+  "generated_at": "2026-11-16T15:30:54+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -821,17 +821,17 @@
       "path": "tips/5S AUTO/CRM/Как посмотреть несостоявшиеся сделки и причины отказов клиентов",
       "file": "kak-posmotret-nesostoyavshiesya-sdelki-i-prichiny-otkazov-klientov.md",
       "id": "kak-posmotret-nesostoyavshiesya-sdelki-i-prichiny-otkazov-klientov",
-      "sha": "cafde935443809d949dddbc058294c3f7ac54b3c",
+      "sha": "0e948c88cdddbd831e82951b90b512a9fe1f70c2",
       "title": "Как посмотреть несостоявшиеся сделки и причины отказов клиентов",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-11-16",
-      "date_kind": "created",
+      "date_kind": "updated",
       "added_at": "2026-11-16T15:09:35+03:00",
       "history": [
         {
           "date": "2026-11-16",
-          "kind": "created"
+          "kind": "updated"
         }
       ]
     },
