@@ -1,8 +1,6 @@
 # Где посмотреть причины отказов клиентов в сделках
 
-<table><tr><td><b>Создано:</b> 16.11.2026</td></tr></table>
-
-###### *Опубликовано 16.11.2026: [https://kb.5systems.ru/tips/5s-auto/crm/gde-posmotret-prichiny-otkazov-klientov](https://kb.5systems.ru/tips/5s-auto/crm/gde-posmotret-prichiny-otkazov-klientov)*
+<table><tr><td><b>Обновлено:</b> 16.11.2026</td></tr></table>
 
 ## Проблема
 
