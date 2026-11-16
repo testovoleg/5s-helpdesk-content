@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T10:48:29+03:00",
-  "count": 679,
+  "generated_at": "2026-11-16T11:26:02+03:00",
+  "count": 678,
   "sections": {
     "tips": [
       {
@@ -854,24 +854,6 @@
       ]
     },
     {
-      "path": "tips/5S AUTO/Маркировка/Ошибка 22109 Код маркировки не прошел проверку на сервере (ОИСМ)",
-      "file": "oshibka-22109-kod-markirovki-ne-proshel-proverku-na-servere.md",
-      "id": "oshibka-22109-kod-markirovki-ne-proshel-proverku-na-servere",
-      "sha": "473ca528314ee94f07b900613694171e267fd2e0",
-      "title": "Ошибка 22109: код маркировки не прошел проверку на сервере (ОИСМ)",
-      "type": "tips",
-      "order": 7,
-      "updated_at": "2026-11-13",
-      "date_kind": "created",
-      "added_at": "2026-11-13T16:40:24+03:00",
-      "history": [
-        {
-          "date": "2026-11-13",
-          "kind": "created"
-        }
-      ]
-    },
-    {
       "path": "tips/5S AUTO/Автосервис/Не получается снять резерв, из-за которого не закрывается заказ-наряд",
       "file": "ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya.md",
       "id": "ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya",
@@ -1199,17 +1181,21 @@
       "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки в разрешительном режиме",
       "file": "ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime.md",
       "id": "ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime",
-      "sha": "2eef4bda55ef09880b00b3cf9d3bc28e5939a6ec",
+      "sha": "7ec05e686655094a2ff6f055cdc10b888ca5b938",
       "title": "Не проходит проверка кода маркировки в разрешительном режиме",
       "type": "tips",
       "order": 6,
-      "updated_at": "2026-10-21",
-      "date_kind": "created",
+      "updated_at": "2026-11-16",
+      "date_kind": "updated",
       "added_at": "2026-10-21T12:54:05+03:00",
       "history": [
         {
           "date": "2026-10-21",
           "kind": "created"
+        },
+        {
+          "date": "2026-11-16",
+          "kind": "updated"
         }
       ]
     },
