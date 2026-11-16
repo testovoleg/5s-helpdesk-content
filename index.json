@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T16:04:33+03:00",
-  "count": 671,
+  "generated_at": "2026-11-16T09:57:42+03:00",
+  "count": 672,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Администрирование/Как сохранить документ в формате XML",
+      "file": "kak-sohranit-dokument-v-formate-xml.md",
+      "id": "kak-sohranit-dokument-v-formate-xml",
+      "sha": "8ea3c6422d705a0d2f476fc8670f74c2577b1606",
+      "title": "Как сохранить документ в формате XML",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-16",
+      "date_kind": "created",
+      "added_at": "2026-11-16T09:55:01+03:00",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/Автосервис/Не получается снять резерв, из-за которого не закрывается заказ-наряд",
       "file": "ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya.md",
