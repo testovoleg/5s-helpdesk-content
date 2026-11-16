@@ -1,6 +1,6 @@
 # Как посмотреть статистику обращений клиентов в автосервис
 
-<table><tr><td><b>Создано:</b> 16.09.2026</td></tr></table>
+<table><tr><td><b>Обновлено:</b> 16.11.2026</td></tr></table>
 
 ###### *Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis](https://kb.5systems.ru/tips/5s-auto/praktiki/kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis)*
 
@@ -33,6 +33,7 @@
 ## См. также
 
 - [Как посмотреть количество уникальных клиентов, обратившихся за период](../../CRM/Как%20посмотреть%20количество%20уникальных%20клиентов,%20обратившихся%20за%20период/kak-posmotret-kolichestvo-unikalnyh-klientov.md)
+- [Как посмотреть несостоявшиеся сделки и причины отказов клиентов](../../CRM/Как%20посмотреть%20несостоявшиеся%20сделки%20и%20причины%20отказов%20клиентов/kak-posmotret-nesostoyavshiesya-sdelki-i-prichiny-otkazov-klientov.md)
 - [Не получается выбрать показатели в настройках отчета](../../CRM/Не%20получается%20выбрать%20показатели%20в%20настройках%20отчета/ne-poluchaetsya-vybrat-pokazateli-v-nastroykah-otcheta.md)
 
 ## Материалы для изучения

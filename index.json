@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:30:54+03:00",
+  "generated_at": "2026-11-16T15:31:50+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -2264,17 +2264,21 @@
       "path": "tips/5S AUTO/Практики/Как посмотреть статистику обращений клиентов в автосервис",
       "file": "kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis.md",
       "id": "kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis",
-      "sha": "6bad01efb67c419ebcfd1cdc36d77eea27e60ab4",
+      "sha": "6743df8b0059fa6022d5c1ad19d8f1595c900e3e",
       "title": "Как посмотреть статистику обращений клиентов в автосервис",
       "type": "tips",
       "order": 8,
-      "updated_at": "2026-09-16",
-      "date_kind": "created",
+      "updated_at": "2026-11-16",
+      "date_kind": "updated",
       "added_at": "2026-09-16T09:21:28+03:00",
       "history": [
         {
           "date": "2026-09-16",
           "kind": "created"
+        },
+        {
+          "date": "2026-11-16",
+          "kind": "updated"
         }
       ]
     },
@@ -14446,11 +14450,11 @@
       "path": "tips/5S AUTO/CRM/Как посмотреть количество уникальных клиентов, обратившихся за период",
       "file": "kak-posmotret-kolichestvo-unikalnyh-klientov.md",
       "id": "kak-posmotret-kolichestvo-unikalnyh-klientov",
-      "sha": "fbb5b6e18ca4b3d6c74a8304731bd345d7d62ed8",
+      "sha": "52c697eb0fbc53b251bf2b8d229f29f2d71d5a98",
       "title": "Как посмотреть количество уникальных клиентов, обратившихся за период",
       "type": "tips",
       "order": 0,
-      "updated_at": "2026-09-16",
+      "updated_at": "2026-11-16",
       "date_kind": "updated",
       "added_at": "2026-07-31T10:46:47+03:00",
       "history": [
@@ -14460,6 +14464,10 @@
         },
         {
           "date": "2026-09-16",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-16",
           "kind": "updated"
         }
       ]
