@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T09:05:48+03:00",
+  "generated_at": "2026-11-16T09:08:07+03:00",
   "count": 678,
   "sections": {
     "tips": [
@@ -821,17 +821,17 @@
       "path": "tips/5S AUTO/Администрирование/Как сохранить документ в формате XML",
       "file": "kak-sohranit-dokument-v-formate-xml.md",
       "id": "kak-sohranit-dokument-v-formate-xml",
-      "sha": "e8a3ec9b69dee71a5f8432e723b28bbf1bfc4c8b",
+      "sha": "1f01fa7c7d03117b3b4bd7a618422a5d390e4d7d",
       "title": "Как сохранить документ в формате XML",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-11-16",
-      "date_kind": "created",
+      "date_kind": "updated",
       "added_at": "2026-11-16T09:05:46+03:00",
       "history": [
         {
           "date": "2026-11-16",
-          "kind": "created"
+          "kind": "updated"
         }
       ]
     },
@@ -1089,11 +1089,11 @@
       "path": "tips/5S AUTO/Касса/Не получается принять частичную оплату в реализации",
       "file": "ne-poluchaetsya-prinyat-chastichnuyu-oplatu-v-realizacii.md",
       "id": "ne-poluchaetsya-prinyat-chastichnuyu-oplatu-v-realizacii",
-      "sha": "7c11fdb6a702ba9c4fd352a81cd0b5f13f9cad64",
+      "sha": "6c1387f689f1aa4ce91d712d4a6c5259db4b9eef",
       "title": "Не получается принять частичную оплату в реализации",
       "type": "tips",
       "order": 0,
-      "updated_at": "2026-11-10",
+      "updated_at": "2026-11-16",
       "date_kind": "updated",
       "added_at": "2026-10-27T15:24:40+03:00",
       "history": [
@@ -1111,6 +1111,10 @@
         },
         {
           "date": "2026-11-10",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-16",
           "kind": "updated"
         }
       ]
