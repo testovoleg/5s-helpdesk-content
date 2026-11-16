@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T11:26:02+03:00",
-  "count": 678,
+  "generated_at": "2026-11-16T11:57:36+03:00",
+  "count": 679,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/CRM/Где посмотреть причины отказов клиентов в сделках",
+      "file": "gde-posmotret-prichiny-otkazov-klientov.md",
+      "id": "gde-posmotret-prichiny-otkazov-klientov",
+      "sha": "97d48afdfc7ed05ccfb28d483c7d944125e18665",
+      "title": "Где посмотреть причины отказов клиентов в сделках",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-16",
+      "date_kind": "created",
+      "added_at": "2026-11-16T10:20:10+03:00",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/CRM/Не появляются уведомления о пропущенных звонках",
       "file": "ne-poyavlyayutsya-uvedomleniya-o-propushchennyh-zvonkah.md",
