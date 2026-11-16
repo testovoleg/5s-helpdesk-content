@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:50:48+03:00",
+  "generated_at": "2026-11-16T16:21:43+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -947,7 +947,7 @@
       "path": "tips/5S AUTO/Администрирование/Пропала панель окон внизу экрана",
       "file": "propala-panel-okon.md",
       "id": "propala-panel-okon",
-      "sha": "81f339a7b1d753cab9ce36dabd968a7b35417190",
+      "sha": "adab559447da590b45e96b7d2cdf5e5591ec740e",
       "title": "Пропала панель окон внизу экрана",
       "type": "tips",
       "order": 0,
@@ -1071,7 +1071,7 @@
       "path": "tips/Оборудование/Кассы ККМ/Касса АТОЛ печатает «ККТ прекратит работу»",
       "file": "kassa-atol-pechataet-kkt-prekratit-rabotu.md",
       "id": "kassa-atol-pechataet-kkt-prekratit-rabotu",
-      "sha": "2bbaea34d74328088e7b272ccea900af3156adc3",
+      "sha": "2aca563634376566a0f47dd4317307431e5a36cf",
       "title": "Касса АТОЛ печатает «ККТ прекратит работу»",
       "type": "tips",
       "order": 0,
@@ -1089,7 +1089,7 @@
       "path": "tips/5S AUTO/Администрирование/Как скрыть лишнюю печатную форму в списке",
       "file": "kak-skryt-lishnyuyu-pechatnuyu-formu-v-spiske.md",
       "id": "kak-skryt-lishnyuyu-pechatnuyu-formu-v-spiske",
-      "sha": "25f7fb0ea6c58e537fe545664a0c61a7861e32e2",
+      "sha": "3c8ff98e03fd1e6535556e8d7d8e5cfd76813edf",
       "title": "Как скрыть лишнюю печатную форму в списке",
       "type": "tips",
       "order": 0,
