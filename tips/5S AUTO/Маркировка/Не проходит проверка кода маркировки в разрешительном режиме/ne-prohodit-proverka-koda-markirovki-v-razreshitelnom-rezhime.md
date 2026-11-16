@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 16.11.2026</td></tr></table>
 
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/1/ticket/23790/ (JJH-55676)</sub>
+
 ###### *Опубликовано 21.10.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime)*
 
 ## Проблема
