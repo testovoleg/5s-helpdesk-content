@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:21:11+03:00",
+  "generated_at": "2026-11-16T10:31:24+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/CRM/Не появляются уведомления о пропущенных звонках",
       "file": "ne-poyavlyayutsya-uvedomleniya-o-propushchennyh-zvonkah.md",
       "id": "ne-poyavlyayutsya-uvedomleniya-o-propushchennyh-zvonkah",
-      "sha": "7ce207d887389660de5ec171ecc2340b52187c13",
+      "sha": "f0cfa1b2cbad253112e1351dec937c691982bca5",
       "title": "Не появляются уведомления о пропущенных звонках",
       "type": "tips",
       "order": 0,
