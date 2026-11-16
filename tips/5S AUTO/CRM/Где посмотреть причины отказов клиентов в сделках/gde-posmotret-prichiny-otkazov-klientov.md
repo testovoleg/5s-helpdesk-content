@@ -2,6 +2,10 @@
 
 <table><tr><td><b>Обновлено:</b> 16.11.2026</td></tr></table>
 
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23412</sub>
+
+###### *Опубликовано 16.11.2026: [https://kb.5systems.ru/tips/5s-auto/crm/gde-posmotret-prichiny-otkazov-klientov](https://kb.5systems.ru/tips/5s-auto/crm/gde-posmotret-prichiny-otkazov-klientov)*
+
 ## Проблема
 
 Нужен отчет о потерянном спросе: несостоявшиеся сделки и отказы покупателей. Отчет «Анализ потерянных клиентов» показывает все заказ-наряды клиента, а не несостоявшиеся сделки.
