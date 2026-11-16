@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:11:03+03:00",
+  "generated_at": "2026-11-16T15:28:37+03:00",
   "count": 674,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/CRM/Как посмотреть несостоявшиеся сделки и причины отказов клиентов",
       "file": "kak-posmotret-nesostoyavshiesya-sdelki-i-prichiny-otkazov-klientov.md",
       "id": "kak-posmotret-nesostoyavshiesya-sdelki-i-prichiny-otkazov-klientov",
-      "sha": "74ad46b91a5ce06d0e206bf4a71ccfd96d6306dc",
+      "sha": "1ae92877b16fb349a2b322091f1e58d83fa084ca",
       "title": "Как посмотреть несостоявшиеся сделки и причины отказов клиентов",
       "type": "tips",
       "order": 0,
@@ -2098,7 +2098,7 @@
       "path": "tips/5S AUTO/Практики/Как посмотреть статистику обращений клиентов в автосервис",
       "file": "kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis.md",
       "id": "kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis",
-      "sha": "91cbc7031f76c453a9a0d0f11a41e66eec549673",
+      "sha": "8e378730905965258c83da151d4a78d1961db333",
       "title": "Как посмотреть статистику обращений клиентов в автосервис",
       "type": "tips",
       "order": 8,
@@ -14245,7 +14245,7 @@
       "path": "tips/5S AUTO/CRM/Как посмотреть количество уникальных клиентов, обратившихся за период",
       "file": "kak-posmotret-kolichestvo-unikalnyh-klientov.md",
       "id": "kak-posmotret-kolichestvo-unikalnyh-klientov",
-      "sha": "8c32d3836927888220fa5518bc97a990c5355623",
+      "sha": "328c409d95168d2629ac3371782e54d8f5fa9025",
       "title": "Как посмотреть количество уникальных клиентов, обратившихся за период",
       "type": "tips",
       "order": 0,
