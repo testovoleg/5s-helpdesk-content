@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T11:57:36+03:00",
+  "generated_at": "2026-11-16T13:55:39+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -821,17 +821,17 @@
       "path": "tips/5S AUTO/CRM/Где посмотреть причины отказов клиентов в сделках",
       "file": "gde-posmotret-prichiny-otkazov-klientov.md",
       "id": "gde-posmotret-prichiny-otkazov-klientov",
-      "sha": "97d48afdfc7ed05ccfb28d483c7d944125e18665",
+      "sha": "042ab2615b280ce4ece807e895ade5cf4fd18c5e",
       "title": "Где посмотреть причины отказов клиентов в сделках",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-11-16",
-      "date_kind": "created",
+      "date_kind": "updated",
       "added_at": "2026-11-16T10:20:10+03:00",
       "history": [
         {
           "date": "2026-11-16",
-          "kind": "created"
+          "kind": "updated"
         }
       ]
     },
