@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Создано:</b> 16.11.2026</td></tr></table>
 
+###### *Опубликовано 16.11.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-poyavlyayutsya-uvedomleniya-o-propushchennyh-zvonkah](https://kb.5systems.ru/tips/5s-auto/crm/ne-poyavlyayutsya-uvedomleniya-o-propushchennyh-zvonkah)*
+
 ## Проблема
 
 В программе не появляются всплывающие уведомления о пропущенных входящих звонках либо пропущенные звонки не отображаются в списке уведомлений CRM. При этом телефония подключена и работает, входящие вызовы поступают.
