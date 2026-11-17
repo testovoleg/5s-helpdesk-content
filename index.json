@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T10:29:37+03:00",
+  "generated_at": "2026-11-17T12:02:41+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -1053,17 +1053,21 @@
       "path": "tips/5S AUTO/Склад и запчасти/Как убрать поставщика из Поиска цен",
       "file": "kak-ubrat-postavshchika-iz-poiska-cen.md",
       "id": "kak-ubrat-postavshchika-iz-poiska-cen",
-      "sha": "fa1826772244491a6497e9e953a41e7783702d73",
+      "sha": "31056757f0d36699947fe43dcdf5a052c577d75f",
       "title": "Как убрать поставщика из Поиска цен",
       "type": "tips",
       "order": 0,
-      "updated_at": "2026-10-30",
-      "date_kind": "created",
+      "updated_at": "2026-11-17",
+      "date_kind": "updated",
       "added_at": "2026-10-30T15:11:03+03:00",
       "history": [
         {
           "date": "2026-10-30",
           "kind": "created"
+        },
+        {
+          "date": "2026-11-17",
+          "kind": "updated"
         }
       ]
     },
@@ -11399,16 +11403,20 @@
       "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка Веб прайс-листа",
       "file": "sozdanie-i-nastroyka-veb-prays-lista.md",
       "id": "sozdanie-i-nastroyka-veb-prays-lista",
-      "sha": "afccc6bdf276793b0517f5046643beb8502e112a",
+      "sha": "3537602d9dba6a206b050ee27675416fb4f667ac",
       "title": "Создание и настройка Веб прайс-листа",
       "type": "articles",
       "order": 4,
-      "updated_at": "2022-06-20",
+      "updated_at": "2026-11-17",
       "date_kind": "updated",
       "added_at": "2026-09-02T10:36:53+03:00",
       "history": [
         {
           "date": "2022-06-20",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-17",
           "kind": "updated"
         }
       ],
@@ -11418,11 +11426,11 @@
       "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка прайс-листа контрагента",
       "file": "sozdanie-i-nastroyka-prays-lista-kontragenta.md",
       "id": "sozdanie-i-nastroyka-prays-lista-kontragenta",
-      "sha": "35f6218a1dc4db4566e74160e3fe1d28c8006735",
+      "sha": "d76329d0da3002e760cb5d7ea64d515b21892b84",
       "title": "Создание и настройка прайс-листа контрагента",
       "type": "articles",
       "order": 3,
-      "updated_at": "2025-12-08",
+      "updated_at": "2026-11-17",
       "date_kind": "updated",
       "added_at": "2026-09-02T10:32:07+03:00",
       "history": [
@@ -11432,6 +11440,10 @@
         },
         {
           "date": "2025-12-08",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-17",
           "kind": "updated"
         }
       ],
