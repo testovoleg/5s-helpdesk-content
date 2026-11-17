@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:41:09+03:00",
+  "generated_at": "2026-11-17T15:00:54+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -1053,7 +1053,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Как убрать поставщика из Поиска цен",
       "file": "kak-ubrat-postavshchika-iz-poiska-cen.md",
       "id": "kak-ubrat-postavshchika-iz-poiska-cen",
-      "sha": "75165da5be512a5b6f130852eb689646de2c15ae",
+      "sha": "b696963ac48d16896bf5943319a552aba1b5d72d",
       "title": "Как убрать поставщика из Поиска цен",
       "type": "tips",
       "order": 0,
@@ -1881,7 +1881,7 @@
       "path": "articles/5S AUTO/История релизов/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "2dca00f4d7222daa2c8815ec6aa2f095b4bb99ff",
+      "sha": "f3c79a543771b2b802ccf7469307d0934a110779",
       "title": "Бета-релиз 2.8.5 (готовится к выпуску)",
       "type": "articles",
       "order": 0,
