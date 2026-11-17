@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Обновлено:</b> 16.11.2026</td></tr></table>
 
+<sub>Тикеты: https://support.5systems.ru/ru/ticket/list/filter/id/1/ticket/22672/ (FPW-43848), https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/22698 (BYL-93080)</sub>
+
 ###### *Опубликовано 16.09.2026: [https://kb.5systems.ru/tips/5s-auto/praktiki/kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis](https://kb.5systems.ru/tips/5s-auto/praktiki/kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis)*
 
 ## Вопрос

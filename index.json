@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T17:04:02+03:00",
+  "generated_at": "2026-11-17T09:08:31+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -839,7 +839,7 @@
       "path": "tips/5S AUTO/CRM/Не появляются уведомления о пропущенных звонках",
       "file": "ne-poyavlyayutsya-uvedomleniya-o-propushchennyh-zvonkah.md",
       "id": "ne-poyavlyayutsya-uvedomleniya-o-propushchennyh-zvonkah",
-      "sha": "5f8b590387707ecac78b23841c873f13a85625a5",
+      "sha": "9bf56f7fcf4d8cebebc53561b574ab46ed5779f7",
       "title": "Не появляются уведомления о пропущенных звонках",
       "type": "tips",
       "order": 0,
@@ -2030,7 +2030,7 @@
       "path": "tips/5S AUTO/Автосервис/Не получается выбрать контрагента плательщиком в заказ-наряде",
       "file": "ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade.md",
       "id": "ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade",
-      "sha": "5283571bceb5046bd2ef607a7862a373e4daf35d",
+      "sha": "a431e0afb9b870ea9f94b7551fdb7f45b14be017",
       "title": "Не получается выбрать контрагента плательщиком в заказ-наряде",
       "type": "tips",
       "order": 0,
@@ -2264,7 +2264,7 @@
       "path": "tips/5S AUTO/Практики/Как посмотреть статистику обращений клиентов в автосервис",
       "file": "kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis.md",
       "id": "kak-posmotret-statistiku-obrascheniy-klientov-v-avtoservis",
-      "sha": "6743df8b0059fa6022d5c1ad19d8f1595c900e3e",
+      "sha": "b5d27fb035e4b07cad049801a4642ad6b4d4b3b2",
       "title": "Как посмотреть статистику обращений клиентов в автосервис",
       "type": "tips",
       "order": 8,

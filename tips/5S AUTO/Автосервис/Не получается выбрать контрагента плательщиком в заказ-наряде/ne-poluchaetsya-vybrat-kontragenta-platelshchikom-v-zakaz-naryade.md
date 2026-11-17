@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Создано:</b> 23.09.2026</td></tr></table>
 
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/1/ticket/23057/ (EBQ-30438)</sub>
+
 ###### *Опубликовано 23.09.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade](https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-vybrat-kontragenta-platelshchikom-v-zakaz-naryade)*
 
 ## Проблема

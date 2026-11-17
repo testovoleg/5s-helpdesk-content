@@ -2,6 +2,8 @@
 
 <table><tr><td><b>Создано:</b> 16.11.2026</td></tr></table>
 
+<sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/1/ticket/23216/ (BUY-38990)</sub>
+
 ###### *Опубликовано 16.11.2026: [https://kb.5systems.ru/tips/5s-auto/crm/ne-poyavlyayutsya-uvedomleniya-o-propushchennyh-zvonkah](https://kb.5systems.ru/tips/5s-auto/crm/ne-poyavlyayutsya-uvedomleniya-o-propushchennyh-zvonkah)*
 
 ## Проблема
