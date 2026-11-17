@@ -1,6 +1,8 @@
 # Платежный календарь
 
-<table><tr><td><b>Время чтения:</b> 15 мин.</td><td><b>Создано:</b> 01.10.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 18 мин.</td><td><b>Создано:</b> 17.11.2026</td></tr></table>
+
+###### *Опубликовано 17.11.2026: [https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/platezhnyy-kalendar](https://kb.5systems.ru/articles/5s-auto/uchet-vzaimoraschetov/platezhnyy-kalendar)*
 
 > *Актуально начиная с версии релиза 5S AUTO **2.8.5**. Функционал дорабатывается.*
 
