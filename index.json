@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:00:54+03:00",
+  "generated_at": "2026-11-17T16:05:46+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -1053,7 +1053,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Как убрать поставщика из Поиска цен",
       "file": "kak-ubrat-postavshchika-iz-poiska-cen.md",
       "id": "kak-ubrat-postavshchika-iz-poiska-cen",
-      "sha": "b696963ac48d16896bf5943319a552aba1b5d72d",
+      "sha": "1ca5548e47d72b00d8759041a522a24982e3ddc3",
       "title": "Как убрать поставщика из Поиска цен",
       "type": "tips",
       "order": 0,
@@ -11434,7 +11434,7 @@
       "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка прайс-листа контрагента",
       "file": "sozdanie-i-nastroyka-prays-lista-kontragenta.md",
       "id": "sozdanie-i-nastroyka-prays-lista-kontragenta",
-      "sha": "d76329d0da3002e760cb5d7ea64d515b21892b84",
+      "sha": "33a216a420a5f017b60656f85ab42646b50524f4",
       "title": "Создание и настройка прайс-листа контрагента",
       "type": "articles",
       "order": 3,
