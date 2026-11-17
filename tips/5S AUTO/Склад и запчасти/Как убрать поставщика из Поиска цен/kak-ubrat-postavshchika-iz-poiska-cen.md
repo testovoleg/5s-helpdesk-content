@@ -39,19 +39,21 @@
 
 ## См. также
 
-- [Поиск цен](https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/poisk-cen)
-- [Создание и настройка Веб прайс-листа](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/sozdanie-i-nastroyka-veb-prays-lista)
+- [Не работает проценка по отдельному поставщику](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-rabotaet-procenka-po-otdelnomu-postavshchiku)
 
 ## Материалы для изучения
 
+- «[Поиск цен](https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/poisk-cen)» — как работает Поиск цен и отбор предложений по поставщикам.
+- «[Создание и настройка Веб прайс-листа](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/sozdanie-i-nastroyka-veb-prays-lista)» — доступ к веб-прайс-листу в Поиске цен и отключение через «Не использовать».
 - «[Создание и настройка прайс-листа контрагента](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/sozdanie-i-nastroyka-prays-lista-kontragenta)» — параметры прайс-листа, в том числе вкладка «Ценообразование» и запреты поиска по подразделениям.
 - «[Настройка рабочего стола](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/nastroyka-rabochego-stola)» — как вывести справочник в меню рабочего стола.
 
 ## Похожие вопросы
 
-- Как убрать поставщика на всех учетных записях филиала из Поиска цен
+- Как убрать поставщика из Поиска цен на всех учетных записях филиала?
 - Как скрыть поставщика в поиске цен
 - Как запретить поиск по прайс-листу поставщика для всех подразделений
+- Как убрать веб-сервис поставщика из Поиска цен
 - Рабочий стол другого вида, где найти прайс-листы контрагентов
 
 ## Теги
