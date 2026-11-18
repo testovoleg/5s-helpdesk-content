@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:44:57+03:00",
+  "generated_at": "2026-11-18T09:45:40+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -1053,11 +1053,11 @@
       "path": "tips/5S AUTO/Склад и запчасти/Как убрать поставщика из Поиска цен",
       "file": "kak-ubrat-postavshchika-iz-poiska-cen.md",
       "id": "kak-ubrat-postavshchika-iz-poiska-cen",
-      "sha": "1ca5548e47d72b00d8759041a522a24982e3ddc3",
+      "sha": "e15658bba69fd62347c71b6dd532f214a529f0ad",
       "title": "Как убрать поставщика из Поиска цен",
       "type": "tips",
       "order": 0,
-      "updated_at": "2026-11-17",
+      "updated_at": "2026-11-18",
       "date_kind": "updated",
       "added_at": "2026-10-30T15:11:03+03:00",
       "history": [
@@ -1067,6 +1067,10 @@
         },
         {
           "date": "2026-11-17",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-18",
           "kind": "updated"
         }
       ]

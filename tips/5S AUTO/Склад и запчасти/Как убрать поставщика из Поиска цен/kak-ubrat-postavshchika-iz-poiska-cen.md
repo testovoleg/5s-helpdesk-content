@@ -1,6 +1,6 @@
 # Как убрать поставщика из Поиска цен
 
-<table><tr><td><b>Обновлено:</b> 17.11.2026</td></tr></table>
+<table><tr><td><b>Обновлено:</b> 18.11.2026</td></tr></table>
 
 <sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23179 (VCX-08694)</sub>
 
