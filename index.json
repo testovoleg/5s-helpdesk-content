@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:27:48+03:00",
+  "generated_at": "2026-11-18T12:01:36+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -1885,7 +1885,7 @@
       "path": "articles/5S AUTO/История релизов/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "2d06a9e58bca8172043cc803074a9e41fff14e15",
+      "sha": "22cfe292527d34636a5dd5aeec9755bc96fc3327",
       "title": "Бета-релиз 2.8.5 (на тестировании)",
       "type": "articles",
       "order": 0,
@@ -12224,7 +12224,7 @@
       "path": "articles/5S AUTO/Автосервис/Расшифровка автомобиля по VIN",
       "file": "rasshifrovka-avtomobilya-po-vin.md",
       "id": "rasshifrovka-avtomobilya-po-vin",
-      "sha": "cc1dc20c2a298dee92a0c49d2c64ab4ac3ff452c",
+      "sha": "cb8b28fdbc3dfd777c1281337829e9885a1035df",
       "title": "Расшифровка автомобиля по VIN",
       "type": "articles",
       "order": 2,
