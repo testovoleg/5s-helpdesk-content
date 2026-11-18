@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T10:35:17+03:00",
+  "generated_at": "2026-11-18T11:22:02+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -1053,7 +1053,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Как убрать поставщика из Поиска цен",
       "file": "kak-ubrat-postavshchika-iz-poiska-cen.md",
       "id": "kak-ubrat-postavshchika-iz-poiska-cen",
-      "sha": "e15658bba69fd62347c71b6dd532f214a529f0ad",
+      "sha": "ddffb556f89a323cbde28e62616fb9c9ef043b7b",
       "title": "Как убрать поставщика из Поиска цен",
       "type": "tips",
       "order": 0,
@@ -1885,7 +1885,7 @@
       "path": "articles/5S AUTO/История релизов/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "87c247dcb01049f190527dbaec71f978ce77a2b5",
+      "sha": "2d06a9e58bca8172043cc803074a9e41fff14e15",
       "title": "Бета-релиз 2.8.5 (на тестировании)",
       "type": "articles",
       "order": 0,
@@ -12224,16 +12224,20 @@
       "path": "articles/5S AUTO/Автосервис/Расшифровка автомобиля по VIN",
       "file": "rasshifrovka-avtomobilya-po-vin.md",
       "id": "rasshifrovka-avtomobilya-po-vin",
-      "sha": "c0f1291702cef0f3bce9da750b127a50022a612b",
+      "sha": "cc1dc20c2a298dee92a0c49d2c64ab4ac3ff452c",
       "title": "Расшифровка автомобиля по VIN",
       "type": "articles",
       "order": 2,
-      "updated_at": "2025-10-31",
+      "updated_at": "2026-11-18",
       "date_kind": "updated",
       "added_at": "2026-09-01T11:00:07+03:00",
       "history": [
         {
           "date": "2025-10-31",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-18",
           "kind": "updated"
         }
       ],

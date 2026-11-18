@@ -51,8 +51,8 @@
 ## Материалы для изучения
 
 - «[Поиск цен](https://kb.5systems.ru/articles/5s-auto/procenka-zapchastey-i-rabot/poisk-cen)» — как работает Поиск цен и отбор предложений по поставщикам.
-- «[Создание и настройка прайс-листа контрагента](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/sozdanie-i-nastroyka-prays-lista-kontragenta)» — параметры прайс-листа, в том числе вкладка «Ценообразование».
-- «[Создание и настройка Веб прайс-листа](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/sozdanie-i-nastroyka-veb-prays-lista)» — веб-сервис поставщика и доступ к нему в Поиске цен.
+- «[Создание и настройка прайс-листа контрагента → Шаг 2. Доступ к прайс-листу](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/sozdanie-i-nastroyka-prays-lista-kontragenta#настройка-прайс-листа-шаг-2-доступ-к-прайс-листу)» — как закрыть доступ к прайс-листу по организациям и подразделениям.
+- «[Создание и настройка Веб прайс-листа → Доступ к Веб прайс-листу в Поиске цен](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/sozdanie-i-nastroyka-veb-prays-lista#доступ-к-веб-прайс-листу-в-поиске-цен)» — веб-сервис поставщика и настройка доступа к нему в Поиске цен.
 - «[Настройка рабочего стола](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/nastroyka-rabochego-stola)» — как вывести справочник в меню рабочего стола.
 
 ## Похожие вопросы
