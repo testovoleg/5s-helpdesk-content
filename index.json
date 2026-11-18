@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:44:02+03:00",
+  "generated_at": "2026-11-18T09:44:57+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -11415,11 +11415,11 @@
       "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка Веб прайс-листа",
       "file": "sozdanie-i-nastroyka-veb-prays-lista.md",
       "id": "sozdanie-i-nastroyka-veb-prays-lista",
-      "sha": "174726bcbe69cb4bf827e8364da47024725aafb0",
+      "sha": "e6182ba1d9faddf2cb610607d2465dfbe08f2fec",
       "title": "Создание и настройка Веб прайс-листа",
       "type": "articles",
       "order": 4,
-      "updated_at": "2026-11-17",
+      "updated_at": "2026-11-18",
       "date_kind": "updated",
       "added_at": "2026-09-02T10:36:53+03:00",
       "history": [
@@ -11429,6 +11429,10 @@
         },
         {
           "date": "2026-11-17",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-18",
           "kind": "updated"
         }
       ],

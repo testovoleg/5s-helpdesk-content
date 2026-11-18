@@ -1,6 +1,6 @@
 # Создание и настройка Веб прайс-листа
 
-<table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 17.11.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 5 мин.</td><td><b>Обновлено:</b> 18.11.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/sozdanie-i-nastroyka-veb-prays-lista</sub>
 
