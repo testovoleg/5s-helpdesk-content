@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:53:57+03:00",
+  "generated_at": "2026-11-18T10:39:22+03:00",
   "count": 675,
   "sections": {
     "tips": [
@@ -1731,7 +1731,7 @@
       "path": "articles/5S AUTO/История релизов/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "fbe477e5ed659b8ce5c91bb84e74b961152d669f",
+      "sha": "37155196984bd40df8ad23c503530b1bac66a514",
       "title": "Бета-релиз 2.8.5 (на тестировании)",
       "type": "articles",
       "order": 0,
@@ -11253,16 +11253,20 @@
       "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка Веб прайс-листа",
       "file": "sozdanie-i-nastroyka-veb-prays-lista.md",
       "id": "sozdanie-i-nastroyka-veb-prays-lista",
-      "sha": "dda0c32b6f87e2659211b59872baa7c9ae7518b0",
+      "sha": "85a84536b8782fcba4928179c20363aa5b1ac398",
       "title": "Создание и настройка Веб прайс-листа",
       "type": "articles",
       "order": 4,
-      "updated_at": "2022-06-20",
+      "updated_at": "2026-11-18",
       "date_kind": "updated",
       "added_at": "2026-09-02T10:36:53+03:00",
       "history": [
         {
           "date": "2022-06-20",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-18",
           "kind": "updated"
         }
       ],
@@ -11272,11 +11276,11 @@
       "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка прайс-листа контрагента",
       "file": "sozdanie-i-nastroyka-prays-lista-kontragenta.md",
       "id": "sozdanie-i-nastroyka-prays-lista-kontragenta",
-      "sha": "73f8b7fff613c8ff9d8ededd98f3aed9649567e1",
+      "sha": "7eb21ea29c643cb1e7e7f73477f4ff7b2724aa25",
       "title": "Создание и настройка прайс-листа контрагента",
       "type": "articles",
       "order": 3,
-      "updated_at": "2025-12-08",
+      "updated_at": "2026-11-18",
       "date_kind": "updated",
       "added_at": "2026-09-02T10:32:07+03:00",
       "history": [
@@ -11286,6 +11290,10 @@
         },
         {
           "date": "2025-12-08",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-18",
           "kind": "updated"
         }
       ],
