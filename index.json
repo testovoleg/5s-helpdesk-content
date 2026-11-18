@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:53:01+03:00",
+  "generated_at": "2026-11-18T10:11:59+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -1885,7 +1885,7 @@
       "path": "articles/5S AUTO/История релизов/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "1157b04d62a01caae0029c7a53dad0cbd7d55209",
+      "sha": "2337b20852b2bbfe81200bb3ad118062f847313b",
       "title": "Бета-релиз 2.8.5 (на тестировании)",
       "type": "articles",
       "order": 0,
@@ -11446,7 +11446,7 @@
       "path": "articles/5S AUTO/Склад и запчасти/Создание и настройка прайс-листа контрагента",
       "file": "sozdanie-i-nastroyka-prays-lista-kontragenta.md",
       "id": "sozdanie-i-nastroyka-prays-lista-kontragenta",
-      "sha": "f237f99808ff56436f577e9f602f5a51a53be0ac",
+      "sha": "13a8b6a0038aa0a64672f900faf848aca8f6a78c",
       "title": "Создание и настройка прайс-листа контрагента",
       "type": "articles",
       "order": 3,
