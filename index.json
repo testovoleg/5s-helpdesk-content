@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T10:22:23+03:00",
+  "generated_at": "2026-11-18T10:31:25+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -1885,7 +1885,7 @@
       "path": "articles/5S AUTO/История релизов/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "2e10ee8208c27aed0460c8a3d77a9891f5487444",
+      "sha": "c26b51651af97c9cc5d3a92edf8c0717ab32a9dc",
       "title": "Бета-релиз 2.8.5 (на тестировании)",
       "type": "articles",
       "order": 0,
