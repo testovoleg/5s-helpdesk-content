@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T17:06:49+03:00",
+  "generated_at": "2026-11-19T17:18:49+03:00",
   "count": 676,
   "sections": {
     "tips": [
@@ -1818,21 +1818,17 @@
       "path": "articles/5S AUTO/Маркировка/Подбор и автоподстановка кодов маркировки",
       "file": "podbor-i-avtopodstanovka-kodov-markirovki.md",
       "id": "podbor-i-avtopodstanovka-kodov-markirovki",
-      "sha": "79a80cb8cb6f03ecbbaf811a48faf13d7152c10c",
+      "sha": "bcf33cabea89839761bdc274b2055ac66d6adf40",
       "title": "Подбор и автоподстановка кодов маркировки",
       "type": "articles",
       "order": 2,
-      "updated_at": "2026-11-19",
-      "date_kind": "updated",
+      "updated_at": "2026-10-07",
+      "date_kind": "created",
       "added_at": "2026-10-07T12:11:33+03:00",
       "history": [
         {
           "date": "2026-10-07",
           "kind": "created"
-        },
-        {
-          "date": "2026-11-19",
-          "kind": "updated"
         }
       ],
       "reading_time": 8
@@ -1860,21 +1856,17 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Точка Банка",
       "file": "podklyuchenie-zagruzki-vypisok-tochka-banka.md",
       "id": "podklyuchenie-zagruzki-vypisok-tochka-banka",
-      "sha": "6e9ec94e840f0ca17490a6aff76c77ca74a31383",
+      "sha": "686f0f1ccab7cf200d7cf4e32691193027af5ecd",
       "title": "Подключение загрузки выписок Точка Банка",
       "type": "articles",
       "order": 5,
-      "updated_at": "2026-11-19",
-      "date_kind": "updated",
+      "updated_at": "2026-09-28",
+      "date_kind": "created",
       "added_at": "2026-09-28T13:38:25+03:00",
       "history": [
         {
           "date": "2026-09-28",
           "kind": "created"
-        },
-        {
-          "date": "2026-11-19",
-          "kind": "updated"
         }
       ],
       "reading_time": 6
@@ -1883,21 +1875,17 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Точка Банка",
       "file": "podklyuchenie-sbp-tochka-banka.md",
       "id": "podklyuchenie-sbp-tochka-banka",
-      "sha": "6d59ea668d196e01dc4d1463cffa8c2dd2885909",
+      "sha": "a77a3bc757c7b9b40fb9276c55218359b5ee7aad",
       "title": "Подключение СБП Точка Банка",
       "type": "articles",
       "order": 4,
-      "updated_at": "2026-11-19",
-      "date_kind": "updated",
+      "updated_at": "2026-09-28",
+      "date_kind": "created",
       "added_at": "2026-09-28T13:38:25+03:00",
       "history": [
         {
           "date": "2026-09-28",
           "kind": "created"
-        },
-        {
-          "date": "2026-11-19",
-          "kind": "updated"
         }
       ],
       "reading_time": 11
@@ -1906,21 +1894,17 @@
       "path": "articles/5S AUTO/Касса/Настройка кассиров ФР",
       "file": "nastroyka-kassirov-fr.md",
       "id": "nastroyka-kassirov-fr",
-      "sha": "72073f533754fc6a2cf518133f1d48084c2e943f",
+      "sha": "ad5c538fddbdbfa111686bb2f45ede97690ae56f",
       "title": "Настройка кассиров ФР",
       "type": "articles",
       "order": 2,
-      "updated_at": "2026-11-19",
-      "date_kind": "updated",
+      "updated_at": "2026-09-28",
+      "date_kind": "created",
       "added_at": "2026-09-28T13:38:25+03:00",
       "history": [
         {
           "date": "2026-09-28",
           "kind": "created"
-        },
-        {
-          "date": "2026-11-19",
-          "kind": "updated"
         }
       ],
       "reading_time": 3
@@ -6951,11 +6935,11 @@
       "path": "articles/5S AUTO/Маркировка/Маркировка товаров",
       "file": "markirovka-tovarov.md",
       "id": "markirovka-tovarov",
-      "sha": "636c6d487606165381e17cfa92783845de1a02aa",
+      "sha": "74877f1fd0a4ad123dfe648f5d483563453a4dc1",
       "title": "Маркировка товаров",
       "type": "articles",
       "order": 0,
-      "updated_at": "2026-11-19",
+      "updated_at": "2026-10-07",
       "date_kind": "updated",
       "added_at": "2026-09-09T10:36:12+03:00",
       "history": [
@@ -6965,10 +6949,6 @@
         },
         {
           "date": "2026-10-07",
-          "kind": "updated"
-        },
-        {
-          "date": "2026-11-19",
           "kind": "updated"
         }
       ],
@@ -7562,11 +7542,11 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Мастер настройки системы",
       "file": "master-nastroyki-sistemy.md",
       "id": "master-nastroyki-sistemy",
-      "sha": "25863fff048f05c638e9ef4651aedd94263180a0",
+      "sha": "5eefaca5958b0bbf0e1a4e380d1bfd214c9c1f7c",
       "title": "Мастер настройки системы",
       "type": "articles",
       "order": 19,
-      "updated_at": "2026-11-19",
+      "updated_at": "2026-09-28",
       "date_kind": "updated",
       "added_at": "2026-09-08T11:38:17+03:00",
       "history": [
@@ -7576,10 +7556,6 @@
         },
         {
           "date": "2026-09-28",
-          "kind": "updated"
-        },
-        {
-          "date": "2026-11-19",
           "kind": "updated"
         }
       ],
@@ -11596,11 +11572,11 @@
       "path": "articles/5S AUTO/Автосервис/Передача смен",
       "file": "peredacha-smen.md",
       "id": "peredacha-smen",
-      "sha": "f48e1e9c4c1d4e2777adec89cf9f13ebfa6973c7",
+      "sha": "6d6a7aabc797068e7d7127ea1bb30a425f32d048",
       "title": "Передача смен",
       "type": "articles",
       "order": 16,
-      "updated_at": "2026-11-19",
+      "updated_at": "2026-09-29",
       "date_kind": "updated",
       "added_at": "2026-09-01T16:11:01+03:00",
       "history": [
@@ -11610,10 +11586,6 @@
         },
         {
           "date": "2026-09-29",
-          "kind": "updated"
-        },
-        {
-          "date": "2026-11-19",
           "kind": "updated"
         }
       ],
@@ -12088,11 +12060,11 @@
       "path": "articles/5S AUTO/Автосервис/Расшифровка автомобиля по VIN",
       "file": "rasshifrovka-avtomobilya-po-vin.md",
       "id": "rasshifrovka-avtomobilya-po-vin",
-      "sha": "80cf6f762f9b6560ab4be8ae686cc53ae41e90bb",
+      "sha": "c8844cd198e840c48121d4351d37625a5406284f",
       "title": "Расшифровка автомобиля по VIN",
       "type": "articles",
       "order": 2,
-      "updated_at": "2026-11-19",
+      "updated_at": "2026-11-18",
       "date_kind": "updated",
       "added_at": "2026-09-01T11:00:07+03:00",
       "history": [
@@ -12102,10 +12074,6 @@
         },
         {
           "date": "2026-11-18",
-          "kind": "updated"
-        },
-        {
-          "date": "2026-11-19",
           "kind": "updated"
         }
       ],
@@ -13409,11 +13377,11 @@
       "path": "articles/5S AUTO/CRM/Объединение сделок",
       "file": "obedinenie-sdelok.md",
       "id": "obedinenie-sdelok",
-      "sha": "f08dccb4e0cd209c5dee1c322d60ac60dcff296f",
+      "sha": "359044a7a034888331ae24067171e2472211df51",
       "title": "Объединение сделок",
       "type": "articles",
       "order": 6,
-      "updated_at": "2026-11-19",
+      "updated_at": "2026-09-28",
       "date_kind": "updated",
       "added_at": "2026-08-26T09:38:26+03:00",
       "history": [
@@ -13423,10 +13391,6 @@
         },
         {
           "date": "2026-09-28",
-          "kind": "updated"
-        },
-        {
-          "date": "2026-11-19",
           "kind": "updated"
         }
       ],
@@ -13497,11 +13461,11 @@
       "path": "articles/5S AUTO/CRM/Работа со сделкой",
       "file": "rabota-so-sdelkoy.md",
       "id": "rabota-so-sdelkoy",
-      "sha": "f3c2a4e456c12df437d0648198d5f1c974fc9fe1",
+      "sha": "b700a2c9fd663c797ad9fcd800ca12f5a25dfbb1",
       "title": "Работа со сделкой",
       "type": "articles",
       "order": 2,
-      "updated_at": "2026-11-19",
+      "updated_at": "2026-09-28",
       "date_kind": "updated",
       "added_at": "2026-08-26T09:04:10+03:00",
       "history": [
@@ -13515,10 +13479,6 @@
         },
         {
           "date": "2026-09-28",
-          "kind": "updated"
-        },
-        {
-          "date": "2026-11-19",
           "kind": "updated"
         }
       ],
@@ -13930,11 +13890,11 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Удаление старых данных",
       "file": "udalenie-starykh-dannykh.md",
       "id": "udalenie-starykh-dannykh",
-      "sha": "8cc20388647bc8770e565e95c135d2a700e46cb1",
+      "sha": "077af4d7f671dcbd5e32f9286a425a6d3a8dc0fc",
       "title": "Удаление старых данных программы",
       "type": "articles",
       "order": 24,
-      "updated_at": "2026-11-19",
+      "updated_at": "2026-09-25",
       "date_kind": "updated",
       "added_at": "2026-08-14T16:46:26+03:00",
       "history": [
@@ -13944,10 +13904,6 @@
         },
         {
           "date": "2026-09-25",
-          "kind": "updated"
-        },
-        {
-          "date": "2026-11-19",
           "kind": "updated"
         }
       ],
