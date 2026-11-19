@@ -1,6 +1,6 @@
 # Маркировка товаров
 
-<table><tr><td><b>Время чтения:</b> 28 мин.</td><td><b>Обновлено:</b> 19.11.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 28 мин.</td><td><b>Обновлено:</b> 07.10.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/markirovka-tovarov</sub>
 

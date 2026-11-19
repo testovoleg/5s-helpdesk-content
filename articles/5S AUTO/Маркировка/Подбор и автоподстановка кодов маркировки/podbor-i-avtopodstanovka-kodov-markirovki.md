@@ -1,6 +1,6 @@
 # Подбор и автоподстановка кодов маркировки
 
-<table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Обновлено:</b> 19.11.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 8 мин.</td><td><b>Создано:</b> 07.10.2026</td></tr></table>
 
 ###### *Опубликовано 07.10.2026: [https://kb.5systems.ru/articles/5s-auto/markirovka/podbor-i-avtopodstanovka-kodov-markirovki](https://kb.5systems.ru/articles/5s-auto/markirovka/podbor-i-avtopodstanovka-kodov-markirovki)*
 

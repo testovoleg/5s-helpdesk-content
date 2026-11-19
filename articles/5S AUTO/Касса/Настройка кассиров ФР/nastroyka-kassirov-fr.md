@@ -1,6 +1,6 @@
 # Настройка кассиров ФР
 
-<table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Обновлено:</b> 19.11.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 3 мин.</td><td><b>Создано:</b> 28.09.2026</td></tr></table>
 
 ###### *Опубликовано 28.09.2026: [https://kb.5systems.ru/articles/5s-auto/kassa/nastroyka-kassirov-fr](https://kb.5systems.ru/articles/5s-auto/kassa/nastroyka-kassirov-fr)*
 

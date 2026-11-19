@@ -1,6 +1,6 @@
 # Расшифровка автомобиля по VIN
 
-<table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 19.11.2026</td></tr></table>
+<table><tr><td><b>Время чтения:</b> 12 мин.</td><td><b>Обновлено:</b> 18.11.2026</td></tr></table>
 
 <sub>Источник: https://www.5systems.ru/help/rasshifrovka-avtomobilya-po-vin</sub>
 
