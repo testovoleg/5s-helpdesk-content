@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T17:16:59+03:00",
+  "generated_at": "2026-11-19T17:27:13+03:00",
   "count": 681,
   "sections": {
     "tips": [
@@ -839,7 +839,7 @@
       "path": "tips/5S AUTO/Администрирование/Что требуется для переноса базы 5S AUTO на новый сервер",
       "file": "chto-trebuetsya-dlya-perenosa-bazy-5s-auto-na-novyy-server.md",
       "id": "chto-trebuetsya-dlya-perenosa-bazy-5s-auto-na-novyy-server",
-      "sha": "5fdc47a06195138e13b658ac0c7d2ee049d2fb27",
+      "sha": "a2f0db45d75306c8ec8d16507e7075b1b351b2c4",
       "title": "Что требуется для переноса базы 5S AUTO на новый сервер",
       "type": "tips",
       "order": 0,
@@ -1001,7 +1001,7 @@
       "path": "tips/5S AUTO/Маркировка/Не обнаружено доступных интеграций для работы с Честным знаком",
       "file": "ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak.md",
       "id": "ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak",
-      "sha": "0f2d156c8e447416486eb6a6c69cefdfcc7b2180",
+      "sha": "2377e136ec8fa866aadf295b41c5ff311e4724ae",
       "title": "Не обнаружено доступных интеграций для работы с Честным знаком",
       "type": "tips",
       "order": 2,
@@ -1041,7 +1041,7 @@
       "path": "tips/5S AUTO/Маркировка/Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
       "file": "ne-podpisyvaetsya-token-chestnogo-znaka.md",
       "id": "ne-podpisyvaetsya-token-chestnogo-znaka",
-      "sha": "e996b70debbea2a19e8e1da57518e7213a5bbf31",
+      "sha": "2dc9267824c792e4b26ac22fef48ab0f25ae6afe",
       "title": "Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
       "type": "tips",
       "order": 4,
@@ -1243,7 +1243,7 @@
       "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки в разрешительном режиме",
       "file": "ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime.md",
       "id": "ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime",
-      "sha": "5e26614ed6a2a6f680fd5c3a544924cde3ac59f0",
+      "sha": "9001edabd99afbfbfa8fb578eab10b48ce262263",
       "title": "Не проходит проверка кода маркировки в разрешительном режиме",
       "type": "tips",
       "order": 7,

@@ -33,6 +33,7 @@
 ## См. также
 
 - [Лицензирование 5S AUTO](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sistema-licenzirovaniya-5s-auto)
+- [Не обновляется токен Честного знака после переезда на другой сервер](../../Маркировка/Не%20обновляется%20токен%20Честного%20знака%20после%20переезда%20на%20другой%20сервер/ne-obnovlyaetsya-token-chestnogo-znaka-posle-pereezda-na-drugoy-server.md)
 - [Как обратиться в техническую поддержку](https://kb.5systems.ru/tips/tekhpodderzhka/kak-obratitsya-v-tekhnicheskuyu-podderzhku)
 
 ## Похожие вопросы
