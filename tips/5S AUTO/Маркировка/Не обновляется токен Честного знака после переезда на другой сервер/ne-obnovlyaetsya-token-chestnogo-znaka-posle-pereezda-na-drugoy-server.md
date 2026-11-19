@@ -4,6 +4,8 @@
 
 <sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/1/ticket/24510/</sub>
 
+###### *Опубликовано 19.11.2026: [https://kb.5systems.ru/tips/5s-auto/markirovka/ne-obnovlyaetsya-token-chestnogo-znaka-posle-pereezda-na-drugoy-server](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-obnovlyaetsya-token-chestnogo-znaka-posle-pereezda-na-drugoy-server)*
+
 ## Проблема
 
 После подписания токена Честного знака через браузер статус токена в программе не обновляется. Проблема появилась после переезда на новый сервер.
@@ -42,7 +44,6 @@
 
 - [Не подписывается токен Честного знака (сертификат не найден в личном хранилище)](../Не%20подписывается%20токен%20Честного%20знака%20%28сертификат%20не%20найден%20в%20личном%20хранилище%29/ne-podpisyvaetsya-token-chestnogo-znaka.md)
 - [Не обнаружено доступных интеграций для работы с Честным знаком](../Не%20обнаружено%20доступных%20интеграций%20для%20работы%20с%20Честным%20знаком/ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak.md)
-- [Что требуется для переноса базы 5S AUTO на новый сервер](../../Администрирование/Что%20требуется%20для%20переноса%20базы%205S%20AUTO%20на%20новый%20сервер/chto-trebuetsya-dlya-perenosa-bazy-5s-auto-na-novyy-server.md)
 
 ## Материалы для изучения
 
