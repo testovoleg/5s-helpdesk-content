@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:27:54+03:00",
+  "generated_at": "2026-11-19T16:30:32+03:00",
   "count": 681,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Маркировка/Не обновляется токен Честного знака после переезда на другой сервер",
       "file": "ne-obnovlyaetsya-token-chestnogo-znaka-posle-pereezda-na-drugoy-server.md",
       "id": "ne-obnovlyaetsya-token-chestnogo-znaka-posle-pereezda-na-drugoy-server",
-      "sha": "8f66c2293d3ad2f1de1a46e126c4a2fa2d45fb17",
+      "sha": "9f5fd1e35f71aa0a517b3107d46b56bba9c18d7d",
       "title": "Не обновляется токен Честного знака после переезда на другой сервер",
       "type": "tips",
       "order": 3,
