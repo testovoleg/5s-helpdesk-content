@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T14:03:03+03:00",
-  "count": 680,
+  "generated_at": "2026-11-19T15:48:38+03:00",
+  "count": 681,
   "sections": {
     "tips": [
       {
@@ -818,6 +818,24 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Маркировка/Не обновляется токен Честного знака после переезда на другой сервер",
+      "file": "ne-obnovlyaetsya-token-chestnogo-znaka-posle-pereezda-na-drugoy-server.md",
+      "id": "ne-obnovlyaetsya-token-chestnogo-znaka-posle-pereezda-na-drugoy-server",
+      "sha": "8f053bb53e3ffa4eca4d71a494ee54bb6980d9a9",
+      "title": "Не обновляется токен Честного знака после переезда на другой сервер",
+      "type": "tips",
+      "order": 3,
+      "updated_at": "2026-11-19",
+      "date_kind": "created",
+      "added_at": "2026-11-19T15:47:28+03:00",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "kind": "created"
+        }
+      ]
+    },
+    {
       "path": "tips/5S AUTO/Администрирование/Что требуется для переноса базы 5S AUTO на новый сервер",
       "file": "chto-trebuetsya-dlya-perenosa-bazy-5s-auto-na-novyy-server.md",
       "id": "chto-trebuetsya-dlya-perenosa-bazy-5s-auto-na-novyy-server",
@@ -1026,7 +1044,7 @@
       "sha": "e996b70debbea2a19e8e1da57518e7213a5bbf31",
       "title": "Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
       "type": "tips",
-      "order": 3,
+      "order": 4,
       "updated_at": "2026-11-05",
       "date_kind": "updated",
       "added_at": "2026-11-02T16:54:35+03:00",
@@ -1228,7 +1246,7 @@
       "sha": "5e26614ed6a2a6f680fd5c3a544924cde3ac59f0",
       "title": "Не проходит проверка кода маркировки в разрешительном режиме",
       "type": "tips",
-      "order": 6,
+      "order": 7,
       "updated_at": "2026-11-16",
       "date_kind": "updated",
       "added_at": "2026-10-21T12:54:05+03:00",
@@ -1993,7 +2011,7 @@
       "sha": "5ccc64c38f53aedda8d8fe3a9b04d168844ed829",
       "title": "Не проходит проверка кода маркировки",
       "type": "tips",
-      "order": 5,
+      "order": 6,
       "updated_at": "2026-09-24",
       "date_kind": "created",
       "added_at": "2026-09-24T15:39:36+03:00",
@@ -2119,7 +2137,7 @@
       "sha": "d7d29fffa4f9c5c74f1c35e2f0c3c1f0b589a467",
       "title": "Не проводится документ с маркированным товаром",
       "type": "tips",
-      "order": 4,
+      "order": 5,
       "updated_at": "2026-09-22",
       "date_kind": "created",
       "added_at": "2026-09-22T14:30:51+03:00",
