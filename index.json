@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:08:53+03:00",
+  "generated_at": "2026-11-19T10:23:08+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -4092,7 +4092,7 @@
       "path": "lessons/Урок 11. Расшифровка VIN и гос.номера/Как расшифровать автомобиль по VIN",
       "file": "kak-rasshifrovat-avtomobil-po-vin.md",
       "id": "kak-rasshifrovat-avtomobil-po-vin",
-      "sha": "34f9ba504b2ee709c94c4cd7e2de9aa1ae93c30c",
+      "sha": "c76e5d2fbc920b1af22967d67f95d53b6cc451bd",
       "title": "Как расшифровать автомобиль по VIN",
       "type": "lessons",
       "order": 1,
@@ -12256,7 +12256,7 @@
       "path": "articles/5S AUTO/Автосервис/Расшифровка автомобиля по VIN",
       "file": "rasshifrovka-avtomobilya-po-vin.md",
       "id": "rasshifrovka-avtomobilya-po-vin",
-      "sha": "d4f203a2fa4836d1829bfbfc38fc91c8c17c363b",
+      "sha": "6cf6b9db2e92b3918fa453e3d0f7eb8148f691a3",
       "title": "Расшифровка автомобиля по VIN",
       "type": "articles",
       "order": 2,
