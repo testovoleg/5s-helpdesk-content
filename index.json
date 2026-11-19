@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T10:40:56+03:00",
-  "count": 679,
+  "generated_at": "2026-11-19T13:54:22+03:00",
+  "count": 680,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Администрирование/Какие лицензии нужны при переносе базы на новый сервер",
+      "file": "kakie-licenzii-nuzhny-pri-perenose-bazy-na-novyy-server.md",
+      "id": "kakie-licenzii-nuzhny-pri-perenose-bazy-na-novyy-server",
+      "sha": "5e1cd9bf256830e6c1a974eef9969f632e41043e",
+      "title": "Какие лицензии нужны при переносе базы на новый сервер",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-19",
+      "date_kind": "created",
+      "added_at": "2026-11-19T13:41:11+03:00",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/CRM/Как посмотреть несостоявшиеся сделки и причины отказов клиентов",
       "file": "kak-posmotret-nesostoyavshiesya-sdelki-i-prichiny-otkazov-klientov.md",
@@ -14636,20 +14654,24 @@
       "path": "articles/5S AUTO/Администрирование и настройка системы/Лицензирование 5S AUTO",
       "file": "sistema-licenzirovaniya-5s-auto.md",
       "id": "sistema-licenzirovaniya-5s-auto",
-      "sha": "f96e90925c31e8edb16b7c49cdd1438064a7a8d7",
+      "sha": "89571a1d6244028a265f5207c888d5aa7984036f",
       "title": "Лицензирование 5S AUTO",
       "type": "articles",
       "order": 13,
-      "updated_at": "2026-08-17",
+      "updated_at": "2026-11-19",
       "date_kind": "updated",
       "added_at": "2026-07-29T15:46:44+03:00",
       "history": [
         {
           "date": "2026-08-17",
           "kind": "updated"
+        },
+        {
+          "date": "2026-11-19",
+          "kind": "updated"
         }
       ],
-      "reading_time": 9
+      "reading_time": 11
     },
     {
       "path": "articles/5S AUTO/Отчеты/Отчет Обращение клиентов в автосервис",
