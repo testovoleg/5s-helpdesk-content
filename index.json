@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:17:32+03:00",
+  "generated_at": "2026-11-20T13:43:21+03:00",
   "count": 676,
   "sections": {
     "tips": [
@@ -14342,16 +14342,20 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка авторизации эквайринга 1001",
       "file": "oshibka-avtorizacii-ekvayringa-1001.md",
       "id": "oshibka-avtorizacii-ekvayringa-1001",
-      "sha": "ecd45d19854e18b8c23ea08a19dc9a930e91c100",
+      "sha": "619194a1c1e4ab902176375d45352af3c9f6762b",
       "title": "Ошибка авторизации эквайринга 1001",
       "type": "tips",
       "order": 6,
-      "updated_at": "2026-08-24",
+      "updated_at": "2026-11-20",
       "date_kind": "updated",
       "added_at": "2026-07-31T09:42:06+03:00",
       "history": [
         {
           "date": "2026-08-24",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-20",
           "kind": "updated"
         }
       ]
