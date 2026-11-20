@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:35:25+03:00",
+  "generated_at": "2026-11-20T11:44:35+03:00",
   "count": 681,
   "sections": {
     "tips": [
@@ -12272,7 +12272,7 @@
       "path": "articles/5S AUTO/Автосервис/Расшифровка автомобиля по VIN",
       "file": "rasshifrovka-avtomobilya-po-vin.md",
       "id": "rasshifrovka-avtomobilya-po-vin",
-      "sha": "691838f8201bd4f76d313f1013cb377fb6978e50",
+      "sha": "56fcdde51d201a4421ccb83f0b63cb84376f39f2",
       "title": "Расшифровка автомобиля по VIN",
       "type": "articles",
       "order": 2,
@@ -14582,16 +14582,20 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка авторизации эквайринга 1001",
       "file": "oshibka-avtorizacii-ekvayringa-1001.md",
       "id": "oshibka-avtorizacii-ekvayringa-1001",
-      "sha": "22d24ea306a4df889c5029ab2c116b0627c2a6d8",
+      "sha": "a157804cc5002cdb411c4234f81e556f9616d365",
       "title": "Ошибка авторизации эквайринга 1001",
       "type": "tips",
       "order": 6,
-      "updated_at": "2026-08-24",
+      "updated_at": "2026-11-20",
       "date_kind": "updated",
       "added_at": "2026-07-31T09:42:06+03:00",
       "history": [
         {
           "date": "2026-08-24",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-20",
           "kind": "updated"
         }
       ]
