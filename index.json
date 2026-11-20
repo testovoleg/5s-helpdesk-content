@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:19:22+03:00",
+  "generated_at": "2026-11-20T14:44:28+03:00",
   "count": 681,
   "sections": {
     "tips": [
@@ -8722,11 +8722,11 @@
       "path": "articles/5S AUTO/Касса/Упрощенный Фронт кассира",
       "file": "uproschennyy-front-kassira.md",
       "id": "uproschennyy-front-kassira",
-      "sha": "9b9daae31c5e911c2ac29fe36897578edb3c4e5a",
+      "sha": "c70aaea456077a1774342b09dcd88d130af3971d",
       "title": "Упрощенный Фронт кассира",
       "type": "articles",
       "order": 3,
-      "updated_at": "2025-02-25",
+      "updated_at": "2026-11-20",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
       "history": [
@@ -8736,6 +8736,10 @@
         },
         {
           "date": "2025-02-25",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-20",
           "kind": "updated"
         }
       ],
