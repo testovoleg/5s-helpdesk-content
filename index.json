@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:27:55+03:00",
+  "generated_at": "2026-11-20T15:42:05+03:00",
   "count": 676,
   "sections": {
     "tips": [
@@ -1347,12 +1347,12 @@
       "path": "tips/Оборудование/Банковские терминалы/Операция одобрена банком, но результат не удалось передать в 1С",
       "file": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s.md",
       "id": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s",
-      "sha": "a49cea6b51d3003d678f2ead6c5947cbc8e629eb",
+      "sha": "e29ed639e5811b22f041298f55305b38ec7a554e",
       "title": "Операция одобрена банком, но результат не удалось передать в 1С",
       "type": "tips",
       "order": 3,
-      "updated_at": "2026-10-14",
-      "date_kind": "created",
+      "updated_at": "2026-11-20",
+      "date_kind": "updated",
       "added_at": "2026-10-14T14:35:39+03:00",
       "history": [
         {
@@ -1362,6 +1362,10 @@
         {
           "date": "2026-10-14",
           "kind": "created"
+        },
+        {
+          "date": "2026-11-20",
+          "kind": "updated"
         }
       ]
     },
@@ -1457,12 +1461,12 @@
       "path": "tips/Оборудование/Банковские терминалы/Результат операции неизвестен – списание могло пройти",
       "file": "rezultat-operacii-neizvesten-spisanie-moglo-proyti.md",
       "id": "rezultat-operacii-neizvesten-spisanie-moglo-proyti",
-      "sha": "740fd6d33bedb024ffc29c89fd2a16fb4cea2d87",
+      "sha": "4555a39e4a4a77c4f3c49e58b79c8369db50cdc7",
       "title": "Результат операции неизвестен – списание могло пройти",
       "type": "tips",
       "order": 4,
-      "updated_at": "2026-10-14",
-      "date_kind": "created",
+      "updated_at": "2026-11-20",
+      "date_kind": "updated",
       "added_at": "2026-10-14T14:35:39+03:00",
       "history": [
         {
@@ -1472,6 +1476,10 @@
         {
           "date": "2026-10-14",
           "kind": "created"
+        },
+        {
+          "date": "2026-11-20",
+          "kind": "updated"
         }
       ]
     },
@@ -14346,7 +14354,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка авторизации эквайринга 1001",
       "file": "oshibka-avtorizacii-ekvayringa-1001.md",
       "id": "oshibka-avtorizacii-ekvayringa-1001",
-      "sha": "9d5633d3137f4224bc8c8535b9af96453748fea1",
+      "sha": "60a5d63ec48b58e0c9a5ec3baf65327fe226b9eb",
       "title": "Ошибка авторизации эквайринга 1001",
       "type": "tips",
       "order": 6,
