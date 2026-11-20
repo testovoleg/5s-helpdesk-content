@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T17:18:49+03:00",
+  "generated_at": "2026-11-20T09:07:50+03:00",
   "count": 676,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Маркировка/Не обновляется токен Честного знака после переезда на другой сервер",
       "file": "ne-obnovlyaetsya-token-chestnogo-znaka-posle-pereezda-na-drugoy-server.md",
       "id": "ne-obnovlyaetsya-token-chestnogo-znaka-posle-pereezda-na-drugoy-server",
-      "sha": "4f5e70748db0fcccc6449426e9bc106a48e00a22",
+      "sha": "172ad7243511145bf78958a97763a90654c5e6d8",
       "title": "Не обновляется токен Честного знака после переезда на другой сервер",
       "type": "tips",
       "order": 3,
@@ -990,7 +990,7 @@
       "path": "tips/5S AUTO/Маркировка/Не обнаружено доступных интеграций для работы с Честным знаком",
       "file": "ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak.md",
       "id": "ne-obnaruzheno-dostupnyh-integraciy-chestnyy-znak",
-      "sha": "76b1537b3c7cb54ae6f12f0b5fb043807c8ac44f",
+      "sha": "bf34f3fb81b4396cc63ffc55216664d57d902537",
       "title": "Не обнаружено доступных интеграций для работы с Честным знаком",
       "type": "tips",
       "order": 2,
@@ -1030,7 +1030,7 @@
       "path": "tips/5S AUTO/Маркировка/Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
       "file": "ne-podpisyvaetsya-token-chestnogo-znaka.md",
       "id": "ne-podpisyvaetsya-token-chestnogo-znaka",
-      "sha": "9fa2f38f1986276a35a82184c1339028aaafa4cc",
+      "sha": "cc7a16c1e07c43e98e09f977dc5200a7fdc6114d",
       "title": "Не подписывается токен Честного знака (сертификат не найден в личном хранилище)",
       "type": "tips",
       "order": 4,
@@ -1231,7 +1231,7 @@
       "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки в разрешительном режиме",
       "file": "ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime.md",
       "id": "ne-prohodit-proverka-koda-markirovki-v-razreshitelnom-rezhime",
-      "sha": "b18380a7293cd3c69d789cb399388ef01b0a98b4",
+      "sha": "63e70568e55a3d23f160e55f1eda4e796161ebde",
       "title": "Не проходит проверка кода маркировки в разрешительном режиме",
       "type": "tips",
       "order": 7,

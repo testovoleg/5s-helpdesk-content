@@ -53,6 +53,7 @@
 
 ## См. также
 
+- «[Не обновляется токен Честного знака после переезда на другой сервер](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-obnovlyaetsya-token-chestnogo-znaka-posle-pereezda-na-drugoy-server)»
 - «[Не проходит проверка кода маркировки](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-prohodit-proverka-koda-markirovki)»
 - «[Не подписывается токен Честного знака (сертификат не найден в личном хранилище)](https://kb.5systems.ru/tips/5s-auto/markirovka/ne-podpisyvaetsya-token-chestnogo-znaka)»
 
