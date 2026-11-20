@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:43:21+03:00",
+  "generated_at": "2026-11-20T15:27:55+03:00",
   "count": 676,
   "sections": {
     "tips": [
@@ -8522,11 +8522,11 @@
       "path": "articles/5S AUTO/Касса/Упрощенный Фронт кассира",
       "file": "uproschennyy-front-kassira.md",
       "id": "uproschennyy-front-kassira",
-      "sha": "de0ca42a34f2706b32ae966016a12ffb9dc39d2e",
+      "sha": "978644268547608d20387f153cc7a5ded89df24f",
       "title": "Упрощенный Фронт кассира",
       "type": "articles",
       "order": 3,
-      "updated_at": "2025-02-25",
+      "updated_at": "2026-11-20",
       "date_kind": "updated",
       "added_at": "2026-09-07T11:33:39+03:00",
       "history": [
@@ -8536,6 +8536,10 @@
         },
         {
           "date": "2025-02-25",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-20",
           "kind": "updated"
         }
       ],
@@ -14342,7 +14346,7 @@
       "path": "tips/Оборудование/Банковские терминалы/Ошибка авторизации эквайринга 1001",
       "file": "oshibka-avtorizacii-ekvayringa-1001.md",
       "id": "oshibka-avtorizacii-ekvayringa-1001",
-      "sha": "619194a1c1e4ab902176375d45352af3c9f6762b",
+      "sha": "9d5633d3137f4224bc8c8535b9af96453748fea1",
       "title": "Ошибка авторизации эквайринга 1001",
       "type": "tips",
       "order": 6,
