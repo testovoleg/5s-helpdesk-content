@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T15:42:05+03:00",
-  "count": 676,
+  "generated_at": "2026-11-20T17:30:36+03:00",
+  "count": 677,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Практики/Новые договоры создаются с флажком «Автоматическое закрытие сделок»",
+      "file": "novye-dogovory-s-flagom-avtomaticheskogo-zakrytiya-sdelok.md",
+      "id": "novye-dogovory-s-flagom-avtomaticheskogo-zakrytiya-sdelok",
+      "sha": "96cda441f3f619f6bac7a9150fbe6c7a6e235027",
+      "title": "Новые договоры создаются с флажком «Автоматическое закрытие сделок»",
+      "type": "tips",
+      "order": 14,
+      "updated_at": "2026-11-20",
+      "date_kind": "created",
+      "added_at": "2026-11-20T17:30:34+03:00",
+      "history": [
+        {
+          "date": "2026-11-20",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/Маркировка/Не обновляется токен Честного знака после переезда на другой сервер",
       "file": "ne-obnovlyaetsya-token-chestnogo-znaka-posle-pereezda-na-drugoy-server.md",
