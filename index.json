@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:17:48+03:00",
+  "generated_at": "2026-11-23T11:50:52+03:00",
   "count": 677,
   "sections": {
     "tips": [
@@ -827,11 +827,11 @@
       "order": 0,
       "updated_at": "2026-11-23",
       "date_kind": "updated",
-      "added_at": "2026-11-20T17:30:34+03:00",
+      "added_at": "2026-11-20T16:16:34+03:00",
       "history": [
         {
           "date": "2026-11-20",
-          "kind": "created"
+          "kind": "updated"
         },
         {
           "date": "2026-11-23",
@@ -849,32 +849,13 @@
       "order": 3,
       "updated_at": "2026-11-19",
       "date_kind": "created",
-      "added_at": "2026-11-19T16:51:14+03:00",
+      "added_at": "2026-11-19T15:47:28+03:00",
       "history": [
         {
           "date": "2026-11-19",
           "kind": "created"
         }
       ]
-    },
-    {
-      "path": "articles/5S AUTO/Учет взаиморасчетов/Платежный календарь",
-      "file": "platezhnyy-kalendar.md",
-      "id": "platezhnyy-kalendar",
-      "sha": "42b34014a47de91051296c97b252ce72ba84b49e",
-      "title": "Платежный календарь",
-      "type": "articles",
-      "order": 8,
-      "updated_at": "2026-11-17",
-      "date_kind": "created",
-      "added_at": "2026-11-17T14:13:58+03:00",
-      "history": [
-        {
-          "date": "2026-11-17",
-          "kind": "created"
-        }
-      ],
-      "reading_time": 18
     },
     {
       "path": "tips/5S AUTO/CRM/Как посмотреть несостоявшиеся сделки и причины отказов клиентов",
@@ -886,7 +867,7 @@
       "order": 0,
       "updated_at": "2026-11-16",
       "date_kind": "updated",
-      "added_at": "2026-11-16T15:11:01+03:00",
+      "added_at": "2026-11-16T15:09:35+03:00",
       "history": [
         {
           "date": "2026-11-16",
@@ -904,7 +885,7 @@
       "order": 0,
       "updated_at": "2026-11-16",
       "date_kind": "created",
-      "added_at": "2026-11-16T10:44:27+03:00",
+      "added_at": "2026-11-16T10:20:10+03:00",
       "history": [
         {
           "date": "2026-11-16",
@@ -922,7 +903,7 @@
       "order": 0,
       "updated_at": "2026-11-16",
       "date_kind": "created",
-      "added_at": "2026-11-16T09:55:01+03:00",
+      "added_at": "2026-11-16T09:05:46+03:00",
       "history": [
         {
           "date": "2026-11-16",
@@ -940,8 +921,12 @@
       "order": 0,
       "updated_at": "2026-11-10",
       "date_kind": "created",
-      "added_at": "2026-11-10T09:54:12+03:00",
+      "added_at": "2026-11-09T13:18:06+03:00",
       "history": [
+        {
+          "date": "2026-11-09",
+          "kind": "updated"
+        },
         {
           "date": "2026-11-10",
           "kind": "created"
@@ -958,8 +943,12 @@
       "order": 0,
       "updated_at": "2026-11-09",
       "date_kind": "created",
-      "added_at": "2026-11-09T09:28:44+03:00",
+      "added_at": "2026-11-05T15:11:14+03:00",
       "history": [
+        {
+          "date": "2026-11-05",
+          "kind": "created"
+        },
         {
           "date": "2026-11-09",
           "kind": "created"
@@ -982,8 +971,12 @@
       "order": 0,
       "updated_at": "2026-11-06",
       "date_kind": "created",
-      "added_at": "2026-11-06T14:32:11+03:00",
+      "added_at": "2026-11-05T14:51:21+03:00",
       "history": [
+        {
+          "date": "2026-11-05",
+          "kind": "created"
+        },
         {
           "date": "2026-11-06",
           "kind": "created"
@@ -1000,7 +993,7 @@
       "order": 0,
       "updated_at": "2026-11-05",
       "date_kind": "created",
-      "added_at": "2026-11-05T14:07:10+03:00",
+      "added_at": "2026-11-05T13:41:31+03:00",
       "history": [
         {
           "date": "2026-11-05",
@@ -1018,7 +1011,7 @@
       "order": 2,
       "updated_at": "2026-11-05",
       "date_kind": "created",
-      "added_at": "2026-11-05T11:10:24+03:00",
+      "added_at": "2026-11-05T10:07:16+03:00",
       "history": [
         {
           "date": "2026-11-05",
@@ -1036,7 +1029,7 @@
       "order": 0,
       "updated_at": "2026-11-05",
       "date_kind": "updated",
-      "added_at": "2026-11-03T16:05:17+03:00",
+      "added_at": "2026-11-03T15:24:27+03:00",
       "history": [
         {
           "date": "2026-11-03",
@@ -1058,8 +1051,12 @@
       "order": 4,
       "updated_at": "2026-11-05",
       "date_kind": "updated",
-      "added_at": "2026-11-03T10:21:14+03:00",
+      "added_at": "2026-11-02T16:54:35+03:00",
       "history": [
+        {
+          "date": "2026-11-02",
+          "kind": "updated"
+        },
         {
           "date": "2026-11-03",
           "kind": "updated"
@@ -1080,7 +1077,7 @@
       "order": 0,
       "updated_at": "2026-11-13",
       "date_kind": "updated",
-      "added_at": "2026-11-02T10:51:13+03:00",
+      "added_at": "2026-11-02T08:41:07+03:00",
       "history": [
         {
           "date": "2026-11-02",
@@ -1102,11 +1099,15 @@
       "order": 0,
       "updated_at": "2026-11-18",
       "date_kind": "updated",
-      "added_at": "2026-10-30T15:49:27+03:00",
+      "added_at": "2026-10-30T15:11:03+03:00",
       "history": [
         {
           "date": "2026-10-30",
           "kind": "created"
+        },
+        {
+          "date": "2026-11-17",
+          "kind": "updated"
         },
         {
           "date": "2026-11-18",
@@ -1124,7 +1125,7 @@
       "order": 0,
       "updated_at": "2026-10-30",
       "date_kind": "created",
-      "added_at": "2026-10-30T13:56:14+03:00",
+      "added_at": "2026-10-30T13:31:55+03:00",
       "history": [
         {
           "date": "2026-10-30",
@@ -1142,7 +1143,7 @@
       "order": 0,
       "updated_at": "2026-10-30",
       "date_kind": "created",
-      "added_at": "2026-10-30T11:56:26+03:00",
+      "added_at": "2026-10-30T09:38:03+03:00",
       "history": [
         {
           "date": "2026-10-30",
@@ -1160,11 +1161,19 @@
       "order": 0,
       "updated_at": "2026-11-10",
       "date_kind": "updated",
-      "added_at": "2026-10-30T09:11:27+03:00",
+      "added_at": "2026-10-27T15:24:40+03:00",
       "history": [
         {
-          "date": "2026-10-30",
+          "date": "2026-10-27",
           "kind": "created"
+        },
+        {
+          "date": "2026-10-29",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-10-30",
+          "kind": "updated"
         },
         {
           "date": "2026-11-10",
@@ -1182,7 +1191,7 @@
       "order": 0,
       "updated_at": "2026-10-29",
       "date_kind": "updated",
-      "added_at": "2026-10-26T17:00:52+03:00",
+      "added_at": "2026-10-26T14:30:18+03:00",
       "history": [
         {
           "date": "2026-10-26",
@@ -1204,50 +1213,13 @@
       "order": 0,
       "updated_at": "2026-10-26",
       "date_kind": "created",
-      "added_at": "2026-10-26T13:38:08+03:00",
+      "added_at": "2026-10-26T11:06:19+03:00",
       "history": [
         {
           "date": "2026-10-26",
           "kind": "created"
         }
       ]
-    },
-    {
-      "path": "tips/5S AUTO/Склад и запчасти/При заполнении инвентаризации по ячейкам хранения попадают не все товары",
-      "file": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary.md",
-      "id": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary",
-      "sha": "954dec1f1f9d30bfdb90f315ca3f6c16bac3c1da",
-      "title": "При заполнении инвентаризации по ячейкам хранения попадают не все товары",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-10-26",
-      "date_kind": "created",
-      "added_at": "2026-10-26T10:36:08+03:00",
-      "history": [
-        {
-          "date": "2026-10-26",
-          "kind": "created"
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Администрирование и настройка системы/Автоматическая выгрузка данных в 1С Бухгалтерию",
-      "file": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu.md",
-      "id": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu",
-      "sha": "2d436c64b67ade14b49c74429f41ee4070b4f2f5",
-      "title": "Автоматическая выгрузка данных в 1С:Бухгалтерию",
-      "type": "articles",
-      "order": 25,
-      "updated_at": "2026-10-22",
-      "date_kind": "created",
-      "added_at": "2026-10-22T09:27:08+03:00",
-      "history": [
-        {
-          "date": "2026-10-22",
-          "kind": "created"
-        }
-      ],
-      "reading_time": 4
     },
     {
       "path": "tips/5S AUTO/Маркировка/Не проходит проверка кода маркировки в разрешительном режиме",
@@ -1259,7 +1231,7 @@
       "order": 7,
       "updated_at": "2026-11-16",
       "date_kind": "updated",
-      "added_at": "2026-10-21T15:00:23+03:00",
+      "added_at": "2026-10-21T12:54:05+03:00",
       "history": [
         {
           "date": "2026-10-21",
@@ -1278,6 +1250,291 @@
       ]
     },
     {
+      "path": "articles/5S AUTO/История релизов/Архив обновлений 2021–2022",
+      "file": "arkhiv-obnovleniy-2021-2022.md",
+      "id": "arkhiv-obnovleniy-2021-2022",
+      "sha": "fcf45a2dd958c1b4228410883c00cc8f23911e81",
+      "title": "Архив обновлений 2021–2022",
+      "type": "articles",
+      "order": 15,
+      "updated_at": "2022-07-19",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:59:02+03:00",
+      "history": [
+        {
+          "date": "2022-07-19",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 16
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Новый релиз 2.2.7",
+      "file": "novyy-reliz-227.md",
+      "id": "novyy-reliz-227",
+      "sha": "046614b018229f00e8cb1324d1500898f98f0dac",
+      "title": "Новый релиз 2.2.7",
+      "type": "articles",
+      "order": 14,
+      "updated_at": "2022-09-20",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:18:51+03:00",
+      "history": [
+        {
+          "date": "2022-09-20",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 2
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Новый релиз 2.3.1",
+      "file": "novyy-reliz-231.md",
+      "id": "novyy-reliz-231",
+      "sha": "cd339d355ea777b1361884778d8376924af18828",
+      "title": "Новый релиз 2.3.1",
+      "type": "articles",
+      "order": 13,
+      "updated_at": "2023-01-13",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:18:51+03:00",
+      "history": [
+        {
+          "date": "2023-01-13",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 3
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Новый релиз 2.4.1",
+      "file": "novyy-reliz-241.md",
+      "id": "novyy-reliz-241",
+      "sha": "93d35931249f0feb16b422c69f65e8400dc01f4c",
+      "title": "Новый релиз 2.4.1",
+      "type": "articles",
+      "order": 12,
+      "updated_at": "2023-04-04",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:18:51+03:00",
+      "history": [
+        {
+          "date": "2023-04-04",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Новый релиз 2.5.1",
+      "file": "novyy-reliz-251.md",
+      "id": "novyy-reliz-251",
+      "sha": "ef59a7917d9c68a34ed9389899f6b230c461cb51",
+      "title": "Новый релиз 2.5.1",
+      "type": "articles",
+      "order": 11,
+      "updated_at": "2023-06-26",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:18:51+03:00",
+      "history": [
+        {
+          "date": "2023-06-26",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Новый релиз 2.5.2",
+      "file": "novyy-reliz-252.md",
+      "id": "novyy-reliz-252",
+      "sha": "6e0d11aecf62850a0537d2423ca9da0629f730ec",
+      "title": "Новый релиз 2.5.2",
+      "type": "articles",
+      "order": 9,
+      "updated_at": "2023-08-16",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:18:51+03:00",
+      "history": [
+        {
+          "date": "2023-08-16",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 2
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Новый релиз 2.6.1",
+      "file": "novyy-reliz-261.md",
+      "id": "novyy-reliz-261",
+      "sha": "9bd4dc48213b2cb47999cca2b34fee4a83be36ab",
+      "title": "Новый релиз 2.6.1",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2023-11-30",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:18:51+03:00",
+      "history": [
+        {
+          "date": "2023-11-30",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 2
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Новый релиз 2.7.1",
+      "file": "novyy-reliz-271.md",
+      "id": "novyy-reliz-271",
+      "sha": "47272be2d8a7ec1f1022619eb512cc6f84dc10cc",
+      "title": "Новый релиз 2.7.1",
+      "type": "articles",
+      "order": 7,
+      "updated_at": "2024-04-24",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:18:51+03:00",
+      "history": [
+        {
+          "date": "2024-04-24",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 3
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Новый релиз 2.7.2",
+      "file": "novyy-reliz-272.md",
+      "id": "novyy-reliz-272",
+      "sha": "a22e691d6ac66b508e3c7babbed73313965bc4bb",
+      "title": "Новый релиз 2.7.2",
+      "type": "articles",
+      "order": 6,
+      "updated_at": "2024-06-27",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:18:51+03:00",
+      "history": [
+        {
+          "date": "2024-06-27",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 1
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Новый релиз 2.8.1",
+      "file": "novyy-reliz-281.md",
+      "id": "novyy-reliz-281",
+      "sha": "513c6b54380b56a6643eaafd347468e41ae624be",
+      "title": "Новый релиз 2.8.1",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2024-12-17",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:18:51+03:00",
+      "history": [
+        {
+          "date": "2024-12-17",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 3
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Новый релиз 2.8.2",
+      "file": "novyy-reliz-282.md",
+      "id": "novyy-reliz-282",
+      "sha": "111c79b156d48a65bf2110d0f8516c846e8b2b95",
+      "title": "Новый релиз 2.8.2",
+      "type": "articles",
+      "order": 3,
+      "updated_at": "2025-05-15",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:18:51+03:00",
+      "history": [
+        {
+          "date": "2025-05-15",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Новый релиз 2.8.3",
+      "file": "novyy-reliz-283.md",
+      "id": "novyy-reliz-283",
+      "sha": "593c20c2b53016e1db86f7219da3333b8ef9331a",
+      "title": "Новый релиз 2.8.3",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-03-31",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:18:51+03:00",
+      "history": [
+        {
+          "date": "2026-03-31",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Новый релиз 2.8.4",
+      "file": "novyy-reliz-284.md",
+      "id": "novyy-reliz-284",
+      "sha": "b1317b828013d99bce0401be4498282d609387c1",
+      "title": "Новый релиз 2.8.4",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-06-22",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:18:51+03:00",
+      "history": [
+        {
+          "date": "2026-06-22",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 3
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Технический релиз 2.2.7.3",
+      "file": "tekhnicheskiy-reliz-2273.md",
+      "id": "tekhnicheskiy-reliz-2273",
+      "sha": "bc99399dffc58f3ea0b478b744639afcd5dd99f7",
+      "title": "Технический релиз 2.2.7.3",
+      "type": "articles",
+      "order": 10,
+      "updated_at": "2023-07-04",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:18:51+03:00",
+      "history": [
+        {
+          "date": "2023-07-04",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/История релизов/Технический релиз 2.7.3",
+      "file": "tekhnicheskiy-reliz-273.md",
+      "id": "tekhnicheskiy-reliz-273",
+      "sha": "52b91053bb58fde4bb77cc0acfcdb8aad4b8daa2",
+      "title": "Технический релиз 2.7.3",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2024-07-08",
+      "date_kind": "updated",
+      "added_at": "2026-10-12T14:18:51+03:00",
+      "history": [
+        {
+          "date": "2024-07-08",
+          "kind": "updated"
+        }
+      ],
+      "reading_time": 1
+    },
+    {
       "path": "articles/5S AUTO/Склад и запчасти/Штрихкодирование/Штрихкодирование ячеек хранения",
       "file": "shtrikhkodirovanie-yacheek-khraneniya.md",
       "id": "shtrikhkodirovanie-yacheek-khraneniya",
@@ -1287,64 +1544,18 @@
       "order": 3,
       "updated_at": "2026-10-16",
       "date_kind": "created",
-      "added_at": "2026-10-16T17:03:30+03:00",
+      "added_at": "2026-10-12T14:08:14+03:00",
       "history": [
+        {
+          "date": "2026-10-12",
+          "kind": "created"
+        },
         {
           "date": "2026-10-16",
           "kind": "created"
         }
       ],
       "reading_time": 6
-    },
-    {
-      "path": "articles/5S AUTO/Автосервис/Работа с приложением 5S Remzona",
-      "file": "rabota-s-prilozheniem-5s-remzona.md",
-      "id": "rabota-s-prilozheniem-5s-remzona",
-      "sha": "5d84acd5cc5cbaafe1cb69ee1131dfb22a99cd13",
-      "title": "Работа с приложением 5S Remzona",
-      "type": "articles",
-      "order": 17,
-      "updated_at": "2026-10-16",
-      "date_kind": "created",
-      "added_at": "2026-10-16T11:49:59+03:00",
-      "history": [
-        {
-          "date": "2026-10-16",
-          "kind": "created"
-        }
-      ],
-      "reading_time": 24,
-      "also_in": [
-        {
-          "path": "articles/5S Remzona",
-          "order": 0
-        }
-      ]
-    },
-    {
-      "path": "articles/5S AUTO/Прочее/Техподдержка/Переход к Базе знаний из программы",
-      "file": "perekhod-k-baze-znaniy-iz-programmy.md",
-      "id": "perekhod-k-baze-znaniy-iz-programmy",
-      "sha": "cca08403fb05ab48e3168ad57986262bfeadeef9",
-      "title": "Переход к Базе знаний из программы",
-      "type": "articles",
-      "order": 1,
-      "updated_at": "2026-10-16",
-      "date_kind": "created",
-      "added_at": "2026-10-16T11:32:50+03:00",
-      "history": [
-        {
-          "date": "2026-10-16",
-          "kind": "created"
-        }
-      ],
-      "reading_time": 3,
-      "also_in": [
-        {
-          "path": "articles/5S AUTO/CRM",
-          "order": 19
-        }
-      ]
     },
     {
       "path": "articles/5S AUTO/Прочее/Техподдержка/Подписки компании в программе",
@@ -1356,8 +1567,12 @@
       "order": 2,
       "updated_at": "2026-10-16",
       "date_kind": "created",
-      "added_at": "2026-10-16T11:32:50+03:00",
+      "added_at": "2026-10-09T10:03:45+03:00",
       "history": [
+        {
+          "date": "2026-10-09",
+          "kind": "created"
+        },
         {
           "date": "2026-10-16",
           "kind": "created"
@@ -1372,6 +1587,81 @@
       ]
     },
     {
+      "path": "articles/5S AUTO/Администрирование и настройка системы/Автоматическая выгрузка данных в 1С Бухгалтерию",
+      "file": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu.md",
+      "id": "avtomaticheskaya-vygruzka-dannykh-v-1s-bukhgalteriyu",
+      "sha": "2d436c64b67ade14b49c74429f41ee4070b4f2f5",
+      "title": "Автоматическая выгрузка данных в 1С:Бухгалтерию",
+      "type": "articles",
+      "order": 25,
+      "updated_at": "2026-10-22",
+      "date_kind": "created",
+      "added_at": "2026-10-06T10:58:32+03:00",
+      "history": [
+        {
+          "date": "2026-10-06",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-10-22",
+          "kind": "created"
+        }
+      ],
+      "reading_time": 4
+    },
+    {
+      "path": "articles/5S AUTO/Прочее/Техподдержка/Переход к Базе знаний из программы",
+      "file": "perekhod-k-baze-znaniy-iz-programmy.md",
+      "id": "perekhod-k-baze-znaniy-iz-programmy",
+      "sha": "cca08403fb05ab48e3168ad57986262bfeadeef9",
+      "title": "Переход к Базе знаний из программы",
+      "type": "articles",
+      "order": 1,
+      "updated_at": "2026-10-16",
+      "date_kind": "created",
+      "added_at": "2026-10-06T09:59:26+03:00",
+      "history": [
+        {
+          "date": "2026-10-06",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-10-16",
+          "kind": "created"
+        }
+      ],
+      "reading_time": 3,
+      "also_in": [
+        {
+          "path": "articles/5S AUTO/CRM",
+          "order": 19
+        }
+      ]
+    },
+    {
+      "path": "articles/5S AUTO/Учет взаиморасчетов/Платежный календарь",
+      "file": "platezhnyy-kalendar.md",
+      "id": "platezhnyy-kalendar",
+      "sha": "42b34014a47de91051296c97b252ce72ba84b49e",
+      "title": "Платежный календарь",
+      "type": "articles",
+      "order": 8,
+      "updated_at": "2026-11-17",
+      "date_kind": "created",
+      "added_at": "2026-10-01T15:57:33+03:00",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "kind": "created"
+        },
+        {
+          "date": "2026-11-17",
+          "kind": "created"
+        }
+      ],
+      "reading_time": 18
+    },
+    {
       "path": "tips/Оборудование/Банковские терминалы/Операция одобрена банком, но результат не удалось передать в 1С",
       "file": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s.md",
       "id": "operaciya-odobrena-bankom-no-rezultat-ne-udalos-peredat-v-1s",
@@ -1381,7 +1671,7 @@
       "order": 3,
       "updated_at": "2026-11-20",
       "date_kind": "updated",
-      "added_at": "2026-10-14T14:35:39+03:00",
+      "added_at": "2026-09-30T16:07:05+03:00",
       "history": [
         {
           "date": "2026-09-30",
@@ -1407,7 +1697,7 @@
       "order": 0,
       "updated_at": "2026-10-14",
       "date_kind": "created",
-      "added_at": "2026-10-14T14:35:39+03:00",
+      "added_at": "2026-09-30T16:07:05+03:00",
       "history": [
         {
           "date": "2026-09-30",
@@ -1429,7 +1719,7 @@
       "order": 1,
       "updated_at": "2026-10-14",
       "date_kind": "created",
-      "added_at": "2026-10-14T14:35:39+03:00",
+      "added_at": "2026-09-30T16:07:05+03:00",
       "history": [
         {
           "date": "2026-09-30",
@@ -1451,7 +1741,7 @@
       "order": 5,
       "updated_at": "2026-10-14",
       "date_kind": "created",
-      "added_at": "2026-10-14T14:35:39+03:00",
+      "added_at": "2026-09-30T16:07:05+03:00",
       "history": [
         {
           "date": "2026-09-30",
@@ -1473,7 +1763,7 @@
       "order": 2,
       "updated_at": "2026-10-14",
       "date_kind": "created",
-      "added_at": "2026-10-14T14:35:39+03:00",
+      "added_at": "2026-09-30T16:07:05+03:00",
       "history": [
         {
           "date": "2026-09-30",
@@ -1495,7 +1785,7 @@
       "order": 4,
       "updated_at": "2026-11-20",
       "date_kind": "updated",
-      "added_at": "2026-10-14T14:35:39+03:00",
+      "added_at": "2026-09-30T16:07:05+03:00",
       "history": [
         {
           "date": "2026-09-30",
@@ -1521,7 +1811,7 @@
       "order": 7,
       "updated_at": "2026-10-14",
       "date_kind": "created",
-      "added_at": "2026-10-14T14:14:58+03:00",
+      "added_at": "2026-09-30T16:04:08+03:00",
       "history": [
         {
           "date": "2026-09-30",
@@ -1535,251 +1825,75 @@
       "reading_time": 10
     },
     {
-      "path": "articles/5S AUTO/История релизов/Архив обновлений 2021–2022",
-      "file": "arkhiv-obnovleniy-2021-2022.md",
-      "id": "arkhiv-obnovleniy-2021-2022",
-      "sha": "fcf45a2dd958c1b4228410883c00cc8f23911e81",
-      "title": "Архив обновлений 2021–2022",
-      "type": "articles",
-      "order": 15,
-      "updated_at": "2022-07-19",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:59:41+03:00",
-      "history": [
-        {
-          "date": "2022-07-19",
-          "kind": "updated"
-        }
-      ],
-      "reading_time": 16
-    },
-    {
-      "path": "articles/5S AUTO/История релизов/Новый релиз 2.2.7",
-      "file": "novyy-reliz-227.md",
-      "id": "novyy-reliz-227",
-      "sha": "046614b018229f00e8cb1324d1500898f98f0dac",
-      "title": "Новый релиз 2.2.7",
-      "type": "articles",
-      "order": 14,
-      "updated_at": "2022-09-20",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
-      "history": [
-        {
-          "date": "2022-09-20",
-          "kind": "updated"
-        }
-      ],
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/История релизов/Новый релиз 2.3.1",
-      "file": "novyy-reliz-231.md",
-      "id": "novyy-reliz-231",
-      "sha": "cd339d355ea777b1361884778d8376924af18828",
-      "title": "Новый релиз 2.3.1",
-      "type": "articles",
-      "order": 13,
-      "updated_at": "2023-01-13",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
-      "history": [
-        {
-          "date": "2023-01-13",
-          "kind": "updated"
-        }
-      ],
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/История релизов/Новый релиз 2.4.1",
-      "file": "novyy-reliz-241.md",
-      "id": "novyy-reliz-241",
-      "sha": "93d35931249f0feb16b422c69f65e8400dc01f4c",
-      "title": "Новый релиз 2.4.1",
-      "type": "articles",
-      "order": 12,
-      "updated_at": "2023-04-04",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
-      "history": [
-        {
-          "date": "2023-04-04",
-          "kind": "updated"
-        }
-      ],
-      "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/История релизов/Новый релиз 2.5.1",
-      "file": "novyy-reliz-251.md",
-      "id": "novyy-reliz-251",
-      "sha": "ef59a7917d9c68a34ed9389899f6b230c461cb51",
-      "title": "Новый релиз 2.5.1",
-      "type": "articles",
-      "order": 11,
-      "updated_at": "2023-06-26",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
-      "history": [
-        {
-          "date": "2023-06-26",
-          "kind": "updated"
-        }
-      ],
-      "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/История релизов/Новый релиз 2.5.2",
-      "file": "novyy-reliz-252.md",
-      "id": "novyy-reliz-252",
-      "sha": "6e0d11aecf62850a0537d2423ca9da0629f730ec",
-      "title": "Новый релиз 2.5.2",
-      "type": "articles",
-      "order": 9,
-      "updated_at": "2023-08-16",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
-      "history": [
-        {
-          "date": "2023-08-16",
-          "kind": "updated"
-        }
-      ],
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/История релизов/Новый релиз 2.6.1",
-      "file": "novyy-reliz-261.md",
-      "id": "novyy-reliz-261",
-      "sha": "9bd4dc48213b2cb47999cca2b34fee4a83be36ab",
-      "title": "Новый релиз 2.6.1",
-      "type": "articles",
-      "order": 8,
-      "updated_at": "2023-11-30",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
-      "history": [
-        {
-          "date": "2023-11-30",
-          "kind": "updated"
-        }
-      ],
-      "reading_time": 2
-    },
-    {
-      "path": "articles/5S AUTO/История релизов/Новый релиз 2.7.1",
-      "file": "novyy-reliz-271.md",
-      "id": "novyy-reliz-271",
-      "sha": "47272be2d8a7ec1f1022619eb512cc6f84dc10cc",
-      "title": "Новый релиз 2.7.1",
-      "type": "articles",
-      "order": 7,
-      "updated_at": "2024-04-24",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
-      "history": [
-        {
-          "date": "2024-04-24",
-          "kind": "updated"
-        }
-      ],
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/История релизов/Новый релиз 2.7.2",
-      "file": "novyy-reliz-272.md",
-      "id": "novyy-reliz-272",
-      "sha": "a22e691d6ac66b508e3c7babbed73313965bc4bb",
-      "title": "Новый релиз 2.7.2",
-      "type": "articles",
-      "order": 6,
-      "updated_at": "2024-06-27",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
-      "history": [
-        {
-          "date": "2024-06-27",
-          "kind": "updated"
-        }
-      ],
-      "reading_time": 1
-    },
-    {
-      "path": "articles/5S AUTO/История релизов/Новый релиз 2.8.1",
-      "file": "novyy-reliz-281.md",
-      "id": "novyy-reliz-281",
-      "sha": "513c6b54380b56a6643eaafd347468e41ae624be",
-      "title": "Новый релиз 2.8.1",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2024-12-17",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
-      "history": [
-        {
-          "date": "2024-12-17",
-          "kind": "updated"
-        }
-      ],
-      "reading_time": 3
-    },
-    {
-      "path": "articles/5S AUTO/История релизов/Новый релиз 2.8.2",
-      "file": "novyy-reliz-282.md",
-      "id": "novyy-reliz-282",
-      "sha": "111c79b156d48a65bf2110d0f8516c846e8b2b95",
-      "title": "Новый релиз 2.8.2",
-      "type": "articles",
-      "order": 3,
-      "updated_at": "2025-05-15",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
-      "history": [
-        {
-          "date": "2025-05-15",
-          "kind": "updated"
-        }
-      ],
-      "reading_time": 4
-    },
-    {
-      "path": "articles/5S AUTO/История релизов/Новый релиз 2.8.3",
-      "file": "novyy-reliz-283.md",
-      "id": "novyy-reliz-283",
-      "sha": "593c20c2b53016e1db86f7219da3333b8ef9331a",
-      "title": "Новый релиз 2.8.3",
+      "path": "articles/5S AUTO/Маркировка/Подбор и автоподстановка кодов маркировки",
+      "file": "podbor-i-avtopodstanovka-kodov-markirovki.md",
+      "id": "podbor-i-avtopodstanovka-kodov-markirovki",
+      "sha": "bcf33cabea89839761bdc274b2055ac66d6adf40",
+      "title": "Подбор и автоподстановка кодов маркировки",
       "type": "articles",
       "order": 2,
-      "updated_at": "2026-03-31",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
+      "updated_at": "2026-10-07",
+      "date_kind": "created",
+      "added_at": "2026-09-30T15:58:11+03:00",
       "history": [
         {
-          "date": "2026-03-31",
-          "kind": "updated"
+          "date": "2026-09-30",
+          "kind": "created"
+        },
+        {
+          "date": "2026-10-07",
+          "kind": "created"
         }
       ],
-      "reading_time": 4
+      "reading_time": 8
     },
     {
-      "path": "articles/5S AUTO/История релизов/Новый релиз 2.8.4",
-      "file": "novyy-reliz-284.md",
-      "id": "novyy-reliz-284",
-      "sha": "b1317b828013d99bce0401be4498282d609387c1",
-      "title": "Новый релиз 2.8.4",
+      "path": "articles/5S AUTO/Работа с клиентами/Сегментация клиентов",
+      "file": "segmentaciya-klientov.md",
+      "id": "segmentaciya-klientov",
+      "sha": "51ac908f3d7d65e5aad51e0a62da8312720e290c",
+      "title": "Сегментация клиентов",
       "type": "articles",
-      "order": 1,
-      "updated_at": "2026-06-22",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
+      "order": 9,
+      "updated_at": "2026-08-30",
+      "date_kind": "created",
+      "added_at": "2026-09-30T08:44:19+03:00",
       "history": [
         {
-          "date": "2026-06-22",
-          "kind": "updated"
+          "date": "2026-08-30",
+          "kind": "created"
         }
       ],
-      "reading_time": 3
+      "reading_time": 15
+    },
+    {
+      "path": "articles/5S AUTO/Автосервис/Работа с приложением 5S Remzona",
+      "file": "rabota-s-prilozheniem-5s-remzona.md",
+      "id": "rabota-s-prilozheniem-5s-remzona",
+      "sha": "5d84acd5cc5cbaafe1cb69ee1131dfb22a99cd13",
+      "title": "Работа с приложением 5S Remzona",
+      "type": "articles",
+      "order": 17,
+      "updated_at": "2026-10-16",
+      "date_kind": "created",
+      "added_at": "2026-09-28T16:28:09+03:00",
+      "history": [
+        {
+          "date": "2026-09-28",
+          "kind": "created"
+        },
+        {
+          "date": "2026-10-16",
+          "kind": "created"
+        }
+      ],
+      "reading_time": 24,
+      "also_in": [
+        {
+          "path": "articles/5S Remzona",
+          "order": 0
+        }
+      ]
     },
     {
       "path": "articles/5S AUTO/История релизов/Релиз 2.8.5",
@@ -1791,8 +1905,16 @@
       "order": 0,
       "updated_at": "2026-11-23",
       "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
+      "added_at": "2026-09-28T13:41:15+03:00",
       "history": [
+        {
+          "date": "2026-09-28",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-10-05",
+          "kind": "updated"
+        },
         {
           "date": "2026-10-06",
           "kind": "updated"
@@ -1817,137 +1939,26 @@
       "reading_time": 4
     },
     {
-      "path": "articles/5S AUTO/История релизов/Технический релиз 2.2.7.3",
-      "file": "tekhnicheskiy-reliz-2273.md",
-      "id": "tekhnicheskiy-reliz-2273",
-      "sha": "bc99399dffc58f3ea0b478b744639afcd5dd99f7",
-      "title": "Технический релиз 2.2.7.3",
-      "type": "articles",
-      "order": 10,
-      "updated_at": "2023-07-04",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
-      "history": [
-        {
-          "date": "2023-07-04",
-          "kind": "updated"
-        }
-      ],
-      "reading_time": 6
-    },
-    {
-      "path": "articles/5S AUTO/История релизов/Технический релиз 2.7.3",
-      "file": "tekhnicheskiy-reliz-273.md",
-      "id": "tekhnicheskiy-reliz-273",
-      "sha": "52b91053bb58fde4bb77cc0acfcdb8aad4b8daa2",
-      "title": "Технический релиз 2.7.3",
-      "type": "articles",
-      "order": 5,
-      "updated_at": "2024-07-08",
-      "date_kind": "updated",
-      "added_at": "2026-10-12T14:23:33+03:00",
-      "history": [
-        {
-          "date": "2024-07-08",
-          "kind": "updated"
-        }
-      ],
-      "reading_time": 1
-    },
-    {
-      "path": "articles/5S AUTO/Маркировка/Подбор и автоподстановка кодов маркировки",
-      "file": "podbor-i-avtopodstanovka-kodov-markirovki.md",
-      "id": "podbor-i-avtopodstanovka-kodov-markirovki",
-      "sha": "bcf33cabea89839761bdc274b2055ac66d6adf40",
-      "title": "Подбор и автоподстановка кодов маркировки",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2026-10-07",
+      "path": "tips/5S AUTO/Склад и запчасти/При заполнении инвентаризации по ячейкам хранения попадают не все товары",
+      "file": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary.md",
+      "id": "pri-zapolnenii-inventarizacii-po-yacheykam-ne-vse-tovary",
+      "sha": "954dec1f1f9d30bfdb90f315ca3f6c16bac3c1da",
+      "title": "При заполнении инвентаризации по ячейкам хранения попадают не все товары",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-10-26",
       "date_kind": "created",
-      "added_at": "2026-10-07T12:11:33+03:00",
+      "added_at": "2026-09-25T09:22:43+03:00",
       "history": [
         {
-          "date": "2026-10-07",
+          "date": "2026-09-25",
+          "kind": "created"
+        },
+        {
+          "date": "2026-10-26",
           "kind": "created"
         }
-      ],
-      "reading_time": 8
-    },
-    {
-      "path": "articles/5S AUTO/Работа с клиентами/Сегментация клиентов",
-      "file": "segmentaciya-klientov.md",
-      "id": "segmentaciya-klientov",
-      "sha": "51ac908f3d7d65e5aad51e0a62da8312720e290c",
-      "title": "Сегментация клиентов",
-      "type": "articles",
-      "order": 9,
-      "updated_at": "2026-08-30",
-      "date_kind": "created",
-      "added_at": "2026-09-30T09:18:17+03:00",
-      "history": [
-        {
-          "date": "2026-08-30",
-          "kind": "created"
-        }
-      ],
-      "reading_time": 15
-    },
-    {
-      "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Точка Банка",
-      "file": "podklyuchenie-zagruzki-vypisok-tochka-banka.md",
-      "id": "podklyuchenie-zagruzki-vypisok-tochka-banka",
-      "sha": "686f0f1ccab7cf200d7cf4e32691193027af5ecd",
-      "title": "Подключение загрузки выписок Точка Банка",
-      "type": "articles",
-      "order": 5,
-      "updated_at": "2026-09-28",
-      "date_kind": "created",
-      "added_at": "2026-09-28T13:38:25+03:00",
-      "history": [
-        {
-          "date": "2026-09-28",
-          "kind": "created"
-        }
-      ],
-      "reading_time": 6
-    },
-    {
-      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Точка Банка",
-      "file": "podklyuchenie-sbp-tochka-banka.md",
-      "id": "podklyuchenie-sbp-tochka-banka",
-      "sha": "a77a3bc757c7b9b40fb9276c55218359b5ee7aad",
-      "title": "Подключение СБП Точка Банка",
-      "type": "articles",
-      "order": 4,
-      "updated_at": "2026-09-28",
-      "date_kind": "created",
-      "added_at": "2026-09-28T13:38:25+03:00",
-      "history": [
-        {
-          "date": "2026-09-28",
-          "kind": "created"
-        }
-      ],
-      "reading_time": 11
-    },
-    {
-      "path": "articles/5S AUTO/Касса/Настройка кассиров ФР",
-      "file": "nastroyka-kassirov-fr.md",
-      "id": "nastroyka-kassirov-fr",
-      "sha": "ad5c538fddbdbfa111686bb2f45ede97690ae56f",
-      "title": "Настройка кассиров ФР",
-      "type": "articles",
-      "order": 2,
-      "updated_at": "2026-09-28",
-      "date_kind": "created",
-      "added_at": "2026-09-28T13:38:25+03:00",
-      "history": [
-        {
-          "date": "2026-09-28",
-          "kind": "created"
-        }
-      ],
-      "reading_time": 3
+      ]
     },
     {
       "path": "tips/5S AUTO/Склад и запчасти/При загрузке поступления из СБИС подставляется не тот склад",
@@ -1959,8 +1970,12 @@
       "order": 0,
       "updated_at": "2026-09-25",
       "date_kind": "created",
-      "added_at": "2026-09-25T08:54:43+03:00",
+      "added_at": "2026-09-24T16:38:11+03:00",
       "history": [
+        {
+          "date": "2026-09-24",
+          "kind": "created"
+        },
         {
           "date": "2026-09-25",
           "kind": "created"
@@ -1977,13 +1992,36 @@
       "order": 6,
       "updated_at": "2026-09-24",
       "date_kind": "created",
-      "added_at": "2026-09-24T15:43:30+03:00",
+      "added_at": "2026-09-24T15:39:36+03:00",
       "history": [
         {
           "date": "2026-09-24",
           "kind": "created"
         }
       ]
+    },
+    {
+      "path": "articles/5S AUTO/Касса/Настройка кассиров ФР",
+      "file": "nastroyka-kassirov-fr.md",
+      "id": "nastroyka-kassirov-fr",
+      "sha": "ad5c538fddbdbfa111686bb2f45ede97690ae56f",
+      "title": "Настройка кассиров ФР",
+      "type": "articles",
+      "order": 2,
+      "updated_at": "2026-09-28",
+      "date_kind": "created",
+      "added_at": "2026-09-24T09:59:03+03:00",
+      "history": [
+        {
+          "date": "2026-09-24",
+          "kind": "created"
+        },
+        {
+          "date": "2026-09-28",
+          "kind": "created"
+        }
+      ],
+      "reading_time": 3
     },
     {
       "path": "tips/5S AUTO/Автосервис/Как мастеру-консультанту видеть сделки сменщика",
@@ -1995,7 +2033,7 @@
       "order": 0,
       "updated_at": "2026-09-23",
       "date_kind": "created",
-      "added_at": "2026-09-23T15:30:40+03:00",
+      "added_at": "2026-09-23T14:52:31+03:00",
       "history": [
         {
           "date": "2026-09-23",
@@ -2013,7 +2051,7 @@
       "order": 0,
       "updated_at": "2026-09-23",
       "date_kind": "created",
-      "added_at": "2026-09-23T14:03:58+03:00",
+      "added_at": "2026-09-23T10:28:22+03:00",
       "history": [
         {
           "date": "2026-09-23",
@@ -2031,8 +2069,12 @@
       "order": 0,
       "updated_at": "2026-09-23",
       "date_kind": "created",
-      "added_at": "2026-09-23T09:15:07+03:00",
+      "added_at": "2026-09-22T16:23:03+03:00",
       "history": [
+        {
+          "date": "2026-09-22",
+          "kind": "created"
+        },
         {
           "date": "2026-09-23",
           "kind": "created"
@@ -2049,28 +2091,10 @@
       "order": 5,
       "updated_at": "2026-09-22",
       "date_kind": "created",
-      "added_at": "2026-09-22T14:57:02+03:00",
+      "added_at": "2026-09-22T14:30:51+03:00",
       "history": [
         {
           "date": "2026-09-22",
-          "kind": "created"
-        }
-      ]
-    },
-    {
-      "path": "tips/5S AUTO/Администрирование/Как ограничить редактирование цены, суммы и нормы времени авторабот в заказ-наряде",
-      "file": "kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade.md",
-      "id": "kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade",
-      "sha": "93d827bb76209af9e62ae9f24092cad0d01da6dd",
-      "title": "Как ограничить редактирование цены, суммы и нормы времени авторабот в заказ-наряде",
-      "type": "tips",
-      "order": 0,
-      "updated_at": "2026-09-21",
-      "date_kind": "created",
-      "added_at": "2026-09-21T17:20:12+03:00",
-      "history": [
-        {
-          "date": "2026-09-21",
           "kind": "created"
         }
       ]
@@ -2085,13 +2109,81 @@
       "order": 0,
       "updated_at": "2026-09-21",
       "date_kind": "created",
-      "added_at": "2026-09-21T16:25:59+03:00",
+      "added_at": "2026-09-21T08:50:29+03:00",
       "history": [
         {
           "date": "2026-09-21",
           "kind": "created"
         }
       ]
+    },
+    {
+      "path": "tips/5S AUTO/Администрирование/Как ограничить редактирование цены, суммы и нормы времени авторабот в заказ-наряде",
+      "file": "kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade.md",
+      "id": "kak-ogranichit-redaktirovanie-ceny-summy-i-normy-vremeni-avtorabot-v-zakaz-naryade",
+      "sha": "93d827bb76209af9e62ae9f24092cad0d01da6dd",
+      "title": "Как ограничить редактирование цены, суммы и нормы времени авторабот в заказ-наряде",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-09-21",
+      "date_kind": "created",
+      "added_at": "2026-09-21T08:50:29+03:00",
+      "history": [
+        {
+          "date": "2026-09-21",
+          "kind": "created"
+        }
+      ]
+    },
+    {
+      "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Точка Банка",
+      "file": "podklyuchenie-zagruzki-vypisok-tochka-banka.md",
+      "id": "podklyuchenie-zagruzki-vypisok-tochka-banka",
+      "sha": "686f0f1ccab7cf200d7cf4e32691193027af5ecd",
+      "title": "Подключение загрузки выписок Точка Банка",
+      "type": "articles",
+      "order": 5,
+      "updated_at": "2026-09-28",
+      "date_kind": "created",
+      "added_at": "2026-09-18T11:27:52+03:00",
+      "history": [
+        {
+          "date": "2026-09-18",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-09-28",
+          "kind": "created"
+        }
+      ],
+      "reading_time": 6
+    },
+    {
+      "path": "articles/5S AUTO/Банки и платежные системы/Система быстрых платежей/Подключение СБП Точка Банка",
+      "file": "podklyuchenie-sbp-tochka-banka.md",
+      "id": "podklyuchenie-sbp-tochka-banka",
+      "sha": "a77a3bc757c7b9b40fb9276c55218359b5ee7aad",
+      "title": "Подключение СБП Точка Банка",
+      "type": "articles",
+      "order": 4,
+      "updated_at": "2026-09-28",
+      "date_kind": "created",
+      "added_at": "2026-09-17T14:31:37+03:00",
+      "history": [
+        {
+          "date": "2026-09-17",
+          "kind": "created"
+        },
+        {
+          "date": "2026-09-18",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-09-28",
+          "kind": "created"
+        }
+      ],
+      "reading_time": 11
     },
     {
       "path": "tips/5S AUTO/Склад и запчасти/Пропала вкладка «Остатки по ячейкам» в номенклатуре",
@@ -7595,6 +7687,10 @@
           "kind": "updated"
         },
         {
+          "date": "2026-09-24",
+          "kind": "updated"
+        },
+        {
           "date": "2026-09-28",
           "kind": "updated"
         }
@@ -8639,7 +8735,7 @@
       "path": "articles/5S AUTO/Учет взаиморасчетов/Взаиморасчеты с контрагентами",
       "file": "vzaimoraschety-s-kontragentami.md",
       "id": "vzaimoraschety-s-kontragentami",
-      "sha": "ac5d0ef5326a2732b3fec218b547795b7fbd486a",
+      "sha": "bd2d1b33f7d9fabc4a64974096fbb8b834af69e8",
       "title": "Взаиморасчеты с контрагентами",
       "type": "articles",
       "order": 0,
@@ -11336,6 +11432,10 @@
           "kind": "updated"
         },
         {
+          "date": "2026-11-17",
+          "kind": "updated"
+        },
+        {
           "date": "2026-11-18",
           "kind": "updated"
         }
@@ -11360,6 +11460,10 @@
         },
         {
           "date": "2025-12-08",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-17",
           "kind": "updated"
         },
         {
@@ -11634,6 +11738,10 @@
       "history": [
         {
           "date": "2024-01-22",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-09-28",
           "kind": "updated"
         },
         {
@@ -13526,6 +13634,10 @@
           "kind": "updated"
         },
         {
+          "date": "2026-09-24",
+          "kind": "updated"
+        },
+        {
           "date": "2026-09-28",
           "kind": "updated"
         }
@@ -14172,6 +14284,10 @@
           "kind": "updated"
         },
         {
+          "date": "2026-09-28",
+          "kind": "updated"
+        },
+        {
           "date": "2026-09-30",
           "kind": "created"
         }
@@ -14209,6 +14325,10 @@
       "history": [
         {
           "date": "2026-08-24",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-09-28",
           "kind": "updated"
         },
         {
