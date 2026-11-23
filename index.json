@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:02:57+03:00",
+  "generated_at": "2026-11-23T13:39:05+03:00",
   "count": 682,
   "sections": {
     "tips": [
@@ -1293,7 +1293,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/Товар не добавляется при сканировании недоступен в ваших подразделениях",
       "file": "tovar-ne-dobavlyaetsya-pri-skanirovanii-nedostupen-v-podrazdeleniyah.md",
       "id": "tovar-ne-dobavlyaetsya-pri-skanirovanii-nedostupen-v-podrazdeleniyah",
-      "sha": "06afd9471f468aa381bb3654a71e294167e2757f",
+      "sha": "753d78c863494a59a9b0c385ea3587c82f2951fb",
       "title": "Товар не добавляется при сканировании: недоступен в ваших подразделениях",
       "type": "tips",
       "order": 0,
