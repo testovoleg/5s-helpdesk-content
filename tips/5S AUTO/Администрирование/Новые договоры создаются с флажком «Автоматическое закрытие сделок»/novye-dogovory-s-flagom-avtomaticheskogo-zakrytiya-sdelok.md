@@ -4,6 +4,8 @@
 
 <sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/1/ticket/24685/ (HDE #AUV-69163)</sub>
 
+###### *Опубликовано 20.11.2026: [https://kb.5systems.ru/tips/5s-auto/administrirovanie/novye-dogovory-s-flagom-avtomaticheskogo-zakrytiya-sdelok](https://kb.5systems.ru/tips/5s-auto/administrirovanie/novye-dogovory-s-flagom-avtomaticheskogo-zakrytiya-sdelok)*
+
 ## Проблема
 
 Каждый новый договор взаиморасчетов с контрагентом — в том числе созданный автоматически — появляется с уже установленным флажком **«Автоматическое закрытие сделок»**. Приходится вручную снимать пометку у уже созданных договоров и следить за каждым новым.
