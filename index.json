@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T14:13:54+03:00",
-  "count": 682,
+  "generated_at": "2026-11-23T15:24:12+03:00",
+  "count": 683,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Автосервис/В счете на оплату не отображается НДС в табличной части",
+      "file": "v-schete-na-oplatu-ne-otobrazhaetsya-nds-v-tablichnoy-chasti.md",
+      "id": "v-schete-na-oplatu-ne-otobrazhaetsya-nds-v-tablichnoy-chasti",
+      "sha": "f6c49bfeb76ae82f88e456455503db292d77f0fb",
+      "title": "В счете на оплату не отображается НДС в табличной части",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-23",
+      "date_kind": "created",
+      "added_at": "2026-11-23T15:24:10+03:00",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/Администрирование/Новые договоры создаются с флажком «Автоматическое закрытие сделок»",
       "file": "novye-dogovory-s-flagom-avtomaticheskogo-zakrytiya-sdelok.md",
