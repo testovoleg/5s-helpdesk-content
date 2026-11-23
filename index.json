@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T10:32:25+03:00",
+  "generated_at": "2026-11-23T10:59:50+03:00",
   "count": 682,
   "sections": {
     "tips": [
@@ -8789,7 +8789,7 @@
       "path": "articles/5S AUTO/Учет взаиморасчетов/Автозакрытие сделок и ручная привязка",
       "file": "avtozakrytie-sdelok-i-ruchnaya-privyazka.md",
       "id": "avtozakrytie-sdelok-i-ruchnaya-privyazka",
-      "sha": "04e3037df6e5cff0dd17230caef5782827fe4c24",
+      "sha": "e90a17983352e5d628ead2d52127f11723e999c9",
       "title": "Автозакрытие сделок и ручная привязка",
       "type": "articles",
       "order": 2,
@@ -8839,11 +8839,11 @@
       "path": "articles/5S AUTO/Учет взаиморасчетов/Взаиморасчеты с контрагентами",
       "file": "vzaimoraschety-s-kontragentami.md",
       "id": "vzaimoraschety-s-kontragentami",
-      "sha": "d8b35db6e03c8cef096119cb2b9330be7b6c739c",
+      "sha": "aa64e2c26c9b04088fcc7399c09b07333a0b65f5",
       "title": "Взаиморасчеты с контрагентами",
       "type": "articles",
       "order": 0,
-      "updated_at": "2022-12-26",
+      "updated_at": "2026-11-23",
       "date_kind": "updated",
       "added_at": "2026-09-07T10:25:19+03:00",
       "history": [
@@ -8853,6 +8853,10 @@
         },
         {
           "date": "2022-12-26",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-23",
           "kind": "updated"
         }
       ],
