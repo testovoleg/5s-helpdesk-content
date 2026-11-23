@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:43:21+03:00",
+  "generated_at": "2026-11-23T11:47:33+03:00",
   "count": 682,
   "sections": {
     "tips": [
@@ -8839,7 +8839,7 @@
       "path": "articles/5S AUTO/Учет взаиморасчетов/Взаиморасчеты с контрагентами",
       "file": "vzaimoraschety-s-kontragentami.md",
       "id": "vzaimoraschety-s-kontragentami",
-      "sha": "ae2dd8dfc2c9573e6d370f5ef7f4779fd165450c",
+      "sha": "fe66fda440b219eae2a6b9a8bf82e996cb5bf639",
       "title": "Взаиморасчеты с контрагентами",
       "type": "articles",
       "order": 0,
