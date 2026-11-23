@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T10:11:15+03:00",
+  "generated_at": "2026-11-23T10:16:08+03:00",
   "count": 682,
   "sections": {
     "tips": [
@@ -8789,11 +8789,11 @@
       "path": "articles/5S AUTO/Учет взаиморасчетов/Автозакрытие сделок и ручная привязка",
       "file": "avtozakrytie-sdelok-i-ruchnaya-privyazka.md",
       "id": "avtozakrytie-sdelok-i-ruchnaya-privyazka",
-      "sha": "f352c4206a5150e4a94d4d50d491a1c8f7936a6a",
+      "sha": "04e3037df6e5cff0dd17230caef5782827fe4c24",
       "title": "Автозакрытие сделок и ручная привязка",
       "type": "articles",
       "order": 2,
-      "updated_at": "2025-12-12",
+      "updated_at": "2026-11-23",
       "date_kind": "updated",
       "added_at": "2026-09-07T10:25:19+03:00",
       "history": [
@@ -8803,6 +8803,10 @@
         },
         {
           "date": "2025-12-12",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-23",
           "kind": "updated"
         }
       ],
