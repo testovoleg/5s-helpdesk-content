@@ -4,8 +4,6 @@
 
 <sub>Тикеты: https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23124 (ZBF-60185), https://support.5systems.ru/ru/ticket/list/filter/id/96/ticket/23244 (MTU-02976)</sub>
 
-> 🛠 Комментарий для черновика: *Совет дополнен по тикету 23244 («Рассрочка»): добавлены 2 варианта решения от техподдержки, цепочка документов с зачетом аванса и скриншоты «Проблема_70».*
-
 ###### *Опубликовано 30.10.2026: [https://kb.5systems.ru/tips/5s-auto/kassa/ne-poluchaetsya-prinyat-chastichnuyu-oplatu-v-realizacii](https://kb.5systems.ru/tips/5s-auto/kassa/ne-poluchaetsya-prinyat-chastichnuyu-oplatu-v-realizacii)*
 
 ## Проблема
