@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T10:16:34+03:00",
+  "generated_at": "2026-11-23T10:26:04+03:00",
   "count": 677,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Администрирование/Новые договоры создаются с флажком «Автоматическое закрытие сделок»",
       "file": "novye-dogovory-s-flagom-avtomaticheskogo-zakrytiya-sdelok.md",
       "id": "novye-dogovory-s-flagom-avtomaticheskogo-zakrytiya-sdelok",
-      "sha": "526e1813f38c24e07a94abc1d23ef1bf7f13500a",
+      "sha": "a7c96c3fae5440593ad4d965c32becd0ca88d0fe",
       "title": "Новые договоры создаются с флажком «Автоматическое закрытие сделок»",
       "type": "tips",
       "order": 0,
