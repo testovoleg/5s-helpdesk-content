@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T17:29:24+03:00",
+  "generated_at": "2026-11-23T09:05:17+03:00",
   "count": 682,
   "sections": {
     "tips": [
@@ -818,13 +818,13 @@
   },
   "materials": [
     {
-      "path": "tips/5S AUTO/Практики/Новые договоры создаются с флажком «Автоматическое закрытие сделок»",
+      "path": "tips/5S AUTO/Администрирование/Новые договоры создаются с флажком «Автоматическое закрытие сделок»",
       "file": "novye-dogovory-s-flagom-avtomaticheskogo-zakrytiya-sdelok.md",
       "id": "novye-dogovory-s-flagom-avtomaticheskogo-zakrytiya-sdelok",
       "sha": "d6f20803818542a72bb6a685120f0665b3453d79",
       "title": "Новые договоры создаются с флажком «Автоматическое закрытие сделок»",
       "type": "tips",
-      "order": 14,
+      "order": 0,
       "updated_at": "2026-11-20",
       "date_kind": "updated",
       "added_at": "2026-11-20T16:16:34+03:00",
@@ -1276,6 +1276,12 @@
         {
           "date": "2026-11-16",
           "kind": "updated"
+        }
+      ],
+      "also_in": [
+        {
+          "path": "tips/Оборудование/ТС ПИоТ",
+          "order": 0
         }
       ]
     },
@@ -1947,11 +1953,11 @@
       "path": "articles/5S AUTO/История релизов/Релиз 2.8.5",
       "file": "reliz-5s-auto-2-8-5.md",
       "id": "reliz-5s-auto-2-8-5",
-      "sha": "a412b8255a09bf5c18e9b521fbcb0e600987ac1d",
+      "sha": "7932d1b58c046cf2e20f29dcfec6ae04a91930cc",
       "title": "Бета-релиз 2.8.5 (на тестировании)",
       "type": "articles",
       "order": 0,
-      "updated_at": "2026-11-18",
+      "updated_at": "2026-11-23",
       "date_kind": "updated",
       "added_at": "2026-09-28T13:41:15+03:00",
       "history": [
@@ -1977,6 +1983,10 @@
         },
         {
           "date": "2026-11-18",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-23",
           "kind": "updated"
         }
       ],
