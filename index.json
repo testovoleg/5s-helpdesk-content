@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:42:34+03:00",
+  "generated_at": "2026-11-24T16:02:07+03:00",
   "count": 683,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Автосервис/В счете на оплату и заказ-наряде подставляется неверная ставка НДС",
       "file": "v-schete-na-oplatu-i-zakaz-naryade-podstavlyaetsya-nevernaya-stavka-nds.md",
       "id": "v-schete-na-oplatu-i-zakaz-naryade-podstavlyaetsya-nevernaya-stavka-nds",
-      "sha": "33d8385630906979375f4e357807882c82c9f45e",
+      "sha": "5d93427adb06d9627f7bdce5d1e525997c54afc0",
       "title": "В счете на оплату и заказ-наряде подставляется неверная ставка НДС",
       "type": "tips",
       "order": 0,
