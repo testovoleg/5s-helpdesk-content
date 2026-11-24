@@ -4,6 +4,8 @@
 
 <sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/1/ticket/23389 (IOW-36298)</sub>
 
+###### *Опубликовано 24.11.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/v-schete-na-oplatu-i-zakaz-naryade-podstavlyaetsya-nevernaya-stavka-nds](https://kb.5systems.ru/tips/5s-auto/avtoservis/v-schete-na-oplatu-i-zakaz-naryade-podstavlyaetsya-nevernaya-stavka-nds)*
+
 ## Проблема
 
 При формировании документов **«Счет на оплату»** и **«Заказ-наряд»**, а также в их печатных формах в строках табличной части в колонке **«% НДС»** (в печатной форме счета — **«НДС»**) стоит неверная ставка: **«Без НДС»**, прочерк или прежняя ставка — например, **20 % вместо 22 %**.
