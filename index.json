@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:44:37+03:00",
+  "generated_at": "2026-11-24T13:55:58+03:00",
   "count": 678,
   "sections": {
     "tips": [
@@ -2157,7 +2157,7 @@
       "path": "articles/5S AUTO/Банки и платежные системы/Банковские выписки/Подключение загрузки выписок Точка Банка",
       "file": "podklyuchenie-zagruzki-vypisok-tochka-banka.md",
       "id": "podklyuchenie-zagruzki-vypisok-tochka-banka",
-      "sha": "b2d6aec57f454ed9a464a98b2feac6ef6663deb6",
+      "sha": "46040f79724000593862c12e095a00a7aa73c232",
       "title": "Подключение загрузки выписок Точка Банка",
       "type": "articles",
       "order": 5,
