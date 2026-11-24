@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T11:53:29+03:00",
-  "count": 677,
+  "generated_at": "2026-11-24T11:50:19+03:00",
+  "count": 678,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/Автосервис/В счете на оплату и заказ-наряде подставляется неверная ставка НДС",
+      "file": "v-schete-na-oplatu-i-zakaz-naryade-podstavlyaetsya-nevernaya-stavka-nds.md",
+      "id": "v-schete-na-oplatu-i-zakaz-naryade-podstavlyaetsya-nevernaya-stavka-nds",
+      "sha": "3730090ae7da91e91430d43f8fa49550712271da",
+      "title": "В счете на оплату и заказ-наряде подставляется неверная ставка НДС",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-24",
+      "date_kind": "created",
+      "added_at": "2026-11-24T11:50:17+03:00",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/Администрирование/Новые договоры создаются с флажком «Автоматическое закрытие сделок»",
       "file": "novye-dogovory-s-flagom-avtomaticheskogo-zakrytiya-sdelok.md",
@@ -6781,16 +6799,20 @@
       "path": "tips/5S AUTO/Практики/Как настроить применение НДС при УСН",
       "file": "primenenie-nds-pri-usn.md",
       "id": "primenenie-nds-pri-usn",
-      "sha": "1ec88aff3cb5c1dbb293e2e9d1885f05c49742b0",
+      "sha": "2a1624008e1f8a5a7abd465d154f254d6e44252f",
       "title": "Как настроить применение НДС при УСН",
       "type": "tips",
       "order": 11,
-      "updated_at": "2026-01-23",
+      "updated_at": "2026-11-24",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00",
       "history": [
         {
           "date": "2026-01-23",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-24",
           "kind": "updated"
         }
       ]
@@ -14091,16 +14113,20 @@
       "path": "tips/5S AUTO/Склад и запчасти/В поступлении подставляется не та ставка НДС",
       "file": "v-postuplenii-ne-ta-stavka-nds.md",
       "id": "v-postuplenii-ne-ta-stavka-nds",
-      "sha": "2d012e23b1c29009153518ab59554ff68e557624",
+      "sha": "1979b2e6e3bdef8b9a5e6bd593330c576475385b",
       "title": "В поступлении подставляется не та ставка НДС",
       "type": "tips",
       "order": 0,
-      "updated_at": "2026-08-24",
+      "updated_at": "2026-11-24",
       "date_kind": "updated",
       "added_at": "2026-08-13T11:10:53+03:00",
       "history": [
         {
           "date": "2026-08-24",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-24",
           "kind": "updated"
         }
       ]
