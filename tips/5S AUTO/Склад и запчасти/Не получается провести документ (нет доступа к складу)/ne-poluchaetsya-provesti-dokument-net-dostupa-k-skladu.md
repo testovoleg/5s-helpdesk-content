@@ -36,7 +36,7 @@
 ## См. также
 
 - «[Товар не добавляется при сканировании: недоступен в ваших подразделениях](../Товар%20не%20добавляется%20при%20сканировании%20недоступен%20в%20ваших%20подразделениях/tovar-ne-dobavlyaetsya-pri-skanirovanii-nedostupen-v-podrazdeleniyah.md)»
-- «[Не удалось провести расходный складской ордер](https://kb.5systems.ru/tips/5s-auto/sklad-i-zapchasti/ne-udalos-provesti-rashodnyy-skladskoy-order)»
+- «[Не удалось провести расходный складской ордер](../Не%20удалось%20провести%20расходный%20складской%20ордер/ne-udalos-provesti-rashodnyy-skladskoy-order.md)»
 
 ## Материалы для изучения
 

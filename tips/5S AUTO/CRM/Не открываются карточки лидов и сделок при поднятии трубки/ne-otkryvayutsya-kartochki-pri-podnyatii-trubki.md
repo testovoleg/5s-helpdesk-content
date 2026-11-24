@@ -78,7 +78,7 @@
 
 ## См. также
 
-- [Где указать куратора контрагента](https://kb.5systems.ru/tips/5s-auto/crm/gde-ukazat-kuratora-kontragenta)
+- [Где указать куратора контрагента](../Где%20указать%20куратора%20контрагента/gde-ukazat-kuratora-kontragenta.md)
 
 ## Материалы для изучения
 

@@ -17,23 +17,23 @@
 
 Выберите подходящий способ:
 
-**1. Выгрузка прайс-листов.** Цены и остатки товаров выгружаются в файл, на FTP или по e-mail по расписанию – см. статью «[Выгрузка прайс-листов](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/vygruzka-prays-listov)».
+**1. Выгрузка прайс-листов.** Цены и остатки товаров выгружаются в файл, на FTP или по e-mail по расписанию – см. статью «[Выгрузка прайс-листов](../../../../articles/5S%20AUTO/Склад%20и%20запчасти/Выгрузка%20прайс-листов/vygruzka-prays-listov.md)».
 
-**2. Выгрузка для Авито.** Расширенная выгрузка товаров в формате Авито – см. статью «[Автоматическая публикация объявлений на Авито](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/avtomaticheskaya-publikaciya-obyavleniy-na-avito)».
+**2. Выгрузка для Авито.** Расширенная выгрузка товаров в формате Авито – см. статью «[Автоматическая публикация объявлений на Авито](../../../../articles/5S%20AUTO/Склад%20и%20запчасти/Автоматическая%20публикация%20объявлений%20на%20Авито/avtomaticheskaya-publikaciya-obyavleniy-na-avito.md)».
 
-**3. API 5S AUTO.** Для авторизации используется метод входа шлюза [Auth API](https://api.5systems.ru/auth/v1/doc#tag/OpenID-Connect/paths/~1oidc~1login/post), логин и пароль пользователя 5S Cloud создаются самостоятельно – см. статью «[Создание и редактирование пользователей 5S Cloud](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sozdanie-i-redaktirovanie-polzovateley-5s-cloud)». Часть данных можно получить через шлюзы [Dataset API](https://api.5systems.ru/dataset/v1/doc) и [TSD API](https://api.5systems.ru/tsd/v1/doc). Подробнее – в статье «[API 5S AUTO](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/api-5s-auto)».
+**3. API 5S AUTO.** Для авторизации используется метод входа шлюза [Auth API](https://api.5systems.ru/auth/v1/doc#tag/OpenID-Connect/paths/~1oidc~1login/post), логин и пароль пользователя 5S Cloud создаются самостоятельно – см. статью «[Создание и редактирование пользователей 5S Cloud](../../../../articles/5S%20AUTO/Администрирование%20и%20настройка%20системы/Создание%20и%20редактирование%20пользователей%205S%20Cloud/sozdanie-i-redaktirovanie-polzovateley-5s-cloud.md)». Часть данных можно получить через шлюзы [Dataset API](https://api.5systems.ru/dataset/v1/doc) и [TSD API](https://api.5systems.ru/tsd/v1/doc). Подробнее – в статье «[API 5S AUTO](../../../../articles/5S%20AUTO/Администрирование%20и%20настройка%20системы/API%205S%20AUTO/api-5s-auto.md)».
 
-**4. Своя обработка по расписанию.** Данные можно выгружать внешней обработкой, которая запускается регламентным заданием – см. статью «[Запуск произвольных обработок в регламентном задании](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/zapusk-proizvolnykh-obrabotok-v-reglamentnom-zadanii)».
+**4. Своя обработка по расписанию.** Данные можно выгружать внешней обработкой, которая запускается регламентным заданием – см. статью «[Запуск произвольных обработок в регламентном задании](../../../../articles/5S%20AUTO/Администрирование%20и%20настройка%20системы/Запуск%20произвольных%20обработок%20в%20регламентном%20задании/zapusk-proizvolnykh-obrabotok-v-reglamentnom-zadanii.md)».
 
 **5. Версия «на своем сервере».** В коробочной версии программа работает на собственных ресурсах компании, и в OData можно публиковать любые объекты.
 
 ## Материалы для изучения
 
-- «[API 5S AUTO](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/api-5s-auto)» – шлюзы API и настройка интеграции.
-- «[Создание и редактирование пользователей 5S Cloud](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/sozdanie-i-redaktirovanie-polzovateley-5s-cloud)» – учетные записи для авторизации в API.
-- «[Выгрузка прайс-листов](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/vygruzka-prays-listov)» – выгрузка цен и остатков по расписанию.
-- «[Автоматическая публикация объявлений на Авито](https://kb.5systems.ru/articles/5s-auto/sklad-i-zapchasti/avtomaticheskaya-publikaciya-obyavleniy-na-avito)» – выгрузка товаров в формате Авито.
-- «[Запуск произвольных обработок в регламентном задании](https://kb.5systems.ru/articles/5s-auto/administrirovanie-i-nastroyka-sistemy/zapusk-proizvolnykh-obrabotok-v-reglamentnom-zadanii)» – выгрузка данных своей обработкой по расписанию.
+- «[API 5S AUTO](../../../../articles/5S%20AUTO/Администрирование%20и%20настройка%20системы/API%205S%20AUTO/api-5s-auto.md)» – шлюзы API и настройка интеграции.
+- «[Создание и редактирование пользователей 5S Cloud](../../../../articles/5S%20AUTO/Администрирование%20и%20настройка%20системы/Создание%20и%20редактирование%20пользователей%205S%20Cloud/sozdanie-i-redaktirovanie-polzovateley-5s-cloud.md)» – учетные записи для авторизации в API.
+- «[Выгрузка прайс-листов](../../../../articles/5S%20AUTO/Склад%20и%20запчасти/Выгрузка%20прайс-листов/vygruzka-prays-listov.md)» – выгрузка цен и остатков по расписанию.
+- «[Автоматическая публикация объявлений на Авито](../../../../articles/5S%20AUTO/Склад%20и%20запчасти/Автоматическая%20публикация%20объявлений%20на%20Авито/avtomaticheskaya-publikaciya-obyavleniy-na-avito.md)» – выгрузка товаров в формате Авито.
+- «[Запуск произвольных обработок в регламентном задании](../../../../articles/5S%20AUTO/Администрирование%20и%20настройка%20системы/Запуск%20произвольных%20обработок%20в%20регламентном%20задании/zapusk-proizvolnykh-obrabotok-v-reglamentnom-zadanii.md)» – выгрузка данных своей обработкой по расписанию.
 
 ## Похожие вопросы
 
