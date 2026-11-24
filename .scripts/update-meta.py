@@ -232,7 +232,11 @@ def existed_before(root: str, mid: str) -> bool:
 
 
 def apply(
-    path: Path, today: date, keep_dates: bool = False, from_git: bool = False
+    path: Path,
+    today: date,
+    keep_dates: bool = False,
+    from_git: bool = False,
+    write: bool = True,
 ) -> str | None:
     rel = path.relative_to(ROOT).as_posix()
     text = path.read_text(encoding="utf-8")
@@ -313,7 +317,8 @@ def apply(
     new = f"{head}\n\n{block}\n\n{tail}"
 
     if new != text:
-        path.write_text(new, encoding="utf-8", newline="")
+        if write:
+            path.write_text(new, encoding="utf-8", newline="")
         return f"{label} {updated}  {rel}"
     return None
 
@@ -325,6 +330,8 @@ def main() -> int:
     # Обслуживание: заново проставить даты по истории git, что бы ни лежало
     # в файлах сейчас
     from_git = "--from-git" in sys.argv
+    # Проверка без записи: показать, какие шапки скрипт поправил бы
+    check = "--check" in sys.argv
 
     today = date.today()
     touched = []
@@ -336,11 +343,20 @@ def main() -> int:
             # Обновлено» (тесты на проверку знаний; Катя, 14.09.2026)
             if any((parent / ".nometa").exists() for parent in path.parents):
                 continue
-            line = apply(path, today, keep_dates, from_git)
+            line = apply(path, today, keep_dates, from_git, write=not check)
             if line:
                 touched.append(line)
     for line in touched:
         print(line)
+    if check:
+        if touched:
+            print(
+                "Шапки требуют обновления — запустите .scripts/update-meta.py",
+                file=sys.stderr,
+            )
+            return 1
+        print("Шапки актуальны")
+        return 0
     print(f"Обновлено файлов: {len(touched)}")
     return 0
 

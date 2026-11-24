@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# Проверяет материалы перед отправкой в удаленный репозиторий:
+# ссылки, якоря, вложения, .order, .unpublished, index.json.
+set -euo pipefail
+
+ROOT="$(git rev-parse --show-toplevel)"
+cd "$ROOT"
+
+PYTHON="$(command -v python3 || command -v python || true)"
+if [ -z "$PYTHON" ]; then
+  echo "pre-push: python не найден; проверка пропущена" >&2
+  exit 0
+fi
+
+"$PYTHON" .scripts/check-content.py
