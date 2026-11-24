@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T11:32:40+03:00",
+  "generated_at": "2026-11-24T11:48:00+03:00",
   "count": 683,
   "sections": {
     "tips": [
@@ -821,17 +821,17 @@
       "path": "tips/5S AUTO/Автосервис/В счете на оплату и заказ-наряде подставляется неверная ставка НДС",
       "file": "v-schete-na-oplatu-i-zakaz-naryade-podstavlyaetsya-nevernaya-stavka-nds.md",
       "id": "v-schete-na-oplatu-i-zakaz-naryade-podstavlyaetsya-nevernaya-stavka-nds",
-      "sha": "a5e2547fbc7bfb50bdb21e465315af806fb26715",
+      "sha": "94e2f303c37540e5d6ff1adfb51e15888f29cddf",
       "title": "В счете на оплату и заказ-наряде подставляется неверная ставка НДС",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-11-24",
-      "date_kind": "created",
+      "date_kind": "updated",
       "added_at": "2026-11-24T10:46:08+03:00",
       "history": [
         {
           "date": "2026-11-24",
-          "kind": "created"
+          "kind": "updated"
         }
       ]
     },
@@ -6911,7 +6911,7 @@
       "path": "tips/5S AUTO/Практики/Как настроить применение НДС при УСН",
       "file": "primenenie-nds-pri-usn.md",
       "id": "primenenie-nds-pri-usn",
-      "sha": "3bf59a117e5b86d39d7636c27797bd11764800f1",
+      "sha": "95a1dfdd2e8abb20c56cbd63815364c94c6623b8",
       "title": "Как настроить применение НДС при УСН",
       "type": "tips",
       "order": 11,
@@ -14229,7 +14229,7 @@
       "path": "tips/5S AUTO/Склад и запчасти/В поступлении подставляется не та ставка НДС",
       "file": "v-postuplenii-ne-ta-stavka-nds.md",
       "id": "v-postuplenii-ne-ta-stavka-nds",
-      "sha": "45a750c9dabcad38184d36dfaf207dd3dd94f692",
+      "sha": "9558a4b8a5b4c2ce271211a7f232718007182085",
       "title": "В поступлении подставляется не та ставка НДС",
       "type": "tips",
       "order": 0,
