@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T11:16:42+03:00",
+  "generated_at": "2026-11-24T11:32:40+03:00",
   "count": 683,
   "sections": {
     "tips": [
@@ -6911,16 +6911,20 @@
       "path": "tips/5S AUTO/Практики/Как настроить применение НДС при УСН",
       "file": "primenenie-nds-pri-usn.md",
       "id": "primenenie-nds-pri-usn",
-      "sha": "0eb6059c0da8ee2ba85726736573c0d806629585",
+      "sha": "3bf59a117e5b86d39d7636c27797bd11764800f1",
       "title": "Как настроить применение НДС при УСН",
       "type": "tips",
       "order": 11,
-      "updated_at": "2026-01-23",
+      "updated_at": "2026-11-24",
       "date_kind": "updated",
       "added_at": "2026-09-09T15:24:33+03:00",
       "history": [
         {
           "date": "2026-01-23",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-24",
           "kind": "updated"
         }
       ]
@@ -14225,16 +14229,20 @@
       "path": "tips/5S AUTO/Склад и запчасти/В поступлении подставляется не та ставка НДС",
       "file": "v-postuplenii-ne-ta-stavka-nds.md",
       "id": "v-postuplenii-ne-ta-stavka-nds",
-      "sha": "7b9d13a8f6791de4fc940e9c3a708323f3b43b16",
+      "sha": "45a750c9dabcad38184d36dfaf207dd3dd94f692",
       "title": "В поступлении подставляется не та ставка НДС",
       "type": "tips",
       "order": 0,
-      "updated_at": "2026-08-24",
+      "updated_at": "2026-11-24",
       "date_kind": "updated",
       "added_at": "2026-08-13T11:10:53+03:00",
       "history": [
         {
           "date": "2026-08-24",
+          "kind": "updated"
+        },
+        {
+          "date": "2026-11-24",
           "kind": "updated"
         }
       ]
