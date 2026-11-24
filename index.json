@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:31:01+03:00",
+  "generated_at": "2026-11-24T10:44:47+03:00",
   "count": 683,
   "sections": {
     "tips": [
@@ -821,8 +821,8 @@
       "path": "tips/5S AUTO/Автосервис/В счете на оплату не отображается НДС в табличной части",
       "file": "v-schete-na-oplatu-ne-otobrazhaetsya-nds-v-tablichnoy-chasti.md",
       "id": "v-schete-na-oplatu-ne-otobrazhaetsya-nds-v-tablichnoy-chasti",
-      "sha": "56080522cc493954046b629e8178bdcd5273736f",
-      "title": "В счете на оплату не отображается НДС в табличной части",
+      "sha": "98726fbf00db59c948daa9d9ea033d88e25ab8c3",
+      "title": "Неверный НДС в табличной части счета на оплату и заказ-наряда",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-11-24",
