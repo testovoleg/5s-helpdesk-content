@@ -1,6 +1,6 @@
 # Неверный НДС в табличной части счета на оплату и заказ-наряда
 
-<table><tr><td><b>Обновлено:</b> 24.11.2026</td></tr></table>
+<table><tr><td><b>Создано:</b> 24.11.2026</td></tr></table>
 
 <sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/1/ticket/23389 (IOW-36298)</sub>
 

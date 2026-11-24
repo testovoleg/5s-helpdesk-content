@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:44:47+03:00",
+  "generated_at": "2026-11-24T10:46:10+03:00",
   "count": 683,
   "sections": {
     "tips": [
@@ -818,24 +818,20 @@
   },
   "materials": [
     {
-      "path": "tips/5S AUTO/Автосервис/В счете на оплату не отображается НДС в табличной части",
-      "file": "v-schete-na-oplatu-ne-otobrazhaetsya-nds-v-tablichnoy-chasti.md",
-      "id": "v-schete-na-oplatu-ne-otobrazhaetsya-nds-v-tablichnoy-chasti",
-      "sha": "98726fbf00db59c948daa9d9ea033d88e25ab8c3",
+      "path": "tips/5S AUTO/Автосервис/Неверный НДС в табличной части счета на оплату и заказ-наряда",
+      "file": "nevernyy-nds-v-tablichnoy-chasti-scheta-na-oplatu-i-zakaz-naryada.md",
+      "id": "nevernyy-nds-v-tablichnoy-chasti-scheta-na-oplatu-i-zakaz-naryada",
+      "sha": "cd22a35a885f908e2beb72337e9106b3ae7839d7",
       "title": "Неверный НДС в табличной части счета на оплату и заказ-наряда",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-11-24",
-      "date_kind": "updated",
-      "added_at": "2026-11-23T15:24:10+03:00",
+      "date_kind": "created",
+      "added_at": "2026-11-24T10:46:08+03:00",
       "history": [
         {
-          "date": "2026-11-23",
-          "kind": "created"
-        },
-        {
           "date": "2026-11-24",
-          "kind": "updated"
+          "kind": "created"
         }
       ]
     },
