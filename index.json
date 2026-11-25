@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:58:21+03:00",
+  "generated_at": "2026-11-25T10:13:03+03:00",
   "count": 683,
   "sections": {
     "tips": [
@@ -879,7 +879,7 @@
       "path": "tips/5S AUTO/Администрирование/Что требуется для переноса базы 5S AUTO на новый сервер",
       "file": "chto-trebuetsya-dlya-perenosa-bazy-5s-auto-na-novyy-server.md",
       "id": "chto-trebuetsya-dlya-perenosa-bazy-5s-auto-na-novyy-server",
-      "sha": "53c54cf1574e6057b6bc03f8910b1864888f9f4e",
+      "sha": "2d92e3d535fc81aa4ccaaeeea4ccff97acba015f",
       "title": "Что требуется для переноса базы 5S AUTO на новый сервер",
       "type": "tips",
       "order": 0,
@@ -14070,7 +14070,7 @@
       "path": "tips/5S AUTO/Касса/При закрытии кассовой смены создаются новые договоры",
       "file": "pri-zakrytii-smeny-sozdayutsya-novye-dogovory.md",
       "id": "pri-zakrytii-smeny-sozdayutsya-novye-dogovory",
-      "sha": "8bbdd0781d4cc220e510704da3ec0dcee4ff696e",
+      "sha": "0bcfb08ae1a95ecd8c33375dd7ddbc69a1411c0b",
       "title": "При закрытии кассовой смены создаются новые договоры",
       "type": "tips",
       "order": 0,
@@ -14106,7 +14106,7 @@
       "path": "tips/5S AUTO/CRM/Не получается выбрать показатели в настройках отчета",
       "file": "ne-poluchaetsya-vybrat-pokazateli-v-nastroykah-otcheta.md",
       "id": "ne-poluchaetsya-vybrat-pokazateli-v-nastroykah-otcheta",
-      "sha": "167063cc10f43f01060b63137270c72197caacf0",
+      "sha": "c8904d90b8739d23ae016925b36301ca4a4b0c5f",
       "title": "Не получается выбрать показатели в настройках отчета",
       "type": "tips",
       "order": 0,
@@ -14223,7 +14223,7 @@
       "path": "tips/5S AUTO/CRM/Не открывается планировщик (АРМ «Запись на ремонт»)",
       "file": "ne-otkryvaetsya-planirovshchik-arm-zapis-na-remont.md",
       "id": "ne-otkryvaetsya-planirovshchik-arm-zapis-na-remont",
-      "sha": "16c477fe293e9700126895b069940c13a1723075",
+      "sha": "63005914f7ed346b54e501fdc70456ce02f5a059",
       "title": "Не открывается планировщик (АРМ «Запись на ремонт»)",
       "type": "tips",
       "order": 0,
