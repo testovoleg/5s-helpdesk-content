@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:53:10+03:00",
+  "generated_at": "2026-11-25T09:58:21+03:00",
   "count": 683,
   "sections": {
     "tips": [
@@ -14070,7 +14070,7 @@
       "path": "tips/5S AUTO/Касса/При закрытии кассовой смены создаются новые договоры",
       "file": "pri-zakrytii-smeny-sozdayutsya-novye-dogovory.md",
       "id": "pri-zakrytii-smeny-sozdayutsya-novye-dogovory",
-      "sha": "c799695b3a695c5dc907c5132842cd462c148e51",
+      "sha": "8bbdd0781d4cc220e510704da3ec0dcee4ff696e",
       "title": "При закрытии кассовой смены создаются новые договоры",
       "type": "tips",
       "order": 0,
@@ -14146,7 +14146,7 @@
       "path": "tips/5S AUTO/Автосервис/Не заполняется Мастер в заказ-нарядах",
       "file": "ne-zapolnyaetsya-master-v-zakaz-naryadah.md",
       "id": "ne-zapolnyaetsya-master-v-zakaz-naryadah",
-      "sha": "7835894abfafb8ecc2c9ece5542ddef036ec2722",
+      "sha": "6e6a094539527ce9f31222d8fa88b309c675a1b1",
       "title": "Не заполняется Мастер в заказ-нарядах",
       "type": "tips",
       "order": 0,
@@ -14263,7 +14263,7 @@
       "path": "tips/5S AUTO/Маркировка/Заказ-наряд с маркированным товаром не переводится в статус «Выполнен»",
       "file": "zakaz-naryad-s-markirovkoy-ne-perevoditsya-v-vypolnen.md",
       "id": "zakaz-naryad-s-markirovkoy-ne-perevoditsya-v-vypolnen",
-      "sha": "c3a2a2f5443a5634e0d89b49d452f2a7a5575149",
+      "sha": "43d03609aed49fbe1368dfb7cc623e32e6106663",
       "title": "Заказ-наряд с маркированным товаром не переводится в статус «Выполнен»",
       "type": "tips",
       "order": 0,
@@ -14281,7 +14281,7 @@
       "path": "tips/Оборудование/Кассы ККМ/Ошибка при пробитии чека 144 – недопустимый номер ставки налога",
       "file": "oshibka-pri-probitii-cheka-144.md",
       "id": "oshibka-pri-probitii-cheka-144",
-      "sha": "c2c4283bec1322accf5e9f919945833dcd141895",
+      "sha": "90d7c0e85433d637ca1552965f59912c1b8fbb24",
       "title": "Ошибка при пробитии чека 144 – недопустимый номер ставки налога",
       "type": "tips",
       "order": 0,
