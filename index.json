@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:44:33+03:00",
+  "generated_at": "2026-11-25T17:07:23+03:00",
   "count": 679,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/Оборудование/Кассы ККМ/В чеке печатается неверная ставка НДС",
       "file": "v-cheke-pechataetsya-nevernaya-stavka-nds.md",
       "id": "v-cheke-pechataetsya-nevernaya-stavka-nds",
-      "sha": "4027734a38703cc96088868fd042ac20bf281208",
+      "sha": "97997ad99c4e06e9905c84c9dedf164d3e489940",
       "title": "В чеке печатается неверная ставка НДС",
       "type": "tips",
       "order": 0,
