@@ -323,6 +323,28 @@ def apply(
     return None
 
 
+def relevant_staged(names: list[str]) -> list[Path]:
+    """Какие из перечисленных путей — материалы, которым нужна шапка."""
+    result = []
+    for name in names:
+        name = name.strip()
+        if not name.endswith(".md") or Path(name).name == "README.md":
+            continue
+        if name.split("/", 1)[0] not in CONTENT_ROOTS:
+            continue
+        path = ROOT / name
+        if path.exists():
+            result.append(path)
+    return result
+
+
+def staged_materials() -> list[Path]:
+    """Материалы, подготовленные к коммиту — чтобы не читать все 683 файла."""
+    return relevant_staged(
+        run_git("diff", "--cached", "--name-only", "--diff-filter=ACMR").splitlines()
+    )
+
+
 def main() -> int:
     # Массовая косметическая правка (переоформили строку, поправили опечатку
     # разом во всех статьях) — не повод поднимать дату обновления везде
@@ -332,20 +354,29 @@ def main() -> int:
     from_git = "--from-git" in sys.argv
     # Проверка без записи: показать, какие шапки скрипт поправил бы
     check = "--check" in sys.argv
+    # Хук: правим только файлы текущего коммита, а не все материалы
+    staged_only = "--staged" in sys.argv
 
     today = date.today()
     touched = []
-    for root in CONTENT_ROOTS:
-        for path in sorted((ROOT / root).rglob("*.md")):
-            if path.name == "README.md":
-                continue
-            # Папка с файлом .nometa — материалы без строки «Время чтения /
-            # Обновлено» (тесты на проверку знаний; Катя, 14.09.2026)
-            if any((parent / ".nometa").exists() for parent in path.parents):
-                continue
-            line = apply(path, today, keep_dates, from_git, write=not check)
-            if line:
-                touched.append(line)
+    if staged_only:
+        candidates = staged_materials()
+    else:
+        candidates = [
+            path
+            for root in CONTENT_ROOTS
+            for path in sorted((ROOT / root).rglob("*.md"))
+        ]
+    for path in candidates:
+        if path.name == "README.md":
+            continue
+        # Папка с файлом .nometa — материалы без строки «Время чтения /
+        # Обновлено» (тесты на проверку знаний; Катя, 14.09.2026)
+        if any((parent / ".nometa").exists() for parent in path.parents):
+            continue
+        line = apply(path, today, keep_dates, from_git, write=not check)
+        if line:
+            touched.append(line)
     for line in touched:
         print(line)
     if check:

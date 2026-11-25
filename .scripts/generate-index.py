@@ -625,6 +625,15 @@ def check_index(index: dict) -> int:
     return 1
 
 
+def same_content(old: dict, new: dict) -> bool:
+    """Совпадает ли содержимое индекса — без учёта времени сборки."""
+    left = dict(old)
+    right = dict(new)
+    left.pop("generated_at", None)
+    right.pop("generated_at", None)
+    return left == right
+
+
 def main() -> int:
     materials = collect_materials()
     duplicates = find_duplicate_ids(materials)
@@ -644,6 +653,15 @@ def main() -> int:
     }
     if "--check" in sys.argv:
         return check_index(index)
+    try:
+        old = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        old = None
+    if old is not None and same_content(old, index):
+        # Только время сборки и отличалось — файл не переписываем,
+        # чтобы не создавать пустой дифф на каждом запуске
+        print(f"{INDEX_PATH.name} не изменился ({len(materials)} материалов)")
+        return 0
     INDEX_PATH.write_text(
         json.dumps(index, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",

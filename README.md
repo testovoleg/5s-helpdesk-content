@@ -178,7 +178,7 @@ python3 .scripts/generate-index.py
 git config core.hooksPath .githooks
 ```
 
-После этого `pre-commit` обновляет шапки и `index.json`, а `pre-push` прогоняет проверку материалов (см. «Проверка перед коммитом и публикацией»).
+После этого `pre-commit` обновляет шапки у изменённых материалов и `index.json` (только если его содержимое поменялось), а `pre-push` прогоняет проверку материалов (см. «Проверка перед коммитом и публикацией»).
 
 ## Что нового
 
@@ -222,6 +222,8 @@ python3 .scripts/check-content.py --stats   # сводка: ссылки, вид
 python3 .scripts/generate-index.py --check   # index.json соответствует материалам
 python3 .scripts/update-meta.py --check      # шапки и даты не требуют правок
 ```
+
+`update-meta.py --staged` — режим хука: проверяет только файлы текущего коммита, а не все материалы.
 
 `pre-push` запускает `check-content.py`. Обойти проверку можно `git push --no-verify`, но тогда её стоит прогнать вручную. Тесты скриптов:
 

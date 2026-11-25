@@ -188,5 +188,41 @@ class LinkParserTest(unittest.TestCase):
         self.assertIn((1, "https://x/y.mp4", False), links)
 
 
+class StagedMaterialsTest(unittest.TestCase):
+    def test_only_existing_materials_are_kept(self):
+        folder = tempfile.TemporaryDirectory()
+        self.addCleanup(folder.cleanup)
+        root = Path(folder.name)
+        (root / "tips" / "A").mkdir(parents=True)
+        (root / "tips" / "A" / "a.md").write_text("# A\n", encoding="utf-8")
+        old_root = um.ROOT
+        um.ROOT = root
+        self.addCleanup(lambda: setattr(um, "ROOT", old_root))
+        result = um.relevant_staged(
+            ["tips/A/a.md", "README.md", "lessons/b.md", "other/x.md"]
+        )
+        self.assertEqual(
+            [p.relative_to(root).as_posix() for p in result], ["tips/A/a.md"]
+        )
+
+
+class IndexContentTest(unittest.TestCase):
+    def test_generated_at_is_ignored(self):
+        self.assertTrue(
+            gi.same_content(
+                {"generated_at": "2026-11-25T10:00:00+03:00", "count": 1},
+                {"generated_at": "2026-11-25T11:00:00+03:00", "count": 1},
+            )
+        )
+
+    def test_content_change_is_detected(self):
+        self.assertFalse(
+            gi.same_content(
+                {"generated_at": "2026-11-25T10:00:00+03:00", "count": 1},
+                {"generated_at": "2026-11-25T10:00:00+03:00", "count": 2},
+            )
+        )
+
+
 if __name__ == "__main__":
     unittest.main()
