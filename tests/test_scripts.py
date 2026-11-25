@@ -223,6 +223,9 @@ class IndexContentTest(unittest.TestCase):
             )
         )
 
+    def test_non_dict_is_not_equal(self):
+        self.assertFalse(gi.same_content([], {"count": 1}))
+
 
 if __name__ == "__main__":
     unittest.main()

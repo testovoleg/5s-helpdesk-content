@@ -592,6 +592,8 @@ def check_index(index: dict) -> int:
     отношения не имеет."""
     try:
         old = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
+        if not isinstance(old, dict):
+            raise ValueError("not a JSON object")
     except (OSError, ValueError):
         print(
             f"{INDEX_PATH.name} не читается — запустите .scripts/generate-index.py",
@@ -627,6 +629,8 @@ def check_index(index: dict) -> int:
 
 def same_content(old: dict, new: dict) -> bool:
     """Совпадает ли содержимое индекса — без учёта времени сборки."""
+    if not isinstance(old, dict) or not isinstance(new, dict):
+        return False
     left = dict(old)
     right = dict(new)
     left.pop("generated_at", None)
