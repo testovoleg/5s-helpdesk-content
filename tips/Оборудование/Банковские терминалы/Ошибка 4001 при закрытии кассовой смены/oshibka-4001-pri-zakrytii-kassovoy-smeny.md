@@ -35,6 +35,11 @@
 - [Ошибка авторизации код 9 (служба Dual Connector Service занимает COM-порт)](../%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%20%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BA%D0%BE%D0%B4%209%20(%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20Dual%20Connector%20Service%20%D0%B7%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D0%B5%D1%82%20COM-%D0%BF%D0%BE%D1%80%D1%82)/oshibka-avtorizacii-kod-9-dual-connector-service.md)
 - [Ошибка печати квитанции авторизации](../%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%20%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%B8%20%D0%BA%D0%B2%D0%B8%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/oshibka-pechati-kvitancii-avtorizacii.md)
 
+## Материалы для изучения
+
+- [Обработка Закрытие кассовой смены](../../../../articles/5S%20AUTO/Касса/Обработка%20Закрытие%20кассовой%20смены/obrabotka-zakrytie-kassovoy-smeny.md)
+- [Учет кассовой выручки](../../../../lessons/Урок%2016.%20Учет%20денежных%20средств/Учет%20кассовой%20выручки/uchet-kassovoy-vyruchki.md)
+
 ## Похожие вопросы
 
 - Ошибка 4001 при закрытии кассовой смены

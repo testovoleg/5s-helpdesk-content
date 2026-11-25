@@ -28,6 +28,11 @@
 
 Более подробное описание доступно по ссылке: https://rarus.ru/press/publications/20190730-metodika-raboty-KKT-v-alfa-avto-avtosalon-avtoservis-avtozapchasti-prof-393386/
 
+## Материалы для изучения
+
+- [Справочник «Оборудование»](../../../../articles/5S%20AUTO/Торговое%20оборудование/Справочник%20Оборудование/spravochnik-oborudovanie.md)
+- [Подключение кассы ККМ](../../../../articles/5S%20AUTO/Торговое%20оборудование/Подключение%20кассы%20ККМ/podklyuchenie-kassy-kkm.md)
+
 ## Похожие вопросы
 
 - Оборудование не найдено
