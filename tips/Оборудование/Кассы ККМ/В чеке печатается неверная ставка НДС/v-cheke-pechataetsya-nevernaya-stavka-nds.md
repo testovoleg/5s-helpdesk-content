@@ -4,6 +4,8 @@
 
 <sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/1/ticket/24509/ (KEE-60674)</sub>
 
+###### *Опубликовано 25.11.2026: [https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/v-cheke-pechataetsya-nevernaya-stavka-nds](https://kb.5systems.ru/tips/oborudovanie/kassy-kkm/v-cheke-pechataetsya-nevernaya-stavka-nds)*
+
 ## Проблема
 
 При пробитии чека касса печатает не ту ставку НДС: например, «без НДС» (0%) вместо 5%. В документах программы — реализации, счете на оплату, заказ-наряде — ставка при этом указана верно.
