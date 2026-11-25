@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:38:28+03:00",
+  "generated_at": "2026-11-25T09:53:10+03:00",
   "count": 683,
   "sections": {
     "tips": [
@@ -1243,7 +1243,7 @@
       "path": "tips/5S AUTO/Администрирование/Как объединить дублирующиеся карточки контрагентов",
       "file": "kak-obedinit-dubliruyushchiesya-kartochki-kontragentov.md",
       "id": "kak-obedinit-dubliruyushchiesya-kartochki-kontragentov",
-      "sha": "c194935773b3e648512de29ad5d7ae460253a1f8",
+      "sha": "8d4e0d71bfb70b2d2929ea28e99a50ebf5287e94",
       "title": "Как объединить дублирующиеся карточки контрагентов",
       "type": "tips",
       "order": 0,
@@ -2130,7 +2130,7 @@
       "path": "tips/5S AUTO/Автосервис/Как мастеру-консультанту видеть сделки сменщика",
       "file": "kak-masteru-konsultantu-videt-sdelki-smenshchika.md",
       "id": "kak-masteru-konsultantu-videt-sdelki-smenshchika",
-      "sha": "459bad7edaa2b64159a1c931e20f9007997a2231",
+      "sha": "da212d22907fbe7aceee7fecae9dda4871236e99",
       "title": "Как мастеру-консультанту видеть сделки сменщика",
       "type": "tips",
       "order": 0,
@@ -6901,7 +6901,7 @@
       "path": "tips/5S AUTO/Практики/Как настроить пакетные предложения",
       "file": "paketnye-predlozheniya.md",
       "id": "paketnye-predlozheniya",
-      "sha": "ffb60ecb7bef1afa5a621160f8bb980f82212781",
+      "sha": "1a552be22db6ff31ee5388f3f32e8fdf62c1b133",
       "title": "Как настроить пакетные предложения",
       "type": "tips",
       "order": 7,
@@ -13980,7 +13980,7 @@
       "path": "tips/5S AUTO/CRM/Не отображается ИНН контрагента в карточке",
       "file": "ne-otobrazhaetsya-inn-kontragenta-v-kartochke.md",
       "id": "ne-otobrazhaetsya-inn-kontragenta-v-kartochke",
-      "sha": "761e615751088bb1a228bffdd6d13d128b21814b",
+      "sha": "1130e2ff6c38d0e772ff590575b8dbfa36434379",
       "title": "Не отображается ИНН контрагента в карточке",
       "type": "tips",
       "order": 0,
