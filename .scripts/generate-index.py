@@ -585,6 +585,55 @@ def read_redirects(materials: list[dict]) -> list[dict]:
     return result
 
 
+def check_index(index: dict) -> int:
+    """Сверка собранного индекса с файлом — без записи.
+
+    `generated_at` исключаем: он меняется при каждом запуске и к содержимому
+    отношения не имеет."""
+    try:
+        old = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        print(
+            f"{INDEX_PATH.name} не читается — запустите .scripts/generate-index.py",
+            file=sys.stderr,
+        )
+        return 1
+
+    expected = dict(index)
+    expected["generated_at"] = old.get("generated_at")
+    if old == expected:
+        print(f"{INDEX_PATH.name} актуален ({index['count']} материалов)")
+        return 0
+
+    print(
+        f"{INDEX_PATH.name} устарел — запустите .scripts/generate-index.py",
+        file=sys.stderr,
+    )
+    old_m = {m["path"]: m for m in old.get("materials", [])}
+    new_m = {m["path"]: m for m in index["materials"]}
+    for path in sorted(new_m.keys() - old_m.keys()):
+        print(f"  добавлен: {path}", file=sys.stderr)
+    for path in sorted(old_m.keys() - new_m.keys()):
+        print(f"  удалён: {path}", file=sys.stderr)
+    for path in sorted(new_m.keys() & old_m.keys()):
+        if new_m[path] != old_m[path]:
+            print(f"  изменён: {path}", file=sys.stderr)
+    if old.get("sections") != index["sections"]:
+        print("  изменилось дерево разделов", file=sys.stderr)
+    if old.get("redirects") != index["redirects"]:
+        print("  изменились redirects", file=sys.stderr)
+    return 1
+
+
+def same_content(old: dict, new: dict) -> bool:
+    """Совпадает ли содержимое индекса — без учёта времени сборки."""
+    left = dict(old)
+    right = dict(new)
+    left.pop("generated_at", None)
+    right.pop("generated_at", None)
+    return left == right
+
+
 def main() -> int:
     materials = collect_materials()
     duplicates = find_duplicate_ids(materials)
@@ -602,6 +651,17 @@ def main() -> int:
         # (README-site.md, п. 6); источник — redirects.txt
         "redirects": read_redirects(materials),
     }
+    if "--check" in sys.argv:
+        return check_index(index)
+    try:
+        old = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        old = None
+    if old is not None and same_content(old, index):
+        # Только время сборки и отличалось — файл не переписываем,
+        # чтобы не создавать пустой дифф на каждом запуске
+        print(f"{INDEX_PATH.name} не изменился ({len(materials)} материалов)")
+        return 0
     INDEX_PATH.write_text(
         json.dumps(index, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",

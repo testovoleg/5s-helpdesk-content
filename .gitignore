@@ -1,5 +1,7 @@
 .obsidian/
 **/.claude/settings.local.json
+__pycache__/
+*.pyc
 
 # Скриншоты лицензирования с реквизитами, кодами активации и пин-кодами — только локально
 articles/5S AUTO/Администрирование и настройка системы/Лицензирование 5S AUTO/attachments/install_first_see.png

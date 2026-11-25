@@ -1,0 +1,14 @@
+# Нормализация переносов строк в репозитории и защита вложений от правок
+# при checkout/diff: картинки и документы считаем бинарными.
+* text=auto
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.docx binary
+*.xls binary
+*.xlsx binary
+*.zip binary
+*.7z binary
