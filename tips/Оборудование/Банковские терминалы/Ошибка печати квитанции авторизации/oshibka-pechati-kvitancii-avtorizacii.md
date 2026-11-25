@@ -38,6 +38,11 @@
 - [Ошибка авторизации код 9 (служба Dual Connector Service занимает COM-порт)](../%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%20%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BA%D0%BE%D0%B4%209%20(%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20Dual%20Connector%20Service%20%D0%B7%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D0%B5%D1%82%20COM-%D0%BF%D0%BE%D1%80%D1%82)/oshibka-avtorizacii-kod-9-dual-connector-service.md)
 - [Ошибка 4001 при закрытии кассовой смены](../%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%204001%20%D0%BF%D1%80%D0%B8%20%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B8%20%D0%BA%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%81%D0%BC%D0%B5%D0%BD%D1%8B/oshibka-4001-pri-zakrytii-kassovoy-smeny.md)
 
+## Материалы для изучения
+
+- [Подключение банковского терминала](../../../../articles/5S%20AUTO/Торговое%20оборудование/Подключение%20банковского%20терминала/podklyuchenie-bankovskogo-terminala.md)
+- [Настройка подключения терминала эквайринга Сбербанка по сети](../../../../articles/5S%20AUTO/Торговое%20оборудование/Настройка%20терминалов%20Сбербанка/Настройка%20подключения%20терминала%20эквайринга%20Сбербанка%20по%20сети/nastroyka-podklyucheniya-terminala-ekvayringa-sberbanka-po-seti.md)
+
 ## Похожие вопросы
 
 - Ошибка печати квитанции авторизации
