@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:40:36+03:00",
+  "generated_at": "2026-11-27T16:06:22+03:00",
   "count": 680,
   "sections": {
     "tips": [
@@ -818,11 +818,11 @@
   },
   "materials": [
     {
-      "path": "tips/5S AUTO/Автосервис/Не получается закрыть заказ-наряд, отрицательный резерв",
+      "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд, отрицательный резерв",
       "file": "ne-poluchaetsya-zakryt-zakaz-naryad-otricatelnyy-rezerv.md",
       "id": "ne-poluchaetsya-zakryt-zakaz-naryad-otricatelnyy-rezerv",
-      "sha": "6cf969aae6faa14b18dff0d89da34eb6db6cf206",
-      "title": "Не получается закрыть заказ-наряд: отрицательный резерв",
+      "sha": "159a6fdaad20a04359584d6179542bde07ba5e10",
+      "title": "Не закрывается заказ-наряд: отрицательный резерв",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-11-27",
@@ -970,11 +970,11 @@
       ]
     },
     {
-      "path": "tips/5S AUTO/Автосервис/Не получается снять резерв, из-за которого не закрывается заказ-наряд",
+      "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд, не снимается резерв",
       "file": "ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya.md",
       "id": "ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya",
-      "sha": "e307e69cc04f0b1e23e9c7d9ef13caf809ac4014",
-      "title": "Не получается снять резерв, из-за которого не закрывается заказ-наряд",
+      "sha": "e52f3ccf31beb86bbb7f249de4602ca69a64b6e3",
+      "title": "Не закрывается заказ-наряд: не снимается резерв",
       "type": "tips",
       "order": 0,
       "updated_at": "2026-11-10",
@@ -2121,7 +2121,7 @@
       "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд из-за заказанных деталей",
       "file": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley.md",
       "id": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley",
-      "sha": "3b3532984cddc8e29138e47b19a076a684ac1d37",
+      "sha": "c3bcec057705b29f45189d2aa66f12b9e22c6ea4",
       "title": "Не закрывается заказ-наряд из-за заказанных деталей",
       "type": "tips",
       "order": 0,
