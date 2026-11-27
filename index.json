@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T16:06:22+03:00",
-  "count": 680,
+  "generated_at": "2026-11-27T16:59:30+03:00",
+  "count": 681,
   "sections": {
     "tips": [
       {
@@ -817,6 +817,24 @@
     ]
   },
   "materials": [
+    {
+      "path": "tips/5S AUTO/CRM/Нет кнопки «Объединить процессы» в групповых действиях со сделками",
+      "file": "net-knopki-obedinit-processy.md",
+      "id": "net-knopki-obedinit-processy",
+      "sha": "4744c0390e336a2c1f344792dbf7a1a53afde6cd",
+      "title": "Нет кнопки «Объединить процессы» в групповых действиях со сделками",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-27",
+      "date_kind": "created",
+      "added_at": "2026-11-27T16:59:29+03:00",
+      "history": [
+        {
+          "date": "2026-11-27",
+          "kind": "created"
+        }
+      ]
+    },
     {
       "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд, отрицательный резерв",
       "file": "ne-poluchaetsya-zakryt-zakaz-naryad-otricatelnyy-rezerv.md",
@@ -13524,7 +13542,7 @@
       "path": "articles/5S AUTO/CRM/Групповые действия со сделками",
       "file": "gruppovye-deystviya-so-sdelkami.md",
       "id": "gruppovye-deystviya-so-sdelkami",
-      "sha": "3fc8b6b5bcb2351f57b68876c68487cde27fd20b",
+      "sha": "5f3db1dcbc94938b38ebd89199b045ab5250da27",
       "title": "Групповые действия со сделками",
       "type": "articles",
       "order": 10,
@@ -13595,7 +13613,7 @@
       "path": "articles/5S AUTO/CRM/Объединение сделок",
       "file": "obedinenie-sdelok.md",
       "id": "obedinenie-sdelok",
-      "sha": "359044a7a034888331ae24067171e2472211df51",
+      "sha": "6a00cbc558ab84633b110c83fb0f9033e75c3f6d",
       "title": "Объединение сделок",
       "type": "articles",
       "order": 6,
