@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:54:36+03:00",
+  "generated_at": "2026-11-27T16:57:59+03:00",
   "count": 686,
   "sections": {
     "tips": [
@@ -13670,7 +13670,7 @@
       "path": "articles/5S AUTO/CRM/Групповые действия со сделками",
       "file": "gruppovye-deystviya-so-sdelkami.md",
       "id": "gruppovye-deystviya-so-sdelkami",
-      "sha": "b5b818b931a75745ab72c1e57b905710aaebebef",
+      "sha": "c1548059c53397102e3e26fd3fe35ae0fed66631",
       "title": "Групповые действия со сделками",
       "type": "articles",
       "order": 10,
@@ -13745,7 +13745,7 @@
       "path": "articles/5S AUTO/CRM/Объединение сделок",
       "file": "obedinenie-sdelok.md",
       "id": "obedinenie-sdelok",
-      "sha": "41a789f1420ccb595bd126ddd2c6faa9da2e0b0a",
+      "sha": "cd9b7e0e50e57c3b4405fa79f063c10b4775af96",
       "title": "Объединение сделок",
       "type": "articles",
       "order": 6,
