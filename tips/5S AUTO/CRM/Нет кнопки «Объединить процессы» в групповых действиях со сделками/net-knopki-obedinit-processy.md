@@ -4,6 +4,8 @@
 
 <sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/1/ticket/23300 (LAM-80071)</sub>
 
+###### *Опубликовано 27.11.2026: [https://kb.5systems.ru/tips/5s-auto/crm/net-knopki-obedinit-processy](https://kb.5systems.ru/tips/5s-auto/crm/net-knopki-obedinit-processy)*
+
 ## Проблема
 
 При работе со сделками в списке или на канбане сотрудники отмечают нужные сделки и нажимают кнопку **«Действия»** на верхней панели, но в выпадающем меню отсутствует кнопка **«Объединить процессы»** (объединение сделок). При этом у администратора она отображается:
