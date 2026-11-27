@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T08:56:18+03:00",
-  "count": 679,
+  "generated_at": "2026-11-27T15:30:33+03:00",
+  "count": 680,
   "sections": {
     "tips": [
       {
@@ -818,6 +818,24 @@
   },
   "materials": [
     {
+      "path": "tips/5S AUTO/Автосервис/Не получается закрыть заказ-наряд, отрицательный резерв",
+      "file": "ne-poluchaetsya-zakryt-zakaz-naryad-otricatelnyy-rezerv.md",
+      "id": "ne-poluchaetsya-zakryt-zakaz-naryad-otricatelnyy-rezerv",
+      "sha": "5323347b6aadf2511a895488147d35d4b3949aa2",
+      "title": "Не получается закрыть заказ-наряд: отрицательный резерв",
+      "type": "tips",
+      "order": 0,
+      "updated_at": "2026-11-27",
+      "date_kind": "created",
+      "added_at": "2026-11-27T15:29:43+03:00",
+      "history": [
+        {
+          "date": "2026-11-27",
+          "kind": "created"
+        }
+      ]
+    },
+    {
       "path": "tips/Оборудование/Кассы ККМ/В чеке печатается неверная ставка НДС",
       "file": "v-cheke-pechataetsya-nevernaya-stavka-nds.md",
       "id": "v-cheke-pechataetsya-nevernaya-stavka-nds",
@@ -955,7 +973,7 @@
       "path": "tips/5S AUTO/Автосервис/Не получается снять резерв, из-за которого не закрывается заказ-наряд",
       "file": "ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya.md",
       "id": "ne-poluchaetsya-snyat-rezerv-zakaz-naryad-ne-zakryvaetsya",
-      "sha": "f84b7eaf7de24dd92dcf803dc27ae6b15f037c76",
+      "sha": "e307e69cc04f0b1e23e9c7d9ef13caf809ac4014",
       "title": "Не получается снять резерв, из-за которого не закрывается заказ-наряд",
       "type": "tips",
       "order": 0,
@@ -2103,7 +2121,7 @@
       "path": "tips/5S AUTO/Автосервис/Не закрывается заказ-наряд из-за заказанных деталей",
       "file": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley.md",
       "id": "ne-zakryvaetsya-zakaz-naryad-iz-za-zakazannyh-detaley",
-      "sha": "6d855114b24fe9fce936b1dc6f8a6850859bd27c",
+      "sha": "3b3532984cddc8e29138e47b19a076a684ac1d37",
       "title": "Не закрывается заказ-наряд из-за заказанных деталей",
       "type": "tips",
       "order": 0,
