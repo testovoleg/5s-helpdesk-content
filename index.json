@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:45:18+03:00",
+  "generated_at": "2026-11-27T14:56:21+03:00",
   "count": 685,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/Автосервис/Не получается закрыть заказ-наряд, отрицательный резерв",
       "file": "ne-poluchaetsya-zakryt-zakaz-naryad-otricatelnyy-rezerv.md",
       "id": "ne-poluchaetsya-zakryt-zakaz-naryad-otricatelnyy-rezerv",
-      "sha": "f0c9d2d51820cc30196ae9c71f76447876b233c0",
+      "sha": "5833ae6b1157b6aa3de31f6ea1218c1c0306f9eb",
       "title": "Не получается закрыть заказ-наряд: отрицательный резерв",
       "type": "tips",
       "order": 0,
