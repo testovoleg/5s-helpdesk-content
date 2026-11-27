@@ -4,6 +4,8 @@
 
 <sub>Тикет: https://support.5systems.ru/ru/ticket/list/filter/id/1/ticket/23347 (QUA-30217)</sub>
 
+###### *Опубликовано 27.11.2026: [https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-zakryt-zakaz-naryad-otricatelnyy-rezerv](https://kb.5systems.ru/tips/5s-auto/avtoservis/ne-poluchaetsya-zakryt-zakaz-naryad-otricatelnyy-rezerv)*
+
 ## Проблема
 
 Заказ-наряд не закрывается: при проведении программа выводит сообщение об ошибке *«Не удалось провести "Заказ-наряд …"!»*.
