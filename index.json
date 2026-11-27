@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:00:54+03:00",
+  "generated_at": "2026-11-27T17:10:10+03:00",
   "count": 686,
   "sections": {
     "tips": [
@@ -821,7 +821,7 @@
       "path": "tips/5S AUTO/CRM/Нет кнопки «Объединить процессы» в групповых действиях со сделками",
       "file": "net-knopki-obedinit-processy.md",
       "id": "net-knopki-obedinit-processy",
-      "sha": "4f6fa70d60eb3038ab5e723a77bb81b00d172ecb",
+      "sha": "6244af0d95f6b1cb90786e27497aa186a602f69b",
       "title": "Нет кнопки «Объединить процессы» в групповых действиях со сделками",
       "type": "tips",
       "order": 0,
